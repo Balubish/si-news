@@ -1,13 +1,9 @@
 name: SI News Autonomous Engine
-- name: Fetch News with Gemini
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: 'gemini-3.8-flash'
-        run: python fetch_news.py
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 */6 * * *' # Körs automatiskt var 6:e timme
 
 jobs:
   update-news:
@@ -25,19 +21,18 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install google-genai
+          pip install google-genai feedparser
 
       - name: Fetch News with Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: 'gemini-3.8-flash'
         run: python fetch_news.py
 
       - name: Commit and Push
-      schedule:
-  - cron: '0 6,12,18 * * *'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff-index --quiet HEAD || git commit -m "Auto-update news"
+          git diff-index --quiet HEAD || git commit -m "Auto-update RSS news feed"
           git push
