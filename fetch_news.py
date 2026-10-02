@@ -30,9 +30,9 @@ def fetch_rss_data():
     return raw_articles
 
 def generate_with_retry_and_fallback(client, prompt, primary_model):
-    # Modeller att prova i ordning om servrarna nekar
-    models_to_try = [primary_model, "gemini-2.5-flash", "gemini-1.5-flash"]
-    # Ta bort eventuella dubbletter
+    # Lista på giltiga och aktuella modeller att prova i ordning
+    models_to_try = [primary_model, "gemini-2.5-flash", "gemini-2.0-flash", "gemini-2.5-pro"]
+    # Ta bort dubbletter
     models_to_try = list(dict.fromkeys(models_to_try))
 
     for model in models_to_try:
@@ -45,12 +45,20 @@ def generate_with_retry_and_fallback(client, prompt, primary_model):
                     model=model,
                     contents=prompt
                 )
-            except (ServerError, APIError) as e:
-                wait_time = (attempt + 1) * 15  # Väntar 15s, sedan 30s, sedan 45s
-                print(f"  Tillfälligt fel ({e}). Väntar {wait_time}s...")
+            except ServerError as e:
+                # 503 / Överbelastning - vänta och försök igen
+                wait_time = (attempt + 1) * 15
+                print(f"  Serverbelastning hos Google ({e}). Väntar {wait_time}s...")
                 time.sleep(wait_time)
+            except APIError as e:
+                # Om modellen inte finns (404) eller liknande - hoppa direkt till nästa modell
+                print(f"  API-fel för {model}: {e}. Hoppar vidare till nästa modell...")
+                break
+            except Exception as e:
+                print(f"  Oväntat fel för {model}: {e}. Hoppar vidare...")
+                break
 
-    raise RuntimeError("Alla modeller och återförsök misslyckades på grund av hög belastning.")
+    raise RuntimeError("Alla modeller och återförsök misslyckades.")
 
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
