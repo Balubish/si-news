@@ -83,12 +83,12 @@
       color: var(--text-muted);
     }
 
-    /* TOP WIDGET BAR (VÄDER + BÖRS) */
+    /* WIDGET BAR */
     .widget-bar {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
       gap: 1rem;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.2rem;
     }
 
     .widget-card {
@@ -102,14 +102,8 @@
       transition: border-color 0.2s ease, transform 0.1s ease;
     }
 
-    .widget-card.clickable {
-      cursor: pointer;
-    }
-
-    .widget-card.clickable:hover {
-      border-color: var(--accent);
-      transform: translateY(-2px);
-    }
+    .widget-card.clickable { cursor: pointer; }
+    .widget-card.clickable:hover { border-color: var(--accent); transform: translateY(-2px); }
 
     .widget-title {
       font-size: 0.75rem;
@@ -128,35 +122,66 @@
       gap: 0.5rem;
     }
 
-    .market-tickers {
-      display: flex;
-      gap: 1rem;
-    }
-
-    .ticker-item {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .ticker-symbol {
-      font-size: 0.75rem;
-      color: var(--text-muted);
-    }
-
-    .ticker-price {
-      font-size: 0.95rem;
-      font-weight: 700;
-    }
+    .market-tickers { display: flex; gap: 1rem; }
+    .ticker-item { display: flex; flex-direction: column; }
+    .ticker-symbol { font-size: 0.75rem; color: var(--text-muted); }
+    .ticker-price { font-size: 0.95rem; font-weight: 700; }
 
     .up { color: var(--accent); }
     .down { color: var(--red); }
 
-    /* TABS */
-    .nav-tabs {
-      display: flex;
-      gap: 0.8rem;
+    /* EXECUTIVE BRIEFING BOX */
+    .briefing-card {
+      background: rgba(16, 185, 129, 0.05);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      border-radius: 12px;
+      padding: 1.2rem 1.5rem;
       margin-bottom: 1.5rem;
     }
+
+    .briefing-title {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 0.8rem;
+    }
+
+    .briefing-list {
+      list-style-type: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .briefing-list li {
+      font-size: 0.93rem;
+      color: var(--text-main);
+      line-height: 1.4;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .briefing-list li::before {
+      content: "•";
+      color: var(--accent);
+      font-weight: bold;
+    }
+
+    /* CONTROLS BAR (TABS + SÖK) */
+    .controls-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .nav-tabs { display: flex; gap: 0.6rem; }
 
     .tab-btn {
       background: var(--card-bg);
@@ -166,18 +191,51 @@
       border-radius: 8px;
       cursor: pointer;
       font-weight: 600;
-      font-size: 0.9rem;
+      font-size: 0.88rem;
       transition: all 0.2s ease;
     }
 
     .tab-btn:hover { color: var(--text-main); border-color: var(--accent); }
-    .tab-btn.active {
-      background: var(--accent);
-      color: #000;
-      border-color: var(--accent);
+    .tab-btn.active { background: var(--accent); color: #000; border-color: var(--accent); }
+
+    .search-box {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: var(--text-main);
+      padding: 0.55rem 1rem;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      outline: none;
+      width: 240px;
+      transition: border-color 0.2s ease;
     }
 
-    /* NEWS GRID & CARDS */
+    .search-box:focus { border-color: var(--accent); }
+
+    /* CATEGORY CHIPS */
+    .category-bar {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+
+    .chip-btn {
+      background: transparent;
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+      padding: 0.35rem 0.8rem;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .chip-btn:hover { color: var(--text-main); border-color: var(--accent); }
+    .chip-btn.active { background: var(--card-bg); color: var(--accent); border-color: var(--accent); }
+
+    /* NEWS GRID */
     .news-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -226,87 +284,52 @@
       color: var(--text-muted);
     }
 
-    .card-link {
-      color: var(--accent);
-      text-decoration: none;
-      font-weight: 600;
-    }
-
-    .card-link:hover { text-decoration: underline; }
-
-    .loading {
-      text-align: center;
-      color: var(--text-muted);
-      grid-column: 1 / -1;
-      padding: 3rem 0;
-    }
-
-    /* MODAL FÖR BÖRSÖVERSIKT */
-    .modal-overlay {
-      position: fixed;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(0, 0, 0, 0.8);
-      display: none;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-      padding: 1rem;
-    }
-
-    .modal-content {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 1.8rem;
-      max-width: 600px;
-      width: 100%;
-      box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5);
-    }
-
-    .modal-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 1.2rem;
-      border-bottom: 1px solid var(--border);
-      padding-bottom: 0.8rem;
-    }
-
-    .modal-close {
+    .tts-btn {
       background: none;
       border: none;
       color: var(--text-muted);
-      font-size: 1.5rem;
       cursor: pointer;
+      font-size: 0.85rem;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
     }
 
-    .modal-close:hover { color: var(--text-main); }
+    .tts-btn:hover { color: var(--accent); background: rgba(16, 185, 129, 0.1); }
 
-    .market-table {
-      width: 100%;
-      border-collapse: collapse;
-      text-align: left;
+    .card-link { color: var(--accent); text-decoration: none; font-weight: 600; }
+    .card-link:hover { text-decoration: underline; }
+
+    .loading { text-align: center; color: var(--text-muted); grid-column: 1 / -1; padding: 3rem 0; }
+
+    /* MODAL */
+    .modal-overlay {
+      position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.8); display: none;
+      justify-content: center; align-items: center; z-index: 1000; padding: 1rem;
     }
 
-    .market-table th, .market-table td {
-      padding: 0.75rem 0.5rem;
-      border-bottom: 1px solid var(--border);
-      font-size: 0.95rem;
+    .modal-content {
+      background: var(--card-bg); border: 1px solid var(--border);
+      border-radius: 14px; padding: 1.8rem; max-width: 600px; width: 100%;
     }
 
-    .market-table th {
-      color: var(--text-muted);
-      font-size: 0.8rem;
-      text-transform: uppercase;
+    .modal-header {
+      display: flex; justify-content: space-between; align-items: center;
+      margin-bottom: 1.2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.8rem;
     }
+
+    .modal-close { background: none; border: none; color: var(--text-muted); font-size: 1.5rem; cursor: pointer; }
+
+    .market-table { width: 100%; border-collapse: collapse; text-align: left; }
+    .market-table th, .market-table td { padding: 0.75rem 0.5rem; border-bottom: 1px solid var(--border); font-size: 0.95rem; }
+    .market-table th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; }
 
     footer {
-      margin-top: 3rem;
-      padding-top: 1.2rem;
-      border-top: 1px solid var(--border);
-      text-align: center;
-      font-size: 0.85rem;
-      color: var(--text-muted);
+      margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--border);
+      text-align: center; font-size: 0.85rem; color: var(--text-muted);
     }
   </style>
 </head>
@@ -323,9 +346,8 @@
     </div>
   </header>
 
-  <!-- WIDGET BAR: LOKALT VÄDER + BÖRS -->
+  <!-- WIDGET BAR -->
   <div class="widget-bar">
-    <!-- VÄDER-WIDGET -->
     <div class="widget-card" id="weather-card">
       <div>
         <div class="widget-title">Lokalt Väder</div>
@@ -334,39 +356,49 @@
       <div style="font-size: 2rem;" id="weather-icon">🌤️</div>
     </div>
 
-    <!-- BÖRS-WIDGET (KLICKBAR) -->
     <div class="widget-card clickable" onclick="openMarketModal()">
       <div>
         <div class="widget-title">Marknadsöversikt (Klicka för mer)</div>
-        <div class="market-tickers" id="ticker-overview">
-          <div class="ticker-item">
-            <span class="ticker-symbol">OMXS30</span>
-            <span class="ticker-price up" id="omx-val">Laddar...</span>
-          </div>
-          <div class="ticker-item">
-            <span class="ticker-symbol">S&P 500</span>
-            <span class="ticker-price up" id="sp-val">Laddar...</span>
-          </div>
-          <div class="ticker-item">
-            <span class="ticker-symbol">Bitcoin</span>
-            <span class="ticker-price up" id="btc-val">Laddar...</span>
-          </div>
+        <div class="market-tickers">
+          <div class="ticker-item"><span class="ticker-symbol">OMXS30</span><span class="ticker-price up" id="omx-val">+0.5%</span></div>
+          <div class="ticker-item"><span class="ticker-symbol">S&P 500</span><span class="ticker-price up" id="sp-val">+0.3%</span></div>
+          <div class="ticker-item"><span class="ticker-symbol">Bitcoin</span><span class="ticker-price up" id="btc-val">Laddar...</span></div>
         </div>
       </div>
       <div style="color: var(--accent); font-size: 1.2rem;">📊 &rarr;</div>
     </div>
   </div>
 
-  <div class="nav-tabs">
-    <button class="tab-btn active" id="tab-today" onclick="switchTab('today')">Dagens Topp 20</button>
-    <button class="tab-btn" id="tab-archive" onclick="switchTab('archive')">Historik</button>
+  <!-- EXECUTIVE BRIEFING BOX -->
+  <div class="briefing-card" id="briefing-container" style="display: none;">
+    <div class="briefing-title">⚡ DAGENS 3 VIKTIGASTE INSIKTER (AI BRIEF)</div>
+    <ul class="briefing-list" id="briefing-list"></ul>
+  </div>
+
+  <!-- CONTROLS BAR -->
+  <div class="controls-bar">
+    <div class="nav-tabs">
+      <button class="tab-btn active" id="tab-today" onclick="switchTab('today')">Dagens Topp 20</button>
+      <button class="tab-btn" id="tab-archive" onclick="switchTab('archive')">Historik</button>
+    </div>
+    <input type="text" class="search-box" id="search-input" placeholder="🔍 Sök i nyheterna..." oninput="onSearchInput(this.value)">
+  </div>
+
+  <!-- CATEGORY CHIPS -->
+  <div class="category-bar" id="category-bar">
+    <button class="chip-btn active" onclick="filterCategory('Alla', this)">Alla</button>
+    <button class="chip-btn" onclick="filterCategory('Sverige', this)">Sverige</button>
+    <button class="chip-btn" onclick="filterCategory('Världen', this)">Världen</button>
+    <button class="chip-btn" onclick="filterCategory('Ekonomi', this)">Ekonomi</button>
+    <button class="chip-btn" onclick="filterCategory('Teknik', this)">Teknik</button>
+    <button class="chip-btn" onclick="filterCategory('Kultur', this)">Kultur</button>
   </div>
 
   <main class="news-grid" id="news-container">
     <div class="loading">Hämtar nyheter...</div>
   </main>
 
-  <!-- MODAL FÖR BÖRSÖVERSIKT -->
+  <!-- MODAL -->
   <div class="modal-overlay" id="market-modal" onclick="closeMarketModal(event)">
     <div class="modal-content" onclick="event.stopPropagation()">
       <div class="modal-header">
@@ -375,19 +407,15 @@
       </div>
       <table class="market-table">
         <thead>
-          <tr>
-            <th>Index / Tillgång</th>
-            <th>Senaste</th>
-            <th>Status</th>
-          </tr>
+          <tr><th>Index / Tillgång</th><th>Senaste</th><th>Status</th></tr>
         </thead>
-        <tbody id="market-modal-body">
-          <tr><td>OMXS30 (Sverige)</td><td id="m-omx">2,580.40</td><td class="up">+0.45%</td></tr>
-          <tr><td>S&P 500 (USA)</td><td id="m-sp">5,750.20</td><td class="up">+0.30%</td></tr>
-          <tr><td>Nasdaq Composite</td><td id="m-nasdaq">18,100.15</td><td class="up">+0.62%</td></tr>
-          <tr><td>Bitcoin (USD)</td><td id="m-btc">$64,500</td><td class="up">+2.10%</td></tr>
-          <tr><td>Guld (USD/oz)</td><td id="m-gold">$2,650</td><td class="down">-0.15%</td></tr>
-          <tr><td>USD / SEK</td><td id="m-usd">10.25 SEK</td><td class="down">-0.08%</td></tr>
+        <tbody>
+          <tr><td>OMXS30 (Sverige)</td><td>2,580.40</td><td class="up">+0.45%</td></tr>
+          <tr><td>S&P 500 (USA)</td><td>5,750.20</td><td class="up">+0.30%</td></tr>
+          <tr><td>Nasdaq Composite</td><td>18,100.15</td><td class="up">+0.62%</td></tr>
+          <tr><td>Bitcoin (USD)</td><td id="m-btc">$86,300</td><td class="up">+2.10%</td></tr>
+          <tr><td>Guld (USD/oz)</td><td>$2,650</td><td class="down">-0.15%</td></tr>
+          <tr><td>USD / SEK</td><td>10.25 SEK</td><td class="down">-0.08%</td></tr>
         </tbody>
       </table>
     </div>
@@ -399,134 +427,137 @@
 
   <script>
     let currentTab = 'today';
+    let rawArticles = [];
+    let selectedCategory = 'Alla';
+    let searchQuery = '';
 
-    // 1. HÄMTA LOKALT VÄDER (Open-Meteo API)
+    // VÄDER
     function fetchWeather() {
-      const weatherText = document.getElementById('weather-text');
-      const weatherIcon = document.getElementById('weather-icon');
-
       if ("geolocation" in navigator) {
         navigator.geolocation.getCurrentPosition(async (pos) => {
-          const lat = pos.coords.latitude;
-          const lon = pos.coords.longitude;
           try {
-            const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`);
+            const res = await fetch(`[https://api.open-meteo.com/v1/forecast?latitude=$](https://api.open-meteo.com/v1/forecast?latitude=$){pos.coords.latitude}&longitude=${pos.coords.longitude}&current_weather=true`);
             const data = await res.json();
             const temp = Math.round(data.current_weather.temperature);
-            const code = data.current_weather.weathercode;
-            
-            let icon = '🌤️';
-            if (code === 0) icon = '☀️';
-            else if (code >= 1 && code <= 3) icon = '⛅';
-            else if (code >= 45 && code <= 48) icon = '🌫️';
-            else if (code >= 51 && code <= 67) icon = '🌧️';
-            else if (code >= 71) icon = '❄️';
-
-            weatherText.textContent = `${temp}°C (Min plats)`;
-            weatherIcon.textContent = icon;
-          } catch (e) {
-            weatherText.textContent = "15°C (Sverige)";
-          }
-        }, () => {
-          // Standard om användaren nekar platstjänster
-          fetchDefaultWeather();
-        });
-      } else {
-        fetchDefaultWeather();
-      }
+            document.getElementById('weather-text').textContent = `${temp}°C (Min plats)`;
+          } catch (e) { fetchDefaultWeather(); }
+        }, fetchDefaultWeather);
+      } else { fetchDefaultWeather(); }
     }
 
     async function fetchDefaultWeather() {
-      const weatherText = document.getElementById('weather-text');
       try {
-        const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=58.59&longitude=16.18&current_weather=true`);
+        const res = await fetch(`[https://api.open-meteo.com/v1/forecast?latitude=58.59&longitude=16.18&current_weather=true](https://api.open-meteo.com/v1/forecast?latitude=58.59&longitude=16.18&current_weather=true)`);
         const data = await res.json();
-        const temp = Math.round(data.current_weather.temperature);
-        weatherText.textContent = `${temp}°C (Norrköping)`;
-      } catch (e) {
-        weatherText.textContent = "15°C";
-      }
+        document.getElementById('weather-text').textContent = `${Math.round(data.current_weather.temperature)}°C (Norrköping)`;
+      } catch (e) { document.getElementById('weather-text').textContent = "15°C"; }
     }
 
-    // 2. BÖRSSIFFROR & LIVE KRYPTO-DATA
+    // BÖRS
     async function fetchMarketData() {
       try {
-        // Hämtar live Bitcoin pris från gratis CoinGecko API
-        const btcRes = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true');
-        const btcData = await btcRes.json();
-        if (btcData.bitcoin) {
-          const price = Math.round(btcData.bitcoin.usd);
-          const change = btcData.bitcoin.usd_24h_change.toFixed(1);
-          const sign = change >= 0 ? '+' : '';
-          const cssClass = change >= 0 ? 'up' : 'down';
-          
+        const res = await fetch('[https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd](https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd)');
+        const data = await res.json();
+        if (data.bitcoin) {
+          const price = Math.round(data.bitcoin.usd);
           document.getElementById('btc-val').textContent = `$${price.toLocaleString()}`;
-          document.getElementById('btc-val').className = `ticker-price ${cssClass}`;
-          document.getElementById('m-btc').textContent = `$${price.toLocaleString()} (${sign}${change}%)`;
+          document.getElementById('m-btc').textContent = `$${price.toLocaleString()}`;
         }
-      } catch (e) {
-        document.getElementById('btc-val').textContent = "$64,500";
+      } catch (e) {}
+    }
+
+    function openMarketModal() { document.getElementById('market-modal').style.display = 'flex'; }
+    function closeMarketModal() { document.getElementById('market-modal').style.display = 'none'; }
+
+    // TALSYNTES (TTS)
+    function speakText(text, btn) {
+      if (!('speechSynthesis' in window)) {
+        alert('Talsyntes stöds inte i din webbläsare.');
+        return;
       }
-
-      // Sätter standard-indikatorer för index
-      document.getElementById('omx-val').textContent = "+0.5%";
-      document.getElementById('sp-val').textContent = "+0.3%";
+      if (window.speechSynthesis.speaking) {
+        window.speechSynthesis.cancel();
+        btn.textContent = '🔊 Läs upp';
+        return;
+      }
+      const utter = new SpeechSynthesisUtterance(text);
+      utter.lang = 'sv-SE';
+      utter.onend = () => { btn.textContent = '🔊 Läs upp'; };
+      btn.textContent = '⏸️ Stoppa';
+      window.speechSynthesis.speak(utter);
     }
 
-    // MODAL HANDLERS
-    function openMarketModal() {
-      document.getElementById('market-modal').style.display = 'flex';
-    }
-
-    function closeMarketModal(e) {
-      document.getElementById('market-modal').style.display = 'none';
-    }
-
-    // 3. HÄMTA NYHETER
+    // LOAD & FILTER NEWS
     async function loadNews(tab) {
       const container = document.getElementById('news-container');
       const timeDisplay = document.getElementById('updated-time');
-      container.innerHTML = '<div class="loading">Hämtar nyheter...</div>';
+      const briefingContainer = document.getElementById('briefing-container');
+      const briefingList = document.getElementById('briefing-list');
 
+      container.innerHTML = '<div class="loading">Hämtar nyheter...</div>';
       const endpoint = tab === 'today' ? 'news.json' : 'archive.json';
 
       try {
         const response = await fetch(`./${endpoint}?t=${new Date().getTime()}`);
-        if (!response.ok) throw new Error('Kunde inte ladda data');
+        if (!response.ok) throw new Error('Fel vid hämtning');
         
         const data = await response.json();
         timeDisplay.textContent = `Senast uppdaterad: ${data.updated_at || 'Okänt'}`;
-        
-        container.innerHTML = '';
+        rawArticles = data.articles || [];
 
-        if (!data.articles || data.articles.length === 0) {
-          container.innerHTML = '<div class="loading">Inga nyheter tillgängliga ännu.</div>';
-          return;
+        // Visar AI Briefing enbart på dagens flik om den finns
+        if (tab === 'today' && data.executive_briefing && data.executive_briefing.length > 0) {
+          briefingList.innerHTML = data.executive_briefing.map(point => `<li>${point}</li>`).join('');
+          briefingContainer.style.display = 'block';
+        } else {
+          briefingContainer.style.display = 'none';
         }
 
-        data.articles.forEach(article => {
-          const card = document.createElement('article');
-          card.className = 'card';
-          card.innerHTML = `
-            <div>
-              <div class="card-meta">
-                <span>${article.category || 'Allmänt'}</span>
-                <span>${article.source || ''}</span>
-              </div>
-              <h2 class="card-title">${article.title}</h2>
-              <p class="card-summary">${article.summary}</p>
-            </div>
-            <div class="card-footer">
-              <span>${article.date || 'Idag'}</span>
-              <a href="${article.url}" target="_blank" class="card-link">Läs artikel &rarr;</a>
-            </div>
-          `;
-          container.appendChild(card);
-        });
-
+        renderFilteredArticles();
       } catch (err) {
-        container.innerHTML = `<div class="loading">Fel vid inläsning av ${tab === 'today' ? 'dagens nyheter' : 'historik'}.</div>`;
+        container.innerHTML = `<div class="loading">Kunde inte läsa in nyheter. Kör en manuell Run Workflow i Actions om arkiv saknas.</div>`;
       }
+    }
+
+    function renderFilteredArticles() {
+      const container = document.getElementById('news-container');
+      container.innerHTML = '';
+
+      const filtered = rawArticles.filter(art => {
+        const matchesCategory = selectedCategory === 'Alla' || (art.category && art.category.toLowerCase() === selectedCategory.toLowerCase());
+        const query = searchQuery.toLowerCase();
+        const matchesSearch = !query || 
+          (art.title && art.title.toLowerCase().includes(query)) || 
+          (art.summary && art.summary.toLowerCase().includes(query)) ||
+          (art.source && art.source.toLowerCase().includes(query));
+        return matchesCategory && matchesSearch;
+      });
+
+      if (filtered.length === 0) {
+        container.innerHTML = '<div class="loading">Inga nyheter matchar din sökning eller ditt filter.</div>';
+        return;
+      }
+
+      filtered.forEach(article => {
+        const card = document.createElement('article');
+        card.className = 'card';
+        const speakContent = `${article.title}. ${article.summary}`;
+        card.innerHTML = `
+          <div>
+            <div class="card-meta">
+              <span>${article.category || 'Allmänt'}</span>
+              <span>${article.source || ''}</span>
+            </div>
+            <h2 class="card-title">${article.title}</h2>
+            <p class="card-summary">${article.summary}</p>
+          </div>
+          <div class="card-footer">
+            <button class="tts-btn" onclick="speakText('${speakContent.replace(/'/g, "\\'")}', this)">🔊 Läs upp</button>
+            <a href="${article.url}" target="_blank" class="card-link">Läs artikel &rarr;</a>
+          </div>
+        `;
+        container.appendChild(card);
+      });
     }
 
     function switchTab(tab) {
@@ -536,7 +567,18 @@
       loadNews(tab);
     }
 
-    // STARTA ALLT
+    function filterCategory(cat, btn) {
+      selectedCategory = cat;
+      document.querySelectorAll('.chip-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderFilteredArticles();
+    }
+
+    function onSearchInput(val) {
+      searchQuery = val;
+      renderFilteredArticles();
+    }
+
     fetchWeather();
     fetchMarketData();
     loadNews('today');
