@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SI News - Autonom Nyhetsportal</title>
+  <title>SI News - Super Intelligence News</title>
   <style>
     :root {
       --bg-color: #0b0f19;
@@ -24,21 +24,62 @@
       padding: 2rem 1rem;
       max-width: 1200px;
       margin: 0 auto;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
     }
 
     header {
       display: flex;
       justify-content: space-between;
-      align-items: center;
+      align-items: flex-start;
       margin-bottom: 1.5rem;
       border-bottom: 1px solid var(--border);
-      padding-bottom: 1rem;
+      padding-bottom: 1.2rem;
       flex-wrap: wrap;
       gap: 1rem;
     }
 
-    .brand { font-size: 1.5rem; font-weight: 700; color: var(--accent); }
-    .last-updated { font-size: 0.85rem; color: var(--text-muted); }
+    .brand-container {
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+
+    .brand {
+      font-size: 1.8rem;
+      font-weight: 800;
+      color: var(--accent);
+      letter-spacing: -0.5px;
+    }
+
+    .subtitle {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .header-right {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.4rem;
+    }
+
+    .credits-badge {
+      font-size: 0.8rem;
+      color: var(--accent);
+      background: rgba(16, 185, 129, 0.1);
+      padding: 0.25rem 0.6rem;
+      border-radius: 20px;
+      border: 1px solid rgba(16, 185, 129, 0.25);
+      font-weight: 600;
+    }
+
+    .last-updated {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
 
     .nav-tabs {
       display: flex;
@@ -68,6 +109,7 @@
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
       gap: 1.5rem;
+      flex-grow: 1;
     }
 
     .card {
@@ -125,13 +167,28 @@
       grid-column: 1 / -1;
       padding: 3rem 0;
     }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
   </style>
 </head>
 <body>
 
   <header>
-    <div class="brand">🟢 SI NEWS</div>
-    <div class="last-updated" id="updated-time">Laddar...</div>
+    <div class="brand-container">
+      <div class="brand">🟢 SI NEWS</div>
+      <div class="subtitle">Super Intelligence News — Autonomous News Feed</div>
+    </div>
+    <div class="header-right">
+      <div class="credits-badge">Skapat av Balubish & Gemini</div>
+      <div class="last-updated" id="updated-time">Laddar...</div>
+    </div>
   </header>
 
   <div class="nav-tabs">
@@ -142,6 +199,10 @@
   <main class="news-grid" id="news-container">
     <div class="loading">Hämtar nyheter...</div>
   </main>
+
+  <footer>
+    <p>SI News — Skapat av Balubish & Gemini | Autonomt kuraterad nyhetstjänst</p>
+  </footer>
 
   <script>
     let currentTab = 'today';
@@ -188,7 +249,7 @@
         });
 
       } catch (err) {
-        container.innerHTML = `<div class="loading">Fel vid inläsning av ${tab === 'today' ? 'dagens nyheter' : 'historik'}. Kör en uppdatering i Actions om arkivet saknas.</div>`;
+        container.innerHTML = `<div class="loading">Fel vid inläsning av ${tab === 'today' ? 'dagens nyheter' : 'historik'}.</div>`;
       }
     }
 
@@ -199,7 +260,6 @@
       loadNews(tab);
     }
 
-    // Ladda Dagens Topp 20 som standard
     loadNews('today');
   </script>
 </body>
