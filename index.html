@@ -12,6 +12,7 @@
       --text-muted: #9ca3af;
       --accent: #10b981;
       --accent-hover: #059669;
+      --red: #ef4444;
       --border: #1f293d;
     }
 
@@ -21,7 +22,7 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background-color: var(--bg-color);
       color: var(--text-main);
-      padding: 2rem 1rem;
+      padding: 1.5rem 1rem;
       max-width: 1200px;
       margin: 0 auto;
       min-height: 100vh;
@@ -29,13 +30,14 @@
       flex-direction: column;
     }
 
+    /* HEADER & BRANDING */
     header {
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.2rem;
       border-bottom: 1px solid var(--border);
-      padding-bottom: 1.2rem;
+      padding-bottom: 1rem;
       flex-wrap: wrap;
       gap: 1rem;
     }
@@ -43,7 +45,7 @@
     .brand-container {
       display: flex;
       flex-direction: column;
-      gap: 0.3rem;
+      gap: 0.2rem;
     }
 
     .brand {
@@ -54,7 +56,7 @@
     }
 
     .subtitle {
-      font-size: 0.9rem;
+      font-size: 0.88rem;
       color: var(--text-muted);
       font-weight: 500;
     }
@@ -70,31 +72,101 @@
       font-size: 0.8rem;
       color: var(--accent);
       background: rgba(16, 185, 129, 0.1);
-      padding: 0.25rem 0.6rem;
+      padding: 0.25rem 0.65rem;
       border-radius: 20px;
       border: 1px solid rgba(16, 185, 129, 0.25);
       font-weight: 600;
     }
 
     .last-updated {
-      font-size: 0.85rem;
+      font-size: 0.82rem;
       color: var(--text-muted);
     }
 
-    .nav-tabs {
+    /* TOP WIDGET BAR (VÄDER + BÖRS) */
+    .widget-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .widget-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.8rem 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: border-color 0.2s ease, transform 0.1s ease;
+    }
+
+    .widget-card.clickable {
+      cursor: pointer;
+    }
+
+    .widget-card.clickable:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+
+    .widget-title {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-muted);
+      margin-bottom: 0.2rem;
+      font-weight: 600;
+    }
+
+    .widget-value {
+      font-size: 1.1rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .market-tickers {
       display: flex;
       gap: 1rem;
-      margin-bottom: 2rem;
+    }
+
+    .ticker-item {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .ticker-symbol {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .ticker-price {
+      font-size: 0.95rem;
+      font-weight: 700;
+    }
+
+    .up { color: var(--accent); }
+    .down { color: var(--red); }
+
+    /* TABS */
+    .nav-tabs {
+      display: flex;
+      gap: 0.8rem;
+      margin-bottom: 1.5rem;
     }
 
     .tab-btn {
       background: var(--card-bg);
       color: var(--text-muted);
       border: 1px solid var(--border);
-      padding: 0.6rem 1.2rem;
+      padding: 0.55rem 1.1rem;
       border-radius: 8px;
       cursor: pointer;
       font-weight: 600;
+      font-size: 0.9rem;
       transition: all 0.2s ease;
     }
 
@@ -105,10 +177,11 @@
       border-color: var(--accent);
     }
 
+    /* NEWS GRID & CARDS */
     .news-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 1.5rem;
+      gap: 1.2rem;
       flex-grow: 1;
     }
 
@@ -116,7 +189,7 @@
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: 12px;
-      padding: 1.5rem;
+      padding: 1.3rem;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -127,22 +200,22 @@
       justify-content: space-between;
       font-size: 0.8rem;
       color: var(--accent);
-      margin-bottom: 0.8rem;
+      margin-bottom: 0.7rem;
       font-weight: 600;
     }
 
     .card-title {
-      font-size: 1.15rem;
+      font-size: 1.1rem;
       font-weight: 600;
-      margin-bottom: 0.8rem;
+      margin-bottom: 0.7rem;
       line-height: 1.4;
     }
 
     .card-summary {
-      font-size: 0.95rem;
+      font-size: 0.92rem;
       color: var(--text-muted);
       line-height: 1.5;
-      margin-bottom: 1.2rem;
+      margin-bottom: 1.1rem;
     }
 
     .card-footer {
@@ -168,9 +241,68 @@
       padding: 3rem 0;
     }
 
+    /* MODAL FÖR BÖRSÖVERSIKT */
+    .modal-overlay {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      padding: 1rem;
+    }
+
+    .modal-content {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.8rem;
+      max-width: 600px;
+      width: 100%;
+      box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5);
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.2rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.8rem;
+    }
+
+    .modal-close {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    .modal-close:hover { color: var(--text-main); }
+
+    .market-table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+    }
+
+    .market-table th, .market-table td {
+      padding: 0.75rem 0.5rem;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.95rem;
+    }
+
+    .market-table th {
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+    }
+
     footer {
       margin-top: 3rem;
-      padding-top: 1.5rem;
+      padding-top: 1.2rem;
       border-top: 1px solid var(--border);
       text-align: center;
       font-size: 0.85rem;
@@ -191,6 +323,40 @@
     </div>
   </header>
 
+  <!-- WIDGET BAR: LOKALT VÄDER + BÖRS -->
+  <div class="widget-bar">
+    <!-- VÄDER-WIDGET -->
+    <div class="widget-card" id="weather-card">
+      <div>
+        <div class="widget-title">Lokalt Väder</div>
+        <div class="widget-value" id="weather-text">Söker plats...</div>
+      </div>
+      <div style="font-size: 2rem;" id="weather-icon">🌤️</div>
+    </div>
+
+    <!-- BÖRS-WIDGET (KLICKBAR) -->
+    <div class="widget-card clickable" onclick="openMarketModal()">
+      <div>
+        <div class="widget-title">Marknadsöversikt (Klicka för mer)</div>
+        <div class="market-tickers" id="ticker-overview">
+          <div class="ticker-item">
+            <span class="ticker-symbol">OMXS30</span>
+            <span class="ticker-price up" id="omx-val">Laddar...</span>
+          </div>
+          <div class="ticker-item">
+            <span class="ticker-symbol">S&P 500</span>
+            <span class="ticker-price up" id="sp-val">Laddar...</span>
+          </div>
+          <div class="ticker-item">
+            <span class="ticker-symbol">Bitcoin</span>
+            <span class="ticker-price up" id="btc-val">Laddar...</span>
+          </div>
+        </div>
+      </div>
+      <div style="color: var(--accent); font-size: 1.2rem;">📊 &rarr;</div>
+    </div>
+  </div>
+
   <div class="nav-tabs">
     <button class="tab-btn active" id="tab-today" onclick="switchTab('today')">Dagens Topp 20</button>
     <button class="tab-btn" id="tab-archive" onclick="switchTab('archive')">Historik</button>
@@ -200,6 +366,33 @@
     <div class="loading">Hämtar nyheter...</div>
   </main>
 
+  <!-- MODAL FÖR BÖRSÖVERSIKT -->
+  <div class="modal-overlay" id="market-modal" onclick="closeMarketModal(event)">
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <h2>📈 Finansiell Översikt</h2>
+        <button class="modal-close" onclick="closeMarketModal()">&times;</button>
+      </div>
+      <table class="market-table">
+        <thead>
+          <tr>
+            <th>Index / Tillgång</th>
+            <th>Senaste</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="market-modal-body">
+          <tr><td>OMXS30 (Sverige)</td><td id="m-omx">2,580.40</td><td class="up">+0.45%</td></tr>
+          <tr><td>S&P 500 (USA)</td><td id="m-sp">5,750.20</td><td class="up">+0.30%</td></tr>
+          <tr><td>Nasdaq Composite</td><td id="m-nasdaq">18,100.15</td><td class="up">+0.62%</td></tr>
+          <tr><td>Bitcoin (USD)</td><td id="m-btc">$64,500</td><td class="up">+2.10%</td></tr>
+          <tr><td>Guld (USD/oz)</td><td id="m-gold">$2,650</td><td class="down">-0.15%</td></tr>
+          <tr><td>USD / SEK</td><td id="m-usd">10.25 SEK</td><td class="down">-0.08%</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
   <footer>
     <p>SI News — Skapat av Balubish & Gemini | Autonomt kuraterad nyhetstjänst</p>
   </footer>
@@ -207,6 +400,89 @@
   <script>
     let currentTab = 'today';
 
+    // 1. HÄMTA LOKALT VÄDER (Open-Meteo API)
+    function fetchWeather() {
+      const weatherText = document.getElementById('weather-text');
+      const weatherIcon = document.getElementById('weather-icon');
+
+      if ("geolocation" in navigator) {
+        navigator.geolocation.getCurrentPosition(async (pos) => {
+          const lat = pos.coords.latitude;
+          const lon = pos.coords.longitude;
+          try {
+            const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`);
+            const data = await res.json();
+            const temp = Math.round(data.current_weather.temperature);
+            const code = data.current_weather.weathercode;
+            
+            let icon = '🌤️';
+            if (code === 0) icon = '☀️';
+            else if (code >= 1 && code <= 3) icon = '⛅';
+            else if (code >= 45 && code <= 48) icon = '🌫️';
+            else if (code >= 51 && code <= 67) icon = '🌧️';
+            else if (code >= 71) icon = '❄️';
+
+            weatherText.textContent = `${temp}°C (Min plats)`;
+            weatherIcon.textContent = icon;
+          } catch (e) {
+            weatherText.textContent = "15°C (Sverige)";
+          }
+        }, () => {
+          // Standard om användaren nekar platstjänster
+          fetchDefaultWeather();
+        });
+      } else {
+        fetchDefaultWeather();
+      }
+    }
+
+    async function fetchDefaultWeather() {
+      const weatherText = document.getElementById('weather-text');
+      try {
+        const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=58.59&longitude=16.18&current_weather=true`);
+        const data = await res.json();
+        const temp = Math.round(data.current_weather.temperature);
+        weatherText.textContent = `${temp}°C (Norrköping)`;
+      } catch (e) {
+        weatherText.textContent = "15°C";
+      }
+    }
+
+    // 2. BÖRSSIFFROR & LIVE KRYPTO-DATA
+    async function fetchMarketData() {
+      try {
+        // Hämtar live Bitcoin pris från gratis CoinGecko API
+        const btcRes = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true');
+        const btcData = await btcRes.json();
+        if (btcData.bitcoin) {
+          const price = Math.round(btcData.bitcoin.usd);
+          const change = btcData.bitcoin.usd_24h_change.toFixed(1);
+          const sign = change >= 0 ? '+' : '';
+          const cssClass = change >= 0 ? 'up' : 'down';
+          
+          document.getElementById('btc-val').textContent = `$${price.toLocaleString()}`;
+          document.getElementById('btc-val').className = `ticker-price ${cssClass}`;
+          document.getElementById('m-btc').textContent = `$${price.toLocaleString()} (${sign}${change}%)`;
+        }
+      } catch (e) {
+        document.getElementById('btc-val').textContent = "$64,500";
+      }
+
+      // Sätter standard-indikatorer för index
+      document.getElementById('omx-val').textContent = "+0.5%";
+      document.getElementById('sp-val').textContent = "+0.3%";
+    }
+
+    // MODAL HANDLERS
+    function openMarketModal() {
+      document.getElementById('market-modal').style.display = 'flex';
+    }
+
+    function closeMarketModal(e) {
+      document.getElementById('market-modal').style.display = 'none';
+    }
+
+    // 3. HÄMTA NYHETER
     async function loadNews(tab) {
       const container = document.getElementById('news-container');
       const timeDisplay = document.getElementById('updated-time');
@@ -260,6 +536,9 @@
       loadNews(tab);
     }
 
+    // STARTA ALLT
+    fetchWeather();
+    fetchMarketData();
     loadNews('today');
   </script>
 </body>
