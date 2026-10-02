@@ -30,8 +30,15 @@ def fetch_rss_data():
     return raw_articles
 
 def generate_with_retry_and_fallback(client, prompt, primary_model):
-    # Aktuella och giltiga modeller i Google GenAI API
-    models_to_try = [primary_model, "gemini-3.1-pro-preview", "gemini-2.5-flash", "gemini-2.0-flash"]
+    # Aktuella modeller baserat på Geminis modellutbud
+    models_to_try = [
+        primary_model,
+        "gemini-3.5-flash-lite",
+        "gemini-3.5-flash",
+        "gemini-3-flash",
+        "gemini-3.1-pro-preview",
+        "gemini-2.5-flash"
+    ]
     # Ta bort dubbletter
     models_to_try = list(dict.fromkeys(models_to_try))
 
@@ -46,12 +53,10 @@ def generate_with_retry_and_fallback(client, prompt, primary_model):
                     contents=prompt
                 )
             except ServerError as e:
-                # 503 / Överbelastning - vänta längre för varje försök
-                wait_time = (attempt + 1) * 20
+                wait_time = (attempt + 1) * 15
                 print(f"  Serverbelastning hos Google ({e}). Väntar {wait_time}s...")
                 time.sleep(wait_time)
             except APIError as e:
-                # Om modellen inte finns (404) - avbryt försöken och gå direkt till nästa modell
                 print(f"  API-fel för {model}: {e}. Hoppar vidare till nästa modell...")
                 break
             except Exception as e:
@@ -62,7 +67,7 @@ def generate_with_retry_and_fallback(client, prompt, primary_model):
 
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
-    primary_model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+    primary_model = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
 
     if not api_key:
         raise ValueError("GEMINI_API_KEY saknas i miljövariablerna!")
