@@ -10,14 +10,14 @@ if not api_key:
 # Initiera Gemini-klienten med nyckeln
 client = genai.Client(api_key=api_key)
 
-# Test-anrop eller ditt vanliga nyhetsskript
+# Hämtning med uppdaterat modellnamn
 response = client.models.generate_content(
-    model="gemini-2.5-flash",
+    model="gemini-3.8-flash",
     contents="Skriv en kort sammanfattning av dagens viktigaste nyheter."
 )
 
 print(response.text)
 
-# Spara resultat till fil om det behövs
+# Spara resultat till fil
 with open("latest_news.md", "w", encoding="utf-8") as f:
     f.write(response.text)
