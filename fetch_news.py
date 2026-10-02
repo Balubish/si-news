@@ -7,7 +7,6 @@ import feedparser
 from google import genai
 from google.genai.errors import ServerError, APIError
 
-# RSS-källor (Blandat globalt, Sverige och lokalt)
 RSS_FEEDS = [
     "https://www.svt.se/nyheter/rss.xml",
     "https://sverigesradio.se/rssfeed/rssfeed.aspx?elfeed=2",
@@ -26,6 +25,7 @@ def fetch_rss_entries():
                 raw_entries.append({
                     "title": entry.get("title", ""),
                     "summary": entry.get("summary", entry.get("description", "")),
+                    "published": entry.get("published", entry.get("updated", "Idag")),
                     "link": entry.get("link", ""),
                     "source": feed_title
                 })
@@ -35,11 +35,11 @@ def fetch_rss_entries():
 
 def process_with_gemini(client, raw_entries, primary_model):
     prompt = f"""
-    Du är en professionell nyhetsredaktör. Här är en lista på dagsaktuella nyheter från olika källor:
+    Du är en professionell nyhetsredaktör. Här är en lista på nyheter från olika RSS-flöden:
     {json.dumps(raw_entries, ensure_ascii=False, indent=2)}
 
     Gör följande:
-    1. Välj ut de 20 viktigaste och mest relevanta nyheterna (både stora världshändelser och viktiga svenska/lokala nyheter).
+    1. Välj enbart ut de 20 viktigaste DAGSAKTUELLA nyheterna för dagens datum. Ignorera helt artiklar som är gamla eller föråldrade.
     2. Översätt alla titlar och sammanfattningar till klar och tydlig svenska.
     3. Ge varje artikel en passande kategori på svenska (t.ex. "Världen", "Sverige", "Ekonomi", "Teknik", "Klimat", "Kultur").
     4. Sammanfattningen ska vara 2-3 meningar lång.
@@ -106,51 +106,54 @@ def main():
     print("Hämtar nyheter från RSS...")
     raw_entries = fetch_rss_entries()
     
-    print("Bearbetar och väljer ut top 20 med Gemini...")
-    new_articles = process_with_gemini(client, raw_entries, primary_model)
+    print("Bearbetar och väljer ut dagens top 20 med Gemini...")
+    today_articles = process_with_gemini(client, raw_entries, primary_model)
     
-    # Läs in befintliga nyheter om news.json redan finns
-    existing_articles = []
-    if os.path.exists("news.json"):
-        try:
-            with open("news.json", "r", encoding="utf-8") as f:
-                old_data = json.load(f)
-                existing_articles = old_data.get("articles", [])
-        except Exception as e:
-            print(f"Kunde inte läsa befintlig news.json: {e}")
-
-    # Kombinera nya och gamla nyheter, och ta bort dubbletter baserat på URL/Länk
-    seen_urls = set()
-    combined_articles = []
-
-    # Lägg till de nyaste först
-    for article in new_articles:
-        url = article.get("url")
-        if url and url not in seen_urls:
-            seen_urls.add(url)
-            combined_articles.append(article)
-
-    # Fyll på med äldre nyheter upp till max 50 st
-    for article in existing_articles:
-        url = article.get("url")
-        if url and url not in seen_urls:
-            seen_urls.add(url)
-            combined_articles.append(article)
-
-    # Spara max 50 artiklar totalt
-    final_articles = combined_articles[:50]
-
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    
-    output_data = {
+
+    # Stämpla varje artikel med dagens datum
+    for art in today_articles:
+        art["date"] = today_str
+
+    # 1. SPARA DAGENS TOPP 20 (news.json)
+    daily_data = {
         "updated_at": now_utc,
-        "articles": final_articles
+        "articles": today_articles
+    }
+    with open("news.json", "w", encoding="utf-8") as f:
+        json.dump(daily_data, f, ensure_ascii=False, indent=2)
+    print("Sparade dagens 20 nyheter till news.json!")
+
+    # 2. UPPDATERA HISTORIKEN (archive.json)
+    archive_articles = []
+    if os.path.exists("archive.json"):
+        try:
+            with open("archive.json", "r", encoding="utf-8") as f:
+                old_archive = json.load(f)
+                archive_articles = old_archive.get("articles", [])
+        except Exception as e:
+            print(f"Kunde inte läsa befintlig archive.json: {e}")
+
+    # Lägg till nya unika artiklar överst i arkivet
+    seen_urls = {art.get("url") for art in today_articles if art.get("url")}
+    combined_archive = list(today_articles)
+
+    for art in archive_articles:
+        url = art.get("url")
+        if url and url not in seen_urls:
+            seen_urls.add(url)
+            combined_archive.append(art)
+
+    archive_data = {
+        "updated_at": now_utc,
+        "total_articles": len(combined_archive),
+        "articles": combined_archive
     }
 
-    with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(output_data, f, ensure_ascii=False, indent=2)
-
-    print(f"Sparade {len(final_articles)} artiklar till news.json framgångsrikt!")
+    with open("archive.json", "w", encoding="utf-8") as f:
+        json.dump(archive_data, f, ensure_ascii=False, indent=2)
+    print(f"Totalt sparade artiklar i historiken (archive.json): {len(combined_archive)}")
 
 if __name__ == "__main__":
     main()
