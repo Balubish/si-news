@@ -35,25 +35,32 @@ def fetch_rss_entries():
 
 def process_with_gemini(client, raw_entries, primary_model):
     prompt = f"""
-    Du är en professionell nyhetsredaktör. Här är en lista på nyheter från olika RSS-flöden:
+    Du är en chefredaktör. Här är nyheter från olika RSS-flöden:
     {json.dumps(raw_entries, ensure_ascii=False, indent=2)}
 
     Gör följande:
-    1. Välj enbart ut de 20 viktigaste DAGSAKTUELLA nyheterna för dagens datum. Ignorera helt artiklar som är gamla eller föråldrade.
-    2. Översätt alla titlar och sammanfattningar till klar och tydlig svenska.
-    3. Ge varje artikel en passande kategori på svenska (t.ex. "Världen", "Sverige", "Ekonomi", "Teknik", "Klimat", "Kultur").
-    4. Sammanfattningen ska vara 2-3 meningar lång.
+    1. Skapa en "executive_briefing" med exakt 3 korta, kärnfulla punkter som sammanfattar de mest avgörande händelserna i världen/Sverige just nu.
+    2. Välj ut de 20 viktigaste DAGSAKTUELLA nyheterna för dagens datum.
+    3. Översätt alla titlar och sammanfattningar till klar svenska.
+    4. Ge varje artikel en kategori ("Sverige", "Världen", "Ekonomi", "Teknik", "Klimat", "Kultur").
 
-    Svara BARA med ett giltigt JSON-objekt i följande format utan någon markdown-kod eller extra text runt omkring:
-    [
-      {{
-        "title": "Titel på svenska",
-        "summary": "Kort sammanfattning på svenska.",
-        "category": "Kategori",
-        "source": "Källans namn",
-        "url": "Direktlänk till artikeln"
-      }}
-    ]
+    Svara BARA med ett giltigt JSON-objekt i följande format:
+    {{
+      "executive_briefing": [
+        "Punkt 1...",
+        "Punkt 2...",
+        "Punkt 3..."
+      ],
+      "articles": [
+        {{
+          "title": "Titel på svenska",
+          "summary": "Kort sammanfattning på 2-3 meningar.",
+          "category": "Kategori",
+          "source": "Källans namn",
+          "url": "Direktlänk till artikeln"
+        }}
+      ]
+    }}
     """
 
     models_to_try = [
@@ -86,13 +93,13 @@ def process_with_gemini(client, raw_entries, primary_model):
                 print(f"  Serverbelastning hos Google ({e}). Väntar {wait_time}s...")
                 time.sleep(wait_time)
             except APIError as e:
-                print(f"  API-fel för {model}: {e}. Hoppar vidare till nästa modell...")
+                print(f"  API-fel för {model}: {e}. Hoppar vidare...")
                 break
             except Exception as e:
                 print(f"  Oväntat fel för {model}: {e}. Hoppar vidare...")
                 break
 
-    raise RuntimeError("Alla modeller och återförsök misslyckades.")
+    raise RuntimeError("Alla modeller misslyckades.")
 
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -106,24 +113,26 @@ def main():
     print("Hämtar nyheter från RSS...")
     raw_entries = fetch_rss_entries()
     
-    print("Bearbetar och väljer ut dagens top 20 med Gemini...")
-    today_articles = process_with_gemini(client, raw_entries, primary_model)
+    print("Bearbetar med Gemini...")
+    gemini_result = process_with_gemini(client, raw_entries, primary_model)
     
+    today_articles = gemini_result.get("articles", [])
+    executive_briefing = gemini_result.get("executive_briefing", [])
+
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    # Stämpla varje artikel med dagens datum
     for art in today_articles:
         art["date"] = today_str
 
     # 1. SPARA DAGENS TOPP 20 (news.json)
     daily_data = {
         "updated_at": now_utc,
+        "executive_briefing": executive_briefing,
         "articles": today_articles
     }
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(daily_data, f, ensure_ascii=False, indent=2)
-    print("Sparade dagens 20 nyheter till news.json!")
 
     # 2. UPPDATERA HISTORIKEN (archive.json)
     archive_articles = []
@@ -133,9 +142,8 @@ def main():
                 old_archive = json.load(f)
                 archive_articles = old_archive.get("articles", [])
         except Exception as e:
-            print(f"Kunde inte läsa befintlig archive.json: {e}")
+            print(f"Kunde inte läsa archive.json: {e}")
 
-    # Lägg till nya unika artiklar överst i arkivet
     seen_urls = {art.get("url") for art in today_articles if art.get("url")}
     combined_archive = list(today_articles)
 
@@ -153,7 +161,8 @@ def main():
 
     with open("archive.json", "w", encoding="utf-8") as f:
         json.dump(archive_data, f, ensure_ascii=False, indent=2)
-    print(f"Totalt sparade artiklar i historiken (archive.json): {len(combined_archive)}")
+
+    print(f"Framgångsrikt sparade {len(today_articles)} nyheter och brief till news.json!")
 
 if __name__ == "__main__":
     main()
