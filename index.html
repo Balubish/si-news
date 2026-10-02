@@ -30,7 +30,6 @@
       flex-direction: column;
     }
 
-    /* HEADER & BRANDING */
     header {
       display: flex;
       justify-content: space-between;
@@ -42,46 +41,16 @@
       gap: 1rem;
     }
 
-    .brand-container {
-      display: flex;
-      flex-direction: column;
-      gap: 0.2rem;
-    }
+    .brand-container { display: flex; flex-direction: column; gap: 0.2rem; }
+    .brand { font-size: 1.8rem; font-weight: 800; color: var(--accent); letter-spacing: -0.5px; }
+    .subtitle { font-size: 0.88rem; color: var(--text-muted); font-weight: 500; }
 
-    .brand {
-      font-size: 1.8rem;
-      font-weight: 800;
-      color: var(--accent);
-      letter-spacing: -0.5px;
-    }
-
-    .subtitle {
-      font-size: 0.88rem;
-      color: var(--text-muted);
-      font-weight: 500;
-    }
-
-    .header-right {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 0.4rem;
-    }
-
+    .header-right { display: flex; flex-direction: column; align-items: flex-end; gap: 0.4rem; }
     .credits-badge {
-      font-size: 0.8rem;
-      color: var(--accent);
-      background: rgba(16, 185, 129, 0.1);
-      padding: 0.25rem 0.65rem;
-      border-radius: 20px;
-      border: 1px solid rgba(16, 185, 129, 0.25);
-      font-weight: 600;
+      font-size: 0.8rem; color: var(--accent); background: rgba(16, 185, 129, 0.1);
+      padding: 0.25rem 0.65rem; border-radius: 20px; border: 1px solid rgba(16, 185, 129, 0.25); font-weight: 600;
     }
-
-    .last-updated {
-      font-size: 0.82rem;
-      color: var(--text-muted);
-    }
+    .last-updated { font-size: 0.82rem; color: var(--text-muted); }
 
     /* WIDGET BAR */
     .widget-bar {
@@ -92,35 +61,15 @@
     }
 
     .widget-card {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 0.8rem 1.2rem;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+      background: var(--card-bg); border: 1px solid var(--border); border-radius: 10px;
+      padding: 0.8rem 1.2rem; display: flex; align-items: center; justify-content: space-between;
       transition: border-color 0.2s ease, transform 0.1s ease;
     }
-
     .widget-card.clickable { cursor: pointer; }
     .widget-card.clickable:hover { border-color: var(--accent); transform: translateY(-2px); }
 
-    .widget-title {
-      font-size: 0.75rem;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      color: var(--text-muted);
-      margin-bottom: 0.2rem;
-      font-weight: 600;
-    }
-
-    .widget-value {
-      font-size: 1.1rem;
-      font-weight: 700;
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
+    .widget-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 0.2rem; font-weight: 600; }
+    .widget-value { font-size: 1.1rem; font-weight: 700; display: flex; align-items: center; gap: 0.5rem; }
 
     .market-tickers { display: flex; gap: 1rem; }
     .ticker-item { display: flex; flex-direction: column; }
@@ -130,173 +79,72 @@
     .up { color: var(--accent); }
     .down { color: var(--red); }
 
-    /* EXECUTIVE BRIEFING BOX */
+    /* BRIEFING BOX */
     .briefing-card {
-      background: rgba(16, 185, 129, 0.05);
-      border: 1px solid rgba(16, 185, 129, 0.3);
-      border-radius: 12px;
-      padding: 1.2rem 1.5rem;
-      margin-bottom: 1.5rem;
+      background: rgba(16, 185, 129, 0.05); border: 1px solid rgba(16, 185, 129, 0.3);
+      border-radius: 12px; padding: 1.2rem 1.5rem; margin-bottom: 1.5rem;
     }
+    .briefing-title { display: flex; align-items: center; gap: 0.5rem; font-size: 1rem; font-weight: 700; color: var(--accent); margin-bottom: 0.8rem; }
+    .briefing-list { list-style-type: none; display: flex; flex-direction: column; gap: 0.5rem; }
+    .briefing-list li { font-size: 0.93rem; color: var(--text-main); line-height: 1.4; display: flex; align-items: flex-start; gap: 0.5rem; }
+    .briefing-list li::before { content: "•"; color: var(--accent); font-weight: bold; }
 
-    .briefing-title {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      font-size: 1rem;
-      font-weight: 700;
-      color: var(--accent);
-      margin-bottom: 0.8rem;
-    }
-
-    .briefing-list {
-      list-style-type: none;
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
-    }
-
-    .briefing-list li {
-      font-size: 0.93rem;
-      color: var(--text-main);
-      line-height: 1.4;
-      display: flex;
-      align-items: flex-start;
-      gap: 0.5rem;
-    }
-
-    .briefing-list li::before {
-      content: "•";
-      color: var(--accent);
-      font-weight: bold;
-    }
-
-    /* CONTROLS BAR (TABS + SÖK) */
+    /* CONTROLS BAR */
     .controls-bar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 1rem;
-      margin-bottom: 1rem;
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 1rem; margin-bottom: 1rem;
     }
 
     .nav-tabs { display: flex; gap: 0.6rem; }
 
     .tab-btn {
-      background: var(--card-bg);
-      color: var(--text-muted);
-      border: 1px solid var(--border);
-      padding: 0.55rem 1.1rem;
-      border-radius: 8px;
-      cursor: pointer;
-      font-weight: 600;
-      font-size: 0.88rem;
-      transition: all 0.2s ease;
+      background: var(--card-bg); color: var(--text-muted); border: 1px solid var(--border);
+      padding: 0.55rem 1.1rem; border-radius: 8px; cursor: pointer; font-weight: 600;
+      font-size: 0.88rem; transition: all 0.2s ease;
     }
 
     .tab-btn:hover { color: var(--text-main); border-color: var(--accent); }
     .tab-btn.active { background: var(--accent); color: #000; border-color: var(--accent); }
 
     .search-box {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      color: var(--text-main);
-      padding: 0.55rem 1rem;
-      border-radius: 8px;
-      font-size: 0.88rem;
-      outline: none;
-      width: 240px;
-      transition: border-color 0.2s ease;
+      background: var(--card-bg); border: 1px solid var(--border); color: var(--text-main);
+      padding: 0.55rem 1rem; border-radius: 8px; font-size: 0.88rem; outline: none;
+      width: 240px; transition: border-color 0.2s ease;
     }
-
     .search-box:focus { border-color: var(--accent); }
 
     /* CATEGORY CHIPS */
-    .category-bar {
-      display: flex;
-      gap: 0.5rem;
-      flex-wrap: wrap;
-      margin-bottom: 1.5rem;
-    }
+    .category-bar { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
 
     .chip-btn {
-      background: transparent;
-      color: var(--text-muted);
-      border: 1px solid var(--border);
-      padding: 0.35rem 0.8rem;
-      border-radius: 20px;
-      font-size: 0.8rem;
-      cursor: pointer;
-      font-weight: 500;
-      transition: all 0.2s ease;
+      background: transparent; color: var(--text-muted); border: 1px solid var(--border);
+      padding: 0.35rem 0.8rem; border-radius: 20px; font-size: 0.8rem; cursor: pointer;
+      font-weight: 500; transition: all 0.2s ease;
     }
-
     .chip-btn:hover { color: var(--text-main); border-color: var(--accent); }
     .chip-btn.active { background: var(--card-bg); color: var(--accent); border-color: var(--accent); }
 
     /* NEWS GRID */
     .news-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 1.2rem;
-      flex-grow: 1;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.2rem; flex-grow: 1;
     }
 
     .card {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.3rem;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
+      background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px;
+      padding: 1.3rem; display: flex; flex-direction: column; justify-content: space-between;
     }
 
-    .card-meta {
-      display: flex;
-      justify-content: space-between;
-      font-size: 0.8rem;
-      color: var(--accent);
-      margin-bottom: 0.7rem;
-      font-weight: 600;
-    }
-
-    .card-title {
-      font-size: 1.1rem;
-      font-weight: 600;
-      margin-bottom: 0.7rem;
-      line-height: 1.4;
-    }
-
-    .card-summary {
-      font-size: 0.92rem;
-      color: var(--text-muted);
-      line-height: 1.5;
-      margin-bottom: 1.1rem;
-    }
-
-    .card-footer {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      font-size: 0.8rem;
-      color: var(--text-muted);
-    }
+    .card-meta { display: flex; justify-content: space-between; font-size: 0.8rem; color: var(--accent); margin-bottom: 0.7rem; font-weight: 600; }
+    .card-title { font-size: 1.1rem; font-weight: 600; margin-bottom: 0.7rem; line-height: 1.4; }
+    .card-summary { font-size: 0.92rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 1.1rem; }
+    .card-footer { display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: var(--text-muted); }
 
     .tts-btn {
-      background: none;
-      border: none;
-      color: var(--text-muted);
-      cursor: pointer;
-      font-size: 0.85rem;
-      display: flex;
-      align-items: center;
-      gap: 0.3rem;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
+      background: none; border: none; color: var(--text-muted); cursor: pointer;
+      font-size: 0.85rem; display: flex; align-items: center; gap: 0.3rem;
+      padding: 0.2rem 0.4rem; border-radius: 4px;
     }
-
     .tts-btn:hover { color: var(--accent); background: rgba(16, 185, 129, 0.1); }
 
     .card-link { color: var(--accent); text-decoration: none; font-weight: 600; }
@@ -310,27 +158,14 @@
       background: rgba(0, 0, 0, 0.8); display: none;
       justify-content: center; align-items: center; z-index: 1000; padding: 1rem;
     }
-
-    .modal-content {
-      background: var(--card-bg); border: 1px solid var(--border);
-      border-radius: 14px; padding: 1.8rem; max-width: 600px; width: 100%;
-    }
-
-    .modal-header {
-      display: flex; justify-content: space-between; align-items: center;
-      margin-bottom: 1.2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.8rem;
-    }
-
+    .modal-content { background: var(--card-bg); border: 1px solid var(--border); border-radius: 14px; padding: 1.8rem; max-width: 600px; width: 100%; }
+    .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.8rem; }
     .modal-close { background: none; border: none; color: var(--text-muted); font-size: 1.5rem; cursor: pointer; }
-
     .market-table { width: 100%; border-collapse: collapse; text-align: left; }
     .market-table th, .market-table td { padding: 0.75rem 0.5rem; border-bottom: 1px solid var(--border); font-size: 0.95rem; }
     .market-table th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; }
 
-    footer {
-      margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--border);
-      text-align: center; font-size: 0.85rem; color: var(--text-muted);
-    }
+    footer { margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--border); text-align: center; font-size: 0.85rem; color: var(--text-muted); }
   </style>
 </head>
 <body>
@@ -379,20 +214,14 @@
   <div class="controls-bar">
     <div class="nav-tabs">
       <button class="tab-btn active" id="tab-today" onclick="switchTab('today')">Dagens Topp 20</button>
+      <button class="tab-btn" id="tab-ai" onclick="switchTab('ai')">🤖 AI & Robotik</button>
       <button class="tab-btn" id="tab-archive" onclick="switchTab('archive')">Historik</button>
     </div>
     <input type="text" class="search-box" id="search-input" placeholder="🔍 Sök i nyheterna..." oninput="onSearchInput(this.value)">
   </div>
 
   <!-- CATEGORY CHIPS -->
-  <div class="category-bar" id="category-bar">
-    <button class="chip-btn active" onclick="filterCategory('Alla', this)">Alla</button>
-    <button class="chip-btn" onclick="filterCategory('Sverige', this)">Sverige</button>
-    <button class="chip-btn" onclick="filterCategory('Världen', this)">Världen</button>
-    <button class="chip-btn" onclick="filterCategory('Ekonomi', this)">Ekonomi</button>
-    <button class="chip-btn" onclick="filterCategory('Teknik', this)">Teknik</button>
-    <button class="chip-btn" onclick="filterCategory('Kultur', this)">Kultur</button>
-  </div>
+  <div class="category-bar" id="category-bar"></div>
 
   <main class="news-grid" id="news-container">
     <div class="loading">Hämtar nyheter...</div>
@@ -431,6 +260,20 @@
     let selectedCategory = 'Alla';
     let searchQuery = '';
 
+    const categoriesByTab = {
+      today: ['Alla', 'Sverige', 'Världen', 'Ekonomi', 'Teknik', 'Kultur'],
+      ai: ['Alla', 'LLM & Modeller', 'Humanoid Robotik', 'AI-Hårdvara', 'AGI & Forskning', 'Säkerhet & Etik'],
+      archive: ['Alla', 'Sverige', 'Världen', 'Teknik', 'LLM & Modeller', 'Humanoid Robotik']
+    };
+
+    function renderCategoryChips() {
+      const bar = document.getElementById('category-bar');
+      const cats = categoriesByTab[currentTab] || categoriesByTab.today;
+      bar.innerHTML = cats.map(cat => `
+        <button class="chip-btn ${cat === selectedCategory ? 'active' : ''}" onclick="filterCategory('${cat}', this)">${cat}</button>
+      `).join('');
+    }
+
     // VÄDER
     function fetchWeather() {
       if ("geolocation" in navigator) {
@@ -438,8 +281,7 @@
           try {
             const res = await fetch(`[https://api.open-meteo.com/v1/forecast?latitude=$](https://api.open-meteo.com/v1/forecast?latitude=$){pos.coords.latitude}&longitude=${pos.coords.longitude}&current_weather=true`);
             const data = await res.json();
-            const temp = Math.round(data.current_weather.temperature);
-            document.getElementById('weather-text').textContent = `${temp}°C (Min plats)`;
+            document.getElementById('weather-text').textContent = `${Math.round(data.current_weather.temperature)}°C (Min plats)`;
           } catch (e) { fetchDefaultWeather(); }
         }, fetchDefaultWeather);
       } else { fetchDefaultWeather(); }
@@ -471,10 +313,7 @@
 
     // TALSYNTES (TTS)
     function speakText(text, btn) {
-      if (!('speechSynthesis' in window)) {
-        alert('Talsyntes stöds inte i din webbläsare.');
-        return;
-      }
+      if (!('speechSynthesis' in window)) return alert('Talsyntes stöds inte.');
       if (window.speechSynthesis.speaking) {
         window.speechSynthesis.cancel();
         btn.textContent = '🔊 Läs upp';
@@ -495,7 +334,10 @@
       const briefingList = document.getElementById('briefing-list');
 
       container.innerHTML = '<div class="loading">Hämtar nyheter...</div>';
-      const endpoint = tab === 'today' ? 'news.json' : 'archive.json';
+      
+      let endpoint = 'news.json';
+      if (tab === 'ai') endpoint = 'ai_news.json';
+      if (tab === 'archive') endpoint = 'archive.json';
 
       try {
         const response = await fetch(`./${endpoint}?t=${new Date().getTime()}`);
@@ -505,7 +347,6 @@
         timeDisplay.textContent = `Senast uppdaterad: ${data.updated_at || 'Okänt'}`;
         rawArticles = data.articles || [];
 
-        // Visar AI Briefing enbart på dagens flik om den finns
         if (tab === 'today' && data.executive_briefing && data.executive_briefing.length > 0) {
           briefingList.innerHTML = data.executive_briefing.map(point => `<li>${point}</li>`).join('');
           briefingContainer.style.display = 'block';
@@ -513,9 +354,10 @@
           briefingContainer.style.display = 'none';
         }
 
+        renderCategoryChips();
         renderFilteredArticles();
       } catch (err) {
-        container.innerHTML = `<div class="loading">Kunde inte läsa in nyheter. Kör en manuell Run Workflow i Actions om arkiv saknas.</div>`;
+        container.innerHTML = `<div class="loading">Kunde inte läsa in ${tab === 'ai' ? 'AI-nyheter' : 'nyheter'}. Kör "Run workflow" i GitHub Actions för att generera data.</div>`;
       }
     }
 
@@ -534,7 +376,7 @@
       });
 
       if (filtered.length === 0) {
-        container.innerHTML = '<div class="loading">Inga nyheter matchar din sökning eller ditt filter.</div>';
+        container.innerHTML = '<div class="loading">Inga artiklar matchar valt filter.</div>';
         return;
       }
 
@@ -562,7 +404,9 @@
 
     function switchTab(tab) {
       currentTab = tab;
+      selectedCategory = 'Alla';
       document.getElementById('tab-today').classList.toggle('active', tab === 'today');
+      document.getElementById('tab-ai').classList.toggle('active', tab === 'ai');
       document.getElementById('tab-archive').classList.toggle('active', tab === 'archive');
       loadNews(tab);
     }
@@ -570,7 +414,7 @@
     function filterCategory(cat, btn) {
       selectedCategory = cat;
       document.querySelectorAll('.chip-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+      if (btn) btn.classList.add('active');
       renderFilteredArticles();
     }
 
