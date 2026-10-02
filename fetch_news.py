@@ -30,8 +30,8 @@ def fetch_rss_data():
     return raw_articles
 
 def generate_with_retry_and_fallback(client, prompt, primary_model):
-    # Lista på giltiga och aktuella modeller att prova i ordning
-    models_to_try = [primary_model, "gemini-2.5-flash", "gemini-2.0-flash", "gemini-2.5-pro"]
+    # Aktuella och giltiga modeller i Google GenAI API
+    models_to_try = [primary_model, "gemini-3.1-pro-preview", "gemini-2.5-flash", "gemini-2.0-flash"]
     # Ta bort dubbletter
     models_to_try = list(dict.fromkeys(models_to_try))
 
@@ -46,12 +46,12 @@ def generate_with_retry_and_fallback(client, prompt, primary_model):
                     contents=prompt
                 )
             except ServerError as e:
-                # 503 / Överbelastning - vänta och försök igen
-                wait_time = (attempt + 1) * 15
+                # 503 / Överbelastning - vänta längre för varje försök
+                wait_time = (attempt + 1) * 20
                 print(f"  Serverbelastning hos Google ({e}). Väntar {wait_time}s...")
                 time.sleep(wait_time)
             except APIError as e:
-                # Om modellen inte finns (404) eller liknande - hoppa direkt till nästa modell
+                # Om modellen inte finns (404) - avbryt försöken och gå direkt till nästa modell
                 print(f"  API-fel för {model}: {e}. Hoppar vidare till nästa modell...")
                 break
             except Exception as e:
