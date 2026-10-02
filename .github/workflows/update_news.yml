@@ -1,5 +1,9 @@
 name: SI News Autonomous Engine
-
+- name: Fetch News with Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: 'gemini-3.8-flash'
+        run: python fetch_news.py
 on:
   workflow_dispatch:
   schedule:
