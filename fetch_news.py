@@ -1,7 +1,9 @@
 import os
 import json
+import time
 import feedparser
 from google import genai
+from google.genai.errors import ServerError, APIError
 
 # Nyhetskällor
 RSS_FEEDS = [
@@ -59,13 +61,26 @@ def main():
          ]
        }}
 
-    Viktigt: Svara ENBART med ren JSON uten formatblock (som ```json).
+    Viktigt: Svara ENBART med ren JSON utan formatblock (som ```json).
     """
 
-    response = client.models.generate_content(
-        model=model_name,
-        contents=prompt
-    )
+    # Försök anropa Gemini upp till 3 gånger om servern är överbelastad (503-fel)
+    response = None
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            print(f"Anropar Gemini (försök {attempt + 1}/{max_retries})...")
+            response = client.models.generate_content(
+                model=model_name,
+                contents=prompt
+            )
+            break  # Lyckades! Bryt loopen
+        except (ServerError, APIError) as e:
+            print(f"Tillfälligt fel från Google ({e}). Väntar 10 sekunder...")
+            if attempt < max_retries - 1:
+                time.sleep(10)
+            else:
+                raise e
 
     cleaned_text = response.text.strip()
     if cleaned_text.startswith("```"):
