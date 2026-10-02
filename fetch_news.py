@@ -29,9 +29,32 @@ def fetch_rss_data():
             print(f"Fel vid hämtning från {url}: {e}")
     return raw_articles
 
+def generate_with_retry_and_fallback(client, prompt, primary_model):
+    # Modeller att prova i ordning om servrarna nekar
+    models_to_try = [primary_model, "gemini-2.5-flash", "gemini-1.5-flash"]
+    # Ta bort eventuella dubbletter
+    models_to_try = list(dict.fromkeys(models_to_try))
+
+    for model in models_to_try:
+        print(f"Försöker med modell: {model}")
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                print(f"  Anropar {model} (försök {attempt + 1}/{max_retries})...")
+                return client.models.generate_content(
+                    model=model,
+                    contents=prompt
+                )
+            except (ServerError, APIError) as e:
+                wait_time = (attempt + 1) * 15  # Väntar 15s, sedan 30s, sedan 45s
+                print(f"  Tillfälligt fel ({e}). Väntar {wait_time}s...")
+                time.sleep(wait_time)
+
+    raise RuntimeError("Alla modeller och återförsök misslyckades på grund av hög belastning.")
+
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
-    model_name = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+    primary_model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 
     if not api_key:
         raise ValueError("GEMINI_API_KEY saknas i miljövariablerna!")
@@ -64,29 +87,12 @@ def main():
     Viktigt: Svara ENBART med ren JSON utan formatblock (som ```json).
     """
 
-    # Försök anropa Gemini upp till 3 gånger om servern är överbelastad (503-fel)
-    response = None
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            print(f"Anropar Gemini (försök {attempt + 1}/{max_retries})...")
-            response = client.models.generate_content(
-                model=model_name,
-                contents=prompt
-            )
-            break  # Lyckades! Bryt loopen
-        except (ServerError, APIError) as e:
-            print(f"Tillfälligt fel från Google ({e}). Väntar 10 sekunder...")
-            if attempt < max_retries - 1:
-                time.sleep(10)
-            else:
-                raise e
+    response = generate_with_retry_and_fallback(client, prompt, primary_model)
 
     cleaned_text = response.text.strip()
     if cleaned_text.startswith("```"):
         cleaned_text = cleaned_text.split("\n", 1)[1].rsplit("```", 1)[0].strip()
 
-    # Validera och spara
     news_data = json.loads(cleaned_text)
     
     with open("news.json", "w", encoding="utf-8") as f:
