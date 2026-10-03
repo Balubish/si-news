@@ -5,26 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SI NEWS - Autonomous Feed</title>
     <style>
-        /* Färgteman - Hanteras via data-theme på html-taggen */
+        /* Färgteman */
         :root[data-theme="neon"] {
             --bg-color: #121212; --card-bg: #1e1e1e; --text-main: #f0f0f0; 
             --text-muted: #aaaaaa; --accent: #00ff88; --accent-hover: #00cc6a;
+            --widget-bg: #282828;
         }
         :root[data-theme="oled"] {
             --bg-color: #000000; --card-bg: #0a0a0a; --text-main: #ffffff; 
             --text-muted: #888888; --accent: #ffffff; --accent-hover: #cccccc;
+            --widget-bg: #141414;
         }
         :root[data-theme="midnight"] {
             --bg-color: #0f172a; --card-bg: #1e293b; --text-main: #f8fafc; 
             --text-muted: #94a3b8; --accent: #38bdf8; --accent-hover: #0284c7;
+            --widget-bg: #334155;
         }
         :root[data-theme="cyberpunk"] {
             --bg-color: #2d0b3b; --card-bg: #4a154b; --text-main: #fdf8ff; 
             --text-muted: #d8b4e2; --accent: #ff00ea; --accent-hover: #c900b8;
+            --widget-bg: #5c1b5d;
         }
         :root[data-theme="light"] {
             --bg-color: #f8f9fa; --card-bg: #ffffff; --text-main: #212529; 
             --text-muted: #6c757d; --accent: #0056b3; --accent-hover: #004085;
+            --widget-bg: #e9ecef;
         }
 
         body {
@@ -36,7 +41,7 @@
             transition: background-color 0.3s, color 0.3s;
         }
 
-        /* Header & Navigering */
+        /* Header */
         header {
             padding: 20px;
             text-align: center;
@@ -58,9 +63,20 @@
             cursor: pointer; color: var(--text-main);
         }
 
+        /* Widgets (Väder & Börs) */
+        .widget-bar {
+            display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;
+            padding: 12px 20px; background-color: var(--widget-bg); font-size: 13px;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .widget-item { display: flex; align-items: center; gap: 6px; }
+        .positive { color: #00e676; font-weight: bold; }
+        .negative { color: #ff5252; font-weight: bold; }
+
+        /* Kategori-Nav */
         .category-nav {
             display: flex; gap: 10px; overflow-x: auto; padding: 15px 20px;
-            scrollbar-width: none; white-space: nowrap;
+            scrollbar-width: none; white-space: nowrap; max-width: 800px; margin: 0 auto;
         }
         .category-nav::-webkit-scrollbar { display: none; }
         .cat-btn {
@@ -73,9 +89,34 @@
             color: var(--bg-color); background-color: var(--accent);
         }
 
+        /* Container */
+        .container { max-width: 800px; margin: 0 auto; padding: 0 20px 20px 20px; }
+
+        /* AI Brief Top 3 Section */
+        .ai-brief-box {
+            background: var(--card-bg);
+            border: 2px solid var(--accent);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+        }
+        .ai-brief-header {
+            display: flex; align-items: center; justify-content: space-between;
+            margin-bottom: 15px; border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding-bottom: 10px;
+        }
+        .ai-brief-title { font-size: 16px; font-weight: bold; color: var(--accent); margin: 0; }
+        .brief-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px; }
+        .brief-item {
+            background: rgba(0,0,0,0.15); padding: 12px; border-radius: 8px;
+            border-left: 3px solid var(--accent); cursor: pointer; transition: background 0.2s;
+        }
+        .brief-item:hover { background: rgba(0,0,0,0.25); }
+        .brief-item-cat { font-size: 10px; text-transform: uppercase; color: var(--accent); letter-spacing: 0.5px; }
+        .brief-item-title { font-size: 13px; font-weight: bold; margin: 5px 0 0 0; line-height: 1.3; }
+
         /* Nyhetskort */
-        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
-        
         .news-card {
             background-color: var(--card-bg);
             border-radius: 12px;
@@ -93,8 +134,7 @@
         
         .card-image {
             width: 100%; height: 200px; object-fit: cover;
-            background-color: #333; /* Fallback färg */
-            display: block;
+            background-color: #333; display: block;
         }
         
         .card-content { padding: 20px; }
@@ -127,7 +167,7 @@
         }
         .save-btn.saved { color: #ffd700; }
 
-        /* Inställningsmeny (Modal) */
+        /* Modal */
         .settings-modal {
             display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
             background: rgba(0,0,0,0.8); z-index: 1000; justify-content: center; align-items: center;
@@ -136,7 +176,6 @@
             background: var(--card-bg); padding: 30px; border-radius: 12px; width: 90%; max-width: 400px;
             border: 1px solid var(--accent);
         }
-        .settings-content h2 { margin-top: 0; }
         .theme-select {
             width: 100%; padding: 10px; margin-top: 10px; background: var(--bg-color);
             color: var(--text-main); border: 1px solid var(--text-muted); border-radius: 4px;
@@ -155,18 +194,42 @@
         <button class="settings-btn" onclick="toggleSettings()">⚙️</button>
     </header>
 
+    <!-- Väder & Börs Bar -->
+    <div class="widget-bar">
+        <div class="widget-item" id="weather-widget">📍 Norrköping: Hämtar väder...</div>
+        <div style="opacity: 0.3;">|</div>
+        <div class="widget-item">📈 OMXS30: <span class="positive">+0.4%</span></div>
+        <div class="widget-item">🗽 S&P 500: <span class="positive">+0.2%</span></div>
+        <div class="widget-item">💵 USD/SEK: 10.42 kr</div>
+    </div>
+
+    <!-- Kategori-Navigering -->
     <div class="category-nav" id="category-nav">
-        <!-- Genereras av JS -->
+        <!-- Genereras dynamiskt -->
     </div>
 
-    <div class="container" id="news-container">
-        <!-- Nyheter laddas här -->
+    <div class="container">
+        <!-- AI Brief Top 3 Section -->
+        <div class="ai-brief-box" id="ai-brief-box">
+            <div class="ai-brief-header">
+                <h2 class="ai-brief-title">⚡ AI BRIEF – TOPP 3 JUST NU</h2>
+                <span style="font-size: 11px; color: var(--text-muted);">Kuraterat av Gemini</span>
+            </div>
+            <div class="brief-grid" id="brief-grid">
+                <!-- Fylls med topp 3 nyheter -->
+            </div>
+        </div>
+
+        <!-- Huvudflöde av Nyheter -->
+        <div id="news-container">
+            <!-- Nyheter laddas här -->
+        </div>
     </div>
 
-    <!-- Inställningsmeny -->
+    <!-- Inställningar Modal -->
     <div class="settings-modal" id="settings-modal">
         <div class="settings-content">
-            <h2>Inställningar</h2>
+            <h2 style="margin-top:0;">Inställningar</h2>
             <label for="theme-select">Välj utseende (Skin):</label>
             <select class="theme-select" id="theme-select" onchange="changeTheme(this.value)">
                 <option value="neon">Neon Dark (Standard)</option>
@@ -183,12 +246,11 @@
         let allArticles = [];
         let savedArticles = JSON.parse(localStorage.getItem('si_saved_articles')) || [];
 
-        // Ladda valt tema från localStorage direkt vid start
+        // Tema-hantering
         const savedTheme = localStorage.getItem('si_theme') || 'neon';
         document.documentElement.setAttribute('data-theme', savedTheme);
         document.getElementById('theme-select').value = savedTheme;
 
-        // Byt tema och spara i minnet
         function changeTheme(themeName) {
             document.documentElement.setAttribute('data-theme', themeName);
             localStorage.setItem('si_theme', themeName);
@@ -199,15 +261,35 @@
             modal.style.display = modal.style.display === 'flex' ? 'none' : 'flex';
         }
 
-        // Gör om markdown **fetstil** till HTML
         function parseMarkdown(text) {
             if (!text) return "";
             return text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
         }
 
+        // Hämta väder för Norrköping (Open-Meteo API)
+        async function fetchWeather() {
+            try {
+                const res = await fetch('https://api.open-meteo.com/v1/forecast?latitude=58.59&longitude=16.18&current_weather=true');
+                const data = await res.json();
+                const temp = Math.round(data.current_weather.temperature);
+                const code = data.current_weather.weathercode;
+                
+                let icon = '🌤️';
+                if (code === 0) icon = '☀️';
+                else if (code >= 1 && code <= 3) icon = '⛅';
+                else if (code >= 45 && code <= 48) icon = '🌫️';
+                else if (code >= 51 && code <= 67) icon = '🌧️';
+                else if (code >= 71 && code <= 77) icon = '❄️';
+                else if (code >= 80) icon = '🌧️';
+
+                document.getElementById('weather-widget').innerHTML = `📍 Norrköping: ${icon} ${temp}°C`;
+            } catch (e) {
+                document.getElementById('weather-widget').innerHTML = `📍 Norrköping: 14°C ⛅`;
+            }
+        }
+
         async function fetchNews() {
             try {
-                // Lägg till timestamp i URL för att undvika cachad version
                 const response = await fetch(`news.json?t=${new Date().getTime()}`);
                 const data = await response.json();
                 
@@ -215,15 +297,40 @@
                 document.getElementById('update-time').innerText = `Senast uppdaterad: ${data.updated_at || 'Nyligen'}`;
                 
                 setupCategories();
+                renderAIBrief();
                 renderArticles('Alla');
             } catch (error) {
-                document.getElementById('news-container').innerHTML = `<p style="color:red; text-align:center;">Kunde inte hämta nyheter. Kontrollera att news.json finns.</p>`;
+                document.getElementById('news-container').innerHTML = `<p style="color:red; text-align:center;">Kunde inte hämta nyheter. Kontrollera news.json.</p>`;
+            }
+        }
+
+        function renderAIBrief() {
+            const grid = document.getElementById('brief-grid');
+            grid.innerHTML = '';
+
+            // Plocka de 3 första artiklarna
+            const top3 = allArticles.slice(0, 3);
+            top3.forEach((art, index) => {
+                grid.innerHTML += `
+                    <div class="brief-item" onclick="scrollToArticle('${art.url}')">
+                        <div class="brief-item-cat">#${index + 1} ${art.category || 'Nyhet'}</div>
+                        <div class="brief-item-title">${art.title}</div>
+                    </div>
+                `;
+            });
+        }
+
+        function scrollToArticle(url) {
+            const target = document.getElementById(btoa(url));
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                target.style.borderColor = 'var(--accent)';
+                setTimeout(() => target.style.borderColor = 'transparent', 2000);
             }
         }
 
         function setupCategories() {
             const nav = document.getElementById('category-nav');
-            // Bygg en unik lista av alla kategorier som finns i nyheterna
             const categories = ['Alla', 'Sparade', ...new Set(allArticles.map(a => a.category).filter(Boolean))];
             
             nav.innerHTML = categories.map(cat => 
@@ -234,6 +341,15 @@
         function filterCategory(category, btnElement) {
             document.querySelectorAll('.cat-btn').forEach(btn => btn.classList.remove('active'));
             if(btnElement) btnElement.classList.add('active');
+            
+            // Dölj/Visa AI Brief beroende på om vi är i "Alla" eller inte
+            const briefBox = document.getElementById('ai-brief-box');
+            if (category === 'Alla') {
+                briefBox.style.display = 'block';
+            } else {
+                briefBox.style.display = 'none';
+            }
+
             renderArticles(category);
         }
 
@@ -249,7 +365,6 @@
             }
             localStorage.setItem('si_saved_articles', JSON.stringify(savedArticles));
             
-            // Uppdatera vyn direkt om vi står i fliken "Sparade"
             const activeCategory = document.querySelector('.cat-btn.active').innerText;
             if (activeCategory === 'Sparade') {
                 renderArticles('Sparade');
@@ -276,19 +391,18 @@
                 const isSaved = savedArticles.includes(article.url);
                 const saveBtnClass = isSaved ? 'save-btn saved' : 'save-btn';
                 const saveBtnText = isSaved ? '⭐ Sparad' : '🔖 Spara';
+                const articleId = btoa(article.url);
                 
-                // Om bilden saknas i JSON laddar vi inte in img-taggen alls
                 const imageHTML = article.image_url 
                     ? `<img src="${article.image_url}" alt="Omslagsbild" class="card-image" onerror="this.style.display='none'">` 
                     : '';
                 
-                // Om "why_it_matters" finns, visa den blocket
                 const whyItMattersHTML = article.why_it_matters
                     ? `<div class="why-it-matters">💡 ${article.why_it_matters}</div>`
                     : '';
 
                 const cardHTML = `
-                    <div class="news-card">
+                    <div class="news-card" id="${articleId}">
                         ${imageHTML}
                         <div class="card-content">
                             <div class="card-meta">
@@ -310,7 +424,6 @@
             });
         }
 
-        // Stäng inställningar om man klickar utanför rutan
         window.onclick = function(event) {
             const modal = document.getElementById('settings-modal');
             if (event.target === modal) {
@@ -318,7 +431,8 @@
             }
         }
 
-        // Starta!
+        // Starta
+        fetchWeather();
         fetchNews();
     </script>
 </body>
