@@ -24,18 +24,31 @@ AI_RSS_FEEDS = [
     "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
 ]
 
-def fetch_rss_entries(feed_urls):
+def fetch_rss_entries(feed_urls, limit_per_feed=25):
     raw_entries = []
     for feed_url in feed_urls:
         try:
             feed = feedparser.parse(feed_url)
             feed_title = feed.feed.get("title", "Okänd källa")
-            for entry in feed.entries[:10]:
+            # Ökat limit till 25 per flöde för att ha en större pool av nyheter
+            for entry in feed.entries[:limit_per_feed]:
+                
+                # --- NYTT: Försök extrahera en bildlänk ---
+                image_url = ""
+                if 'media_content' in entry and len(entry.media_content) > 0:
+                    image_url = entry.media_content[0].get('url', '')
+                elif 'links' in entry:
+                    for link in entry.links:
+                        if link.get('rel') == 'enclosure' and 'image' in link.get('type', ''):
+                            image_url = link.get('href', '')
+                            break
+                
                 raw_entries.append({
                     "title": entry.get("title", ""),
                     "summary": entry.get("summary", entry.get("description", "")),
                     "published": entry.get("published", entry.get("updated", "Idag")),
                     "link": entry.get("link", ""),
+                    "image_url": image_url, # Skickar med bilden
                     "source": feed_title
                 })
         except Exception as e:
@@ -44,14 +57,17 @@ def fetch_rss_entries(feed_urls):
 
 def process_general_news(client, raw_entries, primary_model):
     prompt = f"""
-    Du är en chefredaktör. Här är allmänna nyheter från RSS:
+    Du är en chefredaktör. Här är allmänna nyheter från RSS (inklusive eventuella bildlänkar):
     {json.dumps(raw_entries, ensure_ascii=False, indent=2)}
 
     Gör följande:
     1. Skapa en "executive_briefing" med exakt 3 korta, kärnfulla punkter för dagsläget.
-    2. Välj ut de 20 viktigaste DAGSAKTUELLA nyheterna för dagens datum.
+    2. Välj ut de 40 viktigaste DAGSAKTUELLA nyheterna för dagens datum. Slå ihop artiklar om de handlar om exakt samma händelse.
     3. Översätt alla titlar och sammanfattningar till klar svenska.
-    4. Ge varje artikel en kategori ("Sverige", "Världen", "Ekonomi", "Teknik", "Klimat", "Kultur").
+    4. I "summary": Markera 1-2 av de absolut viktigaste nyckelorden eller personerna i **fetstil**.
+    5. Skriv en kort, kärnfull förklaring till varför händelsen är betydelsefull i fältet "why_it_matters".
+    6. Ge varje artikel en kategori ("Sverige", "Världen", "Ekonomi", "Teknik", "Klimat", "Kultur", "Sport").
+    7. SPARA "image_url" exakt som den kom in från raw_entries.
 
     Svara BARA med ett giltigt JSON-objekt:
     {{
@@ -59,10 +75,12 @@ def process_general_news(client, raw_entries, primary_model):
       "articles": [
         {{
           "title": "Titel på svenska",
-          "summary": "Kort sammanfattning på 2-3 meningar.",
+          "summary": "Kort sammanfattning på 2-3 meningar där **nyckelord** är i fetstil.",
+          "why_it_matters": "Kort förklaring till varför denna nyhet spelar roll.",
           "category": "Kategori",
           "source": "Källans namn",
-          "url": "Direktlänk"
+          "url": "Direktlänk",
+          "image_url": "Eventuell bildlänk från datan, annars tom sträng"
         }}
       ]
     }}
@@ -76,19 +94,24 @@ def process_ai_news(client, raw_entries, primary_model):
     {json.dumps(raw_entries, ensure_ascii=False, indent=2)}
 
     Gör följande:
-    1. Välj ut de 15 viktigaste uppdateringarna inom AI, LLM-utveckling, robotik (t.ex. Tesla Optimus, 1X, Boston Dynamics, Figure), AI-hårdvara och AGI-forskning.
+    1. Välj ut de 20 viktigaste uppdateringarna inom AI, LLM-utveckling, robotik, AI-hårdvara och AGI-forskning.
     2. Översätt titlar och sammanfattningar till klar, tekniskt korrekt svenska.
-    3. Kategorisera varje artikel som antingen: "LLM & Modeller", "Humanoid Robotik", "AI-Hårdvara", "AGI & Forskning" eller "Säkerhet & Etik".
+    3. I "summary": Markera 1-2 av de absolut viktigaste nyckelorden/modellerna (t.ex. OpenAI, Tesla Optimus) i **fetstil**.
+    4. Skriv en kort förklaring i "why_it_matters" varför tekniken eller uppdateringen är viktig.
+    5. Kategorisera som: "LLM & Modeller", "Humanoid Robotik", "AI-Hårdvara", "AGI & Forskning" eller "Säkerhet & Etik".
+    6. SPARA "image_url" exakt som den kom in.
 
     Svara BARA med ett giltigt JSON-objekt:
     {{
       "articles": [
         {{
           "title": "Titel på svenska",
-          "summary": "Kort sammanfattning på 2-3 meningar.",
+          "summary": "Kort sammanfattning på 2-3 meningar där **nyckelord** är i fetstil.",
+          "why_it_matters": "Kort teknisk/framtidsfokuserad förklaring till varför detta spelar roll.",
           "category": "Kategori",
           "source": "Källans namn",
-          "url": "Direktlänk"
+          "url": "Direktlänk",
+          "image_url": "Eventuell bildlänk från datan, annars tom sträng"
         }}
       ]
     }}
@@ -155,7 +178,7 @@ def main():
     with open("ai_news.json", "w", encoding="utf-8") as f:
         json.dump({"updated_at": now_utc, "articles": ai_articles}, f, ensure_ascii=False, indent=2)
 
-    # 3. SPARA ALLT I HISTORIKEN (archive.json)
+    # 3. SPARA I HUVUDARKIV (archive.json)
     archive_articles = []
     if os.path.exists("archive.json"):
         try:
@@ -176,7 +199,15 @@ def main():
     with open("archive.json", "w", encoding="utf-8") as f:
         json.dump({"updated_at": now_utc, "total_articles": len(combined_archive), "articles": combined_archive}, f, ensure_ascii=False, indent=2)
 
-    print("Klar! news.json, ai_news.json och archive.json är uppdaterade.")
+    # --- NYTT: 4. SPARA I DAGLIGT DATUMARKIV FÖR KALENDERFUNKTIONEN ---
+    print("Sparar dagens datumarkiv...")
+    os.makedirs("archive", exist_ok=True) # Skapar mappen "archive" om den inte finns
+    daily_archive_filename = f"archive/news_{today_str}.json"
+    
+    with open(daily_archive_filename, "w", encoding="utf-8") as f:
+        json.dump({"updated_at": now_utc, "articles": all_new_articles}, f, ensure_ascii=False, indent=2)
+
+    print(f"Klar! news.json, ai_news.json, archive.json och {daily_archive_filename} är uppdaterade.")
 
 if __name__ == "__main__":
     main()
