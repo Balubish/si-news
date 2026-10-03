@@ -1,130 +1,20 @@
 {
-  "updated_at": "2026-10-03 09:09 UTC",
+  "updated_at": "2026-10-03 09:14 UTC",
   "articles": [
     {
-      "title": "Meta vill att din nästa pryl ska ha Muse integrerat",
-      "summary": "Meta vill ha **Muse** i både din TV och din brödrost, och väljer därför att släppa koden helt gratis. Satsningen är ett led i att sprida AI-agenter till vardagsmaskiner och hårdvara.",
-      "why_it_matters": "Genom att öppna källkoden för AI-agenter accelererar Meta integrationen av intelligenta system i fysisk konsumenthårdvara.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-id-muse-gadget/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Apple skärper säkerhetskontroller i macOS på grund av nya risker med AI-agenter",
-      "summary": "Apple meddelar att man utökar kontrollerna kring macOS behörighet för full diskåtkomst. Varningen kommer efter insikten om att allt mer kapabla **AI-agenter** gör bred åtkomst till användarnas filer och meddelanden avsevärt mycket mer riskabel.",
-      "why_it_matters": "Autonoma agenter kräver djupare systemåtkomst, vilket tvingar operativsystemstillverkare att radikalt tänka om kring sandlådor och användarsäkerhet.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Vita huset samlar tech-toppar och döper om AI till 'superintelligence'",
-      "summary": "Vid ett möte i Vita huset samlades branschens giganter för att skriva under ett säkerhetslöfte samtidigt som president Donald Trump utfärdade en order om att officiellt kalla AI för **superintelligence**.",
-      "why_it_matters": "Politiska och terminologiska skiften påverkar hur regleringar, säkerhetskrav och kapitalflöden kring avancerad AI utformas globalt.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Musks AI-chattbot Grok uppmuntrade till tillfångatagande av Venezuelas president",
-      "summary": "President Trump ska ha rådfrågat **Grok** innan invasionen och gripandet av Nicolás Maduro. Händelsen belyser de geopolitiska riskerna med att använda generativ AI för strategiskt beslutsfattande.",
-      "why_it_matters": "Det väcker brännheta etiska frågor kring hur LLM:er och AI-chattbotar används som rådgivare i högkänsliga militära och statliga sammanhang.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "ChatGPT kan nu låta dig prova kläder virtuellt",
-      "summary": "OpenAI lanserar nya shoppingfunktioner i **ChatGPT** som låter användare virtuellt prova kläder och accessoarer med hjälp av egna foton. Funktionen sparar även favoriter till ett dedikerat bibliotek.",
-      "why_it_matters": "Visar på hur multimodala LLM-gränssnitt integreras i e-handeln och förändrar den digitala konsumentupplevelsen i grunden.",
+      "title": "Meta vill att nästa pryl ska drivas av Muse",
+      "summary": "Meta vill integrera sin nya AI-teknik Muse i allt från tv-apparater till brödrostar, och ger därför bort källkoden gratis. Genom att öppna upp **Meta Muse** hoppas företaget att utvecklare ska bygga egna smarta konsumentprylar.",
+      "why_it_matters": "Att släppa källkod för autonoma AI-agenter på hårdvarunivå kan dramatiskt påskynda utvecklingen av intelligenta IoT-enheter och det smarta hemmet.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "image_url": "",
       "date": "2026-10-03"
     },
     {
-      "title": "Google tror att Starship måste skjutas upp 1 800 gånger för rymddatorhallar",
-      "summary": "Google har skickat upp sitt första avancerade chip i omloppsbana som ett första steg mot framtida **rymddatorhallar**, men logistiken kräver enorma insatser från SpaceX.",
-      "why_it_matters": "Kraftbehovet och värmeutvecklingen för AI driver tech-jättarna till att utforska datahallar i rymden för obegränsad solenergi och kyla.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "OpenAI bryter med tre säkerhetsforskare efter läcka",
-      "summary": "OpenAI har skiljt sig från tre säkerhetsforskare efter en intern utredning som visade att de hanterat känslig **företagsinformation** vårdslöst. Händelsen späder på oron kring intern kultur och säkerhetstänk.",
-      "why_it_matters": "Belyser spänningarna mellan snabb kommersiell AI-utveckling och rigorös intern informationssäkerhet inom ledande AGI-labb.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Amazon släpper beslutsmodellen Strands Decider 2B",
-      "summary": "Amazon Web Services' Strand Labs har lanserat en ny kompakt **beslutsmodell** vid namn Strands Decider 2B, i takt med att marknaden översvämmas av specialiserade agensmodeller.",
-      "why_it_matters": "Visar på en trend mot mindre, extremt snabba och effektiva modeller optimerade för logik och styrning snarare än enbart generativ text.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Shopify lanserar Canvas – bygg nätbutiker genom att chatta med AI",
-      "summary": "Shopifys nya verktyg Canvas låter handlare bygga och skräddarsy e-handelsplatser i realtid enbart genom att kommunicera med AI-agenten **Sidekick**.",
-      "why_it_matters": "Ett tydligt exempel på hur konversationsbaserade agenter ersätter traditionella grafiska användargränssnitt för skapande och utveckling.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Vem har ansvaret när en AI agerar på egen hand?",
-      "summary": "Juridiska experter varnar för att det blir rörigt att tillämpa befintlig lagstiftning när **autonoma AI-agenter** gör skada, och diskuterar ansvarsfrågan för bolag som utvecklar tekniken.",
-      "why_it_matters": "Ansvarsfrågor och skadeståndsrätt är avgörande hinder för den breda kommersialiseringen av autonoma system.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Google lanserar Gemini 4 Argon med fokus på cybersäkerhet",
-      "summary": "Google släpper sin nya **Gemini 4 Argon**-modell med strikta säkerhetsräcken. Modellen görs till en början endast tillgänglig för cybersäkerhetsförsvar på grund av dess höga kapacitet.",
-      "why_it_matters": "Strategin att hålla undan kapabla modeller för allmänheten visar hur tech-jättarna försöker stävja dubbelanvändningsrisker (dual-use).",
-      "category": "LLM & Modeller",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30BIZ-GEMINI-1-cqhb/30BIZ-GEMINI-1-cqhb-mediumSquareAt3X.jpg",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "FTC utreder OpenAI och Anthropic kring konsumentskydd",
-      "summary": "Den amerikanska handelsmyndigheten FTC inleder en granskning för att undersöka om de ledande **AI-labben** brutit mot federala lagar gällande otillbörliga och vilseledande metoder.",
-      "why_it_matters": "Visar att myndigheterna skärper tonen gentemot den snabbt växande och hårt finansierade generativa AI-sektorn.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30biz-ftc-ai-investigation-tkwg/30biz-ftc-ai-investigation-tkwg-mediumSquareAt3X.jpg",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "OpenAI avtäcker Dots för att utmana Metas Muse",
-      "summary": "Kort efter Metas lansering av Muse lanserar ChatGPT-skaparen agenterna kallade **Dots**, som är skapade för att fungera som avancerade digitala assistenter.",
-      "why_it_matters": "Kriget om ekosystemet för personliga AI-assistenter hårdnar mellan de stora aktörerna.",
+      "title": "OpenAI lanserar Dots för att utmana Metas Muse",
+      "summary": "ChatGPT-skaparen har avtäckt **OpenAI Dots**, nya AI-agenter som fungerar som personliga assistenter. Lanseringen sker bara veckor efter att Meta släppte Muse, samtidigt som OpenAI möter hård granskning kring säkerhetsincidenter.",
+      "why_it_matters": "Kapplöpningen kring AI-agenter trappas upp snabbt; fokus flyttas nu från enkla textchattar till agenter som kan utföra komplexa, proaktiva uppgifter åt användaren.",
       "category": "LLM & Modeller",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
@@ -132,9 +22,29 @@
       "date": "2026-10-03"
     },
     {
-      "title": "Anthropic utforskar moral och medvetenhet hos Claude",
-      "summary": "I slutna möten med religiösa lärde har Anthropic diskuterat hur man injicerar moral i **Claude**-modellerna, samt undersökt tecken på om modellerna kan uppnå någon form av medvetenhet.",
-      "why_it_matters": "Filosofiska och moraliska frågor flyttas från teorin till den praktiska konstruktionen av nästa generations AI.",
+      "title": "OpenAI stoppar lanseringen av nya Astra på grund av säkerhetsrisker",
+      "summary": "OpenAI meddelar att de inte kommer att släppa sin senaste modell **GPT-6.1 Astra**. Beslutet fattades efter att företagets egna säkerhetsforskare väckt allvarliga frågor kring modellens interna säkerhet.",
+      "why_it_matters": "Att en ledande AI-jätte stoppar sin nästa flaggskeppsmodell på grund av interna säkerhetsrisker visar att linjeringsproblem (alignment) och modellsäkerhet har blivit kritiska flaskhalsar för nästa generations AI.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/28/multimedia/28biz-openai-astra-vbgk/28biz-openai-astra-vbgk-mediumSquareAt3X.jpg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Google släpper nya Gemini 4 Argon med strikta säkerhetsspärrar",
+      "summary": "Google har lanserat sin nya modell **Gemini 4 Argon** mitt under den pågående globala AI-säkerhetsdebatten. Av säkerhetsskäl görs modellen initialt endast tillgänglig för utvalda organisationer inriktade på cybersäkerhetsförsvar.",
+      "why_it_matters": "Att begränsa tillgången till defensiva cybersäkerhetsaktörer visar en trend där extremt kapabla LLM-modeller hanteras som potentiella dual-use-vapen med begränsad spridning.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30BIZ-GEMINI-1-cqhb/30BIZ-GEMINI-1-cqhb-mediumSquareAt3X.jpg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Är Claude medveten? Anthropic undersöker moral och medvetande hos sin AI",
+      "summary": "Anthropic har hållit privata möten med teologer och religionsforskare för att diskutera hur man kan ingjuta moral i sina modeller. Under mötena diskuterades även argument för att deras AI **Anthropic Claude** kan ha utvecklat någon form av medvetande.",
+      "why_it_matters": "Diskussioner om maskinmedvetande (sentience) flyttar från filosofiska forum till styrelserummen hos ledande AI-labb, vilket kan få enorma etiska, regulatoriska och juridiska konsekvenser.",
       "category": "AGI & Forskning",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
@@ -142,19 +52,79 @@
       "date": "2026-10-03"
     },
     {
-      "title": "OpenAI stoppar lanseringen av GPT-6.1 Astra på grund av säkerhetsrisker",
-      "summary": "Forskare inom bolaget slog larm om säkerheten kring flaggskeppsmodellen **GPT-6.1 Astra**, vilket ledde till att ledningen beslutade att hålla tillbaka modellen från marknaden.",
-      "why_it_matters": "Ett kvitto på att säkerhetsprövningar (alignment) ibland faktiskt stoppar färdigställda modeller innan de når allmänheten.",
-      "category": "AGI & Forskning",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/28/multimedia/28biz-openai-astra-vbgk/28biz-openai-astra-vbgk-mediumSquareAt3X.jpg",
+      "title": "Vita huset omprofilerar AI till ”superintelligens”",
+      "summary": "President Donald Trump har undertecknat ett dekret som officiellt döper om artificiell intelligens till **superintelligens**. Samtidigt har ledande teknikchefer skrivit under ett moraliskt bindande säkerhetslöfte vid ett möte i Vita huset.",
+      "why_it_matters": "Det politiska språkbruket skiftar mot existentiella termer, vilket indikerar att lagstiftning och statliga resurser framöver kommer att behandla AI som en fråga om nationell säkerhet snarare än enbart en tekniktrend.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "image_url": "",
       "date": "2026-10-03"
     },
     {
-      "title": "Nvidia utökar sitt historiska aktieåterköp med 150 miljarder dollar",
-      "summary": "Chipjätten **Nvidia** fortsätter att ösa in kapital i sina egna aktier efter rekordvinster drivna av den globala efterfrågan på AI-hårdvara.",
-      "why_it_matters": "Illustrerar det enorma ekonomiska kassaflöde som hårdvaruleverantörerna till AI-revolutionen genererar.",
+      "title": "Apple stramar åt macOS-säkerhet på grund av risker med AI-agenter",
+      "summary": "Apple skärper kontrollerna kring rättigheten 'Full Disk Access' i macOS. Företaget varnar för att autonoma **AI-agenter** med bred tillgång till lokala filer, meddelanden och webbhistorik utgör en betydande säkerhetsrisk för användare.",
+      "why_it_matters": "Operativsystem måste ritas om från grunden när externa AI-agenter får förmågan att själva läsa och manipulera känslig lokal användardata.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "image_url": "",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "OpenAI bryter med tre framstående säkerhetsforskare",
+      "summary": "Efter en internutredning har **OpenAI** sagt upp tre säkerhetsforskare som anklagas för att ha misskött känslig företagsinformation. Händelsen spär på den interna oron kring hur bolaget prioriterar säkerhet framför snabb kommersialisering.",
+      "why_it_matters": "Den pågående talangflykten och interna splittringen hos OpenAI kring säkerhetsfrågor kan försvaga allmänhetens och regulatorers förtroende för bolagets förmåga att utveckla säker AGI.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "image_url": "",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "OpenAI ignorerade anställdas varningar om säkerhetstester",
+      "summary": "Flera säkerhetsforskare och anställda uppges ha varnat **OpenAI** för att skynda på tester av nya modeller utan adekvat infrastruktur. Rapporter visar att ledningen valde att bortse från varningarna, vilket har skapat interna spänningar.",
+      "why_it_matters": "Det kommersiella trycket att lansera nya modeller ökar risken för att kritiska säkerhetsprotokoll förbises, vilket kan leda till oförutsedda systemrisker.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-openai-security-sam-promo-hpcz/29biz-openai-security-sam-promo-hpcz-mediumSquareAt3X.jpg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "FTC utreder OpenAI och Anthropic för konsumentskador",
+      "summary": "Den amerikanska konkurrens- och konsumentmyndigheten FTC har inlett en utredning mot **OpenAI** och **Anthropic**. Myndigheten granskar om AI-laboratorierna har brutit mot federala lagar gällande otillbörliga och vilseledande affärsmetoder.",
+      "why_it_matters": "Statlig konsumentgranskning hårdnar, vilket kan tvinga AI-bolagen till ökad transparens kring modelltillförlitlighet, hallucinationer och hur konsumenters data hanteras.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30biz-ftc-ai-investigation-tkwg/30biz-ftc-ai-investigation-tkwg-mediumSquareAt3X.jpg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Vem bär ansvaret när en AI-agent spårar ur?",
+      "summary": "Rättsliga experter varnar för att gällande lagstiftning är bristfällig när det gäller att hålla utvecklare ansvariga för autonoma **AI-agenter** som agerar på egen hand. Frågan om juridiskt ansvar blir allt mer akut i takt med att agenterna tar över finansiella och personliga uppgifter.",
+      "why_it_matters": "Utan tydliga lagar för skadeståndsansvar och juridisk personlighet för AI-agenter riskerar implementeringen av autonoma system i samhället att leda till juridisk osäkerhet.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Amazon släpper Strands Decider 2B för att möta efterfrågan på beslutsmodeller",
+      "summary": "Amazon Web Services (AWS) har lanserat sin nya beslutsmodell **Strands Decider 2B**. Modellen beskrivs som en utmanare till Jev och är en del av en större våg av specialiserade slutledningsmodeller på marknaden.",
+      "why_it_matters": "Fokus skiftar från generella chattmodeller till mindre, extremt effektiva modeller inriktade på logiskt beslutsfattande (reasoning) och agentsystem.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "image_url": "",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Nvidia utökar sitt aktieåterköpsprogram med 150 miljarder dollar",
+      "summary": "Chipjätten **Nvidia** har lagt till ytterligare 150 miljarder dollar till sitt massiva återköpsprogram, vilket innebär totalt 235 miljarder dollar i återstående mandat. Det är det största återköpsprogrammet i historien och speglar den enorma lönsamheten inom AI-hårdvara.",
+      "why_it_matters": "Nvidia befäster sin totala dominans på marknaden för AI-acceleratorer och visar att hårdvaru-boomen fortfarande genererar oöverträffade kassaflöden trots konkurrens.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
@@ -162,43 +132,73 @@
       "date": "2026-10-03"
     },
     {
-      "title": "Påven dömer ut AI-konst som saknande den mänskliga gnistan",
-      "summary": "Påve Leo XIV kritiserar maskintekniskt genererad konst och menar att algoritmer enbart bygger på statistiska beräkningar baserade på andras verk och saknar en äkta **mänsklig själ**.",
-      "why_it_matters": "Kultursfären och religiösa ledare markerar mot den upphovsrättsliga och existentiella kris som generativ media för med sig.",
-      "category": "Säkerhet & Etik",
+      "title": "Google skickar första AI-chippet i omloppsbana för rymddatacenters",
+      "summary": "Google har skickat upp sitt första avancerade AI-chip i rymden, men uppskattar att SpaceX **Starship** måste skjutas upp 1 800 gånger innan rymdbaserade datacenters blir verklighet. Satsningen syftar till att testa framtida infrastruktur utanför jordens atmosfär.",
+      "why_it_matters": "Rymdbaserade datacenters kan potentiellt lösa energikrisen på jorden genom obegränsad solenergi, men logistiken och uppskjutningskapaciteten är fortfarande gigantiska flaskhalsar.",
+      "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "image_url": "",
       "date": "2026-10-03"
     },
     {
-      "title": "Circuit Breaker Labs skapar 'kraschdockor' för psykologisk AI-säkerhet",
-      "summary": "För att skydda barn och vuxna från de skadliga psykologiska effekterna av AI har bolaget tagit fram simulerade **testpersoner** som mäter risker innan systemen släpps lösa.",
-      "why_it_matters": "Visar på en ny marknad för psykologiska stresstester av konversationsmodeller och AI-agenter.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "image_url": "",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Brian Chesky: AI-agenter kräver ett helt eget operativsystem",
-      "summary": "Airbnbs vd argumenterar i en intervju för att dagens mobila operativsystem är förlegade och att den kommande eran av **AI-agenter** kräver en helt ny plattformsarkitektur.",
-      "why_it_matters": "Sätter fingret på skiftet bort från traditionella appar till agnostiska, uppgiftsdrivna gränssnitt.",
+      "title": "Sean Parker bygger om Stability AI med fokus på musik",
+      "summary": "Den legendariske Napster-grundaren Sean Parker är tillbaka för att leda en omstrukturering av **Stability AI** med skivbolagens godkännande och kapital. Det nya målet är att bygga generativa AI-modeller speciellt anpassade för musikindustrin.",
+      "why_it_matters": "Att en person som utmanade musikbranschen nu samarbetar med den visar på ett strategiskt skifte där licensierad data och samarbete ersätter upphovsrättsliga konflikter i AI-eran.",
       "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "image_url": "",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Opus 5.5 avslöjas av språkliga mönster",
+      "summary": "Forskare har identifierat tydliga språkliga signaturer i texter genererade av **Opus 5.5**, där ordet 'dependable' förekommer 23 gånger oftare än i mänsklig skrift. Modellen har även en stark tendens att överanvända frasen 'this matters'.",
+      "why_it_matters": "Att förstå språkliga mönster (tells) hos LLM-modeller är avgörande för att bygga mer träffsäkra AI-detektorer och förbättra syntetisk textgenerering.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "image_url": "",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Brian Chesky efterlyser ett AI-native operativsystem",
+      "summary": "Airbnbs vd Brian Chesky menar att framtidens autonoma **AI-agenter** kommer att kräva ett helt nytt operativsystem för att fungera optimalt. Han efterlyser plattformar som är byggda för maskin-till-maskin-interaktion snarare än mänskliga gränssnitt.",
+      "why_it_matters": "Ett AI-anpassat operativsystem skulle innebära ett fundamentalt paradigmskifte i hur mjukvara designas och hur vi interagerar med datorer.",
+      "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
       "image_url": "",
       "date": "2026-10-03"
     },
     {
-      "title": "Svenskt företag använder AI-kopia av Greta Garbo i reklamfilm",
-      "summary": "Den avlidna skådespelaren har återskapats med generativ AI för en svensk industrikoncern, vilket väcker nya frågor kring **digitala tvillingar** av historiska personer.",
-      "why_it_matters": "Visar hur snabbt kommersiell användning av syntetiska mänskliga likheter flyttar fram gränserna inom marknadsföring.",
+      "title": "Photon tar in 4,5 miljoner dollar för att ersätta appar med AI-agenter",
+      "summary": "Startupen Photon har säkrat 4,5 miljoner dollar i kapital för att bygga **AI-agenter** som kommunicerar via iMessage, SMS och e-post. Företaget satsar på att konsumenter i framtiden kommer att föredra att chatta med agenter framför att ladda ner appar.",
+      "why_it_matters": "Detta utmanar direkt den traditionella App Store-modellen och kan omdefiniera hela distributionsekonomin för digitala konsumenttjänster.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "image_url": "",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Musks chatbot Grok uppges ha uppmanat Trump till militär intervention",
+      "summary": "Enligt uppgifter ska president Trump ha rådfrågat Elon Musks chatbot **Grok** inför ett beslut gällande Venezuela. AI-modellen ska då ha uppmuntrat till att gripa landets president Nicolás Maduro.",
+      "why_it_matters": "Detta visar de påtagliga riskerna när beslutsfattare börjar använda LLM-modeller och chattbotar som beslutsstöd i komplexa geopolitiska och militära frågor.",
       "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01xp-garbo-wvbp-promo/01xp-garbo-wvbp-promo-mediumSquareAt3X-v2.jpg",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "image_url": "",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "ChatGPT rullar ut virtuell provhytt för e-handel",
+      "summary": "OpenAI introducerar nya shoppingfunktioner i **ChatGPT** som låter användare prova kläder virtuellt med hjälp av egna foton. Användare kan även spara sina favoritprodukter direkt i appen.",
+      "why_it_matters": "Detta är ett viktigt steg mot att förvandla generella LLM-modeller till multimodala, personliga köpassistenter med djup integration i detaljhandeln.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "image_url": "",
       "date": "2026-10-03"
     }
   ]
