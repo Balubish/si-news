@@ -244,7 +244,19 @@
 
     <script>
         let allArticles = [];
+        
+        // Hämta sparade artiklar från localStorage
         let savedArticles = JSON.parse(localStorage.getItem('si_saved_articles')) || [];
+
+        // Rensa automatiskt bort artiklar som sparades för mer än 5 år sedan
+        const femArIMillisekunder = 5 * 365 * 24 * 60 * 60 * 1000;
+        const nu = Date.now();
+        
+        savedArticles = savedArticles.filter(art => {
+            if (!art.savedAt) return true; // Bevarar gamla sparade utan datum (bakåtkompatibilitet)
+            return (nu - art.savedAt) < femArIMillisekunder;
+        });
+        localStorage.setItem('si_saved_articles', JSON.stringify(savedArticles));
 
         // Tema-hantering
         const savedTheme = localStorage.getItem('si_theme') || 'neon';
@@ -330,8 +342,6 @@
 
         function setupCategories() {
             const nav = document.getElementById('category-nav');
-            
-            // AI Utveckling agerar nu huvudflik för ALLT som rör AI, AGI, SI och Robotar
             const priorityCategories = ['Alla', 'Sparade', 'AI Utveckling', 'Sverige', 'Världen', 'Ekonomi', 'Teknik', 'Klimat'];
             
             const jsonCategories = allArticles.map(a => a.category).filter(Boolean);
@@ -357,18 +367,32 @@
         }
 
         function toggleSave(url, btnElement) {
-            if (savedArticles.includes(url)) {
-                savedArticles = savedArticles.filter(saved => saved !== url);
-                btnElement.classList.remove('saved');
-                btnElement.innerText = '🔖 Spara';
+            const existingIndex = savedArticles.findIndex(a => a.url === url);
+
+            if (existingIndex !== -1) {
+                // Ta bort
+                savedArticles.splice(existingIndex, 1);
+                if (btnElement) {
+                    btnElement.classList.remove('saved');
+                    btnElement.innerText = '🔖 Spara';
+                }
             } else {
-                savedArticles.push(url);
-                btnElement.classList.add('saved');
-                btnElement.innerText = '⭐ Sparad';
+                // Lägg till med datumstämpel
+                const articleToSave = allArticles.find(a => a.url === url);
+                if (articleToSave) {
+                    const articleWithTimestamp = { ...articleToSave, savedAt: Date.now() };
+                    savedArticles.push(articleWithTimestamp);
+                    
+                    if (btnElement) {
+                        btnElement.classList.add('saved');
+                        btnElement.innerText = '⭐ Sparad';
+                    }
+                }
             }
+            
             localStorage.setItem('si_saved_articles', JSON.stringify(savedArticles));
             
-            const activeCategory = document.querySelector('.cat-btn.active').innerText;
+            const activeCategory = document.querySelector('.cat-btn.active')?.innerText;
             if (activeCategory === 'Sparade') {
                 renderArticles('Sparade');
             }
@@ -381,7 +405,9 @@
             let filtered = allArticles;
             
             if (categoryFilter === 'Sparade') {
-                filtered = allArticles.filter(a => savedArticles.includes(a.url));
+                // Sortera sparade artiklar så nyast sparade hamnar överst
+                filtered = [...savedArticles].reverse();
+                
                 if (filtered.length === 0) {
                     container.innerHTML = '<p style="text-align:center; color: var(--text-muted); padding: 40px;">Du har inga sparade nyheter än.</p>';
                     return;
@@ -396,14 +422,10 @@
 
                     if (cat === filterLower) return true;
 
-                    // Den nya massiva intelligensfliken
+                    // AI Utveckling (blockerar militära termer)
                     if (filterLower === 'ai utveckling') {
-                        // Inkluderar allt kring AI, AGI, SI och humanoider (inklusive Optimus & 1X Neo)
                         const isAI = /\b(ai|agi|asi|si|humanoid|humanoider|robotik|robot|optimus|1x|neo|figure|boston dynamics|unitree|llm|gpt|openai|gemini|claude|anthropic|artificiell intelligens|superintelligens|syntetisk intelligens)\b/i.test(fullText);
-                        
-                        // Blockerar nyheter om militära missiler för att undvika "ballistisk robot"-fällan
                         const isMilitaryMissile = /\b(ballistisk|kryssningsrobot|luftvärnsrobot|stridsinsats|missil|robotattack)\b/i.test(fullText);
-
                         return isAI && !isMilitaryMissile;
                     }
 
@@ -417,7 +439,7 @@
             }
 
             filtered.forEach(article => {
-                const isSaved = savedArticles.includes(article.url);
+                const isSaved = savedArticles.some(saved => saved.url === article.url);
                 const saveBtnClass = isSaved ? 'save-btn saved' : 'save-btn';
                 const saveBtnText = isSaved ? '⭐ Sparad' : '🔖 Spara';
                 const articleId = btoa(article.url);
@@ -430,13 +452,20 @@
                     ? `<div class="why-it-matters">💡 ${article.why_it_matters}</div>`
                     : '';
 
+                // Under 'Sparade' visar vi datumet den sparades istället för källa
+                const dateStr = article.savedAt 
+                    ? new Date(article.savedAt).toLocaleDateString('sv-SE') 
+                    : article.source;
+                    
+                const metaDisplay = categoryFilter === 'Sparade' && article.savedAt ? `Sparad: ${dateStr}` : article.source;
+
                 const cardHTML = `
                     <div class="news-card" id="${articleId}">
                         ${imageHTML}
                         <div class="card-content">
                             <div class="card-meta">
                                 <span class="category-pill">${article.category || 'Allmänt'}</span>
-                                <span>${article.source}</span>
+                                <span>${metaDisplay}</span>
                             </div>
                             <h2 class="news-title">${article.title}</h2>
                             <div class="news-summary">${parseMarkdown(article.summary)}</div>
