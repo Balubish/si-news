@@ -331,8 +331,8 @@
         function setupCategories() {
             const nav = document.getElementById('category-nav');
             
-            // Prioriterade och hårdkodade kategorier för träffsäkerhet
-            const priorityCategories = ['Alla', 'Sparade', 'Humanoida Robotar', 'AGI & SI', 'AI Utveckling', 'Sverige', 'Världen', 'Ekonomi', 'Teknik', 'Klimat'];
+            // AI Utveckling agerar nu huvudflik för ALLT som rör AI, AGI, SI och Robotar
+            const priorityCategories = ['Alla', 'Sparade', 'AI Utveckling', 'Sverige', 'Världen', 'Ekonomi', 'Teknik', 'Klimat'];
             
             const jsonCategories = allArticles.map(a => a.category).filter(Boolean);
             const categories = [...new Set([...priorityCategories, ...jsonCategories])];
@@ -392,21 +392,19 @@
                     const title = (a.title || '').toLowerCase();
                     const summary = (a.summary || '').toLowerCase();
                     const fullText = `${cat} ${title} ${summary}`;
-
                     const filterLower = categoryFilter.toLowerCase();
 
-                    // Direct category match
                     if (cat === filterLower) return true;
 
-                    // Smarta sökningar med exakta ordgränser (\b) för att undvika felaktiga träffar
-                    if (filterLower.includes('humanoid')) {
-                        return /\b(humanoid|humanoider|robot|robotar|robotik|optimus|1x|neo|figure|boston dynamics|unitree)\b/i.test(fullText);
-                    }
-                    if (filterLower.includes('agi') || filterLower.includes('si')) {
-                        return /\b(agi|si|superintelligens|syntetisk intelligens|singularitet|singularity|asi)\b/i.test(fullText);
-                    }
-                    if (filterLower.includes('ai')) {
-                        return /\b(ai|llm|gpt|openai|gemini|claude|anthropic|neural|artificiell intelligens)\b/i.test(fullText);
+                    // Den nya massiva intelligensfliken
+                    if (filterLower === 'ai utveckling') {
+                        // Inkluderar allt kring AI, AGI, SI och humanoider (inklusive Optimus & 1X Neo)
+                        const isAI = /\b(ai|agi|asi|si|humanoid|humanoider|robotik|robot|optimus|1x|neo|figure|boston dynamics|unitree|llm|gpt|openai|gemini|claude|anthropic|artificiell intelligens|superintelligens|syntetisk intelligens)\b/i.test(fullText);
+                        
+                        // Blockerar nyheter om militära missiler för att undvika "ballistisk robot"-fällan
+                        const isMilitaryMissile = /\b(ballistisk|kryssningsrobot|luftvärnsrobot|stridsinsats|missil|robotattack)\b/i.test(fullText);
+
+                        return isAI && !isMilitaryMissile;
                     }
 
                     return false;
