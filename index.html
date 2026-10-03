@@ -308,7 +308,6 @@
             const grid = document.getElementById('brief-grid');
             grid.innerHTML = '';
 
-            // Plocka de 3 första artiklarna
             const top3 = allArticles.slice(0, 3);
             top3.forEach((art, index) => {
                 grid.innerHTML += `
@@ -332,8 +331,8 @@
         function setupCategories() {
             const nav = document.getElementById('category-nav');
             
-            // Fastställda prioriterade kategorier (inklusive AI Utveckling och Robotik)
-            const priorityCategories = ['Alla', 'Sparade', 'AI Utveckling', 'Robotik', 'Sverige', 'Världen', 'Ekonomi', 'Teknik', 'Klimat', 'Kultur', 'Sport'];
+            // Prioriterade och hårdkodade kategorier för träffsäkerhet
+            const priorityCategories = ['Alla', 'Sparade', 'Humanoida Robotar', 'AGI & SI', 'AI Utveckling', 'Sverige', 'Världen', 'Ekonomi', 'Teknik', 'Klimat'];
             
             const jsonCategories = allArticles.map(a => a.category).filter(Boolean);
             const categories = [...new Set([...priorityCategories, ...jsonCategories])];
@@ -384,21 +383,31 @@
             if (categoryFilter === 'Sparade') {
                 filtered = allArticles.filter(a => savedArticles.includes(a.url));
                 if (filtered.length === 0) {
-                    container.innerHTML = '<p style="text-align:center; color: var(--text-muted);">Du har inga sparade nyheter än.</p>';
+                    container.innerHTML = '<p style="text-align:center; color: var(--text-muted); padding: 40px;">Du har inga sparade nyheter än.</p>';
                     return;
                 }
             } else if (categoryFilter !== 'Alla') {
                 filtered = allArticles.filter(a => {
-                    if (!a.category) return false;
-                    const catLower = a.category.toLowerCase();
+                    const cat = (a.category || '').toLowerCase();
+                    const title = (a.title || '').toLowerCase();
+                    const summary = (a.summary || '').toLowerCase();
+                    const fullText = `${cat} ${title} ${summary}`;
+
                     const filterLower = categoryFilter.toLowerCase();
 
-                    // Exakt matchning
-                    if (catLower === filterLower) return true;
-                    
-                    // Smart matchning för AI Utveckling & Robotik
-                    if (filterLower.includes('ai') && (catLower.includes('ai') || a.title.toLowerCase().includes('ai') || a.summary.toLowerCase().includes('ai'))) return true;
-                    if (filterLower.includes('robot') && (catLower.includes('robot') || a.title.toLowerCase().includes('robot') || a.summary.toLowerCase().includes('robot'))) return true;
+                    // Direct category match
+                    if (cat === filterLower) return true;
+
+                    // Smarta sökningar med exakta ordgränser (\b) för att undvika felaktiga träffar
+                    if (filterLower.includes('humanoid')) {
+                        return /\b(humanoid|humanoider|robot|robotar|robotik|optimus|1x|neo|figure|boston dynamics|unitree)\b/i.test(fullText);
+                    }
+                    if (filterLower.includes('agi') || filterLower.includes('si')) {
+                        return /\b(agi|si|superintelligens|syntetisk intelligens|singularitet|singularity|asi)\b/i.test(fullText);
+                    }
+                    if (filterLower.includes('ai')) {
+                        return /\b(ai|llm|gpt|openai|gemini|claude|anthropic|neural|artificiell intelligens)\b/i.test(fullText);
+                    }
 
                     return false;
                 });
