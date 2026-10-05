@@ -1,7 +1,617 @@
 {
-  "updated_at": "2026-10-04 21:10 UTC",
-  "total_articles": 202,
+  "updated_at": "2026-10-05 05:09 UTC",
+  "total_articles": 215,
   "articles": [
+    {
+      "title": "Ingen vinnare i det brasilianska presidentvalet – går till en andra omgång",
+      "summary": "Det står klart att varken sittande presidenten **Luiz Inácio Lula da Silva** eller utmanaren **Flávio Bolsonaro** fick över 50 procent av rösterna i den första valomgången. Valet avgörs nu i en andra omgång senare i oktober.",
+      "why_it_matters": "Valresultatet i Latinamerikas största land har stor geopolitisk och ekonomisk betydelse för hela regionen och dess relationer med omvärlden.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/andra-valomgang-vantar-i-brasilien",
+      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-brazil-elections-takeaways-ckzh/04int-brazil-elections-takeaways-ckzh-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "USA drar snabbt tillbaka bombflyg från brittisk bas efter nya hot",
+      "summary": "Den amerikanska militären har med omedelbar verkan beordrat att alla bombflygplan som varit stationerade vid **RAF Fairford** i England ska flyttas tillbaka till hemmastationer i **USA**. Åtgärden vidtas till följd av uppgifter om säkerhetshot kopplade till Iran.",
+      "why_it_matters": "Det hastiga beskedet understryker det spända säkerhetsläget och risken för proxyattacker mot strategiska västerländska militärbaser.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04dc-ukbase-plot-lwbh/04dc-ukbase-plot-lwbh-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Tusentals gripna i Frankrike när studentprotester trappas upp",
+      "summary": "Situationen kring de franska **studentprotesterna** beskrivs som utom kontroll efter att omkring 5 000 personer har gripits under den senaste veckan. Som en följd håller hundratals skolor helt eller delvis stängt.",
+      "why_it_matters": "De omfattande protesterna skapar stora inrikespolitiska utmaningar och stör utbildningsväsendet i landet.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/over-5-000-gripna-efter-studentprotester-i-frankrike",
+      "image_url": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-france-schools-wtk-hjvp/03int-france-schools-wtk-hjvp-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Putins nya strategi: Ryska attacker riktas mot tågtrafiken i Ukraina",
+      "summary": "Passagerartåg i brand och drönare mot tågstationer visar på en ny rysk strategi för att slå mot **Ukrainas tågtrafik**. SVT Verifierar har kartlagt attackerna som har krävt dödliga civila offer.",
+      "why_it_matters": "Att angripa den civila infrastrukturen och järnvägarna försvårar transporter och ökar lidandet för civilbefolkningen under kriget.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/putins-nya-mal-tagen",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Trump lanserar 'Super Intelligence Force' för att övervaka AI-politiken",
+      "summary": "USA:s president har tillkännagett en ny specialstyrka för att leda och övervaka landets **AI-politik**. Landets nationella underrättelsechef har utsetts att leda enheten i skuggan av en växande oro kring artificifik intelligens.",
+      "why_it_matters": "Satsningen visar hur stormakterna försöker reglera och säkra kontrollen över den snabba tekniska utvecklingen inom AI.",
+      "category": "Teknik",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Supermakterna tävlar om att placera kärnreaktorer på månen",
+      "summary": "Planer på att bygga kärnreaktorer på månen intensifieras där USA siktar på 2030 medan en rysk-kinesisk allians siktar på 2036. Vissa ledande forskare varnar för de stora **säkerhetsriskerna** med projektet.",
+      "why_it_matters": "Rymdkapplöpningen tar därmed ett steg in i en ny fas där militär och strategisk närvaro i rymden prioriteras högt.",
+      "category": "Teknik",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/00-nuclear-moon-01-plvq/00-nuclear-moon-01-plvq-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Yemens regering utlyser fullt krig för att återta mark från Huthirörelsen",
+      "summary": "Konflikten i **Jemen** eskalerar efter att den internationellt erkända regeringen tillkännagivit offensiva operationer. Samtidigt rapporteras drabbningar och oljeattacker med stöd av utländska allierade.",
+      "why_it_matters": "En upptrappning i regionen hotar den bräckliga stabiliteten kring viktiga oljeleder och Röda havet.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-yemen-saudi-01-zkgt/04int-yemen-saudi-01-zkgt-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Sex personer saknas efter flygolycka utanför USA:s kust",
+      "summary": "En ambulansflygning som försvann på väg från Bermuda till Boston har kraschat. Den **amerikanska kustbevakningen** har funnit vrakdelar och befarar att samtliga ombord har omkommit.",
+      "why_it_matters": "Olyckan har utlöst en omfattande sökinsats och väckt frågor kring flygsäkerheten för ambulansflyg över öppet hav.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/sex-saknas-efter-flygolycka-i-usa-vrakdelar-hittade",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Skjutning mot jaktlag i Norge nära svenska gränsen – far och son döda",
+      "summary": "En tragisk händelse inträffade i **Halden** då en man i 20-årsåldern sköt mot ett jaktlag. En far och son miste livet och en person skadades allvarligt i konflikten.",
+      "why_it_matters": "Våldsdådet nära den svenska gränsen har chockat lokalsamhället och lett till en omfattande mordutredning.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Etiopiska rebellstyrkor drar sig tillbaka från Tigrays huvudstad",
+      "summary": "Pro-regeringsstyrkor har tagit kontroll över Mekelle efter att rebellerna dragit sig tillbaka. Händelsen ökar oron för en förnyadregional **konflikt** i Afrikas horn.",
+      "why_it_matters": "Situationen i regionen riskerar att dra in flera utländska stormakter och förvärra den humanitära krisen.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-ethiopia-wtk-1-btwq/03int-ethiopia-wtk-1-btwq-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Tusentals marscherar mot Pakistans huvudstad efter fängslad ex-premiärminister",
+      "summary": "Anhängare till **Imran Khan** har brutit dödläget med myndigheterna och gett sig ut på gatorna i stora protester mot regeringen.",
+      "why_it_matters": "Massmobiliseringen skapar politisk turbulens i ett redan ansträngt och säkerhetskänsligt land.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Japan protesterar efter att amerikansk marinsoldat anklagas för mord i Okinawa",
+      "summary": "En kvinna har mördats i **Okinawa** och en amerikansk marinsoldat har gripits misstänkt för brottet. Händelsen hotar att blossa upp de historiska spänningarna kring USA:s militära närvaro.",
+      "why_it_matters": "Relationen mellan Japan och USA prövas återigen i frågor som rör utländsk militär personal och lokal lagstiftning.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-japan-us-marine-gvpj/04int-japan-us-marine-gvpj-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Irans säkerhetschef varnar för djup ekonomisk kris",
+      "summary": "I en sällsynt offentlig bedömning medger regimens topptjänstemän att **ekonomin** pressas hårt. Detta sker efter att USA skärpt både sanktioner och landets marina blockad.",
+      "why_it_matters": "De inhemska ekonomiska problemen kan få politiska konsekvenser och påverka landets agerande i regionen.",
+      "category": "Ekonomi",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-iran-economy-01-whtg/04int-iran-economy-01-whtg-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Ryssar köper kinesiska elbilar i spåren av ukrainska bränsleattacker",
+      "summary": "Efter upprepade ukrainska attacker mot ryska oljeraffinaderier har bränslebristen blivit märkbar. Som svar ökar nu försäljningen av **Kina-tillverkade elbilar** kraftigt i Moskva.",
+      "why_it_matters": "Krigets direkta konsekvenser tvingar fram snabba beteendeförändringar och omställningar i det ryska samhället.",
+      "category": "Klimat",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/00int-russia-evs-01-wzgm/00int-russia-evs-01-wzgm-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Ebola-epidemin i Kongo sprider sig snabbt i avskilt område",
+      "summary": "Brist på externt stöd och isolering har gjort utbrottet till det värsta på flera år i **Demokratiska republiken Kongo**, vilket väcker stor internationell oro.",
+      "why_it_matters": "Sjukdomens snabba spridning hotar att skapa en humanitär katastrof om inte medicinska resurser når fram i tid.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/00int-ebola-congo-town-promo-lvcz/00int-ebola-congo-town-promo-lvcz-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Separatister på väg att vinna i Quebec men självständighet splittrar",
+      "summary": "Parti Québécois ser ut att vinna valet i den kanadensiska provinsen och lovar en ny folkomröstning, även om väljarna är tveksamma till en total **självständighet**.",
+      "why_it_matters": "Valresultatet kan väcka liv i gamla konstitutionella frågor och påverka Kanadas politiska stabilitet.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-canada-quebec-independence-promo/03int-canada-quebec-independence-promo-mediumSquareAt3X-v2.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Amerikanska tonåringar säljer vapen vidare till mexikanska karteller",
+      "summary": "Lockade av pengar och status köper och stjäl unga i **Arizona** vapen som smugglas över gränsen till kriminella gäng i Mexiko.",
+      "why_it_matters": "Den illegala vapenhandeln via ungdomar förser de våldsamma kartellerna med ständigt nya resurser.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/10/multimedia/00int-mexico-guns-promo/00int-mexico-guns-jbkp-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Fyra döda i amerikansk attack mot båt i Karibiska havet",
+      "summary": "USA har genomfört en militär **båtattack** mot ett fartyg som misstänks ha använts för narkotikasmuggling i Karibien, med fyra dödsfall som följd.",
+      "why_it_matters": "Insatsen visar på USA:s fortsatta hårda linje mot den transnationella drogbrottsligheten till havs.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/fyra-doda-i-ny-batattack-i-karibiska-havet",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Eric Smith pressas om en given startplats i landslaget mot Rumänien",
+      "summary": "Sveriges landslag har drabbats av många återbud bland mittbackarna, vilket sätter **Eric Smith** i blickfånget för en potentiell startelva mot Rumänien.",
+      "why_it_matters": "Truppens skadeläge kräver defensiva omdisponeringar inför de avgörande landskamperna.",
+      "category": "Sport",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/sport/fotboll/eric-smith-pressas-om-startplats-det-kan-man-val-gora",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Stekhet Leo Carlsson bakom allt i Anaheim Ducks premiärseger",
+      "summary": "Svenske stjärnan **Leo Carlsson** fick en drömstart på NHL-säsongen när han låg bakom det mesta i segern mot Florida Panthers.",
+      "why_it_matters": "Det starka spelet bäddar för höga förväntningar på svenskens fortsatta utveckling i Nordamerika.",
+      "category": "Sport",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/sport/ishockey/stekhet-leo-carlsson-bakom-allt-nar-ducks-vann-hemmapremiaren",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Cristiano Ronaldo fortsatt välkommen i det portugisiska landslaget",
+      "summary": "Förbundskaptenen Jorge Jesus meddelar att **Cristiano Ronaldo** har dörren öppen för en comeback i landslaget om han själv vill efter sitt tidigare avhopp.",
+      "why_it_matters": "Beskedet dämpar spekulationerna kring storstjärnans framtid i den nationella tröjan.",
+      "category": "Sport",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/sport/fotboll/ronaldo-fortsatt-valkommen-i-landslaget",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Varg skjuten i Karlskoga efter flera attacker mot tamdjur",
+      "summary": "Efter beslut om skyddsjakt har en vargtik fällts norr om Karlskoga. Bakgrunden är upprepade angrepp på tamdjur och en dödad kalv i närområdet, uppger **Jägareförbundet**.",
+      "why_it_matters": "Skyddsjakten väcker återigen debatt kring rovdjurspolitiken och skyddet av tamdjur på landsbygden.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/efter-flera-djurangrepp-varg-skjuten-i-karlskoga",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Bostaden i Umeå testar AI för att förbättra inomhusvärmen",
+      "summary": "Det kommunala bostadsbolaget i Umeå tar hjälp av **artificifik intelligens** för att lösa problemen med kalla lägenheter och ojämna temperaturer hos hyresgästerna.",
+      "why_it_matters": "Projektet visar hur fastighetsägare kan använda ny teknik för att öka både energieffektiviteten och boendekomforten.",
+      "category": "Teknik",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/bostaden-i-umea-vill-forbattra-varmen-i-lagenheterna-testar-ai",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Ekonomijokern varnar: Tre röda flaggor på en het börs",
+      "summary": "Ekonomijournalisten Gabriel Mellqvist pekar ut räntor, oljepriser och risken för en **AI-bubbla** som tre centrala varningsflaggor för dagens stabila men heta aktiemarknad.",
+      "why_it_matters": "Varningarna påminner investerare om att vara vaksamma i ett osäkert ekonomiskt läge.",
+      "category": "Ekonomi",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/ekonomi/lista-tre-roda-flaggor-pa-borsen",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Träd på kontaktledning orsakade totalt tågstopp mellan Göteborg och Stockholm",
+      "summary": "Ett nedfallet träd som blev hängande över kontaktledningen ledde till att tågtrafiken stod helt stilla under stora delar av söndagen på sträckan mellan **Göteborg och Stockholm**.",
+      "why_it_matters": "Stoppet orsakade omfattande förseningar och problem för tusentals resenärer ihelgtrafiken.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/tagstopp-mellan-goteborg-och-stockholm-fi6tay",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Krögare och Sundsvalls kommun i långbänk om ett träd på uteservering",
+      "summary": "Ett inbyggt träd på en inglasad uteservering i **Sundsvall** har blivit en följetong. Kommunen menar att trädet kan ta skada, vilket bestrids av en anlitad trädexpert.",
+      "why_it_matters": "Konflikten belyser gränsdragningsproblem mellan lokala bygglovsregler och företagares utformning av lokaler.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/krogare-och-sundsvalls-kommun-i-schism-om-ett-trad",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Läkare i Umeå får kritik av IVO efter förskrivning av narkotikaklassade medel",
+      "summary": "En läkare har anmälts av Inspektionen för vård och omsorg (**IVO**) efter att ha skrivit ut stora mängder sömnmedel och lugnande mediciner till både en närstående och sig själv.",
+      "why_it_matters": "Fallet understryker vikten av strikt kontroll kring hanteringen och förskrivningen av narkotikaklassade läkemedel inom svensk sjukvård.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/lakare-fran-umea-skrev-ut-somnmedel-till-sig-sjalv-far-kritik",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Patient förlorade synen i Sörmland efter utebliven uppföljning",
+      "summary": "En patient som sökte vård för plötslig synnedsättning och en blödning i ögat förlorade sedermera synen helt till följd av brister i **vårdens uppföljning**.",
+      "why_it_matters": "Händelsen visar på allvarliga brister i patientsäkerheten och vikten av säkra rutiner vid akuta ögonskador.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/patient-forlorade-synen-efter-utebliven-uppfoljning",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Bagarens bästa tips inför kanelbullens dag",
+      "summary": "Inför den stora bulldagen delar bagaren Amalia Andersson i Umeå med sig av sina bästa knep för att baka den perfekta, saftiga **kanelbullen**.",
+      "why_it_matters": "Mat- och baktraditioner engagerar miljoner svenskar årligen.",
+      "category": "Kultur",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/bagaren-amalias-basta-tips-sa-gor-du-en-riktigt-god-kanelbulle",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Nära 300 skandinaver med i den israeliska militären",
+      "summary": "Uppgifter från militären visar att hundratals personer med svenskt, danskt, norskt och finskt medborgarskap finns registrerade inom **IDF**, vilket uppmärksammats i granskningar.",
+      "why_it_matters": "Kopplingarna till utländsk militärtjänstgöring väcker säkerhets- och folkrättsliga frågor i de skandinaviska länderna.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/nara-300-skandinaver-ar-med-i-den-israeliska-militaren-svt-har-traffat-en-av-dem",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Levande historia: Victoria spenderar fritiden som en Vasadrottning",
+      "summary": "Med handsydda sammetstyger och tidstypisk matfördjupning gestaltar Victoria Enefors 1500-talsdrottningen **Katarina Jagellonica** som en hängiven hobby.",
+      "why_it_matters": "Historiskt återskapande ger unika inblickar i svenskt kulturarv och äldre tiders levnadsvanor.",
+      "category": "Kultur",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/victorias-hobby-att-leva-som-en-vasadrottning",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Stiftsteolog i Linköping om det nya översatta Nya testamentet",
+      "summary": "Efter sju års intensivt arbete har Dan Nässelqvist och kollegorna lanserat en ny översättning av **Nya testamentet** för Svenska kyrkan.",
+      "why_it_matters": "Nya bibelöversättningar är omfattande akademiska och teologiska storverk som påverkar kyrkliga läror och läsartraditioner.",
+      "category": "Kultur",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/dan-i-linkoping-har-oversatt-nya-testamentet-svara-avvagningar",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Khadar i Falun matchad direkt för stamcellsdonation via Tiktok",
+      "summary": "Genom en kort video på sociala medier anmälde sig Khadar Farah till **Tobiasregistret** och fick en matchning för att rädda liv på en leukemipatient.",
+      "why_it_matters": "Exemplet visar hur sociala medier kan bidra till att rekrytera livsavgörande donatorer från underrepresenterade grupper.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/dalarna/khadar-i-falun-ska-ge-stamceller-till-leukemipatient-fick-matchning-direkt",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Misstänkt mordförsök i Farsta efter bråk mellan män",
+      "summary": "En man har förts till sjukhus med skador från ett vasst föremål efter en urspårad konflikt i **Farsta** i södra Stockholm. Polisen utreder händelsen som mordförsök.",
+      "why_it_matters": "Våldsbrott med vassa föremål i stadsmiljö fortsätter att oroa och kräver stora polisresurser.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-farsta",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Tre fartyg i kollision i Norge – fartyget tar in vatten",
+      "summary": "Ett tankfartyg har kolliderat med två lastfartyg utanför **Ålesund**. Ett av fartygen uppges läcka och ta in vatten, men inga fysiska personskador har rapporterats.",
+      "why_it_matters": "Olyckor till sjöss med tankfartyg medför alltid risker för miljöutsläpp och kräver snabba räddningsinsatser.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/tre-fartyg-i-kollision-i-norge",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Tumult vid spanska demonstrantläger efter polisvåld",
+      "summary": "Spansk polis tvingades avlossa gummikulor och varningsskott sedan högerextrema grupper försökt forcera sig in mot **demonstrantläger** i landet.",
+      "why_it_matters": "Spänningarna mellan olika politiska grupper ökar oron för utbredda gatuoroligheter i södra Europa.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/tumult-vid-spanska-demonstrantlager",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Hundratals palestinier strömmar tillbaka till norra Gaza till fots",
+      "summary": "Efter uppgörelser och brutna dödlägen kring gisslan har Israel öppnat upp delar av en militär zon så att flyktingar kunnat börja vandra tillbaka till **norra Gaza**.",
+      "why_it_matters": "Återvändandet markerar en viktig mänsklig förskjutning i den svåra humanitära situationen i det drabbade området.",
+      "category": "Världen",
+      "source": "WSJ.com: World News",
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Misstänkt sabotage mot djuphavskabel utlöser NATO-respons",
+      "summary": "Alliansen har genomfört sin första samordnade reaktion på misstänkta sabotagekampanjer efter att ytterligare en undervattenskabel kapats i **Östersjön**.",
+      "why_it_matters": "Säkerheten kring kritisk infrastruktur under vatten har blivit en av NATO:s absolut högsta prioriteringar.",
+      "category": "Världen",
+      "source": "WSJ.com: World News",
+      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "Title": "Kinesisk fastighetsjätte rapporterar jätteförlust i ny krisvåg",
+      "summary": "Vankes ekonomiska problem fördjupar oron för att fastighetskrisen i **Kina** sprider sig och sätter press på statliga räddningsinsatser.",
+      "why_it_matters": "Fastighetssektorns hälsa är avgörande för landets bredare ekonomiska tillväxt och den globala marknaden.",
+      "category": "Ekonomi",
+      "source": "WSJ.com: World News",
+      "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Tysklands ekonomiska modell hackar och saknar plan B",
+      "summary": "Med en ekonomi starkt beroende av export möter Tyskland nu dämpad efterfrågan från Kina och hot om ökade **amerikanska tullar**, utan att tydliga politiska alternativ syns.",
+      "why_it_matters": "Tysklands ekonomiska stagnation riskerar att dra ned tillväxten i hela EU.",
+      "category": "Ekonomi",
+      "source": "WSJ.com: World News",
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Valar sänkte segelbåt i Södra stillahavskanten – besättningen räddad efter 18 timmar",
+      "summary": "Fyra personer tvingades överge sin yacht efter att den attackerats av valar. Besättningen drev i livflotte innan en dramatisk **räddningsaktion** kunde slutföras.",
+      "why_it_matters": "Den ovanliga incidenten belyser naturens oförutsägbarhet till havs för långseglare.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/01/obituaries/01xp-whale/01xp-whale-mediumSquareAt3X-v4.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "OpenAI stoppar lanseringen av modellen GPT-6.1 Astra på grund av säkerhetsrisker",
+      "summary": "Företaget har valt att pausa den publika lanseringen av sin senaste modell **GPT-6.1 Astra**. Beslutet fattades efter att interna forskare och säkerhetsexperter slagit larm om identifierade sårbarheter och säkerhetsbrister i modellens beteende.",
+      "why_it_matters": "Detta visar på en växande intern försiktighet hos ledande AI-laboratorier där avancerade förmågor hos nästa generations frontier-modeller nu aktivt hålls tillbaka av säkerhetsskäl.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/28/multimedia/28biz-openai-astra-vbgk/28biz-openai-astra-vbgk-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Anthropic utforskar moral och potentiellt medvetande hos Claude",
+      "summary": "I en serie stängda möten med religions- och etikforskare har **Anthropic** diskuterat hur moral bäst implementeras i framtida system. Diskussionerna rörde även hypotetiska scenarier kring huruvida flaggskeppsmodellen **Claude** kan närma sig någon form av medvetande.",
+      "why_it_matters": "Frågan om maskinmedvetande och digital etik flyttar från science fiction till praktisk policy och teknisk anpassning hos ledande frontier-bolag.",
+      "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "image_url": "https://static01.nyt.com/images/2026/06/30/multimedia/30nat-pope-anthropic-wfkz/30nat-pope-anthropic-wfkz-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "OpenAI lanserar agentplattformen Dots för att utmana Metas Muse",
+      "summary": "Teknikjätten har avtäckt **Dots**, en ny uppsättning autonoma AI-agenter avsedda att fungera som personliga assistenter för vardagliga och professionella arbetsflöden. Satsningen kommer strax efter att rivalen **Meta** rullade ut sin motsvarande agentinfrastruktur Muse.",
+      "why_it_matters": "Det markerar det snabba skiftet från enkla textchattar till proaktiva, autonoma agenter som utför flerstegsuppgifter direkt i användarens digitala miljö.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Google lanserar Gemini 4 Argon med begränsad tillgång för cybersäkerhet",
+      "summary": "Teknikjätten har lanserat **Gemini 4 Argon**, men begränsar inledningsvis tillgången till utvalda organisationer med fokus på defensiv cybersäkerhet. Modellen är försedd med extra hårda skyddsbarriärer för att förhindra att dess avancerade kapacitet missbrukas.",
+      "why_it_matters": "Frontier-modeller blir allt mer potenta inom automatiserad kodgranskning och penetrationstestning, vilket tvingar fram gradvisa och kontrollerade utrullningsstrategier.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30BIZ-GEMINI-1-cqhb/30BIZ-GEMINI-1-cqhb-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Apple skärper diskåtkomst i macOS på grund av risker med AI-agenter",
+      "summary": "**Apple** meddelar att man inför hårdare restriktioner kring behörigheten ”Full Disk Access” i macOS. Bakgrunden är att allt mer autonoma **AI-agenter** med bred systemåtkomst utgör en förhöjd säkerhetsrisk för användardata, meddelanden och webbhistorik.",
+      "why_it_matters": "Operativsystemleverantörer måste nu designa om traditionella behörighetsarkitekturer för att begränsa skadeverkningarna från autonoma programvaruagenter.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Google pausar bug bounty-program efter översvämning av AI-rapporter",
+      "summary": "**Google** har tvingats frysa sitt program för sårbarhetsbelöningar inom öppen källkod på grund av en lavinartad ökning av lågkvalitativt **AI-genererat innehåll**. Triage-teamen blev överbelastade av tusentals felaktiga eller ytliga felrapporter genererade av automatiserade verktyg.",
+      "why_it_matters": "Belyser en växande asymmetri: LLM-baserade verktyg kan massproducera felrapporter och 'slop' snabbare än mänskliga säkerhetsexperter hinner validera dem.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Google analyserar rymdbaserade datacenter – kräver massiva Starship-uppskjutningar",
+      "summary": "Efter att ha skickat upp sitt första avancerade acceleratorchip i omloppsbana bedömer **Google** att SpaceX måste genomföra runt 1 800 uppskjutningar med **Starship** innan storskaliga datacenter i rymden blir tekniskt och ekonomiskt genomförbara.",
+      "why_it_matters": "När energibehovet och kylkraven för avancerad AI-träning pressar jordens elnät till bristningsgränsen börjar rymdbaserad hårdvaruinfrastruktur studeras på fullt allvar.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Avhoppad säkerhetsforskare varnar för trasig företagskultur på OpenAI",
+      "summary": "David Robinson, anställd inom AI-säkerhet på **OpenAI**, har sagt upp sig och varnar för att bolagets interna kultur prioriterar snabb kommersialisering över grundläggande riskhantering. Han sällar sig till en rad tidigare avhoppare som riktat skarp kritik mot bolagets säkerhetsfokus.",
+      "why_it_matters": "Personalavhopp från ledande säkerhetsroller belyser den fortsatta spänningen mellan kommersiellt tempo och ansvarsfull modellutveckling.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "OpenAI anklagas för att ha ignorerat interna varningar om modelltester",
+      "summary": "Nuvarande och tidigare anställda avslöjar att **OpenAI** upprepade gånger bortsett från interna varningar gällande bristfälliga testrutiner och svag företagsinfrastruktur. Varningarna gällde risker för att opålitliga **AI-modeller** rullas ut innan alla skyddsnivåer kunnat verifieras.",
+      "why_it_matters": "Inblickar i hur de ledande AI-laboratorierna hanterar interna riskvarningar ökar pressen på standardiserad extern tillsyn och oberoende revisioner.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-openai-security-sam-promo-hpcz/29biz-openai-security-sam-promo-hpcz-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "FTC inleder utredning mot OpenAI och Anthropic gällande konsumentskador",
+      "summary": "Amerikanska **FTC** har startat en formell granskning av **Anthropic** och OpenAI för att utreda om bolagens metoder strider mot lagar om otillbörliga och vilseledande affärsmetoder. Myndigheten fokuserar särskilt på potentiella risker och vilseledande beteenden hos deras konsumentprodukter.",
+      "why_it_matters": "Visar att regleringsfokuset nu rör sig bortom upphovsrätt och konkurrensfrågor mot direkt konsumentskydd och systemiskt ansvar för AI-leverantörer.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30biz-ftc-ai-investigation-tkwg/30biz-ftc-ai-investigation-tkwg-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Meta öppnar källkoden för Muse för integration i konsumentelektronik",
+      "summary": "**Meta** vill att dess nya AI-agentplattform **Muse** ska integreras i allt från smarta TV-apparater till hushållsprodukter och erbjuder nu källkoden kostnadsfritt. Strategin syftar till att etablera Metas arkitektur som standard för distribuerad AI i hårdvara.",
+      "why_it_matters": "Öppen källkod inom agentramverk sänker tröskeln för att förvandla vardaglig IoT-hårdvara till kontextmedvetna, intelligenta enheter.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Vita huset skapar ”Super Intelligence Force” och omdefinierar AI-begreppet",
+      "summary": "USA:s administration har undertecknat ett dekret som officiellt omdefinierar avancerad artificiell intelligens som **super intelligence** och etablerar en ny federal insatsstyrka. Samtidigt samlades ledande teknikchefer för att underteckna ett frivilligt **säkerhetsavtal**.",
+      "why_it_matters": "Förskjutningen från standardiserad AI-reglering till geopolitiska AGI-initiativ och frivillig självreglering påverkar hur global teknikpolitik och innovationsincitament formas.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Juridiskt dilemma: Vem bär ansvaret när autonoma agenter löper amok?",
+      "summary": "Juridiska experter och lagstiftare brottas med hur ansvarsfrågan ska hanteras när avancerade **AI-agenter** agerar självständigt och orsakar skador. Befintliga lagar om produktansvar och vårdslöshet visar sig vara svåra att tillämpa på icke-deterministiska modeller och **autonoma system**.",
+      "why_it_matters": "När agenter beviljas mandat att flytta pengar, hantera e-post och modifiera data måste ansvarsfördelningen mellan utvecklare, driftsättare och slutanvändare lösas i grunden.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Amerikansk domstol river upp dom efter AI-genererat vittnesmål från mordoffer",
+      "summary": "En appellationsdomstol i Arizona har upphävt ett fängelsestraff efter att försvaret under rättegången visat en **AI-genererad video** där offret syntes ”förlåta” sin förövare. Händelsen har väckt kraftig debatt om hur syntetiska medier tillåts påverka rättsväsendet.",
+      "why_it_matters": "Ett prejudicerande rättsfall som visar att djupförfalskningar och syntetisk persona-modellering nu tränger in i samhällets mest känsliga juridiska processer.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-ai-video1-ztmh/04xp-ai-video1-ztmh-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Meta utnyttjar skattelättnader för datacenter för att spara miljarder",
+      "summary": "**Meta** använder skatteavdrag avsedda för forskning och utveckling för att finansiera sina gigantiska **AI-datacenter**. Granskningar visar dock att bolagets egna revisorer varnat för att det aggressiva upplägget innebär stora juridiska risker gentemot skattemyndigheterna.",
+      "why_it_matters": "Finansieringen av beräkningskluster är en av AI-erans största kapitalkostnader, vilket driver teknikjättar till allt mer avancerade finansiella strukturer.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/23/business/00rd-tax/00rd-tax-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Amazon slopar sekretessavtal kring datacenter efter lokal motreaktion",
+      "summary": "**Amazon Web Services** lovar att sluta använda strikta sekretessavtal (NDA) vid förhandlingar om nya anläggningar efter växande folkligt missnöje. Bolaget lovar också ökat lokalt stöd för att dämpa oron kring elförbrukning och resursutnyttjande vid massiva **datacenter**.",
+      "why_it_matters": "Lokalbefolkningens och miljögruppers motstånd mot datacenter har blivit en flaskhals för utbyggnaden av storskalig AI-hårdvara.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Ny studie kartlägger hälsorisker och miljöbelastning från täta datacenterkluster",
+      "summary": "En ny miljöstudie i Pennsylvania granskar hur kluster av **AI-datacenter** gemensamt påverkar luftkvalitet, elnät och folkhälsa. Tidigare har tillståndsprocesser bedömt anläggningar individuellt snarare än den samlade belastningen från storskalig **beräkningsinfrastruktur**.",
+      "why_it_matters": "Ökad transparens kring klustereffekter kan leda till striktare miljölagstiftning som direkt begränsar var framtida superdatorer får byggas.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-data-center-pollution-vwgb/30cli-data-center-pollution-vwgb-mediumSquareAt3X.jpg",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Sean Parker stöper om Stability AI med fokus på musikindustrin",
+      "summary": "Entreprenören Sean Parker leder en omstrukturering av **Stability AI** med sikte på generativ musik och ljud i samarbete med etablerade skivbolag. Satsningen sker med branschens godkännande i syfte att bygga legala och licensierade **generativa modeller**.",
+      "why_it_matters": "Representerar en mognadsfas där AI-bolag rör sig bort från upphovsrättsliga tvister mot intäktsdelning och industristandardiserade licensavtal.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "OpenAI integrerar virtuell provhytt och shopping i ChatGPT",
+      "summary": "**ChatGPT** får nya funktioner som låter användare virtuellt prova kläder och accessoarer direkt via egna uppladdade fotografier. Verktyget bygger på multimodala modeller och integreras med ett bibliotek där användare kan spara produkter från anslutna e-handlare.",
+      "why_it_matters": "Illustrerar hur multimodala modeller omvandlas till direkta kommersiella plattformar för e-handel och visuell interaktion i konsumentledet.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Circuit Breaker Labs utvecklar virtuella krockdockor för AI-säkerhet",
+      "summary": "Säkerhetsföretaget Circuit Breaker Labs har tagit fram simulerade användarprofiler som fungerar som krockdockor för att stresstesta **AI-modeller**. Metoden syftar till att identifiera och åtgärda manipulativa eller psykologiskt skadliga interaktionsmönster innan systemen möter verkliga användare.",
+      "why_it_matters": "Proaktiv beteendetestning av chattrobotar blir avgörande för att förhindra psykologiska skador och säkerställa trygg interaktion för unga användare.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "image_url": "",
+      "date": "2026-10-05"
+    },
     {
       "title": "Ryssland slår ut livsviktiga broar i Kiev – dramatisk eskalering",
       "summary": "Ryska drönar- och robotangrepp har under flera dagar i rad riktats direkt mot centrala **broförbindelser** i Ukrainas huvudstad Kiev. Attackerna skapar stora störningar i transportflöden och elnät samtidigt som internationella ledare besöker staden.",
@@ -23,26 +633,6 @@
       "date": "2026-10-04"
     },
     {
-      "title": "Jemens regering utlyser fullt krig mot Huthirörelsen",
-      "summary": "Jemens internationellt erkända regering har förklarat **totalt krig** för att återta kontroll över territorier från den Iranstödda Huthirörelsen. Beslutet följer på intensifierade militära operationer och nya Huthianfall mot oljeanläggningar i Saudiarabien.",
-      "why_it_matters": "En upptrappning hotar den globala sjöfarten och riskerar att dra in regionala stormakter djupare i en redan förödande konflikt.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-yemen-saudi-01-zkgt/04int-yemen-saudi-01-zkgt-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Över 5 000 gripna när franska studentprotester eskalerar",
-      "summary": "Omfattande elev- och studentprotester mot utbildningssystemet beskrivs av polisen i Paris som utom kontroll efter att tusentals personer **arresterats**. Hundratals skolor tvingas hålla helt eller delvis stängt till följd av blockader och sammandrabbningar.",
-      "why_it_matters": "Protesterna utgör ett allvarligt inrikespolitiskt hot mot den franska regeringen och understryker ett växande missnöje bland unga.",
-      "category": "Världen",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/over-5-000-gripna-efter-studentprotester-i-frankrike",
-      "image_url": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-france-schools-wtk-hjvp/03int-france-schools-wtk-hjvp-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
       "title": "Massiva protester mot bostadskrisen skakar Spanien",
       "summary": "Tiotusentals demonstranter har intagit gatorna i spanska städer efter att parlamentet röstade ned ett akut paket för att hantera **bostadskrisen**. Våldsamma sammandrabbningar med polis och högerextrema motdemonstranter har brutit ut vid flera protestläger.",
       "why_it_matters": "Det folkliga raseriet över skenande boendekostnader skapar regeringskris och ökar trycket mot nyval i Spanien.",
@@ -50,16 +640,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Stormakter i kapplöpning om att bygga kärnkraftverk på månen",
-      "summary": "USA siktar på att placera en **kärnreaktor** på månen till 2030, medan en rysk-kinesisk allians planerar en motsvarande anläggning till 2036. Forskare varnar för att den oreglerade kapplöpningen om rymdens resurser skapar nya säkerhetsrisker.",
-      "why_it_matters": "Månbaser med permanent energiförsörjning är avgörande för framtida dominans i rymden och ifrågasätter internationella rymdfördrag.",
-      "category": "Teknik",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/00-nuclear-moon-01-plvq/00-nuclear-moon-01-plvq-mediumSquareAt3X.jpg",
       "date": "2026-10-04"
     },
     {
@@ -83,26 +663,6 @@
       "date": "2026-10-04"
     },
     {
-      "title": "Dödsskjutning mot jaktlag i Halden skakar Norge",
-      "summary": "En far och son har skjutits till döds och ytterligare en person skadats svårt vid ett dåd mot ett **jaktlag** nära den svenska gränsen. En man i 20-årsåldern har gripits och ska genomgå en rättspsykiatrisk undersökning.",
-      "why_it_matters": "Händelsen är ett exceptionellt grovt våldsdåd i det norska lokalsamhället och utreds som ett misstänkt mord grundat i en intern konflikt.",
-      "category": "Världen",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Sabotage mot undervattenskabel utlöser samordnat Nato-svar",
-      "summary": "Efter att ännu en telekomkabel kapats i Östersjön har **Nato** för första gången sjösatt en gemensam insats för att skydda kritisk maritim infrastruktur. Misstankarna riktas mot en pågående rysk hybridkampanj i norra Europa.",
-      "why_it_matters": "Det eskalerande sabotaget tvingar försvarsalliansen att aktivt patrullera och försvara botteninfrastruktur i dess närområde.",
-      "category": "Världen",
-      "source": "WSJ.com: World News",
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
       "title": "M23-rebeller intar miljonstaden Goma i Kongo-Kinshasa",
       "summary": "Rwandastödda **M23-rebeller** har trängt in i den strategiska staden Goma i östra Kongo efter häftiga strider mot regeringsstyrkor. FN uppger att över en miljon internflyktingar nu befinner sig i akut fara i det belägrade området.",
       "why_it_matters": "Offensiven hotar att kasta hela regionen vid Stora sjöarna in i ett fullskaligt mellanstatligt storkrig.",
@@ -123,36 +683,6 @@
       "date": "2026-10-04"
     },
     {
-      "title": "Hundratals skandinaver strider i israeliska armén",
-      "summary": "Närmare 300 medborgare från Norden, varav 150 svenskar, finns enligt officiella rullor registrerade i den **israeliska militären** IDF. Uppgifterna rör personer med dubbla medborgarskap som deltar i krigsinsatser i regionen.",
-      "why_it_matters": "Uppgifterna väcker känsliga juridiska och politiska frågor i de nordiska länderna om medborgares inblandning i utländska stridshandlingar.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/nara-300-skandinaver-ar-med-i-den-israeliska-militaren-svt-har-traffat-en-av-dem",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Irans säkerhetsledning varnar för akut ekonomisk kollaps",
-      "summary": "Irans högsta säkerhetschef har i ett ovanligt uttalande slagit larm om en extrem **ekonomisk kris** i landet. Situationen har förvärrats drastiskt till följd av skärpta sanktioner, marin blockad och ett historiskt fall för valutan.",
-      "why_it_matters": "En djupnande ekonomisk kris kan tvinga Teheran till drastiska militära motdrag eller utlösa omfattande folkliga protester.",
-      "category": "Ekonomi",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-iran-economy-01-whtg/04int-iran-economy-01-whtg-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Bränslebrist i Ryssland driver på rusning efter kinesiska elbilar",
-      "summary": "Ukrainska drönarangrepp mot ryska raffinaderier har skapat omfattande **bensinbrist** i Moskva och andra storstäder. Som en direkt följd har ryska konsumenter i snabb takt börjat köpa kinesiska elbilar för att säkra transporterna.",
-      "why_it_matters": "Det visar hur kriget slår direkt mot ryska konsumenter och fördjupar Rysslands teknologiska beroende av Kina.",
-      "category": "Ekonomi",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/00int-russia-evs-01-wzgm/00int-russia-evs-01-wzgm-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
       "title": "Amerikansk marinsoldat gripen för mord på kvinna i Okinawa",
       "summary": "Japans regering har lämnat in en formell protest till USA efter att en **marinsoldat** gripits misstänkt för att ha mördat en lokal kvinna. Dådet har återuppväckt ett starkt folkligt raseri mot den amerikanska militära närvaron på ön.",
       "why_it_matters": "Händelsen riskerar att skada den strategiskt avgörande försvarsalliansen mellan Tokyo och Washington.",
@@ -160,16 +690,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
       "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-japan-us-marine-gvpj/04int-japan-us-marine-gvpj-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Vrakdelar funna efter försvunnet ambulansflygplan i USA",
-      "summary": "Kustbevakningen har lokaliserat delar av ett **ambulansflyg** som störtade i havet under en flygning från Bermuda till Boston med sex personer ombord. Planet tappade snabbt höjd innan radiokontakten bröts helt.",
-      "why_it_matters": "Olyckan understryker riskerna vid långväga medicinska transporter över öppet hav och utreds av haverimyndigheter.",
-      "category": "Världen",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/sex-saknas-efter-flygolycka-i-usa-vrakdelar-hittade",
-      "image_url": "",
       "date": "2026-10-04"
     },
     {
@@ -183,26 +703,6 @@
       "date": "2026-10-04"
     },
     {
-      "title": "Tre varningsflaggor: Het börs trots skakig omvärld",
-      "summary": "Trots höga räntor och oro kring en AI-bubbla fortsätter aktiemarknaden att handlas nära toppnivåer. Ekonomer pekar ut tre **kritiska riskfaktorer** som kan signalera en förestående marknadskorrigering.",
-      "why_it_matters": "En överhettad börs med bristande riskmedvetenhet kan leda till kraftiga bakslag för sparare och institutionellt kapital.",
-      "category": "Ekonomi",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/ekonomi/lista-tre-roda-flaggor-pa-borsen",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Varg skjuten i Karlskoga efter upprepade angrepp",
-      "summary": "Länsstyrelsen beslutade om akut **skyddsjakt** efter att en vargtik dödat tamdjur och en kalv i Karlskogatrakten. Jägare fällde djuret på söndagen i förhoppning om att minska skadorna för lokala lantbrukare.",
-      "why_it_matters": "Beslutet belyser den ständigt infekterade konflikten mellan vargförvaltning och tamdjursägares villkor i Mellansverige.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/varmland/efter-flera-djurangrepp-varg-skjuten-i-karlskoga",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
       "title": "Nobelprisen 2026 ska tillkännages under veckan",
       "summary": "Världens blickar riktas mot Stockholm och Oslo när årets **Nobelpris** inom medicin, fysik, kemi, litteratur, fred och ekonomi ska presenteras. Tillkännagivandena sker i en tid av extrem geopolitisk osäkerhet.",
       "why_it_matters": "Priserna lyfter fram banbrytande framsteg för mänskligheten och sätter agendan för den globala forsknings- och fredsdebatten.",
@@ -210,46 +710,6 @@
       "source": "NYT > World News",
       "url": "https://www.nytimes.com/article/nobel-prizes-2026.html",
       "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-nobels-wwk-sub-vfkm/04xp-nobels-wwk-sub-vfkm-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Tigray-rebeller retirerar från regionhuvudstaden Mekelle",
-      "summary": "Rebellstyrkor i Tigray har dragit sig tillbaka från delstatshuvudstaden och etiopiska regeringstrupper uppges ha tagit över kontrollen. Den uppblossade **konflikten i Etiopien** riskerar att dra in grannländer som Eritrea och Förenade arabemiraten.",
-      "why_it_matters": "En ny våg av våld hotar den sköra fredsprocessen på Afrikas horn och kan utlösa en ny humanitär kris.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-ethiopia-wtk-1-btwq/03int-ethiopia-wtk-1-btwq-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Kinesiska fastighetsjätten Vanke varnar för storförlust",
-      "summary": "Krisen i Kinas bygg- och fastighetssektor fördjupas ytterligare när branschbjässen **Vanke** redovisar massiva förluster. Marknaden befarar nu att krisen sprider sig bortom tidigare havererade utvecklare.",
-      "why_it_matters": "Fastighetskrisen hotar Kinas ekonomiska tillväxt och sätter stor press på myndigheterna att gå in med nya stimulanser.",
-      "category": "Ekonomi",
-      "source": "WSJ.com: World News",
-      "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Tågstopp mellan Stockholm och Göteborg efter elfel",
-      "summary": "Ett nedfallet träd över en kontaktledning mellan Herrljunga och Borås orsakade totalstopp i **tågtrafiken** under söndagen. Stoppet ledde till omfattande förseningar och inställda avgångar på landets mest trafikerade sträcka.",
-      "why_it_matters": "Händelsen understryker järnvägsnätets sårbarhet för väderrelaterade störningar och brist på redundans.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vast/tagstopp-mellan-goteborg-och-stockholm-fi6tay",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Läkare skrev ut narkotikaklassade preparat till sig själv",
-      "summary": "En läkare i Umeå kritiseras skarpt av Ivo efter att ha förskrivit stora mängder **sömnmedel** och lugnande medel till sig själv och en närstående. Tillsynsmyndigheten anser att agerandet strider mot patientsäkerheten.",
-      "why_it_matters": "Fallet belyser behovet av strängare digitala kontroller för läkares egenförskrivning av beroendeframkallande läkemedel.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/lakare-fran-umea-skrev-ut-somnmedel-till-sig-sjalv-far-kritik",
-      "image_url": "",
       "date": "2026-10-04"
     },
     {
@@ -283,16 +743,6 @@
       "date": "2026-10-04"
     },
     {
-      "title": "Patient miste synen efter missad kontroll i Sörmland",
-      "summary": "En patient som sökte vård för plötslig synnedsättning blev blind på grund av utebliven **uppföljning** av en konstaterad ögonblödning. Händelsen har lex Maria-anmälts som en allvarlig vårdskada.",
-      "why_it_matters": "Ärendet blottar allvarliga brister i vårdens remissrutiner och uppföljningsansvar.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/patient-forlorade-synen-efter-utebliven-uppfoljning",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
       "title": "Sällsynt orkanfri september i Atlanten kopplas till El Niño",
       "summary": "För första gången på tre decennier registrerades inte en enda orkan på Atlanten under **september**, som normalt är högsäsong. Forskare kopplar det ovanliga lugnet till storskaliga effekter av klimatmönstret El Niño.",
       "why_it_matters": "Det visar hur globala klimatcykler fundamentalt kan rubba förväntade vädermönster och extremväder.",
@@ -303,82 +753,12 @@
       "date": "2026-10-04"
     },
     {
-      "title": "Khadar Farah donerar livsviktiga stamceller efter TikTok-klipp",
-      "summary": "**Khadar Farah** i Falun registrerade sig i Tobiasregistret efter att ha sett en video och fick matchning direkt. Det råder ett akut behov av unga män med utomeuropeisk bakgrund för att rädda leukemipatienter.",
-      "why_it_matters": "Nyrekryteringen belyser hur sociala medier kan bidra till att lösa den kritiska bristen på stamcellsdonatorer.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/dalarna/khadar-i-falun-ska-ge-stamceller-till-leukemipatient-fick-matchning-direkt",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Amerikanska tonåringar säljer vapen till mexikanska karteller",
-      "summary": "Gymnasieelever i delstaten Arizona köper och förmedlar skjutvapen direkt till **mexikanska karteller**. De unga lockas av snabba pengar och status i en växande illegal vapenhandel över gränsen.",
-      "why_it_matters": "Ungdomars inblandning i kartellernas vapenflöde försvårar USA:s gränskontroll och underblåser våldet i Mexiko.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/10/multimedia/00int-mexico-guns-promo/00int-mexico-guns-jbkp-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Parti Québécois leder inför valet i Quebec – självständighet svårsåld",
-      "summary": "Separatistpartiet ser ut att vinna provinsvalet i **Quebec** och har lovat att utlysa en ny folkomröstning om självständighet från Kanada. Väljarna är dock fortsatt splittrade i frågan om en fullständig brytning.",
-      "why_it_matters": "En separatistisk seger kan åter väcka Kanadas konstitutionella strider och skapa osäkerhet i federationen.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-canada-quebec-independence-promo/03int-canada-quebec-independence-promo-mediumSquareAt3X-v2.jpg",
-      "date": "2026-10-04"
-    },
-    {
       "title": "Tullverkets nya befogenheter gav miljonbeslag i Göteborg",
       "summary": "En lastbil med stöldgods för stora belopp stoppades i Göteborg tack vare en **ny lagstiftning** som ger tullen rätt att gripa och stoppa utförsel av stöldgods. Flera personer har redan dömts.",
       "why_it_matters": "Den nya lagen stänger en lucka som länge gjort det enkelt för internationella stöldligor att föra ut stöldgods ur landet.",
       "category": "Sverige",
       "source": "SVT Nyheter",
       "url": "https://www.svt.se/nyheter/lokalt/vast/tullverket-ny-lag-gor-skillnad-beslag-av-stoldgods-i-goteborg",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Kanelbullens dag firas – nio miljoner bullar äts i Sverige",
-      "summary": "Svenskarna sätter i sig miljoner bakverk när **Kanelbullens dag** infaller under söndagen. Bagare delar med sig av sina bästa knep för att få till den perfekta saftigheten i degen.",
-      "why_it_matters": "Traditionen har blivit en av svensk bagerinärings mest lukrativa försäljningsdagar under året.",
-      "category": "Kultur",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/bagaren-amalias-basta-tips-sa-gor-du-en-riktigt-god-kanelbulle",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Val av nytt Nya testamentet klart efter sju års arbete",
-      "summary": "Stiftsteolog Dan Nässelqvist har slutfört den nya svenska **översättningen av Nya testamentet** efter omfattande språkliga avvägningar. Texten har lanserats brett inom Svenska kyrkan.",
-      "why_it_matters": "En moderniserad bibelöversättning påverkar hur kristna texter förstås och tolkas i Sverige under kommande decennier.",
-      "category": "Kultur",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/dan-i-linkoping-har-oversatt-nya-testamentet-svara-avvagningar",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Misstänkt mordförsök efter knivbråk i Farsta",
-      "summary": "En man fördes akut till sjukhus efter att ha blivit knivskuren vid ett bråk mellan två män i södra Stockholm. Polisen har spärrat av brottsplatsen och inlett en förundersökning om **mordförsök**.",
-      "why_it_matters": "Dådet sällar sig till en rad våldsbrott i Stockholmsregionen som skapar oro bland boende.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-farsta",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Tankfartyg i kollision med två lastfartyg i Norge",
-      "summary": "Ett tankfartyg och två lastfartyg har krockat i hamninloppet vid Ålesund, vilket ledde till att ett fartyg började ta in vatten. Ingen person skadades fysiskt och **kustbevakningen** säkrade läget.",
-      "why_it_matters": "Olyckan kunde ha lett till allvarliga oljeutsläpp i känsliga norska kustvatten.",
-      "category": "Världen",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/tre-fartyg-i-kollision-i-norge",
       "image_url": "",
       "date": "2026-10-04"
     },
@@ -400,206 +780,6 @@
       "source": "WSJ.com: World News",
       "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
       "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "OpenAI stoppar lanseringen av GPT-6.1 Astra på grund av säkerhetsrisker",
-      "summary": "Företagets säkerhetsforskare har larmat om allvarliga sårbarheter i nästa generations flaggskeppsmodell, känd som **GPT-6.1 Astra**. Beslutet innebär att **OpenAI** skjuter upp den publika releasen tills grundligare tester kan genomföras.",
-      "why_it_matters": "Detta visar att ledande AI-laboratorier börjar tvingas dra i nödbromsen när modellernas autonoma kapacitet och agens närmar sig gränser där felsteg får systemkritiska konsekvenser.",
-      "category": "LLM & Modeller",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/28/multimedia/28biz-openai-astra-vbgk/28biz-openai-astra-vbgk-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Google lanserar Gemini 4 Argon med begränsad åtkomst av säkerhetsskäl",
-      "summary": "Google har presenterat **Gemini 4 Argon**, en kraftfull modell med avancerade defensiva funktioner som initialt endast rullas ut till utvalda cybersäkerhetsorganisationer. Företaget har implementerat strikta skyddsbarriärer innan **Google** överväger en bredare konsumentdistribution.",
-      "why_it_matters": "En kontrollerad, 'stegvis utrullning' av spetsmodeller till specifika expertbranscher etableras nu som ny standard för att hantera dubbla användningsområden inom cybersäkerhet.",
-      "category": "LLM & Modeller",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30BIZ-GEMINI-1-cqhb/30BIZ-GEMINI-1-cqhb-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Är Claude medveten? Anthropic undersöker moral och medvetande i AI",
-      "summary": "I interna möten med teologer och filosofer har **Anthropic** utforskat hur man integrerar djupare etiska ramverk i sina modeller. Diskussionerna har även berört hypoteser kring huruvida flaggskeppsmodellen **Claude** kan uppvisa rudimentära former av funktionellt medvetande.",
-      "why_it_matters": "Gränsen mellan sofistikerad statistisk textgenerering och genuint resonemang utmanas, vilket driver forskare att formulera formella teorier kring maskinmedvetande och AGI-etik.",
-      "category": "AGI & Forskning",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "image_url": "https://static01.nyt.com/images/2026/06/30/multimedia/30nat-pope-anthropic-wfkz/30nat-pope-anthropic-wfkz-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "OpenAI lanserar Dots för att utmana Metas Muse inom agentbaserad AI",
-      "summary": "Endast veckor efter att Meta presenterade sitt agenterbjudande svarar **OpenAI** med agentplattformen **Dots**. Systemet är byggt för att agera som proaktiva personliga assistenter med förmåga att utföra flerstegsuppgifter över olika appar.",
-      "why_it_matters": "Kapprustningen flyttar i snabb takt från enkla textchattar till autonoma mjukvaruagenter som opererar direkt i användarens ekosystem.",
-      "category": "LLM & Modeller",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Meta öppnar källkoden för Muse för att integrera AI i hårdvaruprylar",
-      "summary": "**Meta** vill få in sin AI-modell **Muse** i allt från smarta skärmar till vitvaror och väljer därför att släppa källkoden fritt till hårdvarutillverkare. Strategin syftar till att etablera deras ekosystem som industristandard för edge-AI i konsumentprodukter.",
-      "why_it_matters": "Att distribuera lättviktsagenter med öppen källkod till hårdvara accelererar utrullningen av lokal 'ambient computing' utan beroende av ständiga molnanrop.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Apple skärper diskåtkomst i macOS på grund av risker med AI-agenter",
-      "summary": "**Apple** inför hårdare restriktioner för behörigheten 'Full Disk Access' i macOS. Bakgrunden är att allt mer kapabla **AI-agenter** med bred systemtillgång utgör en betydande säkerhetsrisk för personliga filer, webbhistorik och meddelanden.",
-      "why_it_matters": "När AI integreras på operativsystemnivå måste klassiska säkerhetsmodeller och 'sandboxing' skrivas om från grunden för att förhindra dataläckage.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Google fryser buggbelöningsprogram efter massiv våg av AI-genererat skräp",
-      "summary": "**Google** har tvingats pausa sitt bug bounty-program för öppen källkod efter att ha översvämmats av automatiserade sårbarhetsrapporter. Den lavinartade ökningen av syntetiskt **AI-genererat innehåll** saknade ofta verklig substans och blockerade säkerhetsgranskarnas arbete.",
-      "why_it_matters": "LLM-verktyg sänker tröskeln för att spamma och överbelasta viktiga cybersäkerhetsprocesser med hallucinerade eller triviala rapporter.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Larm inifrån OpenAI: Säkerhetsvarningar om modelltestning ignorerades",
-      "summary": "Anställda och oberoende säkerhetsforskare uppger att ledningen hos **OpenAI** upprepade gånger har viftat bort varningar rörande infrastruktur och riskfylld testning av nya modeller. Kritiken belyser en växande konflikt mellan snabb kommersialisering och **AI-säkerhet**.",
-      "why_it_matters": "Visselblåsarlarm belyser den interna spänningen i Frontier AI-labb där pressen att hålla marknadsledarskap hotar rigorös säkerhetsverifiering.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-openai-security-sam-promo-hpcz/29biz-openai-security-sam-promo-hpcz-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Säkerhetsforskare lämnar OpenAI och varnar för trasig företagskultur",
-      "summary": "Forskaren David Robinson har avgått från sin säkerhetsroll på **OpenAI** under skarpa protester mot bolagets styrning. Avhoppet sällar sig till en rad profilerade avgångar från team fokuserade på **alignment** och långsiktig riskhantering.",
-      "why_it_matters": "Den fortsatta kompetensflykten från säkerhetsavdelningar hos ledande aktörer ökar oron för att skyddsåtgärder prioriteras ned i jakten på AGI.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Google satsar på rymdbaserade datacenter via SpaceX Starship",
-      "summary": "**Google** har skickat sitt första avancerade AI-kisel till omloppsbana och beräknar att **SpaceX Starship** måste genomföra runt 1 800 uppskjutningar för att bygga fullskaliga datacenter i rymden. Målet är att kringgå jordens begränsningar i el- och kylinfrastruktur.",
-      "why_it_matters": "Extrema energikrav för framtida AI-kluster tvingar techjättarna att utforska okonventionell hårdvaruarkitektur utanför jordens atmosfär.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "FTC granskar OpenAI och Anthropic för konsumentskador",
-      "summary": "Den amerikanska konkurrens- och konsumentmyndigheten FTC inleder en formell utredning mot **OpenAI** och **Anthropic**. Fokus ligger på huruvida vilseledande beteenden eller oförutsedda hallucinationer i ledande AI-system bryter mot federala konsumentskyddslagar.",
-      "why_it_matters": "Tillsynsmyndigheter går från passiva policydiskussioner till konkreta rättsliga åtgärder mot de största LLM-utvecklarna.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30biz-ftc-ai-investigation-tkwg/30biz-ftc-ai-investigation-tkwg-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Vem bär ansvaret när autonoma AI-agenter spårar ur?",
-      "summary": "Juridiska experter varnar för att befintlig lagstiftning är otillräcklig för att hantera skador orsakade av herrelösa agenter. När **autonoma system** agerar självständigt i ekonomiska och tekniska miljöer blir gränsdragningen mellan utvecklarens och användarens **ansvar** oklar.",
-      "why_it_matters": "Ansvarsskyldighet vid autonoma agentfel är den enskilt viktigaste juridiska flaskhalsen innan AI kan anförtros självständiga affärstransaktioner.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Vita huset lanserar Super Intelligence Force och omdefinierar AI-begreppet",
-      "summary": "Den amerikanska administrationen har undertecknat ett dekret som officiellt etablerar en ny arbetsgrupp under namnet **Super Intelligence Force**. Initiativet bygger på en frivillig överenskommelse med teknikledare för att hantera övergången mot **superintelligens**.",
-      "why_it_matters": "Politiska aktörer börjar omformulera AI-frågan till en nationell säkerhetsfråga med fokus på AGI och strategisk hegemoni snarare än vanlig mjukvarureglering.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Fängelsestraff upphävt efter att AI-video av dödsoffer visats i domstol",
-      "summary": "En appellationsdomstol i Arizona har ogiltigförklarat en fällande dom för dråp efter att försvaret visat en manipulerad **deepfake-video** där offret syntes 'förlåta' sin gärningsman. Händelsen ses som ett prejudikat för hur generativ **AI-teknik** infiltrerar rättsväsendet.",
-      "why_it_matters": "Syntetiska vittnesmål och digitala återskapanden skapar akuta bevisproblem och etiska kriser i domstolar globalt.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-ai-video1-ztmh/04xp-ai-video1-ztmh-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Sean Parker bygger om Stability AI med fokus på musik och ljud",
-      "summary": "Napster-grundaren Sean Parker har tagit över rodret för **Stability AI** med målet att transformera bolaget till en ledande aktör inom licensierad generativ musik. Genom samarbete med etablerade skivbolag ska bolagets nya **ljudmodeller** tränas lagligt och kommersialiseras.",
-      "why_it_matters": "Skiftet markerar hur multimodala modeller differentieras från bild- och textgenerering till upphovsrättssäkrade ljud- och musikarkitekturer.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Circuit Breaker Labs utvecklar 'krockdockor' för psykologisk AI-säkerhet",
-      "summary": "Startupbolaget Circuit Breaker Labs utvecklar simulerade testprofiler för att stresstesta hur **chattbotar** interagerar med sårbara grupper som barn. Målet är att upptäcka skadliga manipulativa mönster innan modellerna rullas ut i **konsumentappar**.",
-      "why_it_matters": "Metodologin för AI-säkerhet breddas från teknisk robusthet och jailbreaks till att omfatta förebyggande av psykologisk påverkan och emotionellt beroende.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Amazon backar från sekretessavtal kring gigantiska datacenter",
-      "summary": "Efter massiv lokal kritik ändrar **Amazon Web Services** sin policy och slopar sekretessavtal (NDA) vid planering av nya serverhallar. Bolaget lovar även mer lokal finansiering för att mildra trycket på elnät och vattenresurser som krävs för **AI-infrastruktur**.",
-      "why_it_matters": "Resurskonflikter kring datacenter för AI-träning har blivit en kritisk flaskhals för hyperscalers och kräver större transparens mot lokalsamhällen.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Miljöstorstudie mäter den samlade effekten av klustrade AI-datacenter",
-      "summary": "En ny analysmodell i Pennsylvania undersöker de kumulativa hälso- och miljöeffekterna av att koncentrera massiva kluster av **AI-datacenter**. Istället för att granska anläggningar isolerat kartläggs belastningen på lokala elnät och **kylsystem**.",
-      "why_it_matters": "När AI-kluster kräver gigawatt-kapacitet måste miljöregleringar anpassas för att hantera den aggregerade belastningen på energiinfrastrukturen.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-data-center-pollution-vwgb/30cli-data-center-pollution-vwgb-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "ChatGPT får virtuell provhytt via nya multimodala shoppingfunktioner",
-      "summary": "**OpenAI** lanserar nya e-handelsverktyg i **ChatGPT** som gör det möjligt för användare att virtuellt prova kläder och accessoarer på sina egna fotografier. Funktionen kombinerar bildanalys med generativ modifikation direkt i chattflödet.",
-      "why_it_matters": "Detta visar hur multimodala modeller snabbt transformeras till interaktiva konsumentgränssnitt som direkt utmanar traditionell e-handel och sökmotorer.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Meta använder datacenterinvesteringar för AI i aggressiv skattestrategi",
-      "summary": "**Meta** utnyttjar federala skattelättnader för forskning och utveckling för att finansiera miljardutbyggnader av sin **hårdvaruinfrastruktur** för AI. Interna revisorer flaggar dock för att strategin kring skatteavskrivningar för **datacenter** medför betydande finansiella risker.",
-      "why_it_matters": "De astronomiska hårdvarukostnaderna för att driva Frontier-modeller tvingar teknikföretag att ta allt större regulatoriska och finansiella risker.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/23/business/00rd-tax/00rd-tax-mediumSquareAt3X.jpg",
       "date": "2026-10-04"
     },
     {
@@ -660,16 +840,6 @@
       "source": "BBC News / NYT",
       "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
       "image_url": "https://static01.nyt.com/images/2026/10/02/multimedia/00Iran-HybridWarfare-cktg/00Iran-HybridWarfare-cktg-mediumSquareAt3X.jpg",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Spänningar i Japan efter att amerikansk marinsoldat misstänks för mord",
-      "summary": "Omfattande protester har blossat upp på Okinawa efter att en amerikansk marinsoldat anklagats för mordet på en lokal kvinna. Fallet hotar att åter väcka kraven på att kraftigt begränsa den **amerikanska militärbasens närvaro** på ön.",
-      "why_it_matters": "Händelsen kan skada de säkerhetspolitiska relationerna mellan Tokyo och Washington i en tid av ökad spänning i Stilla havet.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-japan-us-marine-gvpj/04int-japan-us-marine-gvpj-mediumSquareAt3X.jpg",
       "date": "2026-10-04"
     },
     {
@@ -743,32 +913,12 @@
       "date": "2026-10-04"
     },
     {
-      "title": "Hobbyn: Att leva som en 1500-talsdrottning",
-      "summary": "Victoria Enefors tillbringar stor del av sin fritid med att återskapa 1500-talslivet för drottning **Katarina Jagellonica**. Hobbyn innefattar allt från handsydda sammetstyger till tidstypisk matlagning.",
-      "why_it_matters": "Ett färgstarkt porträtt av historisk rekonstrutering och kulturarv på hobbynivå.",
-      "category": "Kultur",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/victorias-hobby-att-leva-som-en-vasadrottning",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
       "title": "Nya regeringsattacker mot Huthirörelsen i Jemen",
       "summary": "Jemens regeringsstyrkor uppger att de har genomfört riktade militära operationer mot mål tillhörande den Iranstödda **Huthirörelsen**. Konflikten i landet fortsätter att kräva insatser.",
       "why_it_matters": "Påverkar säkerhetsläget och den geopolitiska stabiliteten i regionen.",
       "category": "Världen",
       "source": "SVT Nyheter",
       "url": "https://www.svt.se/nyheter/utrikes/nya-regeringsattacker-i-jemen",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Tumultartadescener vid spanska demonstrantläger",
-      "summary": "Spansk polis tvingades skjuta gummikulor och varningsskott efter sammandrabbningar i samband med demonstrationer. Högerextrema grupper försökte forcera sig fram till **demonstrantläger**.",
-      "why_it_matters": "Visar på växande sociala och politiska spänningar i Spanien.",
-      "category": "Världen",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/tumult-vid-spanska-demonstrantlager",
       "image_url": "",
       "date": "2026-10-04"
     },
@@ -953,16 +1103,6 @@
       "date": "2026-10-04"
     },
     {
-      "title": "Valsar av spermaval sänkte segelbåt i Södra Stilla havet",
-      "summary": "Fyra personer tvingades överge sin båt och driva i en livflotte i 18 timmar efter att båten attackerats och skadats av en **val**.",
-      "why_it_matters": "En extrem och sällsynt händelse som belyser oförutsägbara möten med havets jättar.",
-      "category": "Världen",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/01/obituaries/01xp-whale/01xp-whale-mediumSquareAt3X-v4.jpg",
-      "date": "2026-10-04"
-    },
-    {
       "title": "Två iranska medborgare åtalade i Storbritannien för terrorkopplingar",
       "summary": "Brittisk polis har gripit och åtalat två iranska medborgare misstänkta för **terrorbrott** med inriktning på att hota judiska mål i Manchester.",
       "why_it_matters": "Understryker det pågående säkerhetshotet från utländska aktörer på europeisk mark.",
@@ -979,16 +1119,6 @@
       "category": "Världen",
       "source": "WSJ.com: World News",
       "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "image_url": "",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Tysklands industriella modell ifrågasätts mitt i ekonomisk kris",
-      "summary": "Med sviktande export till Kina och hot om amerikanska tullar står Tysklands traditionella **ekonomiska modell** inför svåra prövningar utan att tydliga politiska lösningar finns på bordet.",
-      "why_it_matters": "Pekar på bredare strukturella utmaningar för hela den europeiska ekonomin.",
-      "category": "Ekonomi",
-      "source": "WSJ.com: World News",
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "image_url": "",
       "date": "2026-10-04"
     },
