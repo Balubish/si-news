@@ -1,205 +1,205 @@
 {
-  "updated_at": "2026-10-06 18:13 UTC",
+  "updated_at": "2026-10-07 05:29 UTC",
   "articles": [
     {
-      "title": "Mirror Particle bygger en \"världsmodell\" för mänskligt beteende",
-      "summary": "Mirror Particle lanserar en **världsmodell** byggd från grunden för att förutsäga mänskligt beteende och argumenterar för att **LLM**-rollspel inte räcker till för marknadsundersökningar och varumärkesstrategi.",
-      "why_it_matters": "Detta flyttar fokus från statisk textgenerering till dynamisk beteendeanalys, vilket kan revolutionera hur företag simulerar marknadsreaktioner.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "image_url": "",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Mistrals nya 1T-modell siktar på att bräcka stängda och öppna konkurrenter",
-      "summary": "Det franska AI-labbet Mistral AI har släppt **Mistral Large 4**, en ny stor multimodal modell som syftar till att överträffa både amerikanska och kinesiska rivaler.",
-      "why_it_matters": "Demonstrerar att europeiska aktörer fortsätter att satsa tungt på öppna och slutna toppmodeller i den absoluta gigantklassen.",
+      "title": "Mistrals nya 1T-modell utmanar både stängda och öppna konkurrenter",
+      "summary": "Det franska AI-labbet **Mistral AI** har släppt **Mistral Large 4**, en ny multimodal storskalig modell med en biljon (1T) parametrar. Modellen syftar till att gå om både amerikanska och kinesiska rivaler.",
+      "why_it_matters": "Mistral fortsätter att visa att europeiska aktörer kan konkurrera i den absolut högsta ligan av grundmodeller genom att erbjuda kraftfulla alternativ med hög kapacitet för komplexa uppgifter.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
       "image_url": "",
-      "date": "2026-10-06"
+      "date": "2026-10-07"
     },
     {
-      "title": "OpenAI börjar vattenmärka ChatGPTs text inom EU",
-      "summary": "OpenAI kommer att vattenmärka **ChatGPT**- och Codex-text inom EU för att följa AI-akten. Redigering kan dock göra de osynliga markeringarna svårare att upptäcka.",
-      "why_it_matters": "Visar hur regulatoriska ramverk som EU:s AI Act tvingar fram spårbarhet och tekniska förändringar direkt i ledande konsument-AI.",
-      "category": "Säkerhet & Etik",
+      "title": "AI-hårdvarustartupen Lambda tar in 4 miljarder dollar inför planerad börsnotering",
+      "summary": "Nvidia-backade **Lambda** planerar att ta in upp till 4 miljarder dollar i kapital till en värdering på 14,5 miljarder dollar. Finansieringen leds av Coatue och Blackstone inför en planerad börsnotering under 2027.",
+      "why_it_matters": "Efterfrågan på beräkningskapacitet för AI-träning är fortsatt enorm, och Lambdas massiva kapitalrunda understryker behovet av specialiserad molninfrastruktur för GPU:er.",
+      "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "image_url": "",
-      "date": "2026-10-06"
+      "date": "2026-10-07"
     },
     {
-      "title": "Reflection lanserar Beam, en öppen-vikt AI-modell som utmanar kinesiska modeller till lägre beräkningskostnad",
-      "summary": "Reflection lanserar **Beam** för att låta företag och suveräna stater bygga sina egna anpassade, lokala AI-system genom att träna på egna proprietära data.",
-      "why_it_matters": "Skaffar ett kostnadseffektivt alternativ för lokala och källkodskontrollerade AI-fabriker, vilket ökar tillgängligheten för avancerad modellträning.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "image_url": "",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Instinct tar sin AI-agent till gruppchatter, även för vänner utan konto",
-      "summary": "Instinct lanserar gruppchatter där vänner gemensamt kan använda en **AI-agent** för uppgifter som att planera resor och samordna evenemang.",
-      "why_it_matters": "Flyttar AI-agenter från individuella assistenter till samarbetsverktyg i sociala flöden, vilket kräver strikta integritetsprotokoll.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "image_url": "",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "TikTok rullar ut en AI-shoppingassistent och kassa med ett klick",
-      "summary": "TikTok beskriver sin nya **shoppingassistent** som en konversationell AI-agent utformad för att hjälpa användare att upptäcka och köpa produkter sömlöst.",
-      "why_it_matters": "Integrationen av agenter i e-handel accelererar trenden mot agentdriven handel (agentic commerce) direkt i sociala plattformar.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "image_url": "",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "HackerRanks AI-intervjuare ger en glimt av framtidens jobbintervjuer",
-      "summary": "HackerRanks **AI-intervjuare** har redan genomfört mer än 500 000 intervjuer, med företag som Snowflake och Capgemini bland de tidiga testarna.",
-      "why_it_matters": "Automatiseringen av rekryteringsprocesser genom autonoma AI-intervjuare förändrar grundläggande humankapitalflöden på arbetsmarknaden.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "image_url": "",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "OpenAI lanserar visuella annonser i anslutning till bildgenereringsresultat",
-      "summary": "De nya annonserna börjar rullas ut i slutet av denna månad i USA och visar produkter och tjänster från en första testgrupp av annonsörers **bildgenerering**.",
-      "why_it_matters": "Visar på hur generativ AI snabbt kommersialiseras och integreras med traditionella intäktsmodeller som digital annonsering.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "image_url": "",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Forskare spårar en kinesisk \"agentflotta\"",
-      "summary": "Oberoende forskare har upptäckt en **agent-svärm** som tycks köra på Tencents infrastruktur och rikta in sig på Alibabas karttjänst Amap.",
-      "why_it_matters": "Markerar framväxten av storskaliga, autonoma agentflottor som opererar i realtid mot andra plattformar, vilket skapar nya säkerhetsutmaningar.",
+      "title": "Nästa hinder för AI-agenter: Att få webbplatser att släppa in dem",
+      "summary": "Personliga **AI-agenter** lovar att kunna handla, boka flyg och göra reservationer åt användare. Men medvetna blockeringar och anti-bot-system sätter käppar i hjulet, vilket har lett till ett förslag om en ny standard för att lösa problemet.",
+      "why_it_matters": "För att AI-agenter ska nå sin fulla potential som autonoma assistenter krävs en global standard eller ett protokoll som tillåter dem att säkert navigera på webben utan att blockeras som skadliga botar.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
       "image_url": "",
-      "date": "2026-10-06"
+      "date": "2026-10-07"
     },
     {
-      "title": "Kan Safeworld övertyga folk om att generativa AI-robotar inte skadar dem?",
-      "summary": "Safeworld bygger digitala människor för att säkerställa att **genAI-robotar** inte skadar verkliga människor i framtida miljöer.",
-      "why_it_matters": "Fokuserar på säkerhetsvalidering och simulering innan fysiska humanoider implementeras i bred skala bland allmänheten.",
-      "category": "Humanoid Robotik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "image_url": "",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Vem har ansvaret när AI löper amok?",
-      "summary": "Många anser att företag bakom artificiell intelligens bör hållas ansvariga för sin rusande teknik, men juridiska experter menar att befintlig lagstiftning är svår att applicera på **AI-agenter**.",
-      "why_it_matters": "Juridisk gråzon kring ansvarsskyldighet för autonoma system som fattar egna beslut i realtid.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "I kapplöpningen med USA kämpar Kina med att rekrytera utländska AI-forskare",
-      "summary": "Kinas blomstrande AI-sektor ger lokala forskare incitament att stanna, men landet har svårt att locka till sig utländska toppforskare trots statliga **rekryteringssatsningar**.",
-      "why_it_matters": "Talangjakten är avgörande för AGI-utvecklingen, och geografiska barriärer påverkar den globala kompetensfördelningen.",
+      "title": "Mirror Particle bygger en 'världsmodell' för mänskligt beteende",
+      "summary": "Startupen **Mirror Particle** utvecklar en **världsmodell** från grunden för att förutsäga mänskligt beteende. Företaget hävdar att traditionellt rollspel med stora språkmodeller (LLMs) inte räcker till för marknadsundersökningar och varumärkesstrategi.",
+      "why_it_matters": "Att gå bortom textbaserade LLM:er och utveckla dedikerade världsmodeller för mänsklig psykologi kan revolutionera hur företag simulerar marknadstrender och användarbeteenden.",
       "category": "AGI & Forskning",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg",
-      "date": "2026-10-06"
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "image_url": "",
+      "date": "2026-10-07"
     },
     {
-      "title": "Sydkorea utreder möjlig användning av AI vid bankattacker",
-      "summary": "Presidenten meddelade att det finns tecken på att avancerade **AI-modeller** har använts i nyligen inträffade attacker mot flera banker som rör kunddata.",
-      "why_it_matters": "Belyser hotet där sofistikerad AI utnyttjas av illasinnade aktörer för automatiserade cyberattacker mot kritisk infrastruktur.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-skorea-ai-jkbg/06xp-skorea-ai-jkbg-mediumSquareAt3X.jpg",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Blandade känslor efter en dag i en park full av robotar",
-      "summary": "Ett besök på Galaxy Robot Park i Seoul visar upp en framtid med **humanoider** som kombinerar avancerad teknik med rena teaterinslag.",
-      "why_it_matters": "Ger en inblick i hur samhällsmötet mellan människor och humanoid robotik faktiskt upplevs i praktiken.",
-      "category": "Humanoid Robotik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/29/xp-robot-park-topart-cover/xp-robot-park-topart-cover-mediumSquareAt3X-v2.jpg",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Domstol undanröjer straff efter att AI-genererad video på offer spelats upp",
-      "summary": "En appellationsdomstol i Arizona rev upp ett fängelsestraff efter att en **AI-genererad video** där offret syntes \"förlåta\" sin mördare användes i rättegången.",
-      "why_it_matters": "Sätter fingret på de etiska och juridiska riskerna med deepfakes och syntetiska media inom rättsväsendet.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-ai-video1-ztmh/04xp-ai-video1-ztmh-mediumSquareAt3X.jpg",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Svenskt företag använder AI-kopia av Greta Garbo i reklam",
-      "summary": "Den bortgångna skådespelerskan Greta Garbo har återskapats med hjälp av **AI-genererad likhet** i en reklamfilm för ett verkstadsföretag.",
-      "why_it_matters": "Aktualiserar debaten kring upphovsrätt, postmortem-integritet och virtuella avatarer av historiska personer.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01xp-garbo-wvbp-promo/01xp-garbo-wvbp-promo-mediumSquareAt3X-v2.jpg",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Google släpper ny Gemini-modell med säkerhetsräcken mitt i AI-debatten",
-      "summary": "Av säkerhetsskäl kommer **Gemini 4 Argon** till en början endast att göras tillgänglig för utvalda företag med fokus på cybersäkerhetsförsvar.",
-      "why_it_matters": "Visar på strategiska skiften i hur kraftfulla modeller släpps gradvis för att minimera riskerna för missbruk.",
+      "title": "Google släpper ny Gemini-modell med säkerhetsspärrar mitt i AI-debatten",
+      "summary": "Sökjätten har lanserat **Gemini 4 Argon**, en ny modell som inledningsvis endast görs tillgänglig för utvalda organisationer inom cybersäkerhet. Lanseringen sker med strikta säkerhetsspärrar för att förhindra missbruk.",
+      "why_it_matters": "Googles strategi att stegvis rulla ut kraftfulla modeller till försvarsspecialister först visar hur allvarligt de stora aktörerna tar på riskerna med avancerad AI.",
       "category": "LLM & Modeller",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
       "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30BIZ-GEMINI-1-cqhb/30BIZ-GEMINI-1-cqhb-mediumSquareAt3X.jpg",
-      "date": "2026-10-06"
+      "date": "2026-10-07"
     },
     {
-      "title": "FTC utreder OpenAI och Anthropic kring potentiell skada för konsumenter",
-      "summary": "Myndigheten granskar om AI-labb har brutit mot federala lagar mot orättvisa och vilseledande metoder gällande **AI-säkerhet**.",
-      "why_it_matters": "Ökat regulatoriskt tryck från konkurrensmyndigheter på de ledande aktörerna inom foundation-modeller.",
+      "title": "OpenAI börjar vattenmärka text från ChatGPT inom EU",
+      "summary": "För att följa EU:s nya lagstiftning AI Act kommer **OpenAI** att börja implementera osynliga vattenstämplar i text som genereras av **ChatGPT** och Codex. Företaget påpekar dock att efterföljande redigering kan göra märkningen svårare att upptäcka.",
+      "why_it_matters": "Detta är ett av de första konkreta stegen för att uppfylla de strikta transparenskraven i EU:s AI Act, vilket kan sätta standarden för hur AI-genererat innehåll spåras globalt.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "image_url": "",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Reflection lanserar Beam – en öppen modell som utmanar kinesiska rivaler till lägre kostnad",
+      "summary": "AI-bolaget Reflection har släppt **Beam**, en modell med öppna vikter som riktar sig till företag och nationer som vill bygga egna 'AI-fabriker'. Syftet är att erbjuda hög prestanda till en betydligt lägre beräkningskostnad än konkurrerande system.",
+      "why_it_matters": "Trenden mot öppna modeller (open-weight) gör det möjligt för organisationer att köra och finjustera toppmodern AI lokalt, vilket är avgörande för datasäkerhet och nationell suveränitet.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "image_url": "",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Blandade känslor efter en dag i en park fylld av robotar",
+      "summary": "Ett besök i **Galaxy Robot Park** i Seoul visar hur vår framtid med **humanoida robotar** kan komma att se ut. Upplevelsen beskrivs som en blandning av banbrytande teknik och ren teater, vilket väcker frågor om robotarnas faktiska nytta.",
+      "why_it_matters": "Det belyser gapet mellan robotikens nuvarande kapacitet och de publika förväntningarna, samt hur viktigt det är med interaktionsdesign när maskiner flyttar in i mänskliga miljöer.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/29/xp-robot-park-topart-cover/xp-robot-park-topart-cover-mediumSquareAt3X-v2.jpg",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Hur AI-beslutsmodeller kan förändra innehållsmoderering",
+      "summary": "Säkerhetsföretaget Musubi har lanserat **PolicyLM-1.7B**, en lättviktig beslutsmodell med öppna vikter utvecklad specifikt för moderering i realtid. Modellen ska hjälpa plattformar att fatta snabbare och mer konsekventa beslut kring användargenererat innehåll.",
+      "why_it_matters": "Istället för gigantiska generativa modeller visar detta på värdet av små, specialiserade modeller (SLM) som kan köras billigt och snabbt för specifika uppgifter som realtidsmoderering.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "image_url": "",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Vem bär ansvaret när AI:n går bärsärk?",
+      "summary": "Rättsforskare varnar för att det kan bli extremt komplicerat att tillämpa befintliga lagar när autonoma **AI-agenter** fattar egna, skadliga beslut. Många anser att AI-utvecklarna själva bör hållas strikt ansvariga för sina system.",
+      "why_it_matters": "I takt med att AI övergår från passiva verktyg till autonoma agenter som kan agera i den fysiska och digitala världen, krävs ett helt nytt juridiskt ramverk för ansvarsfördelning.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "AI-agenter: Söta, kramgoa och potentiellt katastrofalt farliga?",
+      "summary": "Diskussionen kring nästa generations **AI-agenter** intensifieras då experter varnar för de oförutsedda risker som uppstår när mjukvara ges mandat att agera självständigt å användares vägnar. Detta beskrivs som ett paradigmskifte under de närmaste åren.",
+      "why_it_matters": "Autonoma agenter som fattar beslut i realtid utgör en ny era av människa-dator-interaktion, där brist på robusta skyddsmekanismer kan leda till storskaliga systemfel eller missbruk.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/02/podcasts/02hardfork-self-regulate-muse/02hardfork-self-regulate-muse-mediumSquareAt3X.jpg",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Energibolag försöker krama mer kraft ur gamla kärnkraftverk för att möta AI-behovet",
+      "summary": "Eftersom det tar lång tid att bygga nya kärnkraftverk försöker amerikanska energibolag öka effekten i befintliga reaktorer. Denna uppgradering drivs på av teknikjättar som **Google** för att strömförsörja deras växande flotta av datacenter.",
+      "why_it_matters": "AI-boomen kräver enorma mängder fossilfri el dygnet runt, vilket har gjort kärnkraften till en av de mest kritiska strategiska resurserna för AI-infrastrukturens expansion.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "FTC utreder OpenAI och Anthropic för potentiella konsumentskador",
+      "summary": "Den amerikanska konkurrensmyndigheten **FTC** har inlett en granskning av ledande AI-laboratorier, däribland **OpenAI** och Anthropic, för att undersöka om de brutit mot konsumentskyddslagar genom vilseledande eller otillbörliga metoder.",
+      "why_it_matters": "Myndigheternas ökade fokus på AI-jättarnas affärsmetoder visar att branschen har lämnat den oreglerade fasen och nu står inför strikt juridisk granskning på global nivå.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
       "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/30biz-ftc-ai-investigation-tkwg/30biz-ftc-ai-investigation-tkwg-mediumSquareAt3X.jpg",
-      "date": "2026-10-06"
+      "date": "2026-10-07"
     },
     {
-      "title": "Vid AI-möte ber Trump Meta, OpenAI och Microsoft att fatta säkerhetsbeslut själva",
-      "summary": "President Trumps möten med tech-ledare resulterade i frivilliga säkerhetsåtgärder och en överenskommelse om att föredra begreppet **superintelligence** framför AI.",
-      "why_it_matters": "Belyser spänningen mellan politisk deregulering och branschens egna interna säkerhetsramar.",
+      "title": "Kina kämpar med att rekrytera utländska AI-forskare i kapplöpningen med USA",
+      "summary": "Trots statliga initiativ har Kinas växande AI-sektor svårt att locka till sig internationella forskare. De flesta inhemska talanger stannar i landet, men USA behåller sitt övertag när det gäller att attrahera global spetskompetens till sin **AGI-forskning**.",
+      "why_it_matters": "AI-kapplöpningen handlar i slutändan om humankapital. Den nation som lyckas attrahera och behålla de bästa forskarna kommer att ha ett avgörande försprång i utvecklingen av nästa generations AI.",
+      "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Instinct tar sin AI-agent till gruppchattar",
+      "summary": "Teknikbolaget **Instinct** lanserar en funktion där grupper kan använda dess **AI-agent** tillsammans för att planera resor eller samordna event, även om alla i chatten inte har ett eget konto. Personliga data hålls strikt separerade.",
+      "why_it_matters": "Att integrera AI-agenter i sociala samarbetsmiljöer är ett viktigt steg mot mer sömlös och kollektiv människa-dator-interaktion i vardagen.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "image_url": "",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Hark lanserar en personlig AI-assistent med fokus på integritet",
+      "summary": "AI-labbet Hark har släppt en personlig assistent som beskrivs som 'ett operativsystem från framtiden'. Systemet är designat för att konkurrera med tjänster som Muse och Instinct, men med ett kompromisslöst fokus på **användarintegritet**.",
+      "why_it_matters": "I takt med att AI-assistenter får tillgång till allt mer känslig personlig data blir lokal bearbetning och strikt integritetsskydd en avgörande konkurrensfördel för konsumenter.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "image_url": "",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Amazon lovar mer lokal finansiering och mindre hemlighetsmakeri kring datacenter",
+      "summary": "Teknikjätten **Amazon** försöker dämpa lokalbefolkningens växande motstånd mot nya datacenter genom att erbjuda mer insyn och finansiellt stöd till de lokala samhällen där de massiva **AI-datacentren** byggs.",
+      "why_it_matters": "Den fysiska infrastrukturen bakom AI möter allt oftare folkligt och miljömässigt motstånd, vilket tvingar molnjättarna att bli mer transparenta och samhällsengagerade.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/02/technology/amazon-data-centers-funding.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-amazon-datacenters-1-zkmh/02biz-amazon-datacenters-1-zkmh-mediumSquareAt3X.jpg",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Sydkorea utreder möjlig användning av AI i bankhackningar",
+      "summary": "Landets president uppger att det finns tecken på att avancerade AI-modeller har använts i nyligen genomförda cyberattacker mot flera sydkoreanska banker i syfte att stjäla kunddata. Polisen utreder nu händelsen som ett potentiellt **AI-assisterat cyberhot**.",
+      "why_it_matters": "Detta visar hur snabbt illasinnade aktörer kan anpassa generativ AI och LLM:er för att automatisera och skala upp sofistikerade cyberattacker mot kritisk infrastruktur.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-trump-tech1-jqmw/29dc-trump-tech1-jqmw-mediumSquareAt3X.jpg",
-      "date": "2026-10-06"
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-skorea-ai-jkbg/06xp-skorea-ai-jkbg-mediumSquareAt3X.jpg",
+      "date": "2026-10-07"
     },
     {
-      "title": "Hur Meta använder AI-datacenter för miljarder i skattelättnader",
-      "summary": "Meta drar nytta av lukrativa skattelättnader avsedda för forskning och experiment genom sina massiva **AI-datacenter**, trots att interna revisorer varnar för risker.",
-      "why_it_matters": "Kopplar den enorma hårdvaruexpansionen för AI till finansiella skatteupplägg på nationell nivå.",
+      "title": "Hur Meta använder AI-datacenter för att undvika miljarder i federal skatt",
+      "summary": "Sociala medie-jätten **Meta** utnyttjar skattelättnader avsedda för forskning och utveckling genom att skriva av sina massiva investeringar i **AI-datacenter**. Företagets egna revisorer beskriver dock strategin som riskabel.",
+      "why_it_matters": "Finansieringen av AI-revolutionen skapar enorma finansiella incitament där gränsdragningen mellan ren fysisk infrastruktur och innovativ forskning blir allt suddigare för skattemyndigheter.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/23/business/00rd-tax/00rd-tax-mediumSquareAt3X.jpg",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "LibreOffice lanserar 'Ingen AI' som en mjukvarufunktion",
+      "summary": "Utvecklarna bakom den öppna kontorssviten **LibreOffice** har meddelat att de inte har några planer på att integrera AI i standardkonfigurationen av programmet, med hänvisning till **användarnas integritet**.",
+      "why_it_matters": "Som en motreaktion mot att AI integreras överallt positionerar sig vissa aktörer medvetet som helt 'AI-fria zoner', vilket kan attrahera en nisch av användare som kräver total datakonfidentialitet.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
       "image_url": "",
-      "date": "2026-10-06"
+      "date": "2026-10-07"
     }
   ]
 }
