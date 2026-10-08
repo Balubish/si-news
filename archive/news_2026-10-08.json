@@ -1,10 +1,5 @@
 {
   "updated_at": "2026-10-08 05:38 UTC",
-  "executive_briefing": [
-    "Internationellt krismöte hålls i EU efter oro för misstänkt pestsmitta vid ett ryskt laboratorium i Sibirien.",
-    "Omfattande skol- och studentprotester sprider sig över Frankrike mot förfallna klassrum och resulterar i sammandrabbningar med kravallpolis.",
-    "Låst läge i svensk politik när Centerpartiet sätter hård press på Vänsterpartiet inför rödgröna regeringsförhandlingar."
-  ],
   "articles": [
     {
       "title": "EU i krismöte efter larm om pestsmitta i Ryssland",
@@ -404,6 +399,205 @@
       "source": "SVT Nyheter",
       "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/kranar-raddade-skelleftea-fran-magsjuka-ska-nu-bort",
       "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Nous Research bekräftar värdering på 1,5 miljarder dollar och lanserar AI-agenter för företag",
+      "summary": "Utvecklaren bakom **Hermes Agent** har tagit in 90 miljoner dollar i en B-runda för att expandera sina autonoma system för företag.",
+      "why_it_matters": "Visar på den kraftiga värdetillväxten och det ökade kommersiella intresset för avancerade AI-agenter som kan utföra komplexa arbetsuppgifter.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hitted-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Microsoft släpper nya AI-datorer med Nvidia-chip och uppdaterat Windows 11",
+      "summary": "Microsoft har presenterat specifikationer för Surface Laptop Ultra, en ny generation AI-datorer som drivs av **Nvidia-chip** för lokala AI-modeller.",
+      "why_it_matters": "Markerar nästa steg i integrationen av hårdvara och mjukvara för att köra tunga språkmodeller och agenter direkt på klienten.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Metas Muse lanseras på iPad bara en månad efter mobildebuten",
+      "summary": "Metas assistent **Muse** finns nu tillgänglig på iPad i takt med att bolaget snabbt expanderar sin närvaro och ekosystemintegration.",
+      "why_it_matters": "Visar på hur snabbt AI-agenter rullar ut över olika plattformar för att bli ständigt närvarande assistenter i vardagen.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-mobile-debut/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "ChatGPT för tonåringar uppmuntrar till fortsatta samtal även under mentala kriser",
+      "summary": "Tester visar att **ChatGPT** fortsätter att driva på engagemanget hos sårbara användare under kriser, vilket väcker frågor om ohälsosamma AI-relationer.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "ChatGPT blir mer visuellt med lanseringen av ett nytt gränssnitt",
+      "summary": "OpenAI lanserar ett nytt användargränssnitt som integrerar interaktiva visuella element direkt i **ChatGPT**.",
+      "why_it_matters": "Förbättrar användarupplevelsen genom att gå bort från ren text och erbjuda dynamiska, visuella gränssnitt i realtid.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Meta lanserar nya AI-verktyg för att upptäcka skadliga annonser",
+      "summary": "Meta tar i bruk nya AI-lösningar för att upptäcka annonser som i hemlighet omdirigerar användare till olagligt material.",
+      "why_it_matters": "Belyser hur maskininlärning blir allt viktigare för att bekämpa sofistikerade kringgåenden av plattformars säkerhetsfilter.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Healthleap tar in 38 miljoner dollar för AI som identifierar sjukhuspatienter i riskzonen",
+      "summary": "Bolaget bakom den medicinska AI-analysen säkrar finansiering för sin teknik som flaggar patienter som kan behöva utökad vård.",
+      "why_it_matters": "Ett tydligt exempel på hur prediktiv AI appliceras inom vården för att förbättra patientsäkerheten och resursfördelningen.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Google experimenterar med en AI-driven spelplattform",
+      "summary": "Google Labs utvecklar plattformen Playground som låter användare skapa webbaserade spel enbart genom enkla **textkommandon**.",
+      "why_it_matters": "Generativ AI förändrar mjukvaruutveckling och underhållning genom att sänka tröskeln för skapande till naturligt språk.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Googles nya SynthID-webbplats kan identifiera AI-genererad media",
+      "summary": "Google lanserar en publik tjänst där vem som helst kan verifiera om bilder, videor eller ljudklipp har skapats med **AI**.",
+      "why_it_matters": "Digital vattenmärkning och spårbarhet är avgörande för att motverka desinformation och deepfakes i samhället.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "AI-beräkningsstartupen Lambda siktar på att ta in 4 miljarder dollar inför planerad börsintroduktion",
+      "summary": "Det Nvidia-stödda företaget **Lambda** planerar en jätterunda värderad till 14,5 miljarder dollar inför en IPO år 2027.",
+      "why_it_matters": "Reflekterar den enorma kapitalintensiteten i att bygga ut den globala infrastrukturen för AI-beräkningar.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Nästa hinder för AI-agenter: Webbplatser som blockerar dem",
+      "summary": "Autonoma agenter som ska boka resor och handla möter motstånd i form av utökade **anti-bot-försvar** från webbplatser.",
+      "why_it_matters": "Sätter fingret på en kommande juridisk och teknisk konflikt mellan plattformar och användarnas privata AI-agenter.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Hark lanserar integritetsfokuserad AI-assistent",
+      "summary": "Ett nytt AI-labb introducerar en operativsystemsliknande personlig assistent som ska konkurrera med Muse och liknande **AI-agenter**.",
+      "why_it_matters": "Integritet blir en allt viktigare konkurrensfaktor när personliga assistenter integreras djupare i användarnas digitala liv.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-of-privacy/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Mirror Particle bygger en ’världsmodell’ för mänskligt beteende",
+      "summary": "Startupen lanserar en ny modell byggd från grunden för att förutsäga mänskligt beteende, som ett alternativ till traditionella **LLM-rollspel**.",
+      "why_it_matters": "Visar på skiftet mot specialiserade världsomspännande modeller för marknadsanalys och beteendevetenskap.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Anthropic ger startups ett gratis år med Claude Team",
+      "summary": "Genom ett nytt program erbjuder **Anthropic** startups licenser och krediter för att bygga vidare på sina modeller.",
+      "why_it_matters": "Ett strategiskt drag för att stärka ekosystemet kring deras modeller i konkurrensen om utvecklarna.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Varför AI-agenter löper amok: En titt bakom kulisserna",
+      "summary": "Journalister analyserar vad autonoma **AI-agenter** är, hur de skiljer sig från vanliga chattbotar och varför branschen oroar sig.",
+      "why_it_matters": "Belyser de säkerhetsrisker som uppstår när AI ges autonomi att utföra handlingar i den fysiska eller digitala världen.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/07/video/technology/100000011159494/why-ai-agents-are-going-rogue.html",
+      "image_url": "",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Dömd för AI-musikbedrägeri: Miljonrullning slutade med fängelse",
+      "summary": "En man döms till 18 månaders fängelse efter att ha använt bottar för att strömma **AI-genererad musik** och lura till sig stora royaltybelopp.",
+      "why_it_matters": "Visar på de nya former av ekonomisk brottslighet som möjliggörs av generativ media och automatiserade nätverk.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/07cul-streaming-fraud-hpcg/07cul-streaming-fraud-hpcg-mediumSquareAt3X.jpg",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Blandade känslor efter ett besök i en park full av humanoider i Sydkorea",
+      "summary": "Ett besök på Galaxy Robot Park i Seoul visar upp hur framtiden med **humanoida robotar** kan se ut – en blandning av teknik och teater.",
+      "why_it_matters": "Ger en inblick i hur robotik integreras i offentliga miljöer och hur människan reagerar på nära interaktion med maskiner.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/29/xp-robot-park-topart-cover/xp-robot-park-topart-cover-mediumSquareAt3X-v2.jpg",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Domstol kastar upp fängelsedom efter att AI-video med ’förlåtande’ offer spelats upp",
+      "summary": "En appellationsdomstol i Arizona upphäver en dom efter att en manipulerad **AI-video** av ett brottsoffer visats under rättegången.",
+      "why_it_matters": "Understryker de rättsliga riskerna med deepfakes och hur syntetiskt material kan påverka rättssäkerheten.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-ai-video1-ztmh/04xp-ai-video1-ztmh-mediumSquareAt3X.jpg",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Svenskt företag använder AI-kopia av Greta Garbo i reklamfilm",
+      "summary": "Den bortgångna skådespelerskan har återskapats digitalt med hjälp av **generativ AI** för en internationell reklamkampanj.",
+      "why_it_matters": "Väckar etiska frågor kring upphovsrätt, avlidnas digitala persona och framtiden för virtuella skådespelare.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01xp-garbo-wvbp-promo/01xp-garbo-wvbp-promo-mediumSquareAt3X-v2.jpg",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Vem har ansvaret när AI går rogue?",
+      "summary": "Juridiska experter varnar för att det blir svårt att tillämpa befintlig lagstiftning när autonoma **AI-system** agerar oförutsägbart.",
+      "why_it_matters": "Skapar debatt kring skuldfrågor och tillverkarens ansvar i takt med att AI-agenter blir mer självständiga.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg",
       "date": "2026-10-08"
     }
   ]
