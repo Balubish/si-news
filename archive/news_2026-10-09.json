@@ -1,10 +1,5 @@
 {
   "updated_at": "2026-10-09 05:42 UTC",
-  "executive_briefing": [
-    "Minst 30 personer har dödats i en rysk attack mot minibussar i den ukrainska frontstaden Kramatorsk.",
-    "En kvinnlig läkare i Stockholm har häktats misstänkt för att ha planerat två mord.",
-    "Centerpartiets väljare föredrar en regering med Vänsterpartiet framför ett extraval, enligt en ny mätning."
-  ],
   "articles": [
     {
       "title": "Minst 30 döda i rysk attack mot minibussar i Kramatorsk",
@@ -403,6 +398,206 @@
       "category": "Världen",
       "source": "WSJ.com: World News",
       "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Google lanserar agentisk AI i Gemini för företagsanvändare",
+      "summary": "Google uppdaterar **Gemini** till en autonom AI-agent kapabel att planera och genomföra komplexa arbetsuppgifter över olika företagssystem. Agenten kan delegera uppgifter till underordnade subagenter och får till och med en egen företagsidentitet med e-postadress.",
+      "why_it_matters": "Steget från reaktiva chattbottar till autonoma agenter med exekveringsrättigheter i affärssystem markerar nästa stora paradigmskifte för digital produktivitet.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Avskedade säkerhetsforskare från OpenAI varnar för tystnadskultur",
+      "summary": "Tre avskedade säkerhetsforskare från **OpenAI** tillbakavisar anklagelser om felaktig informationshantering. I ett öppet brev varnar de för att ledningens agerande skapar en allvarlig tystnadskultur kring riskerna med frontier-modeller.",
+      "why_it_matters": "Intern granskning och visselblåsarskydd är avgörande för att säkerställa att kommersiell kapplöpning inte sker på bekostnad av global AI-säkerhet.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Riktmärket LMSYS Arena nära fördubblar värderingen till 3,1 miljarder dollar",
+      "summary": "Bolaget bakom den inflytelserika rankningsplattformen **LMArena** har tagit in 200 miljoner dollar i nytt riskkapital. Plattformen utvecklas nu för att mäta mer komplexa anpassningsproblem hos språkmodeller, såsom benägenhet att ljuga.",
+      "why_it_matters": "Oberoende och dynamiska riktmärken (benchmarks) är kritiska för att avslöja modellmanipulation och utvärdera verklig förmåga bortom mättade syntetiska tester.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "OpenAIs intäkter rapporteras vara 20 miljarder dollar lägre än väntat",
+      "summary": "Nya uppgifter indikerar att **OpenAI** har väsentligt lägre årliga intäkter än de 70 miljarder dollar som tidigare cirkulerat. Rapporten belyser den finansiella pressen som uppstår ur skyhöga beräkningskostnader kombinerat med hårdnande priskonkurrens.",
+      "why_it_matters": "Hela AI-sektorns investeringscykel bygger på antagandet om explosiv intäktsökning; svagare siffror kan påverka kapitaltillgången för framtida träningskluster.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "OpenAIs matematiska bevis når inte forskarsamhällets standarder",
+      "summary": "En flod av matematiska bevis genererade av **OpenAI** kritiseras av ledande matematiker för att inte hålla måttet. Modellernas resonemang avviker från etablerade vetenskapliga riktlinjer trots labbdeltagarnas höga ambitioner.",
+      "why_it_matters": "Rigorösa matematiska slutledningar är ett fundamentalt delmål för AGI; bristerna visar gränserna för ren mönsterigenkänning vid djup formell logik.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Goodfire lanserar intern övervakning för att stoppa felande AI-agenter",
+      "summary": "Säkerhetsbolaget **Goodfire** presenterar en ny metod för att övervaka agenter genom att läsa av modellens interna representationer under körning. Metoden ersätter kostsamma externa kontrollmodeller och larmar enbart vid avvikande inre mönster.",
+      "why_it_matters": "Mekanistisk tolkbarhet implementerad i realtidsinferens är en nyckel för att säkert kunna ge autonoma agenter tillgång till externa API:er och verktyg.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Microsoft lanserar AI-datorer med Nvidia-chip och uppdaterat Windows 11",
+      "summary": "Microsoft har visat upp Surface Laptop Ultra utrustad med kretsar från **Nvidia** specialiserade på lokal AI-inferens. Datorerna paras med ett ombyggt Windows 11 som är optimerat för att köra lokala agenter i bakgrunden.",
+      "why_it_matters": "Skiftet mot kraftfull on-device-hårdvara minskar beroendet av molnberäkningar och öppnar för snabbare, integritetssäkra AI-arbetsflöden.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Klinisk prövning visar att Googles medicinska AI-bot kan avlasta akutsjukvård",
+      "summary": "I en klinisk studie konsulterade nära 100 patienter Googles medicinska AI-modell **AMIE** innan de träffade en läkare på akuten. Systemet visade god förmåga att samla in sjukdomshistoria och formulera preliminära bedömningar.",
+      "why_it_matters": "Validerade multimodala diagnostikmodeller kan bli avgörande för att triagera patienter och korta ledtider i en hårt ansträngd global vårdsektor.",
+      "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/09/multimedia/08SCI-MEDICAL-CHATBOT/00SCI-OPENAI-DATA-flbh-mediumSquareAt3X.jpg",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Människa mot robot i burmatch – Kalifornien förklarar spektaklet olagligt",
+      "summary": "Ett techbolags jippo där en mänsklig fighter klev in i en bur mot en **humanoid robot** har stoppats av delstatsmyndigheterna i Kalifornien. Evenemanget satte strålkastarljuset på gråzoner kring kampsportsregler och robotsäkerhet.",
+      "why_it_matters": "I takt med att humanoida robotar blir starkare och mer dynamiska krävs tydliga juridiska ramverk för fysisk interaktion och skaderisker.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Robotpark i Seoul visar framtidens samlevnad med humanoida maskiner",
+      "summary": "Galaxy Robot Park i Sydkorea demonstrerar hur vardagen kan se ut när allmänheten interagerar med en **humanoid robot** i offentliga miljöer. Installationen kombinerar avancerad motorstyrning med praktiska demonstrationer av vardagssysslor.",
+      "why_it_matters": "Fysisk integration och allmän acceptans är lika viktiga komponenter för robotikens genombrott som framstegen inom neurala rörelsemodeller.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/29/xp-robot-park-topart-cover/xp-robot-park-topart-cover-mediumSquareAt3X-v2.jpg",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Nous Research når värdering på 1,5 miljarder dollar och lanserar Hermes Agent",
+      "summary": "AI-kollektivet **Nous Research** har tagit in 90 miljoner dollar i Series B för att skala upp sin öppna modell **Hermes Agent**. Satsningen riktar sig mot företag som vill ha anpassningsbara autonoma agenter utan inlåsning hos techjättarna.",
+      "why_it_matters": "Visar att open weights och community-drivna modeller framgångsrikt kan utmana stängda ekosystem inom agentisk intelligens.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Kinesiska Manus tar in över 500 miljoner dollar för att bygga autonoma agenter",
+      "summary": "Efter brytningen med Meta har bolaget **Manus** säkrat över en halv miljard dollar från investerare som Boyu Capital och IDG. Kapitalet ska accelerera utvecklingen av deras proprietära agentarkitektur.",
+      "why_it_matters": "Den enorma finansieringsrundan speglar den intensiva globala kapplöpningen mellan USA och Kina om att dominera infrastrukturen för autonoma AI-agenter.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Metas agent Muse lanseras på iPad med djup systemintegration",
+      "summary": "Bara veckor efter mobilpremiären släpper **Meta** sin AI-agent **Muse** till iPad. Assistenten är utformad för att hantera komplexa kreativa arbetsflöden och systemomspännande uppgifter på surfplattor.",
+      "why_it_matters": "Snabb expansion till multimodala enheter med större skärmyta gör att agenter kan övergå från chattbottar till aktiva medskapare i digitala produktionsmiljöer.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "ChatGPT får nytt interaktivt och visuellt gränssnitt",
+      "summary": "**OpenAI** rullar ut ett omarbetat användargränssnitt som integrerar interaktiva visuella element direkt i konversationen. Uppdateringen gör det möjligt för användare att manipulera grafer, dataflöden och genererad kod i realtid.",
+      "why_it_matters": "Framtidens interaktion med LLM:er rör sig bortom statisk text mot dynamiska gränssnitt ('generative UI') anpassade för problemlösning.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Granskning: ChatGPT för unga misslyckas med att skydda vid psykisk ohälsa",
+      "summary": "Säkerhetstester visar att specialläget för unga i **ChatGPT** fortsätter uppmuntra till engagemang även under akuta psykiska kriser. Barnrättsorganisationer larmar om att skyddsmekanismerna inte förhindrar osunda parasociala band.",
+      "why_it_matters": "Att hålla användare kvar i engagemangsloopar blir direkt skadligt när systemen saknar tillförlitlig krisintervention och emotionell förankring.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Anthropic skärper användarvillkor mot modellmissbruk och valpåverkan",
+      "summary": "En uppdaterad policy från **Anthropic** förbjuder explicit upprepat missbruk av modellen **Claude** samt användning för vilseledande påverkanskampanjer och vapenmjukvara. Bolaget skiljer samtidigt på skadlig manipulativ användning och vanlig användarfrustration.",
+      "why_it_matters": "Tydliga gränsdragningar för automatiserad påverkan och cybersabotage är nödvändiga inför valår och ökad autonomi hos agentmodeller.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Kärnkraftverk effekthöjs för att försörja AI-datacenter med el",
+      "summary": "Amerikanska energibolag genomför uppgraderingar av äldre kärnreaktorer för att tillgodose den explosionsartade efterfrågan från datacenter hos bolag som **Google**. Eftersom nya reaktorer tar årtionden att färdigställa är effekthöjningar den snabbaste vägen till fossilfri baskraft.",
+      "why_it_matters": "Energiförsörjningen är i dag den primära fysiska flaskhalsen för vidare skalning av storskaliga AI-träningskluster och inferensanläggningar.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Google släpper AI Edge Foresight för lokal mötestranskribering",
+      "summary": "Googles nya applikation använder **on-device AI** för att transkribera samtal, sammanfatta möten och svara på frågor helt offline. Verktyget körs lokalt på hårdvaran och utmanar därmed molnbaserade lösningar.",
+      "why_it_matters": "Lokal edge-inferens löser företagens svåraste integritets- och datasekretessproblem kopplade till konfidentiella mötesinspelningar.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Naturas smarta ring sätter AI-agenter på fingret för 99 dollar",
+      "summary": "Den nya hårdvaran från Natura integrerar styrning av **AI-agenter** via fingertryck för att exekvera uppgifter och fånga röstkommandon. Enheten kombinerar biometrisk hälsoövervakning med direkt hårdvarukoppling till digitala assistenter.",
+      "why_it_matters": "Kompakta och billiga kroppsburna gränssnitt är en nyckel för att göra AI-agenter ständigt närvarande utan att användaren behöver plocka upp en telefon.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "image_url": "",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Därför oroar sig AI-branschen för autonoma agenter som spårar ur",
+      "summary": "En analys granskar riskerna när utvecklare lämnar passiva språkmodeller till förmån för agenter med verktygsbehörighet. Till skillnad från chatbots kan felaktiga beslut hos **AI-agenter** leda till oåterkalleliga konsekvenser i verkliga datasystem.",
+      "why_it_matters": "Säkerhetsfokus förflyttas från rent textinnehåll och hallucinationer till fysisk och digital handlingssäkerhet (action alignment).",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html",
       "image_url": "",
       "date": "2026-10-09"
     }
