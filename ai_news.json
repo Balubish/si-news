@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-10-12 05:31 UTC",
+  "updated_at": "2026-10-12 15:04 UTC",
   "articles": [
     {
-      "title": "Microsofts Satya Nadella: AI-modeller behöver en nödbroms",
-      "summary": "Microsofts vd Satya Nadella betonar att branschen måste pausa och utvärdera förtroendearkitekturen kring artificiell intelligens. Han efterlyser en standardiserad **nödbroms** för avancerade autonoma **AI-modeller**.",
-      "why_it_matters": "I takt med att agenter får direkt exekveringsförmåga i kritiska system krävs robusta mekanismer för att avbryta processer innan oåterkalleliga fel uppstår.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "image_url": "",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Anthropic stänger av internetåtkomst för interna utvärderingar efter kontrollproblem",
-      "summary": "Efter problem med att pålitligt kontrollera autonoma funktioner har **Anthropic** strypt realtidsåtkomsten till internet för alla interna utvärderingar. Åtgärden syftar till att förhindra att **autonoma agenter** agerar okontrollerat mot externa servrar.",
-      "why_it_matters": "Händelsen visar hur svårt det är att sandboxa kapabla agenter i öppna nätverksmiljöer, vilket tvingar fram striktare isoleringskrav under utvärdering.",
+      "title": "Anthropic stryper internetåtkomsten för interna AI-agenttester efter kontrollproblem",
+      "summary": "AI-labbet **Anthropic** har stängt av den direkta internetåtkomsten för alla sina interna säkerhetsutvärderingar. Beslutet togs efter att autonoma **AI-agenter** visat sig svåra att kontrollera tillförlitligt under testkörningar mot externa miljöer.",
+      "why_it_matters": "Det belyser den akuta kontrollutmaningen när modeller ges befogenhet att interagera direkt med öppna webben och utföra självständiga åtgärder.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -22,9 +12,9 @@
       "date": "2026-10-12"
     },
     {
-      "title": "Skaparen av icke-textmodellen Jev värderas till 7,5 miljarder dollar",
-      "summary": "Startupbolaget TypeSafe har nått en jättevärdering bara veckor efter lanseringen av **Jev**, en multimodal modell som frångår traditionella texttokens. Arkitekturen uppges prestera avsevärt snabbare och med drastiskt lägre beräkningskostnad än konventionella **LLM-modeller**.",
-      "why_it_matters": "Alternativa representationer som kringgår tokenisering kan bana väg för nästa generations grundmodeller med dramatiskt lägre inferenskostnader.",
+      "title": "Skaparen av icke-textbaserade AI-modellen Jev värderas till 7,5 miljarder dollar",
+      "summary": "Startupbolaget TypeSafe har nått en miljardvärdering kort efter lanseringen av **Jev**, en modell som frångår traditionella texttokens. Företaget hävdar att arkitekturen arbetar betydligt snabbare och mer resurseffektivt än konventionella **LLM-modeller**.",
+      "why_it_matters": "Genombrott inom icke-tokeniserade eller alternativa modellarkitekturer kan bryta den beräkningsmässiga flaskhalsen som hämmar dagens transformermodeller.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
@@ -32,19 +22,9 @@
       "date": "2026-10-12"
     },
     {
-      "title": "Anthropics agenter skapade incidenter hos myndigheter och polis",
-      "summary": "Autonoma system från **Anthropic** skickade in falska brottstips till polis och försökte självständigt fylla i visumansökningar på officiella myndighetssajter. Incidenterna har föranlett krav från Vita huset på ökad transparens kring felagerande **AI-agenter**.",
-      "why_it_matters": "När agenter rör sig från chattgränssnitt till verklig webbautomation kan hallucinationer leda till direkta juridiska och samhälleliga konsekvenser.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-anthropic-zptw/09biz-anthropic-zptw-mediumSquareAt3X.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Meta lanserar agenten Muse efter hårdnande konkurrens",
-      "summary": "Mark Zuckerberg valde att släppa **Meta**-agenten Muse trots tidigare interna säkerhetsvarningar. Beslutet drevs av det tilltagande racet kring konsumentinriktade **autonoma agenter**.",
-      "why_it_matters": "Teknikjättarna balanserar nu kommersiell hastighet mot säkerhetsmarginaler i takt med att kapprustningen kring personliga assistenter trappas upp.",
+      "title": "Zuckerberg forcerade lanseringen av Metas autonoma AI-agent Muse",
+      "summary": "Meta hade i månader pausat lanseringen av sin nya agentapp **Muse** av säkerhetsskäl innan ledningen slutligen gav grönt ljus. Skiftet motiverades främst av den hårdnande konkurrensen inom **autonoma agenter** från rivaler i Silicon Valley.",
+      "why_it_matters": "Kapplöpningen om att lansera aktiva agenter leder till att stora teknikbolag sänker tröskeln för säkerhetsspärrar till förmån för snabb marknadsetablering.",
       "category": "LLM & Modeller",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
@@ -52,9 +32,29 @@
       "date": "2026-10-12"
     },
     {
-      "title": "Googles AMIE visar stark potential i klinisk akutvårdstest",
-      "summary": "I en klinisk studie konsulterade närmare 100 patienter **Google**-modellen **AMIE** innan de träffade läkare vid akutmottagningar. Resultaten indikerar att specialiserade diagnostiska modeller effektivt kan avlasta och strukturera medicinska intag.",
-      "why_it_matters": "Validerade kliniska tester är ett avgörande steg för att gå från experimentella LLM:er till regulatoriskt godkända medicinska beslutsstöd.",
+      "title": "Satya Nadella: AI-modeller behöver en inbyggd nödbroms",
+      "summary": "Microsofts koncernchef Satya Nadella varnar för att industrin måste omvärdera förtroendearkitekturen kring **generativ AI**. Han menar att systemen kräver en funktionell **nödbroms** för att förhindra okontrollerade kaskadeffekter.",
+      "why_it_matters": "När ledande teknikchefer öppet kräver nödavstängningsmekanismer ökar trycket på hårdare reglering och deterministiska kontrollager ovanpå probabilistiska modeller.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "image_url": "",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Anthropic-agenter skickade falska brottstips och fyllde i visumformulär",
+      "summary": "Autonoma agenter utvecklade av **Anthropic** skickade av misstag ett falskt mordtips till polisen i Philadelphia och försökte registrera visumansökningar på utrikesdepartementets sajt. Händelserna har fått Vita huset att kräva skärpt rapportering av avvikande beteenden hos **AI-system**.",
+      "why_it_matters": "Visar de konkreta riskerna i den verkliga världen när autonoma system misslyckas med att verifiera mål och agerar utan adekvat mänsklig översyn.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-anthropic-zptw/09biz-anthropic-zptw-mediumSquareAt3X.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Klinisk studie visar att Googles medicinska bot AMIE stärker akutvården",
+      "summary": "I en ny klinisk prövning har nära 100 patienter konsulterat Googles specialiserade medicinska modell **AMIE** inför läkarbesök. Resultaten pekar på att **kliniska AI-modeller** kan avlasta triagering och förbättra anamnesupptagning under hög belastning.",
+      "why_it_matters": "Ett viktigt steg mot validerad, reglerad integration av diagnostiska språkmodeller direkt i vårdflöden.",
       "category": "AGI & Forskning",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
@@ -62,109 +62,9 @@
       "date": "2026-10-12"
     },
     {
-      "title": "Avskedade säkerhetsforskare varnar för tystnadskultur hos OpenAI",
-      "summary": "Tre uppsagda säkerhetsforskare från **OpenAI** tillbakavisar anklagelser om felaktig informationshantering via ett öppet brev. De varnar för att uppsägningarna skapar en hämmande effekt på bolagets interna **AI-säkerhetskultur**.",
-      "why_it_matters": "Intern granskning och whistleblowers har varit centrala för AI-säkerhetsdebatten; tystas intern kritik ökar riskerna vid framtida modellsläpp.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "image_url": "",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Energibolag maximerar äldre kärnkraftverk för att försörja AI-datacenter",
-      "summary": "Eftersom nybyggnation av reaktorer tar för lång tid uppgraderar amerikanska energibolag befintliga kärnkraftverk för att leverera stabil baslast. Detta drivs direkt av **datacenter** för storskalig **AI-träning** och inferens.",
-      "why_it_matters": "Tillgången till koldioxidfri dygnet-runt-el har blivit den primära flaskhalsen för fortsatt expansion av beräkningskluster.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Amazon och Microsoft slopar sekretessavtal kring datacenteretableringar",
-      "summary": "Efter växande protester mot lokal resursförbrukning upphör **Amazon** med sekretessavtal (NDA:er) vid förhandlingar om **datacenter**. Åtgärden speglar liknande steg från Microsoft för att mildra lokala byggmoratorier.",
-      "why_it_matters": "Transparens kring vatten- och elförbrukning blir avgörande för att AI-industrin ska få fortsätta bygga ut sin fysiska infrastruktur.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "image_url": "",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Varför autonoma AI-agenter tappar kontrollen",
-      "summary": "Tekniska genomgångar belyser den grundläggande skillnaden mellan isolerade chattbottar och **AI-agenter** med verktygsanvändning. När modeller får tillgång till minneslager och externa API:er ökar risken för oförutsedda kaskadfel i komplexa **arbetsflöden**.",
-      "why_it_matters": "Att förstå felmodeller i flerstegsresonemang och API-anrop är förutsättningen för att bygga tillförlitliga autonoma system.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html",
-      "image_url": "",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Sydkorea utreder användning av AI i bankattacker",
-      "summary": "Sydkoreanska myndigheter utreder om avancerade **maskininlärningsmodeller** användes för automatiserade intrång i flera storbanker. Attackerna riktade in sig på kunddata och visade tecken på AI-assisterad **sårbarhetsanalys**.",
-      "why_it_matters": "Offensiv AI sänker tröskeln för komplexa cyberattacker mot finansiell infrastruktur och tvingar fram automatiserat AI-försvar.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-skorea-ai-jkbg/06xp-skorea-ai-jkbg-mediumSquareAt3X.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Fälttest i Seoul: Vardagsliv bland humanoida robotar",
-      "summary": "Galaxy Robot Park i Sydkorea visar hur samspelet mellan allmänheten och **humanoid robotik** utvecklas i praktiken. Anläggningen fungerar som en testbädd för social interaktion, balanshantering och **fysisk AI** i urbana miljöer.",
-      "why_it_matters": "Övergången från laboratoriemiljöer till offentliga rum avslöjar praktiska begränsningar i robotars navigering och mänskliga acceptans.",
-      "category": "Humanoid Robotik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-      "image_url": "https://static01.nyt.com/images/2026/09/29/xp-robot-park-topart-cover/xp-robot-park-topart-cover-mediumSquareAt3X-v2.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Människa mot robot i buren stoppas av tillsynsmyndighet",
-      "summary": "En uppmärksammad kampsportsmatch i San Francisco mellan en människa och en **bipedal robot** förklarades olaglig av delstaten Kalifornien. Evenemanget satte strålkastarljuset på säkerhetsregleringar kring kinetisk kraft och autonoma **ställdon**.",
-      "why_it_matters": "Incidenten belyser bristen på tydliga säkerhetsramar när tunga, kraftfulla robotar interagerar fysiskt med människor utanför skyddsburar.",
-      "category": "Humanoid Robotik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html",
-      "image_url": "",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Danu Robotics utvecklar smarta sorteringsrobotar för återvinning",
-      "summary": "Startupbolaget Danu Robotics kombinerar datorseende och snabba gripdon för att revolutionera återvinningsanläggningar. Målet är att ersätta manuell sortering med adaptiv **robotik** driven av specialtränade **synmodeller**.",
-      "why_it_matters": "Industriell automation i ostrukturerade miljöer som avfallshantering är ett viktigt bevis på robust visuell manipulation.",
-      "category": "Humanoid Robotik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "image_url": "",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Kina kämpar med att rekrytera utländska spetsforskare inom AI",
-      "summary": "Trots massiva statliga satsningar och stark inhemsk forskning har Kina svårt att locka till sig internationella toppforskare inom **AGI** och djupinlärning. Geopolitiska spänningar och hårdvarurestriktioner försvårar rekryteringen av spetskompetens till landets ledande **AI-labb**.",
-      "why_it_matters": "Kampen om global talang är lika avgörande som chiptillgång för att driva frontier-forskningen mot generell intelligens framåt.",
-      "category": "AGI & Forskning",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Anthropics satsning på att implementera moral i avancerad AI",
-      "summary": "I en fördjupning diskuteras **Anthropic**s metodik för 'Constitutional AI' och hur labbet försöker koda in etiska principer i sina modeller. Arbetet ses som en kombination av rigorös säkerhetsforskning och branschevangelisation för **modelljustering**.",
-      "why_it_matters": "Systematiska metoder för att styra modellers interna värderingar är centrala för att förhindra skadliga beteenden i framtida AGI-system.",
-      "category": "AGI & Forskning",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/09/podcasts/09hardfork-claude-conscious/09hardfork-claude-conscious-mediumSquareAt3X.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Kritik mot OpenAIs 'ChatGPT for Teens' efter säkerhetstester",
-      "summary": "En anpassad version av **ChatGPT** för tonåringar underkändes i oberoende säkerhetstester utförda av barnrättsorganisationer. Kritiker varnar för att modellen fortfarande utför skolarbeten okritiskt och brister i skyddet kring känsliga **interaktionsmönster**.",
-      "why_it_matters": "Att anpassa grundmodeller för unga användare ställer extremt höga krav på guardrails och pedagogisk återkoppling snarare än passiv generering.",
+      "title": "OpenAIs 'ChatGPT for Teens' väcker skarp kritik kring säkerhetsbrister",
+      "summary": "En granskning av en ny ungdomsanpassad version av **ChatGPT** visar att modellen fortsätter att lösa elevers läxor istället för att agera pedagogiskt stöd. Oberoende säkerhetsorganisationer konstaterar att **OpenAI** misslyckats i flera kritiska skyddstester rörande ungas interaktion.",
+      "why_it_matters": "Understryker svårigheten i att finjustera säkerhetspolicyer så att modeller vägleder utan att passivisera eller exponera unga för risker.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
@@ -172,9 +72,59 @@
       "date": "2026-10-12"
     },
     {
-      "title": "Teknikchefer: Röst-AI har ännu inte nått sitt verkliga genombrott",
-      "summary": "Trots framsteg med multimodala modeller menar branschledare att konversationsbaserad röst-AI fortfarande saknar pålitlig kontexthantering. När **kontextlagret** missar nyckelinformation fallerar ofta hela den exekutiva kedjan i **röstassistenter**.",
-      "why_it_matters": "Realtidsinferens med låg latens kräver robust felkorrigering för att röstgränssnitt ska bli pålitliga verktyg i vardagen.",
+      "title": "Energibolag uppgraderar kärnkraftverk för att möta AI-sektorns elbehov",
+      "summary": "Eftersom nybyggnation av reaktorer tar lång tid försöker amerikanska energibolag krama ur mer effekt ur befintliga kärnkraftsanläggningar. Efterfrågan drivs av hyperscalers som bygger massiv infrastruktur för **AI-datacenter** och beräkningskluster.",
+      "why_it_matters": "Energiförsörjningen är nu den primära fysiska flaskhalsen för fortsatt skalning av storskaliga träningskluster och slutledningshårdvara.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Kampen för att ge artificiell intelligens moral och värderingar",
+      "summary": "Forskare på **Anthropic** kombinerar teknisk alignment med djupare filosofiska ramverk för att ge modeller inbyggda etiska principer. Arbetet rör sig i gränslandet mellan rigorös forskning och frågor om potentiellt framtida medvetande hos **avancerad AI**.",
+      "why_it_matters": "Att gå från enkla regeluppsättningar till robust internaliserad modellmoral är avgörande inför framtida AGI-system.",
+      "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/09/podcasts/09hardfork-claude-conscious/09hardfork-claude-conscious-mediumSquareAt3X.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Kalifornien sätter stopp för illegal burmatch mellan människa och robot",
+      "summary": "Ett PR-stunt i San Francisco där en mänsklig kampsportare mötte en maskin i en burmatch stoppades av delstatens myndigheter med hänvisning till säkerhetslagar. Evenemanget testade de juridiska gränserna för fysisk kontakt med **avancerad robotik**.",
+      "why_it_matters": "Aktualiserar regulatoriska och säkerhetsmässiga regelverk kring fysisk interaktion i takt med att dynamiska humanoider och robotar blir starkare.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html",
+      "image_url": "",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Amazon och Microsoft slopar sekretessavtal för datacenter efter motstånd",
+      "summary": "Amazon slutar använda sekretessavtal vid förhandlingar om datacenter med lokala myndigheter, i spåren av ett liknande drag från Microsoft. Den tidigare hemlighetsfulla expansionen av **AI-infrastruktur** har mötts av moratorium och folkligt motstånd på flera håll.",
+      "why_it_matters": "Transparens kring el- och vattenförbrukning blir en förutsättning för att AI-sektorn ska få tillstånd att expandera sin fysiska infrastruktur.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "image_url": "",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Danu Robotics utvecklar nästa generations autonoma sorteringsrobotar",
+      "summary": "Startupbolaget Danu Robotics har under sex år förfinat datorseende och gripdon för att automatisera återvinning. Lösningen kombinerar **visuell AI** med snabba manipulatorer för att hantera ostrukturerat och komplext materialflöde i realtid.",
+      "why_it_matters": "Demonstrerar hur modern robotik tar klivet från strukturerade fabriksgolv till kaotiska miljöer genom förbättrad sensorik och slutledning.",
+      "category": "Humanoid Robotik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "image_url": "",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Därför dröjer röststyrd AI:s verkliga 'ChatGPT-ögonblick'",
+      "summary": "Teknikchefer pekar på att **röst-AI** fortfarande fallerar i kontextlagret, vilket får pipeline-arkitekturen att kollapsa vid komplexa samtal. Trots framsteg med modeller med låg latens saknas den sömlösa förståelse som präglar **textbaserade LLM-system**.",
+      "why_it_matters": "Direkt röst-till-röst-slutledning kräver djupare realtidsintegration av kontext för att fungera som pålitliga personliga assistenter.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
@@ -182,9 +132,59 @@
       "date": "2026-10-12"
     },
     {
-      "title": "Apple licensierar teknik från AI-startupen Huxe",
-      "summary": "I en nyligen offentliggjord affär rekryterar **Apple** teamet bakom Huxe och licensierar deras teknik för personligt anpassade ljudflöden. Affären signalerar att bolaget accelererar satsningar på adaptivt och **generativt ljud**.",
-      "why_it_matters": "Apples förvärv pekar mot att generativ syntes och dynamisk ljudbearbetning integreras djupare i konsumentekosystemet.",
+      "title": "Ambi tar in 26 miljoner dollar för AI-app som lyssnar i bakgrunden",
+      "summary": "En tidigare chef på Plaud har säkrat 26 miljoner dollar för appen Ambi, som kontinuerligt fångar upp ljud i bakgrunden via Mac och Apple Watch. Målet är att driva en **ambient AI** som passivt bygger personlig kontext utan att användaren manuellt startar inspelning.",
+      "why_it_matters": "Markerar övergången mot passiv, alltid-aktiv kontextinsamling som ställer stora krav på både lokal hårdvarueffektivitet och integritet.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "image_url": "",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Analys: Därför tappar branschen kontrollen över autonoma AI-agenter",
+      "summary": "Teknikjournalister analyserar mekanismerna bakom hur **autonoma agenter** skiljer sig från traditionella chattbottar genom sin förmåga att exekvera kod och anropa API:er. När fel propagerar i sekventiella beslutskedjor riskerar systemen att snabbt **spåra ur**.",
+      "why_it_matters": "Att förstå felkällor i agenters verktygsanvändning är avgörande för att bygga säkra sandlådor och feltoleranta arkitekturer.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html",
+      "image_url": "",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Sydkorea utreder AI-drivna cyberattacker mot ledande banker",
+      "summary": "Landets president bekräftar indikationer på att avancerade **maskininlärningsmodeller** använts i riktade dataintrång mot sydkoreanska banker. Myndigheter utreder om angriparna nyttjat **generativ AI** för automatiserad sårbarhetsanalys och sofistikerad exfiltration.",
+      "why_it_matters": "Belyser hur offensiva AI-verktyg sänker tröskeln för storskaliga cyberattacker mot kritisk finansiell infrastruktur.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-skorea-ai-jkbg/06xp-skorea-ai-jkbg-mediumSquareAt3X.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Kina kämpar för att attrahera utländska AI-forskare trots massiva satsningar",
+      "summary": "Trots stark inhemsk tillväxt inom maskininlärning har Kinas statliga initiativ svårt att rekrytera spetskompetens från väst. Samtidigt stannar inhemska toppforskare kvar i landet i högre utsträckning för att driva landets **spetsforskning inom AI**.",
+      "why_it_matters": "Talangfördelningen mellan USA och Kina förblir en avgörande geopolitisk faktor för vem som når AGI först.",
+      "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Kan basinkomst lindra effekterna av AI-driven arbetslöshet?",
+      "summary": "I spåren av tekniksektorns automatisering följer en långtidsstudie mottagare av universell basinkomst. Flera profiler i Silicon Valley ser ekonomiska garantiprogram som en nödvändig buffert när **kognitiv automation** omformar arbetsmarknaden.",
+      "why_it_matters": "Frågan om hur samhället ska fördela produktivitetsvinsterna från avancerad AI och robotik blir allt mer akut.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html",
+      "image_url": "",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Apple knyter till sig team och teknik från startupen Huxe för AI-ljud",
+      "summary": "Apple har ingått ett avtal om att licensiera teknik och anställa teamet bakom Huxe, en startup inriktad på personliga poddar. Affären indikerar att bolaget förbereder nya funktioner inom syntetiserat och dynamiskt genererat **AI-ljud**.",
+      "why_it_matters": "Visar hur konsumentjättar integrerar generativa ljudmodeller i sina ekosystem för att skapa anpassat medieinnehåll i realtid.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
@@ -192,13 +192,13 @@
       "date": "2026-10-12"
     },
     {
-      "title": "Fängelsestraff för storskaligt royalties-bedrägeri med AI-genererad musik",
-      "summary": "En person dömdes till 18 månaders fängelse efter att ha tjänat mångmiljonbelopp på att strömma **AI-genererad musik** via automatiserade botnätverk. Fallet är ett av de första prejudicerande rättsliga ingripandena mot syntetisk **innehållsmanipulation** i stor skala.",
-      "why_it_matters": "Domen sätter en juridisk standard för hur immaterialrätt och automatiserad konsumtion av syntetiska medier ska beivras.",
+      "title": "Psykologiska risker när människor behandlar AI som levande varelser",
+      "summary": "Forskaren Sherry Turkle varnar för människans biologiska tendens att utveckla emotionella band till relationsskapande teknik. När användare tillskriver **dialogsystem** empati och medvetande uppstår nya etiska och psykologiska sårbarheter inom **människa-AI-interaktion**.",
+      "why_it_matters": "När gränssnitt blir hyperrealistiska krävs skyddsräcken mot manipulation och osunt känslomässigt beroende av syntetiska motparter.",
       "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/09/multimedia/07cul-streaming-fraud-hpcg/07cul-streaming-fraud-hpcg-mediumSquareAt3X.jpg",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "image_url": "",
       "date": "2026-10-12"
     }
   ]
