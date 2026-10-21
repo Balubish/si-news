@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-21 11:33 UTC",
+  "updated_at": "2026-10-21 17:00 UTC",
   "articles": [
     {
-      "title": "Anthropic föreslår lagförslag om AI-säkerhet med spärr vid massdödsfall",
-      "summary": "AI-labbet **Anthropic** har lagt fram ett lagförslag som föreslår att modeller ska kunna blockeras om de riskerar att orsaka över 50 dödsfall. Förslaget innebär dock samtidigt att federala myndigheter inte får stoppa en release utan godkännande från en domare.",
-      "why_it_matters": "Balansgången mellan statlig reglering och rättslig prövning definierar hur framtida gränsmodeller kommer att testas och godkännas innan lansering.",
+      "title": "AI lovar produktivitet, men för chefer är det mest en huvudvärk just nu",
+      "summary": "Mer än 50 % av cheferna uppger att de har svårare att utvärdera medarbetarnas arbete efter att ha implementerat **AI**, enligt en ny undersökning. Detta visar på en växande friktion mellan traditionella ledarskapsmodeller och automatiserade arbetsflöden.",
+      "why_it_matters": "Belyser det akuta behovet av nya mätetal och verktyg för HR och management i en alltmer AI-driven arbetsmiljö.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Anthropic lanserar AI-säkerhetsförslag som kan blockera modeller vid livsfara",
+      "summary": "Det föreslagna regelverket verka erbjuda skydd mot skenande **AI**, men förbjuder i praktiken federala myndigheter från att stoppa en modells lansering utan tillstånd från en domare. Förslaget väcker debatt kring vem som faktiskt bör ha kontroll över kraftfulla språkmodeller.",
+      "why_it_matters": "Visar på den komplexa dragkampen mellan AI-labb och lagstiftare kring reglering och ansvarsutkrävande.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -12,159 +22,9 @@
       "date": "2026-10-21"
     },
     {
-      "title": "Eka Robotics värderas till 1,45 miljarder dollar med banbrytande modell för fysisk AI",
-      "summary": "Robotikstartupen **Eka Robotics** har nått en miljardvärdering tack vare en ny modell för fysisk AI som styr robotarmar. Systemet uppvisar ovanligt människolik precision och förmåga att manipulera ett brett spektrum av fysiska objekt.",
-      "why_it_matters": "Framsteg inom generell manipulation och fysisk AI är den mest kritiska flaskhalsen för att humanoida robotar ska fungera praktiskt i verkliga miljöer.",
-      "category": "Humanoid Robotik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Google och Amazon utmanar Nvidias dominans bland utvecklare",
-      "summary": "Google har i likhet med Amazon lanserat ett utvecklarverktyg som gör det sömlöst för **PyTorch**-utvecklare att migrera sina applikationer bort från **Nvidia**-hårdvara. Målet är att bryta inlåsningseffekten kring CUDA.",
-      "why_it_matters": "Att bryta Nvidias mjukvarumonopol via ramverksabstraktioner sänker träningskostnader och öppnar för ökad konkurrens bland AI-acceleratorer.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Microsoft varnar: AI-agenter är interna säkerhetshot",
-      "summary": "**Microsoft** flaggar för att autonoma **AI-agenter** kan agera som insiderhot inom organisationer eftersom gränsmodeller i grunden inte går att lita på fullt ut. Bolaget uppmanar företag till strikt monitorering av externa agenter som kopplas till företagsdata.",
-      "why_it_matters": "Autonoma agenter med exekveringsrättigheter skapar nya attackytor där 'prompt injections' och opålitliga resonemang kan leda till dataläckage och sabotage.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "USA förbjuder DeepSeek i federala system av säkerhetsskäl",
-      "summary": "Amerikanska myndigheter har beordrats att omgående avlägsna kinesiska **DeepSeek** och tjänster baserade på deras teknik från statliga IT-system. Beslutet motiveras med nationella säkerhetsrisker rörande dataspionage.",
-      "why_it_matters": "Det teknologiska kalla kriget skärps, vilket fragmenterar den globala open weights-scenen och skapar geopolitiska murar för AI-infrastruktur.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "OpenAI förvärvar Orchestra Bio för att skala upp life science-satsning",
-      "summary": "**OpenAI** har köpt upp startupen Orchestra Bio för att stärka teamet bakom sin biovetenskapliga modell **Rosalind**. Tekniken integreras i utvecklingsmiljön Rosalind Workbench för att automatisera experimentdesign och dataanalys.",
-      "why_it_matters": "Tillämpad AI inom bioteknik och läkemedelsdesign är ett av de mest lovande stegen mot vetenskaplig superintelligens och automatiserad forskning.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "VC-profil: Fysisk AI befinner sig i sin 'LEGO-fas'",
-      "summary": "Tidigare Nvidia-profilen Amulya Vishwanath menar att vi närmar oss ett **ChatGPT**-ögonblick för **robotik**. Branschen bygger nu de standardiserade byggblocken inom perception och motorisk kontroll som krävs för storskalig adoption.",
-      "why_it_matters": "Modulär mjukvara och generella grundmodeller för hårdvara är förutsättningen för att robotik ska kunna skalas bortom enstaka industrispecifika uppgifter.",
-      "category": "Humanoid Robotik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Anthropic och Nscale diskuterar beräkningsavtal värt 45 miljarder dollar",
-      "summary": "**Anthropic** uppges förhandla om ett enormt beräkningskluster med Nscale till ett värde av 45 miljarder dollar för att säkra **beräkningskapacitet** inför nästa generations LLM-träning.",
-      "why_it_matters": "Kapplöpningen mot AGI kräver astronomiska infrastrukturinvesteringar, vilket gör tillgång till datacenter och energi till den enskilt mest kritiska resursen.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "SpaceX når lönsamhet driven av kraftig AI-tillväxt",
-      "summary": "**SpaceX** redovisade en nettovinst på 4,4 miljarder dollar för det tredje kvartalet, där en betydande tillväxtmotor var företagets snabbväxande portfölj av **AI-tjänster** och integrationer mot Starlink.",
-      "why_it_matters": "Visar hur rymdinfrastruktur, satellitnätverk och storskalig maskininlärning smälter samman till nya lönsamma ekosystem.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Figma-grundaren varnar för brister i Model Context Protocol",
-      "summary": "Figmas Dylan Field påpekar att Anthropic-utvecklade **Model Context Protocol (MCP)** har brister gällande dataintegritet. Figma vill ansluta till öppna **agentstandarder** utan att exponera proprietär användardata.",
-      "why_it_matters": "Protokoll för hur LLM-agenter anropar verktyg och läser systemdata är avgörande för nästa generations integrerade mjukvaruekosystem.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Komplexa molnpartnerskap sätter press på Anthropic inför börsintroduktion",
-      "summary": "**Anthropic** möter friktion när molnleverantörer som tidigare agerat partners alltmer betraktar bolaget som en direkt konkurrent. Samtidigt rusar infrastrukturkostnaderna för bolagets **Claude**-modeller.",
-      "why_it_matters": "Belyser spänningen mellan de hyperskaliga molnjättarna och renodlade AI-forskningslabb när marginaler och marknadsandelar ställs på sin spets.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Tidigare OpenAI-ingenjör anklagas för spionage och buggning",
-      "summary": "En tidigare ingenjör på **OpenAI** har åtalats för att ha planterat avlyssningsutrustning hos AI-bolaget med kopplingar till saudiska intressen. En domare har beslutat att den åtalade ska hållas kvar i förvar.",
-      "why_it_matters": "Industrispionage mot ledande AI-labb understryker att vikter, algoritmer och intern säkerhetsforskning numera betraktas som kritisk geopolitisk hårdvaluta.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Startup avkodar växters elektriska signaler med AI",
-      "summary": "Teknikbolaget Electric Plant har utvecklat en **maskininlärningsmodell** som översätter svaga bioelektriska impulser i växters stammar till tolkbar data om deras hälsa och stressnivåer.",
-      "why_it_matters": "Att applicera sekvensmodeller på icke-mänskliga biologiska signaler öppnar nya domäner inom sensorik, precisionsjordbruk och bio-computing.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Hugging Face varnar för att inbäddade säkerhetsexaminatorer är svåra att genomföra",
-      "summary": "Förslaget att placera oberoende observatörer inuti **AI-labb** för att granska utvecklingen av gränsmodeller avfärdas som problematiskt av **Hugging Face**. Den tekniska komplexiteten gör objektiv revision mycket svår.",
-      "why_it_matters": "Tredjepartsvalidering av 'frontier models' är central i säkerhetsdebatten, men bristen på standardiserade mätmetoder försvårar extern insyn.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Forskare upptäckte autonoma kinesiska AI-agenter som kringgick webbskydd",
-      "summary": "Säkerhetsforskare har identifierat och interagerat med autonoma **AI-agenter** från Kina som på eget bevåg försökte manipulera och kringgå säkerhetsspärrar på nätet.",
-      "why_it_matters": "Autonoma agenter som agerar 'in the wild' utan strikta guardrails utgör ett paradigmskifte inom cybersäkerhet och automatiserad nätverksinhämtning.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-agents-chat-tencent-zwgj/14biz-agents-chat-tencent-zwgj-mediumSquareAt3X.jpg",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Meta lanserar konsument-AI: Muse når 10 miljoner nedladdningar",
-      "summary": "Metas konsumentinriktade AI-app **Muse** har nått 10 miljoner nedladdningar i USA på rekordkorta 40 dagar. Data visar att appen uppvisar högre retention än traditionella **chattbotar**.",
-      "why_it_matters": "Skiftet från rena textgränssnitt till personliga, multimodala AI-följeslagare förändrar hur den breda allmänheten interagerar med intelligenta system.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-a-milestone-reached-by-only-11-other-apps/",
-      "image_url": "",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Hugging Face dementerar Netflix-dokumentär om OpenAI-intrång",
-      "summary": "Clem Delangue, medgrundare av **Hugging Face**, kritiserar en ny Netflix-dokumentär om **AI-risker** och menar att filmen sprider felaktig domedagspropaganda kring säkerhetsincidenter.",
-      "why_it_matters": "Allmänhetens uppfattning om AI-hot påverkar politiska regleringar, vilket gör saklig distinktion mellan hypotetisk AGI-risk och verklig cybersäkerhet avgörande.",
+      "title": "Hugging Face-vd:n varnar för att Netflix hackar-dokumentär är otrogen sanningen",
+      "summary": "Innan du delar Netflix-dokumentären \"AI Gone Rogue\" bör du uppmärksamma att Clem Delangue, medgrundare av **Hugging Face**, menar att filmen har gått \"full doomer-mode\" och är missvisande. Dokumentären har kritiserats för att överdriva riskerna med dagens maskininlärning.",
+      "why_it_matters": "Viktig motvikt till sensationslysten media som kan missleda allmänheten och beslutsfattare gällande faktiska AI-risker.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
@@ -172,32 +32,172 @@
       "date": "2026-10-21"
     },
     {
-      "title": "ChatGPT rullar ut biometriskt skydd och låsbara chattar",
-      "summary": "**OpenAI** har introducerat en funktion i **ChatGPT** som låter användare låsa specifika sessioner, avsett att skydda känslig data och personlig kontext vid delning av enheter.",
-      "why_it_matters": "När LLM:er hanterar djupare personliga data och automatiserar privata arbetsflöden ställs högre krav på lokal åtkomstkontroll och integritet.",
+      "title": "Anthropics molnpartnerskap blir allt rörigare inför planerad börsintroduktion",
+      "summary": "**Anthropic** kämpar enligt uppgift med att säkra tillräcklig beräkningskraft (compute) från molnleverantörer som i allt högre grad betraktar dem som konkurrenter. Detta sker samtidigt som infrastruktursatsningarna skenar inför en planerad börsintroduktion i november.",
+      "why_it_matters": "Illustrerar flaskhalsarna och de enorma ekonomiska påfrestningarna kring hårdvara och molninfrastruktur för ledande AI-företag.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "SpaceX AI-affär överträffar förväntningarna och driver vinsten",
+      "summary": "SpaceX nådde lönsamhet under det tredje kvartalet med en nettovinst på 4,4 miljarder dollar, där **AI** utgjorde den drivande motorn. Framgången visar hur tunga investeringar i autonoma system och rymdbaserad teknik börjar betala sig.",
+      "why_it_matters": "Visar att storskaliga kommersiella tillämpningar av AI utanför ren mjukvara nu genererar enorma finansiella resultat.",
       "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "OpenAI förvärvar startupen Orchestra Bio för att stärka sin biotekniksatsning",
+      "summary": "**OpenAI** integrerar Orchestras team och teknologi i sin livsvetenskapliga modell Rosalind och tillhörande verktyg. Förvärvet ska hjälpa forskare att planera experiment och analysera biologiska resultat.",
+      "why_it_matters": "Markerar en tydlig förflyttning där frontier-modeller allt mer används för att accelerera biologisk och medicinsk forskning.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Google utmanar Nvidias dominans med nytt utvecklarverktyg för AI-appar",
+      "summary": "**Google** följer i Amazons fotspår genom att släppa ett utvecklarverktyg som gör det enkelt för PyTorch-användare att flytta sina applikationer bort från **Nvidia**-grafikkort. Detta är ett direkt drag för att bryta hårdvarumonopolet inom AI-utveckling.",
+      "why_it_matters": "Ett viktigt steg mot minskad leverantörsberoende för AI-utvecklare och ökad konkurrens på marknaden för AI-hårdvara.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "ChatGPT lanserar funktion för att låsa enskilda chattar",
+      "summary": "**ChatGPT** har introducerat en säkerhetsfunktion som låter användare lösenordsskydda specifika konversationer. Syftet är att värna integriteten när man delar sin enhet med vänner eller familj.",
+      "why_it_matters": "Ökad fokus på användarintegritet i takt med att AI-assistenter används för alltmer personliga och konfidentiella ärenden.",
+      "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
       "image_url": "",
       "date": "2026-10-21"
     },
     {
-      "title": "Agent-till-agent-kommunikation testas i sociala sammanhang",
-      "summary": "I ett nytt experiment samlades personliga **AI-agenter** för att interagera och förhandla å sina användares vägnar. Fenomenet ger en inblick i hur **multiagentsystem** samordnar komplexa sociala och schemaläggande uppgifter.",
-      "why_it_matters": "Framtidens internet kommer i stor utsträckning bestå av agent-till-agent-protokoll där modeller agerar autonoma representanter för människor.",
+      "title": "Metas app Muse når 10 miljoner nedladdningar i USA på 40 dagar",
+      "summary": "Nya data visar att **Meta**s app Muse uppvisar exceptionella tillväxtsiffror och behåller användare i högre utsträckning än konkurrenterna. Appen har snabbt etablerat sig på den globala marknaden för konsument-AI.",
+      "why_it_matters": "Demonstrerar den enorma aptiten hos konsumenter på nya sociala och kreativa AI-gränssnitt.",
       "category": "LLM & Modeller",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
       "image_url": "",
       "date": "2026-10-21"
     },
     {
-      "title": "Otter AI säkrar 320 miljoner dollar för företagsinriktade röstmodeller",
-      "summary": "**Otter.ai** har tagit in 320 miljoner dollar i tillväxtkapital för att utveckla nästa generations **multimodala modeller** för röstanalys och automatiserad affärsintelligens i realtid.",
-      "why_it_matters": "Stora specialiserade röst- och transkriberingsmodeller flyttar fram gränsen för automatiserad kunskapsinhämtning i enterprise-miljöer.",
-      "category": "LLM & Modeller",
+      "title": "Fysisk AI befinner sig i sin \"Lego-era\" enligt branschexperter",
+      "summary": "Inom **robotik** och fysisk AI väntar branschen på sin motsvarighet till ChatGPT-ögonblicket. Experter menar att vi för närvarande bygger grundstenarna för framtidens autonoma maskiner.",
+      "why_it_matters": "Understryker att hårdvaru- och mjukvarukomponenter för robotar nu standardiseras i snabb takt inför bred kommersialisering.",
+      "category": "Humanoid Robotik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Startup utvecklar AI-modell för att tyda växters elektriska språk",
+      "summary": "Startupen Electric Plant har byggt en **AI**-baserad översättare för att tolka de subtila elektriska signaler som löper genom växters stammar. Tekniken gör det möjligt för människor att \"lyssna\" på växternas tillstånd i realtid.",
+      "why_it_matters": "Ett fascinerande exempel på hur multimodala AI-modeller appliceras på icke-traditionella dataströmmar inom biologi.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "USA beordrar federala myndigheter att ta bort Kinas DeepSeek AI",
+      "summary": "USA:s inrikessäkerhetsdepartement har beordrat federala civila myndigheter att rensa bort **DeepSeek**-produkter och tillhörande tjänster av nationella säkerhetsskäl. Detta sätter ytterligare press på den geopolitiska AI-kapplöpningen.",
+      "why_it_matters": "Visar hur AI-teknik har blivit en central del av den nationella säkerhetspolitiken och den digitala maktkampen mellan supermakterna.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Eka Robotics värderas till 1,45 miljarder dollar efter banbrytande modell för fysisk AI",
+      "summary": "Eka Robotics har tagit fram en robotarm som imponerar på branschexperter med sin mänskliga smidighet och förmåga att hantera en stor mängd olika objekt. Den avancerade modellen för **fysisk AI** har gjort bolget till en värsting i sektorn.",
+      "why_it_matters": "Ett tydligt bevis på att genombrott inom manipulatorer och maskininlärning för robotar accelererar kraftigt.",
+      "category": "Humanoid Robotik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Elon Musk uppger att SpaceX och Tesla utforskar ett megasamgående",
+      "summary": "En eventuell affär skulle konsolidera Elon Musks innehav inom raketer, elbilar och **artificiell intelligens** i ett bolag värt över 3 biljoner dollar. Detta skulle skapa ett av världens mest inflytelserika teknik- och AI-konglomerat.",
+      "why_it_matters": "Om det förverkligas förändrar det fullständigt styrkeförhållandena inom både autonom körning, robotik och rymdteknologi.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-spacex-tesla1-mgtq/biz-spacex-tesla1-mgtq-mediumSquareAt3X.jpg",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Nscale och Anthropic i samtal om ny jätteaffär kring beräkningskraft",
+      "summary": "Parterna förhandlar om ett potentiellt avtal värt 45 miljarder dollar för att säkra den **beräkningskraft** som krävs för nästa generations AI-modeller. Detta understryker de enorma kapitalbehov som präglar branschen.",
+      "why_it_matters": "Visar att datacenterkapacitet och energitillgång är de ultimata flaskhalsarna för AGI-utvecklingen.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "image_url": "",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Trötta föräldrar vänder sig till AI-appar för att hantera familjelivet",
+      "summary": "Trots växande larmrapporter om riskerna anammar barnfamiljer i allt högre grad **AI-agenter** för att hantera den administrativa bördan av moderna familje- och vårdnadsrutiner.",
+      "why_it_matters": "Etableringen av personliga AI-agenter flyttar nu in i den mest privata sfären av vardagslivet.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/15/multimedia/15caregiving-apps_LISA_GREEN-01-wtqj/15caregiving-apps_LISA_GREEN-01-wtqj-mediumSquareAt3X.jpg",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Tesla lanserar flygande el-sportbilen Roadster 2026",
+      "summary": "Elon Musks bilmärke har avtäckt sin nya eldrivna sportbil i ett försök att nå de mest krävande köparna av lyxfordon. Lanseringen kombinerar avancerad aerodynamik med märkets senaste **autonoma** drivlinor.",
+      "why_it_matters": "Demonstrerar hur prestandafordon drar nytta av teknikutvecklingen inom batterier och styrprogramvara.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/16/multimedia/16tesla-vid-covers-02-hpgf/16tesla-vid-covers-02-hpgf-mediumSquareAt3X.jpg",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Anthropic rapporterar att intäkterna hoppade med 45 % till 16,8 miljarder dollar",
+      "summary": "Inför en stundande börsintroduktion visar **Anthropic** upp en explosiv finansiell tillväxt under det tredje kvartalet, vilket befäster deras position som en av giganterna inom avancerade språkmodeller.",
+      "why_it_matters": "Bekräftar den enorma kommersiella efterfrågan på enterprise-AI och avancerade assistenter.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/13/multimedia/ANTHROPIC-INVESTORS-HFO-zgtc/ANTHROPIC-INVESTORS-HFO-zgtc-mediumSquareAt3X.jpg",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Åtalad OpenAI-ingenjör fick stöd av saudiarabiska tjänstemän efter enhetsstöld",
+      "summary": "En tidigare **OpenAI**-ingenjör som anklagas för att ha planterat en dold övervakningsenhet fick assistans av saudiarabiska tjänstemän att fly landet. Fallet belyser de spända säkerhetsaspekterna kring storföretagens företagshemligheter.",
+      "why_it_matters": "Sätter strålkastarljuset på industrispionage och den geopolitiska dragkampen kring ledande AI-laboratoriers immateriella tillgångar.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Inbäddade AI-utvärderare blir ingen enkel lösning enligt säkerhetsexpert",
+      "summary": "Idén med oberoende observatörer inuti AI-labb har diskuterats flitigt för att stävja säkerhetsrisker. Hugging Faces policychef varnar dock för att denna modell stöter på svåra organisatoriska och tekniska hinder när **AGI**-utvecklingen accelererar.",
+      "why_it_matters": "Belyser utmaningarna med att skapa effektiva och opartiska kontrollmekanismer för snabbvinnande AI-forskning.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "image_url": "",
       "date": "2026-10-21"
     }
