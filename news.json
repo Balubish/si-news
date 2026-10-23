@@ -1,65 +1,85 @@
 {
-  "updated_at": "2026-10-23 04:21 UTC",
+  "updated_at": "2026-10-23 16:51 UTC",
   "executive_briefing": [
-    "Ett eskalerande hybridhot från Ryssland skakar Europa och tvingar säkerhets- och polismyndigheter till skärpt beredskap.",
-    "En kritisk säkerhetsbrist i programmeringsspråket PHP utlöser en global IT-kris med nedsläckta myndighets- och företagssajter.",
-    "Nya Houthi-angrepp mot Saudiarabien och förnyade diplomatiska turer kring Mellanöstern och Ukraina omritar det geopolitiska läget."
+    "Flera allvarliga våldsdåd skakar omvärlden under fredagen, däribland ett misstänkt terrordåd utanför Paris och en dödsskjutning vid en begravningsgudstjänst i Jordanien.",
+    "I Sverige riktas hård kritik mot säkerhetsbrister efter en dödsolycka på Stegras stålverksbygge, samtidigt som Regeringskansliet spärrar generativa AI-verktyg av säkerhetsskäl.",
+    "En kritisk sårbarhet i programmeringsspråket PHP tvingar myndigheter och företag världen över att släcka ned webbplatser i en akut säkerhetsinsats."
   ],
   "articles": [
     {
-      "title": "Granskning: Ryssland trappar upp våldsamma hybridattacker i Europa",
-      "summary": "Över 50 fysiska hybridattacker har riktats mot Europa det senaste halvåret där spåren pekar mot **Ryssland**, enligt en granskning från europeisk public service. Försvarsstabschefen Carl-Johan Edström varnar för att hotet är långsiktigt och kan pågå i **10–15 år**.",
-      "why_it_matters": "Markerar en varaktig förskjutning i den europeiska säkerhetsordningen där gränsen mellan fred och konflikt suddas ut.",
+      "title": "Dödsskjutning utanför Paris utreds som terrorbrott",
+      "summary": "En person har dödats och minst fyra skadats efter att en gärningsman öppnat eld på flera platser i staden Trappes, sydväst om Paris. Skytten har gripits och Frankrikes **antiterroråklagare** har tagit över utredningen på grund av misstankar om ideologiska eller religiösa motiv.",
+      "why_it_matters": "Händelsen höjer terrorhotet och beredskapen i Frankrike inför en helg med väntade stora gatuprotester.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/skjutning-utanfor-paris-en-dod",
+      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23france-shooting-zltc/23france-shooting-zltc-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Minst sju döda i skjutning vid kyrkbegravning i Jordanien",
+      "summary": "Gärningsmän öppnade eld mot en kristen begravningsceremoni i provinsen Karak i södra Jordanien, varpå minst sju personer dödades och dussintals skadades. Polisen har inlett en massiv **människojakt** för att gripa de flyende förövarna.",
+      "why_it_matters": "Dådet skapar djup oro för sekteristiskt och religiöst våld i ett land som länge varit en relativt stabil zon i regionen.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-jordan-shooting-mkph/23int-jordan-shooting-mkph-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Två israeliska soldater skjutna till döds på Västbanken",
+      "summary": "Två israeliska soldater samt två palestinska gärningsmän dödades vid en vägspärr utanför Hebron på Västbanken. Israels premiärminister **Benjamin Netanyahu** svarade med löften om en omfattande militär offensiv, och militären har redan inlett rivningar av palestinska byggnader i området.",
+      "why_it_matters": "Eskaleringen fördjupar konflikten på den ockuperade Västbanken och riskerar att leda till en våg av vedergällningsaktioner.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X-v2.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Larm om säkerhetsbrister efter dödsolyckan på Stegra",
+      "summary": "Efter att en arbetare förolyckats på Stegras stålverksbygge i Boden vittnar en tidigare säkerhetsansvarig om grova missförhållanden. Bilder visar hur montörer arbetat på **hög höjd utan fallskydd**, trots upprepade interna larm till ledningen.",
+      "why_it_matters": "Sätter fokus på arbetsmiljö och underleverantörers säkerhet i den pågående gröna industriomställningen i norra Sverige.",
       "category": "Sverige",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/granskning-sa-trappar-ryssland-upp-valdsamma-hybridattackerna",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/har-jobbar-stegra-arbetare-pa-hog-hojd-utan-fallskydd",
       "image_url": "",
       "date": "2026-10-23"
     },
     {
-      "title": "Polisen rustar mot främmande makters hybridbrott i Sverige",
-      "summary": "Svensk polis etablerar nya lägescentraler och utredningsgrupper för att bemöta attentat och sabotage mot kritisk infrastruktur. Myndigheten varnar särskilt för att **statsaktörer** numera lejer **kriminella nätverk** för att genomföra sabotageuppdrag i landet.",
-      "why_it_matters": "Visar hur kriminell gängbrottslighet och nationell säkerhet kopplas samman av fientliga stater.",
-      "category": "Sverige",
+      "title": "Regeringskansliet blockerar ChatGPT och Claude",
+      "summary": "Regeringskansliet har beslutat att spärra åtkomsten till de ledande AI-verktygen **ChatGPT** och **Claude** på sina nätverk. Åtgärden vidtas av informationssäkerhetsskäl för att hindra att sekretessbelagt material läcker till externa molntjänster.",
+      "why_it_matters": "Beslutet markerar en skärpt statlig syn på cybersäkerhet och risker vid hantering av känsliga uppgifter i kommersiella AI-modeller.",
+      "category": "Teknik",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/sa-ska-polisen-stoppa-statsaktorernas-brottslighet-i-sverige",
+      "url": "https://www.svt.se/nyheter/inrikes/ai-tjanster-sparras-pa-regeringskansliet",
       "image_url": "",
       "date": "2026-10-23"
     },
     {
-      "title": "Kritisk sårbarhet i PHP slår ut webbplatser globalt",
-      "summary": "Företag och myndigheter över hela världen tvingas ta sina sajter offline i en kapplöpning för att åtgärda en allvarlig sårbarhet i programmeringsspråket **PHP**. Säkerhetsluckan hotar en enorm del av världens webbinfrastruktur om den utnyttjas av **hackare**.",
-      "why_it_matters": "PHP driver närmare 75 procent av världens webbplatser, vilket gör buggen till ett akut hot mot global IT-infrastruktur.",
+      "title": "Kritisk säkerhetsbrist i PHP släcker webbplatser globalt",
+      "summary": "Utvecklarna bakom programmeringsspråket PHP har upptäckt en **kritisk sårbarhet** som hotar miljontals webbplatser världen över. Företag och myndigheter har tvingats stänga ned tjänster i en akut kapplöpning för att installera säkerhetsuppdateringar innan hackare hinner utnyttja hålet.",
+      "why_it_matters": "PHP driver en stor del av internets grundläggande infrastruktur, vilket gör sårbarheten till ett mycket allvarligt globalt cyberhot.",
       "category": "Teknik",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
       "date": "2026-10-23"
     },
     {
-      "title": "Dödlig Houthi-attack mot flygplats i östra Saudiarabien",
-      "summary": "Minst två personer har dödats i en drönar- eller robotattack utförd av **Houthirebellerna** mot en flygplats i saudiarabiska Dammam. Händelsen sker nära oljebolaget Saudi Aramcos anläggningar och har fått **USA** att uppmana viss diplomatisk personal att lämna landet.",
-      "why_it_matters": "Eskalerar konflikten på Arabiska halvön och ökar risken för störningar i den globala oljeförsörjningen.",
+      "title": "Vapenstillestånd för ukrainsk stad i humanitär kris",
+      "summary": "Både Ukraina och Ryssland bekräftar en lokal vapenvila i den ockuperade staden Olesjky, där civila enligt uppgift tvingats äta ogräs för att överleva. Enligt Vita huset förmedlades överenskommelsen efter ett diplomatiskt initiativ av **Melania Trump**.",
+      "why_it_matters": "Ett sällsynt humanitärt genombrott i ett hårt drabbat frontområde som kan möjliggöra akut nödhjälp till civila.",
       "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/world/22int-Saudi-Diplos-aifb/22int-Saudi-Diplos-aifb-mediumSquareAt3X.jpg",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
       "date": "2026-10-23"
     },
     {
-      "title": "Frankrike inför utegångsförbud och demonstrationsförbud efter upplopp",
-      "summary": "Myndigheter i Paris, Marseille och Lyon inför restriktioner och snabbrättegångar efter våldsamma upplopp och vandalisering. President **Emmanuel Macron** försvarar åtgärderna med att de är nödvändiga för att **återställa ordningen** i landet.",
-      "why_it_matters": "Belyser djupgående sociala och politiska spänningar i Frankrike som sätter press på den sittande regeringen.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-france-protests-qzmc/22int-france-protests-qzmc-mediumSquareAt3X-v2.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Kraftigt jordskalv i Tibet – minst 16 personer döda",
-      "summary": "Ett kraftigt jordskalv med magnituden 7,0 har drabbat **Tibet**, där över 300 byggnader kollapsat och dussintals skadats. Hundratals invånare har flytt ut i vinterkylan medan räddningsmanskap söker efter **överlevande** i rasmassorna.",
-      "why_it_matters": "Det svåra geografiska läget och kylan försvårar akuta hjälpinsatser i ett redan sårbart bergsområde.",
+      "title": "Kraftigt jordskalv i Tibet – minst 16 döda",
+      "summary": "Ett jordskalv med magnituden 7,0 har skakat den bergiga och glesbefolkade Tibet-regionen i Kina. Över 300 byggnader kollapsade och minst 16 personer har omkommit, samtidigt som **räddningsinsatser** försvåras av kyla och otillgänglig terräng.",
+      "why_it_matters": "Naturkatastrofen orsakar svår förödelse i sårbara bergsbyar och sätter press på den lokala katastrofberedskapen.",
       "category": "Världen",
       "source": "NYT > World News",
       "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
@@ -67,279 +87,19 @@
       "date": "2026-10-23"
     },
     {
-      "title": "Ebolautbrott expanderar – första fallet bekräftat i Nigeria",
-      "summary": "Ett pågående utbrott av **ebola** i Afrika har nått sin hittills största geografiska spridning efter ett bekräftat dödsfall i Nigeria. Samtidigt kämpar hälsomyndigheter och civilsamhället i **Kongo-Kinshasa** mot både viruset och skadlig desinformation.",
-      "why_it_matters": "När viruset når tätbefolkade Nigeria ökar risken för okontrollerad spridning i Västafrika markant.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-ebola-mcvt/22dc-ebola-mcvt-mediumSquareAt3X.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Internationella brottmålsdomstolen tilldelas EU:s Sacharovpris",
-      "summary": "Europaparlamentet tilldelar **ICC** sitt tyngsta människorättspris. Beslutet ses som en kraftfull markering till stöd för den internationella rätten i en tid då domstolen pressas hårt av sanktionshot från **Donald Trumps** administration.",
-      "why_it_matters": "Understryker den djupnande klyftan mellan europeisk multilaterism och USA:s allt mer konfrontativa hållning mot internationella domstolar.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-sakharov-icc-fvhp/22int-sakharov-icc-fvhp-mediumSquareAt3X.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Putin närmar sig diplomatiskt genombrott med USA utan eftergifter",
-      "summary": "Rysslands president **Vladimir Putin** tycks lyckas med strategin att skilja kriget i Ukraina från affärsrelationer och diplomati med Washington. Trots fortsatta robotangrepp mot Kiev öppnar uttalanden från **Donald Trump** för återupptagna förhandlingar på ryska premisser.",
-      "why_it_matters": "Kan tvinga Ukraina till smärtsamma territoriella eftergifter och försvaga den västliga alliansen.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-russia-putin-ftcl/22int-russia-putin-ftcl-mediumSquareAt3X-v3.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Musk återställer Starlink för Ukrainas försvar efter Trump-dialog",
-      "summary": "Donald Trump meddelar att **Elon Musk** har återställt full tillgång till satellitnätverket **Starlink** för ukrainska styrkor. Nätverket är helt avgörande för landets militära kommunikation och drönaroperationer längs frontlinjen.",
-      "why_it_matters": "Avslöjar hur kritiskt beroende statliga militärer har blivit av enskilda privata teknikentreprenörers välvilja.",
-      "category": "Teknik",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Merz larmar om intensivt ryskt spioneri i Tyskland",
-      "summary": "Efter gripandet av en ukrainsk medborgare misstänkt för spionage åt Ryssland varnar tyska politiker för omfattande fientlig underrättelseverksamhet. Förbundsdagsledaren **Friedrich Merz** beskriver Tyskland som måltavla för ett mycket **intensivt spioneri**.",
-      "why_it_matters": "Visar på sårbarheter i Europas största ekonomi mitt under pågående militärt stöd till Ukraina.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "FN varnar för krigsbrott i Sudan efter attacker mot sjukhus och civila",
-      "summary": "En BBC-granskning visar att den paramilitära gruppen **RSF** medvetet har beskjutit sjukhus i Sudan, vilket FN:s människorättschef menar kan utgöra **krigsbrott**. Samtidigt rapporteras över 150 civila ha dödats i en omfattande drönarattack i provinsen Abyei.",
-      "why_it_matters": "Konflikten i Sudan utvecklas till en av vår tids mest dödliga humanitära katastrofer under omvärldens relativa tystnad.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "L'Oréal varnar: Nya bantningsläkemedel pressar skönhetsmarknaden",
-      "summary": "Kosmetikajätten L'Oréal uppger att den explosionsartade användningen av **GLP-1-läkemedel** dämpar efterfrågan på hudvård och kosmetika. Bolagets vd beskriver förändrade konsumtionsmönster kopplade till **viktminskning** som en central affärsrisk.",
-      "why_it_matters": "Visar hur de nya fetmaläkemedlen börjar få oväntade spridningseffekter i helt andra delar av den globala konsumentekonomin.",
-      "category": "Ekonomi",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Trump beordras vittna under ed i förtalsmål mot BBC",
-      "summary": "En domstol kräver att **Donald Trump** under ed besvarar frågor i sin rättsprocess mot **BBC**. Stämningen rör ett avsnitt av granskningsprogrammet Panorama som Trump hävdar klippte ihop två olika delar av ett tal på ett missvisande sätt.",
-      "why_it_matters": "Ett sällsynt juridiskt förhör som kan få stora konsekvenser för mediers redaktionella frihet och granskning av makthavare.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Dödlig lynchning i Sydafrika efter invandringsfientliga protester",
-      "summary": "En mobb på 50 personer har misshandlat en utländsk medborgare till döds i **Sydafrika**. Händelsen följer en våg av våldsamma **främlingsfientliga protester** som spridit sig i landet under året.",
-      "why_it_matters": "Belyser den farliga eskaleringen av främlingsfientlighet som drivs av ekonomisk kris och hög arbetslöshet i regionen.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Lula kräver diskvalificering av rival efter påstådd Meta-inblandning",
-      "summary": "Brasiliens president **Lula da Silva** anklagar techjätten **Meta** för att otillbörligt gynna motståndaren Flávio Bolsonaro i valrörelsen. Meta tillbakavisar anklagelserna, men krav väcks nu på hårdare reglering av digital politisk kampanjföring.",
-      "why_it_matters": "Sätter strålkastarljuset på de multinationella techplattformarnas roll och inflytande i demokratiska valprocesser.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Skottdrama på skola i Oregon – lärare spelade död",
-      "summary": "En lärare i delstaten Oregon berättar hur hon tvingades spela död efter att ha skadats svårt under en dödlig **skolskjutning**. Dådet väcker återigen stark debatt i USA kring **vapenlagstiftning** och säkerhet i skolmiljöer.",
-      "why_it_matters": "Påminner om den ständigt närvarande problematiken med masskjutningar i amerikanska skolor.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Kongressledamot Ilhan Omars hem genomsökt av federal polis",
-      "summary": "Demokraten **Ilhan Omar** tvingas flytta efter vad hon beskriver som en bisarr gryningsräd mot sitt hem där federala agenter beslagtog telefoner och anteckningar. Tillslaget ingår i en pågående **federal utredning** vars detaljer ännu är sekretessbelagda.",
-      "why_it_matters": "En dramatisk åtgärd mot en profilerad amerikansk politiker som spär på de redan djupa politiska motsättningarna i Washington.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "El Salvador hotar haitiska gäng efter kidnappade soldater",
-      "summary": "President **Nayib Bukele** utfärdar ett skarpt ultimatum till gäng i Haiti efter att fyra salvadoranska soldater tillhörande en säkerhetsstyrka förts bort. Bukele varnar för kraftfulla motåtgärder om de **kidnappade soldaterna** inte omedelbart släpps.",
-      "why_it_matters": "Risk för internationell militär eskalering i Haiti, där kriminella gäng sedan länge kontrollerar stora delar av huvudstaden.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/21/multimedia/int21-Haiti-bukele-hjbm/int21-Haiti-bukele-hjbm-mediumSquareAt3X.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Första mänskliga fallet av Shamonda-virus bekräftat i Frankrike",
-      "summary": "Hälsomyndigheter i Frankrike rapporterar det första kända fallet där en människa smittats av **Shamonda-viruset**, som i vanliga fall enbart drabbar nötkreatur. Patienten avled i början av oktober, vilket utlöser en intensiv smittspårning bland **veterinärmedicinska experter**.",
-      "why_it_matters": "Zoonotiska virus som korsar artbarriären till människa innebär alltid en potentiell risk för nya epidemier.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Två nedslag av rymdskrot på kort tid larmar forskare",
-      "summary": "Massiva metalldelar från **rymdskrot** har störtat till jorden och hittats i både Indonesien och på en åker i Minnesota med bara dagars mellanrum. Forskare varnar för att den snabbt växande mängden satelliter kraftigt ökar risken för **civila dödsoffer**.",
-      "why_it_matters": "Aktualiserar det akuta behovet av internationella regler för avveckling av satelliter och rymdfarkoster.",
-      "category": "Teknik",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-spacejunk-indonesia-fchj/22int-spacejunk-indonesia-fchj-mediumSquareAt3X.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Öppet proxykrig mellan Afghanistan och Pakistan skördar civila offer",
-      "summary": "Spänningarna mellan talibanstyrda **Afghanistan** och grannlandet **Pakistan** har övergått i öppen militär konflikt med hjälp av ombudsgrupper. Efter åtta månaders strider larmar hjälporganisationer om en växande humanitär katastrof för gränsbefolkningen.",
-      "why_it_matters": "En destabilisering mellan två kärnvapen- respektive talibanledda regimer utgör ett allvarligt hot mot regional stabilitet i Sydasien.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-afghanistan-pakistan-hwkc/22int-afghanistan-pakistan-hwkc-mediumSquareAt3X.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Minst fyra döda efter våldsamma skyfall och översvämningar i Frankrike",
-      "summary": "Södra Frankrike har drabbats av förödande översvämningar efter häftiga stormar, där minst fyra personer mist sitt liv. Räddningspersonal har genomfört hundratals insatser i **Bouches-du-Rhône** där vattenmassor fyllt gator och **källare**.",
-      "why_it_matters": "Extremväder med intensiv nederbörd blir allt vanligare runt Medelhavet till följd av klimatförändringarna.",
-      "category": "Klimat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Ödesval i Israel: Eisenkot utmanar Netanyahu",
-      "summary": "Inför det stundande parlamentsvalet i Israel leder den tidigare militärchefen **Gadi Eisenkot** i opinionen mot premiärminister **Benjamin Netanyahu**. Både palestinier och internationella observatörer följer utgången noggrant då valresultatet direkt påverkar Gazakrigets framtid.",
-      "why_it_matters": "Ett regeringsskifte kan avgöra förutsättningarna för fredssamtal och Mellanösterns framtida säkerhetsarkitektur.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/21/multimedia/21Israel-Eisenkot-01-mvtj/21Israel-Eisenkot-01-mvtj-mediumSquareAt3X.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Genombrott inom cancervård minskar dödstalen kraftigt",
-      "summary": "Tidig screening och nya banbrytande behandlingar har lett till ett historiskt ras i dödligheten för flera vanliga cancerformer. Forskare beskriver framstegen inom **immunterapi** och skräddarsydd medicin som en verklig **revolution** inom sjukvården.",
-      "why_it_matters": "Visar på konkreta medicinska framsteg som radikalt förlänger och räddar miljontals liv globalt.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-theworld-cancer-01-thlm-promo/23int-theworld-cancer-01-thlm-promo-mediumSquareAt3X.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Mat- och bränslebrist i södra Italien efter åkarstrejk",
-      "summary": "Lastbilschaufförer i södra Italien blockerar viktiga motorvägar i protest mot skenande bränslepriser. Aktionen har lett till tomma butikshyllor och torrlagda bensinmackar i regionen medan **regeringen** pressas att möta **åkerinäringens** krav.",
-      "why_it_matters": "Demonstrerar hur sårbara moderna distributionskedjor är för logistiska störningar orsakade av energipriser.",
-      "category": "Ekonomi",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-Italy-shortages-01-mvfz/22int-Italy-shortages-01-mvfz-mediumSquareAt3X.jpg",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Migrationsverket kan pausa omstridda tonårsutvisningar",
-      "summary": "Efter en överenskommelse mellan de rödgröna partierna om en stopplag öppnar **Migrationsverket** för att pausa utvisningar av unga som rotat sig i Sverige. Generaldirektör **Maria Mindhammar** uppger att hon inte stängt dörren för att invänta ny lagstiftning.",
-      "why_it_matters": "Ett potentiellt paradigmskifte för hundratals unga asylsökande vars framtid i Sverige varit osäker.",
+      "title": "En person skjuten i Bagarmossen i södra Stockholm",
+      "summary": "Polisen larmades efter en skottlossning i anslutning till en bil i Bagarmossen. Två personer har förts till sjukhus, varav minst en är **skottskadad**, och polisen har spärrat av platsen för teknisk undersökning.",
+      "why_it_matters": "Ännu ett våldsdåd i offentlig miljö i Stockholmsområdet som understryker den fortsatta gängkriminaliteten.",
       "category": "Sverige",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/migrationsverket-oppnar-for-att-pausa-tonarsutvisningar",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-sodra-stockholm-kzidi4",
       "image_url": "",
       "date": "2026-10-23"
     },
     {
-      "title": "Tre personer delgivna misstanke efter gryningsräd mot valfusk i Borlänge",
-      "summary": "Polisen slog till mot flera bostadsadresser i Dalarna och har nu delgivit tre personer misstanke om brott kopplat till **valfusk**. Tillslaget sker i spåren av anklagelser om otillbörlig påverkan under det senaste kommunala **valet**.",
-      "why_it_matters": "Angrepp på valsystemets integritet väcker stark oro för förtroendet för den lokala demokratin.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/dalarna/tre-misstankta-i-valfusk-utredning-efter-gryningsrad",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Rapport larmar: Otillbörliga påtryckningar vid val vanligare i utsatta områden",
-      "summary": "En ny undersökning från Stiftelsen Järvaveckan visar att boende i socioekonomiskt utsatta områden oftare utsätts för påtryckningar om hur de ska rösta. Vd:n **Ahmed Abdirahman** efterlyser ökad dialog och åtgärder för att skydda den **fria rösträtten**.",
-      "why_it_matters": "Belyser demokratiska klyftor och risker för klan- eller grupptryck i svenska förorter.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/ny-rapport-fler-i-utsatta-omraden-upplever-patryckningar-vid-val",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Skärpt tillsyn av ätstörningsvården efter larm om långa köer",
-      "summary": "Regeringen skärper tillsynen över landets specialiserade ätstörningsvård för att minska de stora regionala skillnaderna och köerna. Patientorganisationen **Frisk & Fri** välkomnar beslutet men betonar att akuta **resursbrister** kvarstår i hela landet.",
-      "why_it_matters": "Psykisk ohälsa och ätstörningar bland unga kräver snabba insatser för att förhindra livshotande tillstånd.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/uutiset/svenska/langa-koer-och-regionala-skillnader-praglar-atstorningsvarden",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Polisen sprängde avancerad stöldliga för lyxbilar i Kolbäck",
-      "summary": "I ett garage i Västmanland hittade polisen en hel verkstad anpassad för att slakta och smuggla ut motorstarka bilar utomlands. Enligt åklagare rör det sig om det mest **avancerade upplägget** för internationell **bilstöld** som hittills avslöjats i Sverige.",
-      "why_it_matters": "Avslöjar hur professionella internationella ligor etablerar sofistikerade logistikcentraler på den svenska landsbygden.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/sa-knackte-polisen-stoldligans-bilgomma-i-kolback",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Sundsvalls knarkliga drevs som ett vanligt företag med månadslön",
-      "summary": "En omfattande narkotikahärva i Sundsvall avslöjar hur de inblandade hade fasta arbetstider, reglerad grundlön och ob-tillägg. Rättegången belyser hur den **organiserade brottsligheten** professionaliseras och efterliknar **legitima bolag**.",
-      "why_it_matters": "Visar på en oroande normalisering och företagsmässig struktur inom den svenska drogmarknaden.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/knarkliga-var-som-ett-foretag-de-anstallda-hade-fast-manadslon",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Fotografer i Umeå startar protest mot AI-genererade bilder",
-      "summary": "Yrkesfotografer i Västerbotten protesterar mot floden av syntetiska bilder på sociala medier och i reklam. Föreningens ordförande kallar utvecklingen för ett hot mot verkligheten där allmänheten tappar förmågan att urskilja **äkta fotografi** från **AI-material**.",
-      "why_it_matters": "En principiell strid om upphovsrätt, bildjournalistikens framtid och sanning i det digitala rummet.",
-      "category": "Kultur",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/ai-bilder-tar-over-fotografer-i-umea-protesterar-dynga",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Misstänkt kabelsabotage i Östersjön utlöser första samordnade Nato-insatsen",
-      "summary": "Efter att ännu en undervattenskabel kapats på Östersjöns botten har **Nato** sjösatt sitt första koordinerade svar mot misstänkt infrastrukturangrepp. Alliansen stärker nu övervakningen med örlogsfartyg och spaningsflyg mot **fientligt sabotage**.",
-      "why_it_matters": "Markerar en kraftig skärpning av Natos beredskap att skydda Östersjöregionens sårbara digitala och energirelaterade livlinor.",
+      "title": "Misstänkt sabotage mot undervattenskabel utlöser Nato-svar",
+      "summary": "Efter att ännu en telekabel slitits av på Östersjöns botten har **Nato** för första gången sjösatt ett samordnat militärt och polisiärt svar. Alliansen utreder om skadan är del av en koordinerad sabotagekampanj mot kritisk maritim infrastruktur.",
+      "why_it_matters": "Markerar en kraftig skärpning i Natos beredskap och övervakning i Östersjöregionen gentemot potentiella hybridhot.",
       "category": "Världen",
       "source": "WSJ.com: World News",
       "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
@@ -347,9 +107,229 @@
       "date": "2026-10-23"
     },
     {
-      "title": "Rwandastödda rebeller intar strategiska områden nära Goma i Kongo",
-      "summary": "Rebellgruppen **M23** rycker fram i östra Kongo-Kinshasa och hotar miljonstaden Goma efter att ha brutit igenom regeringsstyrkornas linjer. FN uppskattar att hundratusentals civila nu drivits på flykt i vad som beskrivs som en akut **flyktingkatastrof**.",
-      "why_it_matters": "Risk för ett fullskaligt regionalt storkrig mellan Kongo-Kinshasa och grannlandet Rwanda.",
+      "title": "Polis döms efter vansinnesfärd i 280 km/h på E4",
+      "summary": "En polisman i Luleå hävdade att en bekant lånat hans motorcykel och bytt kläder med honom strax innan fordonet klockades för 281 km/h. Tingsrätten avfärdade bortförklaringen och **polismannen döms** nu tillsammans med två andra personer för grov vårdslöshet och fortkörning.",
+      "why_it_matters": "Domen skadar allmänhetens förtroende för rättsväsendet och visar att lagens gränser gäller även för lagens väktare.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/polisernas-vansinnesfard-pa-e4-i-lulea-korde-i-280-kmh",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Kronofogden förklarar auktion av utmätta brudklänningar",
+      "summary": "Det har väckt starka reaktioner sedan **Kronofogden** auktionerat ut 45 brudklänningar från en konkursad butik i Växjö, trots att flera av plaggen tillhör privatpersoner. Myndigheten försvarar beslutet med att butiksinnehavarens besittning juridiskt sett gav rätt till utmätning.",
+      "why_it_matters": "Belyser juridiska fallgropar vid butikskonkurser där konsumenter riskerar att mista egendom som lämnats in för ändringssömnad.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/kronofogden-forklarar-darfor-saljer-de-klanningar-som-tillhor-nagon-annan",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Internatskolan SSHL utreds för våldsbrott bland elever",
+      "summary": "Flera gymnasieelever vid anrika Sigtunaskolans Humanistiska läroverk är misstänkta för grova brott mot yngre skolkamrater. Enligt utredarna grundar sig dåden i en **destruktiv pennalismkultur** där äldre elever straffar yngre.",
+      "why_it_matters": "Sätter återigen strålkastarljuset på elitinternatens informella maktstrukturer och ledningens oförmåga att skydda elever.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/sa-blev-elitens-internatskola-en-misstankt-brottsplats",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Danmark förbjuder minkuppfödning i politisk helomvändning",
+      "summary": "Danmarks regering har beslutat att permanent förbjuda all **minkuppfödning**, vilket sätter punkt för en historisk näringsgren. Landet var tidigare världens största pälsproducent men branschen återhämtade sig aldrig efter massavlivningarna under pandemin.",
+      "why_it_matters": "Ett historiskt miljö- och djurskyddsbeslut som ritar om förutsättningarna för den europeiska pälsindustrin.",
+      "category": "Klimat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Stort oljeutsläpp hotar stränder i Förenade Arabemiraten",
+      "summary": "Satellitbilder avslöjar hur tjock olja breder ut sig över kilometerlånga sträckor längs Förenade Arabemiratens kust efter en attack mot en oljetanker. Det marina ekosystemet står inför **akut miljöhot** medan saneringsstyrkor kämpar mot klockan.",
+      "why_it_matters": "En allvarlig miljökatastrof som samtidigt understryker sårbarheten för civil sjöfart i spända havsområden.",
+      "category": "Klimat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Ebba Busch: ”Idiotiskt” att sänka EU:s klimatkrav på bilar",
+      "summary": "Avgående näringsminister **Ebba Busch** riktar hård kritik mot förslag om att urholka EU:s klimatmål för fordonsflottan i kölvattnet av bilindustrins sparpaket. Hon varnar för att en sänkning av kraven i slutändan slår tillbaka mot svenska företags konkurrenskraft.",
+      "why_it_matters": "En tydlig markering om den svenska linjen i EU-förhandlingarna kring den gröna omställningen och industripolitiken.",
+      "category": "Ekonomi",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/ebba-busch-kd-om-minskade-klimatkrav-pa-bilar-idiotiskt",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Ebolautbrott sprider sig till Nigeria via diplomatfru",
+      "summary": "Hälsomyndigheter i Nigeria bekräftar landets första fall i det pågående utbrottet, där hustrun till en schweizisk diplomat insjuknat i **ebola**. FN och lokala myndigheter arbetar febrilt för att spåra smittkedjan och isolera kontakterna innan viruset får fäste i mångmiljonstäder.",
+      "why_it_matters": "Att ebola når Västafrikas mest folkrika nation ökar risken för ett omfattande regionalt hälsokrisläge.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-ebola-mcvt/22dc-ebola-mcvt-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Systematiska attacker mot sjukhus i Sudan utreds som krigsbrott",
+      "summary": "En granskning visar att den paramilitära RSF-milisen systematiskt beskjutit och förstört sjukvårdsinrättningar i staden el-Fasher. FN:s människorättschef **Volker Türk** varnar för att de riktade angreppen mot vårdpersonal och patienter utgör uppenbara krigsförbrytelser.",
+      "why_it_matters": "Vårdkollapsen i Darfur lämnar hundratusentals civila utan akut medicinsk hjälp mitt under ett rasande inbördeskrig.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Donald Trump tvingas vittna under ed i BBC-stämning",
+      "summary": "En domstol har beordrat **Donald Trump** att svara på frågor under ed i den pågående rättstvisten mot BBC. Stämningen gäller ett avsnitt av granskningsprogrammet Panorama där två separata uttalanden klippts samman på ett sätt som Trump hävdar är förtal.",
+      "why_it_matters": "Ett juridiskt bakslag för expresidenten som tvingas infinna sig till förhör i en internationellt uppmärksammad medietvist.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Frankrike mobiliserar polis inför protester – stormatch flyttas",
+      "summary": "Inför helgens befarade massdemonstrationer flyttar franska ligan stormötet mellan **PSG** och **Lyon**. Regeringen sätter in förstärkt polisnärvaro i Paris för att avvärja upprepade sammandrabbningar och skadegörelse.",
+      "why_it_matters": "Säkerhetsläget i den franska huvudstaden påverkar såväl det civila livet som stora internationella sportevenemang.",
+      "category": "Sport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-france-protests-01-ltbp/23int-france-protests-01-ltbp-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Uppsala moské ger imam sparken efter granskning",
+      "summary": "Ledningen för Uppsala moské har avskedat en **imam** med omedelbar verkan efter ett extrainsatt krismöte. Beslutet fattades i sviterna av kontroversiella uttalanden som imamen gjorde under en intervju med SVT:s Uppdrag granskning.",
+      "why_it_matters": "Visar hur granskande journalistik kan tvinga fram snabba ledningsbeslut inom inflytelserika religiösa församlingar.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/uppsala/uppsala-moske-avskedar-imam-efter-intervju-med-uppdrag-granskning",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Viktminskningsläkemedel pressar L'Oréals försäljning",
+      "summary": "Skönhetsjätten L'Oréal varnar för att den explosionsartade användningen av **GLP-1-läkemedel** som Ozempic börjar påverka efterfrågan på hudvårds- och skönhetsprodukter. Bolagets VD beskriver det förändrade konsumentbeteendet som en mycket betydelsefull faktor för marknaden.",
+      "why_it_matters": "Visar hur snabbt medicinska bantningspreparat skapar ringar på vattnet och stöper om konsumtionsmönster i globala konsumentbranscher.",
+      "category": "Ekonomi",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Våldsam olivskörd på Västbanken efter bosättarattacker",
+      "summary": "Årets olivskörd på Västbanken beskrivs som den våldsammaste på åratal efter att beväpnade israeliska bosättare angripit palestinska bönder. Våldet har lett till skarpa fördömanden från **USA** och internationella hjälporganisationer.",
+      "why_it_matters": "Olivskörden är avgörande för palestiniernas ekonomi och kulturarv, och angreppen förvärrar spänningarna i området.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-olive-harvest-vfpk/23int-olive-harvest-vfpk-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Ukraina larmar: Starlink begränsas trots Trumps löfte",
+      "summary": "Ukrainska militärkällor uppger att satellitnätverket **Starlink** fortfarande är kraftigt begränsat vid fronten. Detta trots att Donald Trump nyligen hävdat att alla restriktioner för Ukrainas uppkoppling hade hävts.",
+      "why_it_matters": "Stabil satellitkommunikation är helt avgörande för det ukrainska försvarets ledningssystem och drönaroperationer.",
+      "category": "Teknik",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Italienska åkare i strejk – brist på mat och bränsle",
+      "summary": "En landsomfattande strejk bland italienska lastbilschaufförer har lamslagit distributionen i södra delarna av landet. Chaufförerna protesterar mot skenande **drivmedelspriser**, vilket resulterat i tomma butikshyllor och torrlagda bensinstationer.",
+      "why_it_matters": "Logistikkollapsen visar sårbarheten i de europeiska distributionskedjorna när transportsektorn drabbas av kostnadschocker.",
+      "category": "Ekonomi",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-Italy-shortages-01-mvfz/22int-Italy-shortages-01-mvfz-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Krigsförbrytartribunalen tilldelas EU:s Sacharovpris",
+      "summary": "Internationella brottmålsdomstolen (**ICC**) har tilldelats EU-parlamentets prestigefyllda Sacharovpris för mänskliga rättigheter. Priset ses som en tydlig europeisk markering till stöd för domstolen mot bakgrund av påtryckningar och sanktionshot från Washington.",
+      "why_it_matters": "Ett tungt politiskt erkännande som stärker den internationella rättsordningens legitimitet i en tid av global polarisering.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-sakharov-icc-fvhp/22int-sakharov-icc-fvhp-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Moas handritade långfilm nomineras till pris i Norge",
+      "summary": "Den självlärda animatören **Moa Olsson** har under sex års tid ritat en komplett animerad långfilm helt själv, ruta för ruta. Nu har filmen nominerats till priset för bästa nordisk-baltiska långfilm vid den prestigefyllda animationsfestivalen i Fredrikstad.",
+      "why_it_matters": "En enastående konstnärlig och hantverksmässig bedrift som väcker internationell uppmärksamhet för svensk oberoende animation.",
+      "category": "Kultur",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/moa-ritade-langfilmen-sjalv-nu-kan-den-vinna-pris-i-norge",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "El Salvador-modellen sprider sig i Latinamerika",
+      "summary": "President **Nayib Bukeles** kompromisslösa metoder mot gängkriminaliteten i El Salvador vinner terräng över hela den latinamerikanska kontinenten. Allt fler ledare inför liknande hårdföra åtgärder, trots omfattande kritik från människorättsorganisationer.",
+      "why_it_matters": "En grundläggande förändring av regionens säkerhetspolitik där medborgerliga rättigheter underordnas krav på lag och ordning.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/00ideas-latam-kghw/00ideas-latam-kghw-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Uppgörelse om deportationsflyg avvärjer tullkrig med Colombia",
+      "summary": "Donald Trump meddelar att Colombia gått med på att ta emot utvisade medborgare, vilket stoppar hotet om 25-procentiga strafftullar. Den nya amerikanska administrationen har inlett en storskalig **deportationsoffensiv** med hundratals gripanden under sina första dagar.",
+      "why_it_matters": "Demonstrerar Trumps strategi att använda handelstullar som direkt påtryckningsmedel i migrationsfrågor.",
+      "category": "Ekonomi",
+      "source": "WSJ.com: World News",
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Finländsk valp-livesändning gör succé i oroliga tider",
+      "summary": "Ett dygnet runt-sänt videoflöde från en hundvalpskorg har blivit ett gigantiskt tittarfenomen i Finland under namnet **Puppy Live**. Miljontals tittare söker tröst och lugn i sändningen i en omvärld präglad av krig och ekonomisk oro.",
+      "why_it_matters": "Ett talande kulturfenomen som speglar allmänhetens behov av eskapism och mental återhämtning i kristider.",
+      "category": "Kultur",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-finland-puppies-01-hkzf/23int-finland-puppies-01-hkzf-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Upptrappad kapprustning på den koreanska halvön",
+      "summary": "Nordkoreas fördjupade allians med Ryssland har utlöst en intensiv **kapprustning** gentemot Sydkorea. Båda länderna placerar nu ut allt mer avancerade ballistiska robotar och attackdrönare längs den hårdbevakade gränsen.",
+      "why_it_matters": "Ökar risken för militära missbedömningar i en av världens mest explosiva säkerhetspolitiska zoner.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/21/multimedia/00int-korea-arms-01-vbct/00int-korea-arms-01-vbct-mediumSquareAt3X-v2.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Flygkaos på Kastrup efter nya säkerhetsrutiner",
+      "summary": "Passagerare på Kastrups flygplats möttes av timslånga köer efter att den danska Trafikstyrelsen beordrat omedelbart ändrade rutiner i **säkerhetskontrollen**. Flygplatsledningen varnar för att förseningarna kan komma att pågå under hela helgen.",
+      "why_it_matters": "Skapar omfattande störningar för tusentals resenärer i hela Öresundsregionen och påverkar anslutningsflyg.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/langa-koer-pa-kastrup-flygplats",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Bakslag för rebeller i östra Kongo när Goma hotas",
+      "summary": "Den rwandastödda rebellrörelsen M23 har ryckt fram mot miljonstaden Goma i östra Kongo-Kinshasa. FN-trupper och armén kämpar för att hejda offensiven medan över 300 000 civila drivits på **flykt** från de senaste striderna.",
+      "why_it_matters": "En fullskalig humanitär katastrof hotar i en region som redan hyser över en miljon internflyktingar.",
       "category": "Världen",
       "source": "WSJ.com: World News",
       "url": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
@@ -357,19 +337,9 @@
       "date": "2026-10-23"
     },
     {
-      "title": "Gisslan friges och civila återvänder till norra Gaza under bräcklig vapenvila",
-      "summary": "Hamas har släppt ytterligare en grupp israeliska gisslan samtidigt som tusentals fördrivna palestinier vandrar tillbaka mot norra Gaza. Den flerfasiga **vapenvilan** väcker försiktigt hopp om ett varaktigt slut på striderna, trots enorm förödelse och **fortsatta spänningar**.",
-      "why_it_matters": "Den mest konkreta nedtrappningen i konflikten på över ett år, avgörande för regionens framtid.",
-      "category": "Världen",
-      "source": "WSJ.com: World News",
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "image_url": "",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Fastighetsjätten Vanke redovisar brakförlust i Kinas fastighetskris",
-      "summary": "Kinas tidigare stabila fastighetsgigant **Vanke** varnar för enorma förluster, vilket sänder nya chockvågor genom landets ekonomi. Krisen sätter förnyad press på **Peking** att ingripa med massiva statliga räddningspaket.",
-      "why_it_matters": "Fastighetssektorn utgör en hörnsten i Kinas ekonomi, och dess kollaps hotar den globala tillväxten.",
+      "title": "Kinas fastighetsjätte Vanke redovisar mångmiljardförlust",
+      "summary": "Den kinesiska fastighetsjätten **Vanke** har redovisat en rekordförlust, vilket sänder nya chockvågor genom landets krisdrabbade bygg- och bostadssektor. Investerare befarar nu att krisen sprider sig till statligt stödda aktörer.",
+      "why_it_matters": "Fastighetskrisen utgör ett allvarligt systemhot mot Kinas totala ekonomiska tillväxt och den globala marknaden.",
       "category": "Ekonomi",
       "source": "WSJ.com: World News",
       "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
@@ -377,9 +347,9 @@
       "date": "2026-10-23"
     },
     {
-      "title": "Tysklands ekonomiska exportmodell dödförklaras i brist på plan B",
-      "summary": "Svagare efterfrågan från Kina i kombination med hot om tullar från USA slår hårt mot Tysklands traditionella exportindustri. Analytiker varnar för att landets **ekonomiska modell** brutit samman och att politiska ledare saknar en hållbar **omställningsstrategi**.",
-      "why_it_matters": "Europas ekonomiska motor hackar, vilket drabbar hela EU:s konkurrenskraft och handelspartners inklusive Sverige.",
+      "title": "Tysklands exportmodell dödförklaras i ekonomisk rapport",
+      "summary": "Tysklands traditionella tillväxtmotor hackar betänkligt i takt med minskad kinesisk efterfrågan och hot om amerikanska tullar. Ekonomiska bedömare varnar för att landet saknar en **plan B** för att ställa om sin exportberoende industri.",
+      "why_it_matters": "Ekonomisk stagnation i Europas största ekonomi får direkta återverkningar på hela EU och svensk exportindustri.",
       "category": "Ekonomi",
       "source": "WSJ.com: World News",
       "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
@@ -387,23 +357,53 @@
       "date": "2026-10-23"
     },
     {
-      "title": "Haveriutredning efter Jeju Air-krasch fokuserar på fågelkollision",
-      "summary": "Utredare i Sydkorea undersöker svåra motorskador efter att ett passagerarplan från **Jeju Air** kolliderat med fåglar i luften. Granskningen lägger särskilt fokus på **piloternas agerande** i sekunderna efter att motorproblemen uppstod.",
-      "why_it_matters": "Kritiskt för att dra internationella lärdomar om flygsäkerhet och besättningars krishantering vid motorskador.",
-      "category": "Världen",
-      "source": "WSJ.com: World News",
-      "url": "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-On-engine-damage-after-bird-strike-3bafc2ff",
+      "title": "Kritikstorm mot UIK:s flickakademi – klubbar hotar med bojkott",
+      "summary": "Flera idrottsföreningar i Umeå överväger att bojkotta matcher mot storklubben Umeå IK:s ungdomslag. Kritiken handlar om att klubbens **tidiga elitsatsning** för 13-åringar dränerar breddidrotten och skadar flickfotbollen i regionen.",
+      "why_it_matters": "Aktualiserar den infekterade debatten om tidig selektering och toppning kontra barns rätt till breddidrott.",
+      "category": "Sport",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/foreningar-i-umea-kritiska-till-uiks-akademi-diskuterar-bojkott-av-matcher",
       "image_url": "",
       "date": "2026-10-23"
     },
     {
-      "title": "Protester i Indonesien mot giftig rök från regnskogsbränder",
-      "summary": "Hundratusentals människor har insjuknat i luftvägsproblem till följd av massiva bränder i Indonesiens regnskogar orsakade av **markexploatering**. Omfattande folkliga protester kräver nu hårda tag från regeringen mot de **företag** som anlägger bränderna.",
-      "why_it_matters": "Skövlingen förstör ovärderlig biologisk mångfald och utlöser en allvarlig hälsokris över hela Sydostasien.",
+      "title": "Södertälje koras till Sveriges miljöbästa kommun igen",
+      "summary": "För andra året i rad utses Södertälje till landets främsta miljökommun av tidningen Aktuell Hållbarhet. Juryn lyfter särskilt fram kommunens innovativa metoder för att stävja **illegal sopdumpning** och främja cirkulär ekonomi.",
+      "why_it_matters": "Tjänar som förebild för landets kommuner i arbetet mot miljöbrottslighet och för hållbar stadsutveckling.",
       "category": "Klimat",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/sodertalje-bast-i-landet-pa-miljoarbete-for-andra-aret-i-rad",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Tidigare Trump-rådgivaren Corey Lewandowski utreds för mutor",
+      "summary": "Det amerikanska justitiedepartementet har inlett en utredning mot Donald Trumps tidigare kampanjchef **Corey Lewandowski**. Han anklagas för att otillbörligt ha utnyttjat sin roll inom inrikessäkerhetsdepartementet för personlig ekonomisk vinning.",
+      "why_it_matters": "En ny rättslig skandal med koppling till kretsen runt Trump som kan påverka administrationens förtroendekapital.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Brittisk säkerhetschef i blåsväder efter hustruns Palestina-inlägg",
+      "summary": "En våldsam politisk debatt om yttrandefrihet har brutit ut i Storbritannien efter att **Sarah Helm**, hustru till landets nationella säkerhetsrådgivare, uttryckt stöd för en förbjuden pro-palestinsk aktivistgrupp på sociala medier.",
+      "why_it_matters": "Skapar svåra lojalitetskonflikter och sätter press på den brittiska regeringens säkerhetsetablissemang.",
+      "category": "Världen",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-indonesia-haze-tmfp/22int-indonesia-haze-tmfp-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-uk-powell-wife-01-gkcz/23int-uk-powell-wife-01-gkcz-mediumSquareAt3X.jpg",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Över 60 våldsincidenter på lågstadieskola i Vaggeryd",
+      "summary": "Östra skolan i Vaggeryd har drabbats av över 60 rapporterade incidenter om **hot och våld** sedan terminsstarten. Upprörda föräldrar menar att ledningen ignorerat varningssignaler under lång tid och kräver nu omedelbara krafttag.",
+      "why_it_matters": "Speglar en oroväckande utveckling kring trygghet och bristande studiero även i landets allra lägsta årskurser.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/over-60-incidenter-pa-lagstadieskola-i-vaggeryd-efter-sommaren-en-katastrof",
+      "image_url": "",
       "date": "2026-10-23"
     }
   ]
