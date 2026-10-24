@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 04:11 UTC",
+  "updated_at": "2026-10-24 10:42 UTC",
   "articles": [
     {
-      "title": "OpenAI slutar träna modeller direkt mot live-webben på grund av risker",
-      "summary": "**OpenAI** har meddelat att de inte längre kommer träna sina mest avancerade modeller direkt mot live-internet med hänvisning till betydande säkerhetsrisker. Beslutet markerar en helomvändning bara veckor efter att interna ingenjörer hävdat att en sådan avskärmning inte vore genomförbar.",
-      "why_it_matters": "Att isolera träningspipelinen från det öppna nätet minskar riskerna för prompt injection och förgiftning av träningsdata (data poisoning), men kan försvåra realtidsuppdatering av modeller.",
+      "title": "OpenAI slutar träna modeller på det öppna internetet på grund av säkerhetsrisker",
+      "summary": "**OpenAI** meddelar att de inte längre kommer att träna sina ledande gränsmodeller direkt på det levande internetet. Beslutet motiveras av betydande risker kring dataintegritet och skadlig manipulation, trots tidigare interna invändningar mot strategin.",
+      "why_it_matters": "Att stänga av träningsprocessen från det öppna nätet markerar ett paradigmskifte mot syntetisk data och kurerade datamängder för att motverka dataförgiftning och upphovsrättsliga tvister.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -13,8 +13,8 @@
     },
     {
       "title": "OpenAI förbereder jätterunda på 30 miljarder dollar inför börsintroduktion",
-      "summary": "AI-giganten **OpenAI** arbetar på en ny finansieringsrunda på 30 miljarder dollar till en värdering på svindlande 1,25 biljoner dollar. Om rundan fullföljs blir bolaget den högst värderade privata teknikaktören i historien inför sin planerade **IPO**.",
-      "why_it_matters": "En värdering över en biljon dollar understryker marknadens enorma förväntningar på att AGI-utveckling och frontier-modeller ska generera fundamentala skiften i världsekonomin.",
+      "summary": "AI-jätten **OpenAI** uppges arbeta på en ny kapitalrunda på 30 miljarder dollar till en värdering på svindlande 1,25 biljoner dollar. Om finansieringen fullbordas blir bolaget det högst värderade privata företaget i historien inför sin kommande **IPO**.",
+      "why_it_matters": "En triljonvärdering illustrerar marknadens enorma förväntningar på att grundläggande AI-modeller kommer att dominera den globala mjukvaru- och infrastruktursektorn.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -22,9 +22,9 @@
       "date": "2026-10-24"
     },
     {
-      "title": "MIT-studie: AI-agenter lämnade ensamma började uppfinna lekar",
-      "summary": "Forskare vid **MIT** isolerade 13 autonoma **AI-agenter** i en virtuell ö-miljö utan explicita uppgifter. Agenterna reagerade genom att på eget initiativ uppfinna spel, visa tecken på kollektivt sörjande och förbättrade därefter sin samarbetsförmåga avsevärt.",
-      "why_it_matters": "Detta visar på framväxande (emergent) socialt beteende och lek hos LLM-baserade agenter, vilket ger nya insikter i hur artificiell allmän intelligens (AGI) kan utveckla problemlösningsförmåga.",
+      "title": "MIT-forskning: Lämnade åt sig själva började AI-agenter leka och uppfinna spel",
+      "summary": "Forskare vid **MIT** isolerade 13 autonoma **AI-agenter** på en virtuell ö utan direkta instruktioner. Agenterna började spontant interagera socialt, skapa egna lekar och sörja en förlorad virtuell artefakt, vilket sedermera förbättrade deras problemlösningsförmåga.",
+      "why_it_matters": "Detta visar på emergenta beteenden i multiagentsystem, där lek och intern simulering fungerar som en mekanism för generell inlärning mot AGI.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -32,9 +32,9 @@
       "date": "2026-10-24"
     },
     {
-      "title": "Anthropic kliver in i agentracet med Claude Duet",
-      "summary": "**Anthropic** har lanserat appen **Claude Duet**, en specialiserad satsning på autonoma agenter för arbetslivet. Tjänsten rullas initialt ut via väntelista för användare av Pro- och Max-planerna och fokuserar på avancerad uppgiftsautomatisering.",
-      "why_it_matters": "Kapplöpningen flyttas nu snabbt från rena chattgränssnitt till agenter som självständigt kan exekvera flerstegsarbetsflöden i företagsmiljöer.",
+      "title": "Anthropic lanserar Claude Duet för autonoma företagsagenter",
+      "summary": "**Anthropic** kliver in i agentracet med den nya applikationen **Claude Duet**, som är skräddarsydd för professionellt arbete. Tjänsten görs initialt tillgänglig via väntelista för prenumeranter och fokuserar på att utföra komplexa, flerdelade arbetsuppgifter.",
+      "why_it_matters": "Skiftet från passiva chattbotar till handlande agenter accelererar, där Anthropic utmanar OpenAI direkt inom autonom arbetsplatsautomatisering.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
@@ -42,89 +42,9 @@
       "date": "2026-10-24"
     },
     {
-      "title": "Microsofts Mustafa Suleyman jagar medicinsk superintelligens",
-      "summary": "Enligt en studie publicerad i Science överträffar **Microsofts** diagnostiska AI-system allmänläkare på komplexa patientfall. Chef för AI, **Mustafa Suleyman**, betonar att målet är att uppnå full medicinsk superintelligens för att revolutionera sjukvården.",
-      "why_it_matters": "Att frontier-modeller konsekvent slår specialister i svår diagnostik indikerar att vertikal superintelligens inom medicin kan uppnås före generell AGI.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "image_url": "",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "DeepSeek reser 15 miljarder dollar trots amerikanska restriktioner",
-      "summary": "Det kinesiska AI-labbet **DeepSeek** har säkrat 15 miljarder dollar i färskt kapital i en av landets största investeringsrundor någonsin. Rundan genomfördes bara dagar efter att USA förbjöd användningen av deras **LLM-teknik** inom federala myndigheter.",
-      "why_it_matters": "Den geopolitiska kapplöpningen kring open weights och kostnadseffektiva grundmodeller accelererar, oberoende av handelshinder och sanktioner.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "image_url": "",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "AI upptäckte kritisk sårbarhet i PHP – sätter webbens infrastruktur på prov",
-      "summary": "En kritisk nolldagssårbarhet i programmeringsspråket PHP, som driver stora delar av internet, upptäcktes nyligen med hjälp av **AI**. Upptäckten utlöste en global panik där system tvingades stängas ner för akuta säkerhetsuppdateringar mot autonoma **exploits**.",
-      "why_it_matters": "Dubbel användning av AI inom cybersäkerhet accelererar: automatiserad sårbarhetsupptäckt ger försvarare övertag, men skapar kaos när gamla protokoll komprometteras snabbare än de hinner patchas.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-flaw-fcbk/21dc-flaw-fcbk-mediumSquareAt3X.jpg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "1Password lanserar säker autentisering för AI-agenter utan synliga lösenord",
-      "summary": "Lösenordshanteraren **1Password** har tagit fram en ny funktion som låter **AI-agenter** logga in och agera på användares vägnar. Tekniken skyddar autentiseringsuppgifterna så att agenten kan genomföra transaktioner utan att någonsin exponera lösenordet i klartext.",
-      "why_it_matters": "Autonoma agenter kräver nya säkerhetsarkitekturer; att ge dem säkra digitala fullmakter är ett avgörande steg för praktisk agentanvändning.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "image_url": "",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Kinesiska hackare utnyttjade AI-agenter i storskaligt ConnectWise-intrång",
-      "summary": "Microsoft rapporterar att statsunderstödda angripare använde autonoma **AI-agenter** för att i rekordfart bryta sig in hos tusentals kunder till IT-jätten ConnectWise. Agenterna automatiserade hela intrångskedjan från sårbarhetsanalys till lateral förflyttning i nätverken.",
-      "why_it_matters": "Detta är ett av de första dokumenterade fallen av storskalig cyberkrigföring där autonoma agenter ersätter mänskliga operatörer i realtid.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "image_url": "",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Nvidia visar upp Microduck – 20 000 minirobotar sålda direkt",
-      "summary": "Under ledning av **Nvidias** vd demonstrerades de små intelligenta robotarna Microduck, som reagerar på röstkommandon, gör volter och rör sig autonomt. Över 20 000 enheter sålde slut omedelbart tack vare avancerade inbäddade **AI-chip** för lokal slutledning.",
-      "why_it_matters": "Edge-AI och mikrorobotik tar klivet in i konsumentledet och banar väg för mer avancerade fysiska styrsystem i konsumentrobotar.",
-      "category": "Humanoid Robotik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "image_url": "",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "inDrive planerar robotaxi-tester med Pony AI och Nvidia till 2027",
-      "summary": "Uber-utmanaren inDrive har ingått partnerskap med **Pony AI** och **Nvidia** för att rulla ut autonoma robotaxis i Kazakstan 2027. Satsningen ska testa självkörande teknik anpassad för tuffa klimat och mindre kartlagda urbana miljöer i Centralasien.",
-      "why_it_matters": "Autonoma fordon expanderar bortom USA och Kina till tillväxtmarknader, vilket ställer hårdare krav på generaliserbar AI-perception.",
-      "category": "Humanoid Robotik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "image_url": "",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "GM siktar på helt förarlös 'eyes-off'-körning inom två år",
-      "summary": "**General Motors** accelererar sin AI-utveckling för att lansera fordon med 'eyes-off'-kapacitet inom två år. Biltillverkaren integrerar djupinlärningsmodeller för att kunna matcha den snabba innovationstakten hos kinesiska elbils- och **autonomi-utvecklare**.",
-      "why_it_matters": "Övergången från förarassistans (Level 2) till verklig 'eyes-off' (Level 3/4) kräver massiva framsteg inom end-to-end AI-modeller för fordon.",
-      "category": "Humanoid Robotik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "OpenAI rullar ut sin beslutsmodell brett i hårdnande konkurrens",
-      "summary": "**OpenAI** har gjort sin nya **beslutsmodell** allmänt tillgänglig för att konkurrera direkt med ledande system som Jev. Modellen är optimerad för logiska resonemang och flerstegsbeslut i komplexa miljöer snarare än enbart textgenerering.",
-      "why_it_matters": "Resonemangs- och beslutsmodeller (reasoning models) utgör grunden för nästa generations autonoma problemlösning inom forskning och kodning.",
+      "title": "OpenAI lanserar ny beslutsmodell för avancerat resonemang",
+      "summary": "**OpenAI** har gjort sin nya **beslutsmodell** allmänt tillgänglig för att konkurrera med specialiserade system som Jev. Modellen är optimerad för logisk slutledning och komplex strategisk planering snarare än ren textgenerering.",
+      "why_it_matters": "Resonemangsmodeller (reasoning models) representerar nästa våg inom AI och är avgörande för autonoma beslut i affärskritiska miljöer.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
@@ -132,19 +52,89 @@
       "date": "2026-10-24"
     },
     {
-      "title": "Nirva reser 33 miljoner dollar för AI-halsband med selektiv röstupptagning",
-      "summary": "Hårdvaru-startupen Nirva har säkrat 33 miljoner dollar för att lansera ett ambient **AI-halsband** för 249 dollar. Enheten använder riktad akustisk bearbetning och specialiserade **maskininlärningschip** för att uteslutande lyssna på bärarens röst.",
-      "why_it_matters": "Hårdvara för personliga AI-assistenter fortsätter att utvecklas snabbt mot diskreta, alltid aktiva enheter med fokus på integritet.",
-      "category": "AI-Hårdvara",
+      "title": "Microsofts AI överträffar läkare vid svåra diagnoser",
+      "summary": "Mustafa Suleyman från **Microsoft AI** framhåller en ny studie i Science där deras diagnostiska system slår allmänläkare på komplexa fall. Suleyman beskriver framsteget som ett viktigt delmål i strävan efter **medicinsk superintelligens**.",
+      "why_it_matters": "Kliniska expertmodeller kan drastiskt minska feldiagnoser och demonstrerar hur djupa resonemangsmodeller förändrar medicinsk vetenskap.",
+      "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "image_url": "",
       "date": "2026-10-24"
     },
     {
-      "title": "Uber migrerar 30 000 anställda till ChatGPT Work",
-      "summary": "Efter framgångsrika pilottester rullar **Uber** nu ut **ChatGPT Work** till alla sina 30 000 anställda globalt. Syftet är att integrera enterprise-anpassade agenter i det dagliga arbetet för att automatisera kundtjänst och intern mjukvaruutveckling.",
-      "why_it_matters": "Detta representerar en av de största fullskaliga företagsdistributionerna av generativa agenter hittills och sätter standarden för AI på arbetsplatser.",
+      "title": "AI identifierade kritisk säkerhetsbrist i programmeringsspråket PHP",
+      "summary": "Ett **AI-system** har upptäckt en allvarlig sårbarhet i **PHP**, språket som driver en stor del av webbens servrar. Upptäckten utlöste en global panik bland systemadministratörer och visar på AI-modellers kapacitet att hitta nolldagssårbarheter.",
+      "why_it_matters": "Visar hur AI i snabb takt ritar om cybersäkerhetskartan – både genom automatiserad sårbarhetsanalys och risken för automatiserade cyberangrepp.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-flaw-fcbk/21dc-flaw-fcbk-mediumSquareAt3X.jpg",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Kinesiska hackare utnyttjade AI-agenter vid storskaligt intrång",
+      "summary": "Microsoft rapporterar att statsstödda kinesiska aktörer använde autonoma **AI-agenter** för att snabbt bryta sig in hos tusentals kunder via IT-jätten ConnectWise. Agenterna automatiserade attackkedjan och möjliggjorde spioneri i extrem hastighet.",
+      "why_it_matters": "Detta bekräftar att AI-drivna autonoma vapen och angreppsskript redan används skarpt i geopolitisk cyberkrigföring.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "image_url": "",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "DeepSeek reser 15 miljarder dollar trots amerikanska restriktioner",
+      "summary": "Den kinesiska AI-utmanaren **DeepSeek** har enligt uppgifter tagit in 15 miljarder dollar i nytt kapital strax efter att USA beordrat federala myndigheter att bannlysa deras teknologi. Investeringen är en av Kinas största någonsin inom **artificiell intelligens**.",
+      "why_it_matters": "Kapitaltillskottet understryker att Kinas AI-sektor fortsätter mobilisera massiva resurser för att uppnå teknologiskt självstyre oberoende av västerländska sanktioner.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "image_url": "",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "1Password introducerar säker inloggning för autonoma AI-agenter",
+      "summary": "Lösenordshanteraren **1Password** lanserar ett protokoll som gör det möjligt för **AI-agenter** att logga in på personliga konton för användarens räkning. Systemet ger agenterna behörighet att agera utan att exponera själva lösenordet i klartext.",
+      "why_it_matters": "En fundamental infrastrukturpusselbit för agent-ekonomin, där säkra gränssnitt för identitetshantering behövs när mjukvaruagenter ska utföra ärenden i den verkliga världen.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "image_url": "",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Nvidia-chefen visar upp Microduck – ny våg av mikrorobotar",
+      "summary": "Nvidias VD Jensen Huang visade upp de interaktiva **Microduck-robotarna**, vilka snabbt sålde i över 20 000 exemplar. Robotarna använder avancerad röststyrning, motorik och inbäddade **AI-chip** för att navigera och utföra rörelser på kommando.",
+      "why_it_matters": "Framsteg inom småskalig konsumentrobotik speglar hur embodied AI och miniatyriserade beräkningsenheter snabbt når massmarknaden.",
+      "category": "Humanoid Robotik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "image_url": "",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "inDrive planerar robotaxitester i Centralasien med Pony AI och Nvidia",
+      "summary": "Skjutstjänsten **inDrive** siktar på att inleda tester med **robotaxis** i Kazakstans huvudstad under början av 2027. Satsningen sker i samarbete med autonoma körsystem från Pony.ai och hårdvaruinfrastruktur från Nvidia.",
+      "why_it_matters": "Autonoma fordonsflottor sprider sig bortom USA och Kina till tillväxtmarknader, vilket ökar efterfrågan på integrerad AI-hårdvara för fordonskontroll.",
+      "category": "Humanoid Robotik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-with-pony-ai-and-nvidia/",
+      "image_url": "",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "General Motors siktar på ögon-fria autonoma fordon inom två år",
+      "summary": "**General Motors** accelererar sin utveckling av artificiell intelligens för att lansera förarlösa system där föraren kan släppa blicken helt från vägen inom två år. Satsningen drivs på av hård konkurrens från snabbfotade **kinesiska elbilstillverkare**.",
+      "why_it_matters": "Nivå 3- och 4-autonomi med vision-baserade AI-modeller håller på att bli ett krav för att traditionella biltillverkare ska överleva det globala teknikskiftet.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Uber rullar ut ChatGPT Work till samtliga 30 000 anställda",
+      "summary": "Efter ett mindre pilotprojekt inför **Uber** nu **ChatGPT Work** för alla sina 30 000 medarbetare globalt. Målet är att integrera enterprise-klassad AI i det dagliga arbetsflödet för support, kodning och dataanalys.",
+      "why_it_matters": "En av de mest omfattande företagsinrullningarna av LLM-verktyg hittills, vilket sätter ribban för hur storföretag operationaliserar generativ AI.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
@@ -152,19 +142,29 @@
       "date": "2026-10-24"
     },
     {
-      "title": "Spotify positionerar sig för att bli agenternas föredragna musiktjänst",
-      "summary": "**Spotifys** med-vd Gustav Söderström uppger att bolagets AI-strategi handlar om att bygga API-arkitekturen som autonoma **AI-agenter** väljer när användare ber dem spela musik. Bolaget vill säkra sitt ekosystem när röst- och textagenter blir det primära gränssnittet.",
-      "why_it_matters": "När agenter ersätter mänskligt klickande i appar måste digitala plattformar optimeras för maskinell konsumtion via agentgränssnitt.",
-      "category": "LLM & Modeller",
+      "title": "Nirva säkrar 33 miljoner dollar för omgivande AI-hårdvara",
+      "summary": "Hårdvarubolaget **Nirva** har rest 33 miljoner dollar för sitt bärbara hängsmycke som passivt lyssnar enbart på bäraren via **spatial ljud-AI**. Enheten ska börja levereras i slutet av året för 249 dollar.",
+      "why_it_matters": "Bärbara, skärmlösa AI-enheter utmanar smarttelefonens roll som den primära ingångspunkten för personliga digitala assistenter.",
+      "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
       "image_url": "",
       "date": "2026-10-24"
     },
     {
-      "title": "Canva lanserar sin första egna bildgenereringsmodell",
-      "summary": "Designplattformen **Canva** har presenterat sin första egenutvecklade **bildgenereringsmodell**, tillgänglig för alla användare. Modellen lovar högre precision och anpassningsbarhet till betydligt lägre beräkningskostnader än tredjepartslösningar.",
-      "why_it_matters": "Stora SaaS-aktörer väljer allt oftare att träna egna domänspecifika modeller för att minska beroendet av OpenAI och sänka API-kostnader.",
+      "title": "Meta skapar ny aktieklass för att finansiera massiva AI-investeringar",
+      "summary": "**Meta** planerar att införa ett nytt aktieslag för att finansiera sina eskalerande investeringar i datacenter och **AI-modeller**, då bolagets kassaflöde satts under press. Samtidigt rapporterar deras AI-app Muse över 10 miljoner användare.",
+      "why_it_matters": "Investeringsbehoven för nästa generations beräkningskluster är så monumentala att även teknikjättar tvingas förändra sin kapitalstruktur för att hålla jämna steg.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "image_url": "",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Canva lanserar sin första egenutvecklade bildgenereringsmodell",
+      "summary": "Designplattformen **Canva** rullar ut sin första egna **bildgenereringsmodell** till samtliga användare. Bolaget utlovar högre prestanda och bättre anpassningsbarhet till betydligt lägre beräkningskostnader än externa API:er.",
+      "why_it_matters": "Visar hur applikationslagerbolag verticaliserar sin AI-stack genom att bygga egna modeller för att minska beroendet av OpenAI och andra modellägare.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
@@ -172,19 +172,19 @@
       "date": "2026-10-24"
     },
     {
-      "title": "Meta Muse når 10 miljoner användare med fokus på shopping och produktivitet",
-      "summary": "**Meta** meddelar att deras AI-app **Meta Muse** har passerat 10 miljoner aktiva användare. Appen används i allt högre grad för automatiserad shopping och personlig produktivitet som en del av bolagets bredare konsumentsatsning.",
-      "why_it_matters": "Framväxten av konsumentinriktade AI-assistenter börjar på allvar omforma e-handel och personlig databehandling direkt i mobila gränssnitt.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "image_url": "",
+      "title": "SpaceX vänder till vinst driven av växande AI-affär",
+      "summary": "Trots skenande utgifter för maskininlärning och beräkningskraft redovisar **SpaceX** positivt resultat tack vare Starlink och sina nya **AI-produkter**. Intäkterna mer än fördubblades under kvartalet.",
+      "why_it_matters": "Kombinationen av global satellitkonnektivitet och distribuerad AI-beräkning öppnar nya intäktsmodeller och infrastrukturresurser för Elon Musks ekosystem.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-spacex-earnings-khqm/20biz-spacex-earnings-khqm-mediumSquareAt3X.jpg",
       "date": "2026-10-24"
     },
     {
-      "title": "Ingenjör anklagad för avlyssning hos OpenAI stöttades av Saudiarabien",
-      "summary": "Enligt åklagare har saudiska företrädare hjälpt familjen till den ingenjör som står åtalad för att ha planterat avlyssningsutrustning hos **OpenAI**. Händelsen belyser det intensiva underrättelse- och industrispionaget som riktas mot ledande **AI-laboratorier**.",
-      "why_it_matters": "Nationella säkerhetsintressen kring frontier-modeller och modellvikter gör AI-labb till primära mål för statsunderstödd spionageverksamhet.",
+      "title": "Åklagare: Saudiarabien hjälpte ingenjör anklagad för spionage mot OpenAI",
+      "summary": "Amerikanska åklagare uppger att saudiska tjänstemän hjälpte familjen till en ingenjör som står åtalad för att ha planterat avlyssningsutrustning hos **OpenAI**. Händelsen belyser det intensifierade industrispionaget kring **AGI-utveckling**.",
+      "why_it_matters": "Nationers underrättelsetjänster riktar nu aktivt in sig på ledande AI-laboratorier för att komma över träningsmetoder, modellvikter och arkitekturer.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
@@ -192,12 +192,12 @@
       "date": "2026-10-24"
     },
     {
-      "title": "AI-boomen skapar rusning efter specialbeläggningar för datacenter",
-      "summary": "Den massiva utbyggnaden av datacenter för **AI-beräkningar** driver upp efterfrågan på specialutvecklade grå beläggningar. Färgerna appliceras på servrar och stålkonstruktioner för att motverka brand, rost och **statisk elektricitet** i högdensitetskluster.",
-      "why_it_matters": "Den fysiska hårdvaruinfrastrukturen bakom AI ställer extrema krav på allt från kylning och brandskydd till specialmaterial vid storskalig klusterdrift.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+      "title": "Spotify positionerar sig för att bli musikvalet för autonoma agenter",
+      "summary": "**Spotifys** med-VD Gustav Söderström klargör att bolagets AI-strategi handlar om att bygga gränssnitt och API:er som framtida **AI-agenter** föredrar att integrera med. När agenter tar över musikvalen måste tjänsten vara deras naturliga plattform.",
+      "why_it_matters": "Belyser det kommande skiftet från konsumentinriktade användargränssnitt till maskin-till-maskin-gränssnitt (agent-to-agent) inom digitala medier.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "image_url": "",
       "date": "2026-10-24"
     }
