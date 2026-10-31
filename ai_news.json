@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 05:05 UTC",
+  "updated_at": "2026-10-31 12:02 UTC",
   "articles": [
     {
       "title": "Nvidia överväger att gå in som medlåntagare för Nscales AI-datacenter i West Virginia",
-      "summary": "När investerare blir nervösa kring de enorma summor som plöjs ner i AI, hjälper det att tillverkaren av de primära kretsarna erbjuder sig att kautionera för lånet. **Nvidia** visar därmed att de är beredda att ta finansiell risk för att hålla byggandet av ny infrastruktur igång.",
-      "why_it_matters": "Belyser hur djupt integrerade chipjättarna har blivit i finansieringen av nästa generations AI-infrastruktur.",
+      "summary": "När investerare blir nervösa kring AI-utgifter är det till hjälp att tillverkaren av **chip** erbjuder sig att gå i borgen för lånet. Satsningen speglar hur hårdvarujättarna tvingas stötta infrastrukturen för att hålla efterfrågan uppe.",
+      "why_it_matters": "Visar på hur ekosystemet kring AI-infrastruktur är sammankopplat, där chiptillverkare aktivt måste finansiera utbyggnaden av storskaliga datacenter för att säkra framtida hårdvaruförsäljning.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -12,9 +12,19 @@
       "date": "2026-10-31"
     },
     {
-      "title": "Anthropic förväntas få hög skräpstatusbetyg av kreditinstitut efter sin börsintroduktion",
-      "summary": "Enligt prognoser riskerar **Anthropic** att få ett kreditbetyg som klassas som 'junk' efter sin IPO, vilket skulle göra det dyrare och svårare att finansiera de enorma kostnaderna bakom deras språkmodeller. Detta kastar ljus över de gigantiska kapitalbehov som präglar hela den ledande LLM-sektorn.",
-      "why_it_matters": "Detta sätter fingret på den bräckliga ekonomiska verkligheten för rena LLM-bolag vars enorma beräkningskostnader kräver kontinuerlig kapitalanskaffning.",
+      "title": "Intels aktieras skakar om: 12 miljarder dollar försvinner från statens ägarandel",
+      "summary": "Intel drabbas hårt av vikande pc-försäljning när **AI-industrin** slukar minneskretsar och andra komponenter, vilket driver upp priserna på persondatorer. Den finansiella motvinden skapar djupt skakiga förutsättningar för den krisande chiptillverkaren.",
+      "why_it_matters": "Belyser de oförutsedda flaskhalsarna och marknadskrockarna mellan traditionell hårdvara och den enorma tillväxten inom AI-komponenter.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "image_url": "",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Anthropic förväntas få lågt kreditbetyg (\"skräpstatus\") av kreditinstitut efter börsintroduktion",
+      "summary": "Blackstones prognos pekar mot att **Anthropic** kan få ett kreditbetyg i skräpkategorin i samband med sin börsnotering. Detta riskerar att göra det både svårare och dyrare för bolaget att finansiera de enorma kostnader som krävs för att driva verksamheten.",
+      "why_it_matters": "Sätter fingret på den brännande debatten kring hur kapitalintensiva LLM-företag ska finansiera sin fortsatta forskning och drift utan garanterad lönsamhet.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
@@ -23,9 +33,9 @@
     },
     {
       "title": "Sprickor uppstår i AI-investeringsboomen",
-      "summary": "Big Tech pumpar in miljarder i AI-infrastruktur, men växande skulder, negativt kassaflöde och ökad skepsis bland investerare väcker frågor om boomens långsiktiga hållbarhet. Flera tunga aktörer rapporterar om skenande kostnader för datacenter i jakt på nästa generations **AI-infrastruktur**.",
-      "why_it_matters": "Visar att marknaden börjar kräva faktisk avkastning på de hundratals miljarder dollar som investerats i AI.",
-      "category": "AI-Hårdvara",
+      "summary": "Big Tech pumpar in miljarder i **AI-infrastruktur**, men skenande skulder, negativt kassaflöde och växande skepsis från investerare väcker frågor om boomens långsiktiga hållbarhet. Marknaden börjar ompröva de astronomiska värderingarna i ljuset av utebliven snabb avkastning.",
+      "why_it_matters": "Utgör en viktig makroekonomisk varningssignal för hela branschen rörande balansen mellan kapitalinvesteringar och faktiska intäkter från generativ AI.",
+      "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
       "image_url": "",
@@ -33,8 +43,8 @@
     },
     {
       "title": "Googles första datacentersatellit är online och skriver poesi",
-      "summary": "Den första TPU-processorn i rymden kör nu en **Google DeepMind Gemma**-modell och producerar rymdinspirerade texter. Detta markerar en milstolpe för edge computing och distribuerad AI utanför jordens atmosfär.",
-      "why_it_matters": "Öppnar dörren för realtidsbearbetning av AI-modeller i omloppsbnana med minimal latens.",
+      "summary": "Den första TPU-kretsen i rymden kör en **Google DeepMind Gemma 4**-modell och producerar enklare poesi. Detta banar väg för on-orbit-beräkningar direkt i rymdmiljö för avancerade AI-modeller.",
+      "why_it_matters": "Representerar ett tekniskt genombrott för rymdbaserad hårdvara och edge-computing, vilket minskar latensen för satellitdatabehandling.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
@@ -42,9 +52,19 @@
       "date": "2026-10-31"
     },
     {
-      "title": "Kan AI-datacenter massproduceras likt bilar? Det vill den här starten pröva",
-      "summary": "Bolaget Runware bygger en fabrik för att spotta ut prefabricerade **AI-datacenter** på löpande band med målet att leverera driftsklara enheter på extremt kort tid. Det verkliga provet blir om de kan skala upp produktionen utan att kompromissa med kyleffektivitet och kraftförsörjning.",
-      "why_it_matters": "Modulär och snabb skala på hårdvarusidan är avgörande för att lösa den akuta flaskhalsen med datorkraft.",
+      "title": "Theranos-visselblåsaren Tyler Shultz varnar för att AI-boomen är \"en stor chans att lura folk\"",
+      "summary": "Theranos-historien får förnyad aktualitet i **AI-eran**, där företag som aldrig gått med vinst drar in miljarder på glädjekalkyler. Varningen understryker risken för spekulativa bubblor baserade på överdrivna löften om artificiell intelligens.",
+      "why_it_matters": "Viktig etisk påminnelse om behovet av transparens och granskning av hur startups marknadsför sina förmågor inom AGI och maskininlärning.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "image_url": "",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Kan AI-datacenter massproduceras som bilar? Den här starten vill ta reda på det",
+      "summary": "Runware bygger en fabrik för att spotta ur sig **prefabricerade AI-datacenter** på ett löpande band. Det verkliga provet blir huruvida konceptet kan leverera i den skala och med den kyleffekt som moderna kluster kräver.",
+      "why_it_matters": "Indikerar en potentiell lösning på den skriande bristen på fysisk infrastruktur genom modulär och snabbare driftsättning av beräkningskraft.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
@@ -52,9 +72,9 @@
       "date": "2026-10-31"
     },
     {
-      "title": "AWS blir ett företag värt 1 biljon dollar, men först krävs enorma investeringar, säger Jassy",
-      "summary": "Amazon satsar allt på att bli kungen av AI-molnberäkningar och siktar på att nå 1 biljon dollar i intäkter. För att nå dit måste dock **Amazon** fortsätta sin massiva utgiftsvåg för kapitalvaror (capex), meddelar vd:n.",
-      "why_it_matters": "Understryker molnjättarnas strategiska beroende av att dominera molnbaserad AI-infrastruktur.",
+      "title": "AWS blir ett bolag värt 1 biljon dollar, säger Jassy – men först väntar enorma utgifter",
+      "summary": "Amazon siktar på att bli kungen av **AI-molnberäkningar** och det första företaget med en biljon dollar i intäkter. För att nå dit krävs dock en fortsatt aggressiv utgiftstakt på kapitalintensiva datacenter.",
+      "why_it_matters": "Bekräftar att molbjättarna är helt inriktade på att satsa allt på molnbaserad AI-infrastruktur trots kortsiktig finansiell press.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
@@ -62,9 +82,19 @@
       "date": "2026-10-31"
     },
     {
+      "title": "När söktrafiken sinar skiftar Reddit till en inloggad upplevelse",
+      "summary": "I takt med att **AI förändrar** hur människor söker information på nätet tvingas Reddit ompröva sina rötter på det öppna webben. Förändringen syftar till att skydda användardata och affärsmodellen från obehörig skrapning.",
+      "why_it_matters": "Visar hur AI-drivna sökmotorer och LLM-agenter tvingar fram en grundläggande strukturendring av det öppna internet.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "image_url": "",
+      "date": "2026-10-31"
+    },
+    {
       "title": "OpenAI-stödda Thrive Holdings förvärvar ADT",
-      "summary": "Det **OpenAI**-stödda investmentbolaget Thrive Holdings köper hemsäkerhetsjätten ADT i en jätteaffär värd 15,3 miljarder dollar. Avsikten är att integrera avancerad artificiell intelligens direkt i smarta hem och säkerhetssystem.",
-      "why_it_matters": "Visar hur AI-ekosystemet expanderar fysiskt in i konsumenternas hem genom strategiska uppköp av traditionell hårdvara.",
+      "summary": "Det **OpenAI-stödda** bolaget köper ADT i en affär värd 15,3 miljarder dollar med planer på att integrera avancerad AI i hemsäkerhetsbranschen. Uppköpet markerar en breddning av generativ AI in i fysiska konsumentprodukter.",
+      "why_it_matters": "Demonstrerar hur AI-ekosystemet expanderar in i traditionella hårdvarusektorer för smarta hem och övervakning.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
@@ -72,19 +102,19 @@
       "date": "2026-10-31"
     },
     {
-      "title": "Meta lanserar i tysthet en AI-modeapp vid namn Style Sketch",
-      "summary": "Appen kopplas till Instagram för att bygga en virtuell garderob baserat på foton du redan delat, eller låter dig lägga till plagg manuellt. Det är ännu ett exempel på hur **Meta** bäddar in generativ AI direkt i sina sociala plattformar.",
-      "why_it_matters": "Ett praktiskt tillämpningsområde för datorseende och generativa bildmodeller i vardagliga konsumentprodukter.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "image_url": "",
+      "title": "Binance drabbas av kryptohack på 6,3 miljarder dollar och stoppar uttag",
+      "summary": "Börsen uppges ha komprometterats i vad som kan vara historiens största kryptostöld, där angripare i allt högre grad använder **artificiell intelligens** för att attackera och snabbt tvätta medlen. Säkerhetsincidenten blottlägger sårbarheter i digitala tillgångar.",
+      "why_it_matters": "Belyser hur sofistikerade AI-baserade attacker används inom it-brottslighet för att kringgå komplexa säkerhetssystem.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
       "date": "2026-10-31"
     },
     {
-      "title": "Stora teknikbolags datacenterrazzia bränner pengar och skrämmer Wall Street",
-      "summary": "Amazon har blivit det senaste i raden av teknikföretag som meddelar skenande investeringar i **konstgjord intelligens** mitt i fallande aktiekurser. Investerare börjar ana att kostnaderna för att bygga AI-infrastruktur överstiger kortsiktiga intäkter.",
-      "why_it_matters": "Kapitalmarknadens ökande oro kan tvinga fram en förändring i hur snabbt techjättarna vågar expandera sina AI-datacenter.",
+      "title": "Big Techs datacentersatsning bränner kontanter och skrämmer Wall Street",
+      "summary": "Amazon ansluter sig till raden av jättar som redovisar skenande investeringar i **AI-infrastruktur** samtidigt som aktiekurserna svajar. Investerarnas tålamod prövas nu på allvar av de rekordhöga kostnaderna.",
+      "why_it_matters": "Sätter strålkastarljuset på spänningen mellan de astronomiska kostnaderna för att bygga ut AI-kapacitet och marknadens krav på kortsiktig avkastning.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
@@ -92,19 +122,9 @@
       "date": "2026-10-31"
     },
     {
-      "title": "Intels aktie rasar med 20 % då AI bromsar vissa delar av verksamheten",
-      "summary": "Chiptillverkaren Intel, vars största investerare är den amerikanska staten, rapporterar att AI-boomens dominoeffekt har skadat försäljningen till persondatortillverkare. När **minneskretsar** prioriteras till AI-kluster stiger priserna på komponenter till vanliga PC-datorer.",
-      "why_it_matters": "Illustrerar hur AI-boomen skapar obalanser i den bredare halvledarmarknaden och slår mot traditionell hårdvara.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-intel-earnings-1-vcjt/29biz-intel-earnings-1-vcjt-mediumSquareAt3X.jpg",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "Husdemokrater kritiserar justitiedepartementets stöd för OpenAI i upphovsrättstvist",
-      "summary": "I en domstolsanmälan har tunga demokrater i juridikutskottet indikerat sitt stöd för förlag i den utdragna stämningen mot **OpenAI**. Konflikten gäller huruvida träning av LLM-modeller på upphovsrättsskyddat material utgör ett brott mot lagen.",
-      "why_it_matters": "Politiskt tryck i upphovsrättsfrågor kan drastiskt förändra förutsättningarna för hur framtida språkmodeller tränas.",
+      "title": "Husdemokrater kritiserar Justitiedepartementets stöd för OpenAI i upphovsrättsmål",
+      "summary": "I en domstolsinlaga har tunga demokrater markerat sitt stöd för förlag i den stämningsansökan som drivs mot **OpenAI**. Konflikten rör gränsdragningsproblem mellan upphovsrättsskyddat material och träning av stora språkmodeller.",
+      "why_it_matters": "Politisk inblandning i AI-relaterade rättstvister kan få enorma konsekvenser för hur LLM-utvecklare tillåts samla in träningsdata framöver.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
@@ -112,49 +132,9 @@
       "date": "2026-10-31"
     },
     {
-      "title": "Binances hack på 6,3 miljarder dollar är bara början på en riskfylld ny era",
-      "summary": "Den största cyberkuppen i historien inträffade i takt med att angripare i ökad utsträckning använder **artificiell intelligens** och avancerade tekniker för att stjäla krypto och snabbt tvätta medlen. Det visar att även hackare effektivt utnyttjar maskininlärning för automatisering.",
-      "why_it_matters": "AI-drivna cyberattacker ställer helt nya krav på säkerhetsarkitekturer inom finans- och blockkedjesystem.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "Den här enheten använder AI och lasrar för att döda myggor",
-      "summary": "En kinesisk startup har utvecklat en enhet som använder **datorseende** och lasrar för att eliminera myggor med hög precision. Metoden väcker dock säkerhetsoro kring risker för människor och andra djur i närheten.",
-      "why_it_matters": "Ett fascinerande exempel på edge-AI i fysiska konsumentprodukter för skadedjursbekämpning.",
-      "category": "Humanoid Robotik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "Alfabetets intäkter stiger med 25 % samtidigt som vinsten sjunker",
-      "summary": "Bolaget har spenderat skoningslöst för att bygga ut **AI-kapacitet** och meddelar att investeringarna kommer att öka ytterligare nästa år. Minskad vinst förklaras av justeringar i värdet på bolagets underliggande investeringar.",
-      "why_it_matters": "Bekräftar att Alphabet (Google) är fullständigt fokuserade på att vinna AI-kriget oavsett kortsiktig lönsamhet.",
-      "category": "LLM & Modeller",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-google-earnings-pcmt/28biz-google-earnings-pcmt-mediumSquareAt3X.jpg",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "Microsofts vinst hoppar med 32 % trots enorm ökning av utgifterna",
-      "summary": "Företagets fria kassaflöde höll sig på plus under det senaste kvartalet, trots att man brände 45,2 miljarder dollar på kapitalutgifter för datacenter. **Microsoft** fortsätter därmed sin aggressiva expansion av molninfrastruktur för AI.",
-      "why_it_matters": "Visar att jättarna har finansiella muskler att fortsätta investera tungt trots skenande kostnader för hårdvara.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-microsoft-earnings-zthl/28biz-microsoft-earnings-zthl-mediumSquareAt3X.jpg",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "AI hittar en flod av buggar, och Silicon Valley brådskar med att laga dem",
-      "summary": "Artificiell intelligens har upptäckt en uppsjö av tidigare okända mjukvarufel, vilket tvingar ingenjörer att febrilt täppa till luckorna innan hackare kan utnyttja dem. **Automatiserad kodgranskning** via LLM-modeller har revolutionerat både sårbarhetsjakt och säkerhetsarbete.",
-      "why_it_matters": "AI fungerar som ett tveeggat svärd som både kan upptäcka och potentiellt skala upp exploateringen av säkerhetsluckor.",
+      "title": "AI hittar en flod av buggar, och Silicon Valley rusar för att laga dem",
+      "summary": "Generativ **AI har blottlagt** en uppsjö av dolda mjukvarufel som ingenjörer nu desperat försöker åtgärda innan illasinnade aktörer kan utnyttja dem. Utvecklingen visar på verktygets dubbla natur inom cybersäkerhet.",
+      "why_it_matters": "Visar hur AI både kan användas för att upptäcka kritiska sårbarheter i realtid och för att snabba upp säkerhetsarbetet i stora kodbaser.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
@@ -162,9 +142,9 @@
       "date": "2026-10-31"
     },
     {
-      "title": "Eftertraktat: Robot-hundvakt. 20 dollar/timmen.",
-      "summary": "Arbetsmarknaden anpassar sig till nya tekniska framsteg där avancerade fyrbenta robotar behöver fysisk tillsyn eller transport i stadsmiljö. Ingen spadar för avföring krävs dock när **robotik** tar över traditionella husdjurstjänster.",
-      "why_it_matters": "Ett humoristiskt men signifikant tecken på hur autonoma maskiner börjar integreras i det urbana vardagslivet.",
+      "title": "Eftertraktat: Robot-hundvakt. 20 dollar i timmen.",
+      "summary": "Fyrbenta mobila **robotar** behöver allt oftare tillsyn och underhåll i urbana miljöer, vilket skapar helt nya typer av arbetstillfällen. Ingen sophantering krävs, men väl handhavande av autonoma maskiner.",
+      "why_it_matters": "Ett tidigt tecken på hur den fysiska robotiseringen skapar nya nischade jobb i gränslandet mellan teknik och vardagsservice.",
       "category": "Humanoid Robotik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
@@ -172,9 +152,9 @@
       "date": "2026-10-31"
     },
     {
-      "title": "I AI:ns 'Robogym' tränar maskiner för att bli mer likt människor",
-      "summary": "Tyska Neura är ett av de företag som leder ansträngningarna för att använda artificiell intelligens inom **robotik**, vilket är avgörande för om Europa ska kunna knappa in på Kinas försprång. Träning i simulerade miljöer hjälper humanoider att lära sig naturliga rörelsemönster.",
-      "why_it_matters": "Europeiska satsningar på avancerad robotinlärning är avgörande för den globala konkurrenskraften inom automation.",
+      "title": "I Tysklands AI-robogym tränar maskiner på att bli mer mänskliga",
+      "summary": "Tyska Neura är ett av de företag som ligger i framkant när det gäller att använda **artificiell intelligens i robotik**, vilket är avgörande för om Europa ska kunna stänga gapet till Kina. Träningen fokuserar på att ge robotar smidigare interaktion och mänskliga rörelsemönster.",
+      "why_it_matters": "Centralt för utvecklingen av generell humanoid robotik och autonomi i verkliga miljöer.",
       "category": "Humanoid Robotik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
@@ -182,23 +162,43 @@
       "date": "2026-10-31"
     },
     {
-      "title": "Microsoft erbjuder avgångsvederlag till 60 000 anställda i AI-satsningens spår",
-      "summary": "Cirka en fjärdedel av teknikjättens personalstyrka blev berättigade till paketen, även om företaget betonade att få förväntas nappa. Skiftet sker i takt med att **Microsoft** prioriterar om kapital och resurser till AI-infrastruktur.",
-      "why_it_matters": "Visar hur AI-skiftet internt tvingar fram storskaliga organisationsförändringar hos de största techbolagen.",
-      "category": "Säkerhet & Etik",
+      "title": "Microsoft erbjuder avgångsvederlag till 60 000 anställda i jättesatsning på AI",
+      "summary": "Omkring en fjärdedel av teknikjättens personalstyrka omfattas av paketen, även om bolaget inte räknar med att alla nappar. Draget speglar hur resurser drastiskt omfördelas mot **AI-utveckling**.",
+      "why_it_matters": "Spegelbilden av den enorma omstruktureringen inom techsektorn där personalintensiva grenar bantas till förmån för automatiserade och AI-drivna satsningar.",
+      "category": "LLM & Modeller",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
       "image_url": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-microsoft-buyouts-gqlz/26biz-microsoft-buyouts-gqlz-mediumSquareAt3X.jpg",
       "date": "2026-10-31"
     },
     {
-      "title": "Anthropics IPO S-1-dokument målar upp en framtid av både löften och faror",
-      "summary": "AI-bolaget tog i sitt prospekt till börsintroduktionen stor möda för att beskriva fördelarna med sin **Claude**-chattbot, men utfärdade samtidigt en rejäl dos varningar. Dokumenten ger en unik inblick i riskerna kring artificiell allmän intelligens (AGI).",
-      "why_it_matters": "Ger marknaden dess första riktiga bokslut över affärsmodellen hos en ledande utvecklare av gränsöverskridande LLM-modeller.",
-      "category": "AGI & Forskning",
+      "title": "Alphabet ökar intäkterna med 25 procent samtidigt som vinsten sjunker",
+      "summary": "Företaget har spenderat ohämmat på att bygga ut **AI-infrastruktur** och flaggar för ännu större investeringar nästa år. Vinsten pressades av förändringar i värdet på bolagets externa investeringar.",
+      "why_it_matters": "Visar att moln- och sökgiganterna är beredda att offra kortsiktiga marginaler för att säkra en ledande position inom nästa generations AI.",
+      "category": "AI-Hårdvara",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/26/multimedia/2026-10-26-anthropic-ipo-letter-index/2026-10-26-anthropic-ipo-letter-index-mediumSquareAt3X-v6.png",
+      "url": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-google-earnings-pcmt/28biz-google-earnings-pcmt-mediumSquareAt3X.jpg",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Microsofts vinst hoppar med 32 procent trots massiva utgifter",
+      "summary": "Teknikjättens fria kassaflöde höll sig på plus under det senaste kvartalet, trots att man brände 45,2 miljarder dollar på kapitalutgifter för **datacenter**. Siffrorna visar på en fortsatt stark efterfrågan på molnbaserade AI-tjänster.",
+      "why_it_matters": "Indikerar att Microsofts massiva AI-investeringar hittills möts av starka affärsintäkter som balanserar de enorma utgifterna.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-microsoft-earnings-zthl/28biz-microsoft-earnings-zthl-mediumSquareAt3X.jpg",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Den här enheten använder AI och lasrar för att döda myggor",
+      "summary": "En kinesisk startup har utvecklat en enhet som kombinerar **artificiell intelligens** med laserstrålar för att eliminera skadeinsekter. Systemet väcker dock säkerhetsoro kring risker för människor och kringliggande djurliv i drift.",
+      "why_it_matters": "Ett fascinerande exempel på edge-AI och datorseende tillämpat på fysisk skadedjursbekämpning i realtid.",
+      "category": "Humanoid Robotik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
       "date": "2026-10-31"
     }
   ]
