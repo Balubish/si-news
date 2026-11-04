@@ -1,15 +1,185 @@
 {
-  "updated_at": "2026-11-04 14:12 UTC",
+  "updated_at": "2026-11-04 23:29 UTC",
   "executive_briefing": [
-    "Demokraterna gör ett historiskt mellanårsval i USA med stora framsteg och historiska segrar, vilket sätter press på president Donald Trump.",
-    "Riksbanken höjer styrräntan för första gången sedan 2023, vilket leder till ökade lånekostnader för hushållen.",
-    "Politiska efterspel och regeringssonderingar pågår i Israel efter ett val med rekordhögt valdeltagande."
+    "USA:s mellanårsval innebär ett tungt nederlag för president Donald Trump samtidigt som Demokraterna tar kontroll över kongressen.",
+    "Cyberattacker mot kylar och frysar i europeiska matbutiker misstänks ha utförts av pro-ryska hackargrupper.",
+    "Svenska militära styrkor förbereder insatser för att skydda Natos gräns i Polen i ett skärpt säkerhetsläge."
   ],
   "articles": [
     {
-      "title": "Demokratiska skrällar och historiska segrar i USA:s mellanårsval",
-      "summary": "USA:s mellanårsval blev historiskt då **Demokraterna** säkrade stora framsteg i traditionella fästen. Bland annat valdes landets första muslimska senator samt den första kvinnliga senatorn från South Carolina.",
-      "why_it_matters": "Valresultatet innebär ett kraftigt bakslag för president Donald Trump och förändrar maktbalansen i kongressen.",
+      "title": "Trump efter valförlusten: Kriget mot Iran värt det",
+      "summary": "Både president **Donald Trump** och vicepresidenten skyller det svaga valresultatet i mellanårsvalet på kriget. Trump försvarar beslutet och betonar att Iran inte kan tillåtas ha kärnvapen.",
+      "why_it_matters": "Visar hur utrikespolitiska konflikter direkt påverkar det politiska landskapet på hemmaplan i USA.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/trump-efter-valforlusten-kriget-mot-iran-vart-det",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Besök från Asien i Jönköping – mandarinanden väcker uppmärksamhet",
+      "summary": "En ovanlig och färgstark **mandarinand** från Asien har observerats i Jönköpings natur och väcker stor uppmärksamhet bland invånare och fågelintresserade.",
+      "why_it_matters": "Sällsynta naturfynd engagerar lokalt och sprids snabbt i media.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/besok-fran-asien-i-jonkoping-mandarinanden-vacker-uppmarksamhet",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Man tagen av svensk polis för brott i Ukraina",
+      "summary": "En 55-årig man misstänkt för brott begångna i **Ukraina** har gripits av den svenska gränspolisen vid inresa. Åklagarmyndigheten begär att mannen ska anhållas provisoriskt.",
+      "why_it_matters": "Belyser internationellt rättsligt samarbete och uppföljning av brott kopplade till kriget i Ukraina.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/man-tagen-av-svensk-polis-for-brott-i-ukraina",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Misstänkt mord i Sollentuna – en död och en skadad",
+      "summary": "En omfattande polisinsats genomfördes i Tureberg efter att en person påträffats död och en annan skadats allvarligt. En **gärningsman** har gripits misstänkt för mord och mordförsök.",
+      "why_it_matters": "Allvarligt våldsbrott som kräver stora polisiära resurser och väcker lokal oro.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-sollentuna-misstankt-grovt-brott",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Filmen ska knyta gängtopp till sprängning i Linköping",
+      "summary": "Rättegången har inletts mot den utpekade gängtoppen **Ildar Galiyev** efter en kraftig explosion mot ett flerfamiljshus i Linköping. Ny filmutrustning väntas spela en avgörande roll i bevisföringen.",
+      "why_it_matters": "Ett viktigt led i rättsväsendets arbete mot den grova gängbrottsligheten och sprängdåden.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/filmen-ska-knyta-gangtopp-till-sprangning-i-linkoping",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Pro-ryska grupper påstår sig ligga bakom flera kylattacker",
+      "summary": "Flera matbutiker och blodbanker i Europa har drabbats av sabotage mot kylar och frysar. Två **pro-ryska hackargrupper** tar på sig ansvaret för cyberangreppen via meddelanden på dark web.",
+      "why_it_matters": "Visar på sårbarheten i kritisk infrastruktur och livsmedelsförsörjning vid digitala sabotage.",
+      "category": "Teknik",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/pro-ryska-grupper-pastar-sig-ligga-bakom-flera-kylattacker",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Skärpt säkerhetsläge inför svensk insats i Polen",
+      "summary": "Svenska soldater från Luftvärnsregementet i Halmstad förbereder sig för att skydda **Natos östra gräns** i Polen. Samtidigt höjer de polska myndigheterna beredskapen för potentiella ryska sabotage.",
+      "why_it_matters": "Speglar det försämrade säkerhetsläget i Europa och den svenska militärens ökade närvaro i närområdet.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/skarpt-sakerhetslage-infor-svensk-insats-i-polen",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "USA-experterna: Nu får Demokraterna stort inflytande",
+      "summary": "**Demokraterna** går mot en stor valseger i det amerikanska mellanårsvalet och tar kontroll över både senaten och representanthuset. Det ger dem omfattande makt att driva igenom lagstiftning framöver.",
+      "why_it_matters": "Förändrar maktbalansen i Washington totalt och begränsar presidentens handlingsutrymme.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/usa-experterna-nu-far-demokraterna-stort-inflytande",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Hundratals kommunbilar i Örnsköldsvik såldes vidare av samma företag",
+      "summary": "En härva kring **kommunala bilar** i Örnsköldsvik avslöjas där 200 fordon sålts vidare till misstänkt underpris via samma bilfirma. Företagets ledning uppger sig vara djupt bestörta.",
+      "category": "Sverige",
+      "why_it_matters": "Väckte misstankar om oegentligheter vid hantering av offentliga tillgångar.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/hundratals-kommunbilar-i-ornskoldsvik-saldes-vidare-av-samma-foretag",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Kvinnorna kvar i häkte – åklagare yrkar på 2,5 års fängelse",
+      "summary": "Huvudförhandlingen mot de två unga kvinnor som åtalats för bilbränder i Jönköping är avslutad. Åklagaren yrkar på två och ett halvt års fängelse medan de **misstänkta kvinnorna** förblir häktade.",
+      "why_it_matters": "Ett uppmärksammat fall av skadegörelse och anlagda bränder som nu närmar sig dom.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/kvinnorna-kvar-i-hakte-aklagare-yrkar-pa-25-ars-fangelse",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Se konsekvenserna av dammhaveriet i Mittån: ”Massa döda yngel”",
+      "summary": "Efter **dammhaveriet i Mittån** tidigare i veckan har stora mängder döda fiskyngel upptäckts. Fiskevårdsområdet uttrycker stor oro över att lekbottnarna har förstörts.",
+      "why_it_matters": "Visar på de allvarliga ekologiska konsekvenserna för lokala vattendrag och fiskbestånd.",
+      "category": "Klimat",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/se-konsekvenserna-av-dammhaveriet-in-mittan-massa-doda-yngel",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Trafikolycka på E4:an – en person allvarligt skadad",
+      "summary": "En svår **trafikolycka** inträffade på E4 utanför Nyköping efter en kollision mellan personbil och lastbil. En person har ådragit sig allvarliga skador.",
+      "why_it_matters": "Orsakar stora trafikstörningar på en av landets viktigaste pulsorer och innebär personskador.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/trafikolycka-pa-e4an-en-person-allvarligt-skadad",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Vändningen: ”Bonusprinsen” släpps inte på fri fot",
+      "summary": "Hovrätten meddelar att **Marius Borg Høiby** nekas att släppas på fri fot och förblir frihetsberövad.",
+      "why_it_matters": "Ett uppmärksammat fall i Skandinavien med kopplingar till kungafamiljen.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/vandningen-bonusprinsen-slapps-inte-pa-fri-fot",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Fars dag glöms bort – Svensk handels teori: ”Hamnar i kläm”",
+      "summary": "Enligt en undersökning från Svensk handel halkar **fars dag** efter mors dag i popularitet. Handelsexperter menar att dagen hamnar i skymundan mellan halloween och black month.",
+      "why_it_matters": "Belyser förändrade konsumtionsmönster och hur nya kommersiella högtider tränger undan äldre traditioner.",
+      "category": "Ekonomi",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/fars-dag-gloms-bort-svensk-handels-teori-hamnar-i-klam",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Två bilar i krock på E6 i höjd med Borgeby",
+      "summary": "Räddningstjänst och blåljuspersonal larmades till en **kollision** mellan två bilar på E6 i Skåne vid 15-tiden på onsdagen.",
+      "why_it_matters": "Akut händelse som påverkar framkomligheten på en hårt trafikerad motorväg.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/tva-bilar-i-krock-pa-e6-i-hojd-med-borgeby",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Man misstänks ha ofredat barn sexuellt på badhus",
+      "summary": "En man i 35-årsåldern har begärts häktad misstänkt för grovt **sexuellt ofredande** mot barn på badhuset Sydpoolen i Södertälje.",
+      "why_it_matters": "Ett mycket allvarligt misstänkt brott på en offentlig familjemiljö.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/man-misstanks-ha-ofredat-barn-sexuellt-pa-badhus",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Hon tänkte bojkotta valet i Israel men röstade ändå",
+      "summary": "Det senaste valet i **Israel** uppvisade ett rekordhögt valdeltagande, drivet av en stark mobilisering bland den arabisraeliska befolkningen på grund av rädsla och ilska.",
+      "why_it_matters": "Visar på förändrat politiskt engagemang och dynamik bland minoritetsgrupper i Mellanöstern.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/hon-tankte-bojkotta-valet-i-israel-men-rostade-anda",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Här är de demokratiska skrällarna från nattens val",
+      "summary": "**USA:s mellanårsval** bjöd på historiska skrällar, däribland valet av landets första muslimska senator samt en kvinnlig senator från landets urfolk.",
+      "why_it_matters": "Markerar en demografisk och politisk förskjutning i den amerikanska lagstiftande församlingen.",
       "category": "Världen",
       "source": "SVT Nyheter",
       "url": "https://www.svt.se/nyheter/utrikes/har-ar-de-demokratiska-skrallarna-fran-nattens-val",
@@ -17,39 +187,9 @@
       "date": "2026-11-04"
     },
     {
-      "title": "Riksbanken höjer styrräntan – varnar för fler höjningar",
-      "summary": "För första gången sedan 2023 väljer **Riksbanken** att höja styrräntan. Samtidigt flaggar riksbankschef **Erik Thedéen** för att ytterligare höjningar kan vänta framöver.",
-      "why_it_matters": "Beslutet innebär direkt höjda kostnader för svenska bolånetagare och påverkar hushållens ekonomi.",
-      "category": "Ekonomi",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/ekonomi/riksbanken-hojer-rantan-661uov",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Israeliska presidenten inleder samtal om regeringsbildning",
-      "summary": "Efter ett val med det högsta valdeltagandet på decennier kommer Israels president **Isaac Herzog** att inleda samtal med partiledarna. Målet är att avgöra om **Benjamin Netanyahu** eller hans rivaler kan bilda en koalition.",
-      "why_it_matters": "Avgör landets framtida politiska inriktning i ett redan hårt prövat läge i Mellanöstern.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Spaniens transportminister avgår efter dödlig tågolycka",
-      "summary": "Kort efter en svår tågolycka söder om Madrid där närmare 70 människor omkommit väljer Spaniens transportminister **Oscar Puente** att avgå.",
-      "why_it_matters": "Sätter hård politisk press på regeringen och lyfter säkerhetsfrågor kring landets infrastruktur.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Högsta domstolen godkänner vistelseförbud för gängledare",
-      "summary": "Högsta domstolen ger grönt ljus för ett preventivt **vistelseförbud** riktat mot en utpekad ledare för ett kriminellt nätverk i **Göteborg**.",
-      "why_it_matters": "Det är en viktig prövning för nya verktyg i kampen mot den organiserade brottsligheten.",
+      "title": "HD godkänner vistelseförbud för utpekad gängledare i Göteborg",
+      "summary": "Högsta domstolen har gett grönt ljus för ett **preventivt vistelseförbud** för en man som kopplas till ledningen för ett kriminellt nätverk i Göteborg.",
+      "why_it_matters": "Ett viktigt prejudikat för hur rättsväsendet kan använda nya verktyg mot organiserad brottslighet.",
       "category": "Sverige",
       "source": "SVT Nyheter",
       "url": "https://www.svt.se/nyheter/lokalt/vast/hd-godkanner-vistelseforbud-for-utpekad-gangledare-i-goteborg",
@@ -57,179 +197,19 @@
       "date": "2026-11-04"
     },
     {
-      "title": "Åklagaren vill att alla fall mot dömd läkare prövas som våldtäkt",
-      "summary": "Chefsåklagare **Gunnar Brodin** överväger att ta fallet med den tidigare dömda **läkaren** hela vägen till Högsta domstolen. Målet är att samtliga åtalspunkter ska bedömas som våldtäkt.",
-      "why_it_matters": "Målet har stor prejudicerande betydelse för hur liknande sexualbrottsfall rubriceras rättsligt.",
+      "title": "Domen mot läkaren överklagas – åklagaren: ”Alla fall ska vara våldtäkt”",
+      "summary": "Efter att en läkare dömts för flera våldtäkter och sexuella ofredanden mot patienter väljer chefsåklagaren att överklaga för att få samtliga fall rubricerade som **våldtäkt**, eventuellt ända upp i Högsta domstolen.",
+      "why_it_matters": "Ett principiellt viktigt brottsmål som kan påverka framtida rättspraxis för sexualbrott i vården.",
       "category": "Sverige",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/uppsala/domen-mot-lakaren-overklagas-aklagar-alla-fall-ska-vara-valdtakt",
+      "url": "https://www.svt.se/nyheter/lokalt/uppsala/domen-mot-lakaren-overklagas-aklagaren-alla-fall-ska-vara-valdtakt",
       "image_url": "",
       "date": "2026-11-04"
     },
     {
-      "title": "Dejan Kulusevski tillbaka i Graham Potters landslagstrupp",
-      "summary": "Förbundskapten **Graham Potter** har presenterat den svenska **Nations League**-truppen där stjärnan **Dejan Kulusevski** gör efterlängtad comeback.",
-      "why_it_matters": "Förstärker det svenska landslaget offensivt inför de kommande avgörande matcherna.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/fotboll/har-ar-sveriges-nations-league-trupp-dejan-kulusevski-med-igen",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Vassa föremål upptäckta i godis efter Halloween i Europa",
-      "summary": "Flera fall av **vassa föremål** i godis har rapporterats i Österrike, Tyskland och Ungern efter Halloween. Bland annat skadade sig en nioårig flicka allvarligt på en synål.",
-      "why_it_matters": "Väck er oro bland föräldrar och har lett till intensiva polisinsatser i flera länder.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Hemnets vd Jonas Gustafsson får lämna med omedelbar verkan",
-      "summary": "Bostadssajten **Hemnet** byter vd sedan **Jonas Gustafsson** tvingats lämna sitt uppdrag. Styrelsen har utsett **Michael Hansen** till tillförordnad vd.",
-      "why_it_matters": "Skapar oväntad turbulens i toppen för en av Sveriges största digitala bostadsplattformar.",
-      "category": "Ekonomi",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/hemnet-byter-vd-jonas-gustafsson-slutar",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Kanada sätter stopp för Ryssland i JVM",
-      "summary": "Kanadas premiärminister **Mark Carney** meddelar att inga ryska eller belarusiska spelare kommer att tillåtas delta i det kommande **JVM i ishockey**.",
-      "why_it_matters": "Beslutet drar skarpa politiska linjer kring internationella idrottsevenemang trots tidigare skiljedomar.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/ishockey/kanadas-besked-inget-ryssland-i-jvm",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "New Delhi kämpar mot extrem luftförorening inför Diwali",
-      "summary": "Luftkvaliteten i **New Delhi** har sjunkit till nivåer som betecknas som mycket dåliga, med ett index på 377, i samband med att skärpta **fyrverkerirestriktioner** införs.",
-      "why_it_matters": "Hotar folkhälsan för miljontals invånare i den indiska huvudstaden under högtidsfirandet.",
-      "category": "Klimat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Hovrätten skärper straffet för uppmärksammat mord",
-      "summary": "En man som mördade sin kvinnliga vän under sitt eget födelsedagsfirande i **Sörmland** får sitt fängelsestraff skärpt av hovrätten, som fastställer morddomen.",
-      "why_it_matters": "Markerar domstolarnas fortsatta linje med strängare straff för grova våldsbrott.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/hovratten-skarper-straff-for-man-som-mordade-sin-van-utanfor-katrineholm",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Kung Charles djupt skakad av Storbritanniens slavhandel",
-      "summary": "Under ett möte på Antigua beskrev **kung Charles** Storbritanniens historiska **slavhandel** som ett skamligt kapitel som fyller hans hjärta med skräck.",
-      "why_it_matters": "Ett ovanligt starkt historiskt erkännande från den brittiska monarken inom ramen för Samväldet.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-king-commonwealth-meeting-01-fzvc/03int-king-commonwealth-meeting-01-fzvc-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Akut blodbrist i Västmanland – engagerade ger blod",
-      "summary": "Efter larm om **akut blodbrist** för blodgrupperna 0+ och 0- hörsammade **Kent Höglund** regionens vädjan och lämnade blod för 98:e gången.",
-      "why_it_matters": "Belyser den ständiga sårbarheten i blodförsörjningen för svenska sjukhus.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/kent-fick-sms-om-akut-blodbrist-lamnade-blod-for-98e-gangen",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Polen skärper säkerheten vid gränsen mot Ryssland",
-      "summary": "Polens premiärminister **Donald Tusk** meddelar att landet stärker gränsbevakningen mot den ryska enklaven **Kaliningrad** med anledning av oroväckande militära rörelser.",
-      "why_it_matters": "Visar på det spända säkerhetsläget vid Natos östra flank.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-POLAND-RUSSIA-01-cgwz/03int-POLAND-RUSSIA-01-cgwz-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "David Druid hoppar av Musikhjälpen 2026",
-      "summary": "Radioprogramledaren **David Druid** väljer att hoppa av årets upplaga av **Musikhjälpen**, även om Sveriges Radio vill ha kvar honom i sina ordinarie program.",
-      "why_it_matters": "Ett populärt radionamn lämnar ett av Sveriges största välgörenhetsprojekt.",
-      "category": "Kultur",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/kultur/david-druid-hoppas-av-musikhjalpen",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Drönare nu den främsta dödsorsaken för civila i Sudans krig",
-      "summary": "Enligt FN har **drönare** blivit det absolut dödligaste vapnet mot civila i det krigshärjade **Sudan**, vilket förvärrar den humanitära krisen ytterligare.",
-      "why_it_matters": "Illustrerar hur modern militär teknologi ökar lidandet i utdragna inbördeskrig.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-sudan-drone-analysis-1-vqbl/03int-sudan-drone-analysis-1-vqbl-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Anthraxutbrott dödar flodhästar i Kongos äldsta nationalpark",
-      "summary": "Ett utbrott av **mjältbrand (anthrax)** har kostat ett trettiotal flodhästar livet i **Virunga nationalpark** i Demokratiska republiken Kongo sedan september.",
-      "category": "Klimat",
-      "source": "NYT > World News",
-      "why_it_matters": "Ett allvarligt hot mot den biologiska mångfalden i ett redan konfliktdrabbat område.",
-      "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-drc-hippo-anthrax-kmtf/03int-drc-hippo-anthrax-kmtf-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Helikopterkollision nära Mount Everest kräver dödsoffer",
-      "summary": "En olycka där två **helikoptrar** kolliderat i ett populärt turiststråk i **Nepal** har lett till en persons död och flera skadade under höstens klättringssäsong.",
-      "why_it_matters": "Sätter fokus på säkerhetsriskerna med den ökande flygtrafiken i Himalayas känsliga miljöer.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Cyberattack slår mot matbutiker i Europa och förstör stora matlager",
-      "summary": "En omfattande **cyberattack** mot kylsystem och frysar i matbutiker i sju europeiska länder har tvingat handlare att slänga stora mängder mat.",
-      "why_it_matters": "Visar hur sårbara kritiska livsmedelskedjor är för digital sabotage.",
-      "category": "Teknik",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Iran vädrar kärnvapentankar efter USA-konflikten",
-      "summary": "Efter militära sammandrabbningar med USA kräver vissa iranska **religiösa ledare** och politiker att landet överger sitt tidigare löfte och utvecklar **kärnvapen** som avskräckande medel.",
-      "why_it_matters": "Ökar spänningarna avsevärt kring den internationella icke-spridningspolitiken i Mellanöstern.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Sirius vinner mot Halmstad och tar över serieledningen",
-      "summary": "IK Sirius besegrade Halmstad med 2–0 på hemmaplan i **Allsvenskan** och kliver därmed upp som serieledare i slutfasen av säsongen.",
-      "why_it_matters": "Skapar ett kokande guldläge i toppen av svensk herrfotboll.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/fotboll/sirius-vacklade-inte-nollade-halmstad",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Fritidshus brann ner till grunden – man hittad död",
-      "summary": "En man har hittats avliden efter en nattlig brand i ett **fritidshus** i Mönsterås kommun. Polis och räddningstjänst utreder händelsen.",
-      "why_it_matters": "Ännu en tragisk dödsbrand i de svenska skogarna inför vintersäsongen.",
+      "title": "Man hittad död efter brand i fritidshus i Mönsterås kommun",
+      "summary": "En man har påträffats avliden efter en nattlig **brand** i ett fritidshus i Mönsterås kommun. Polisen utreder händelsen.",
+      "why_it_matters": "Tragisk utgång av en bostadsbrand som nu undersöks av räddningstjänst och polis.",
       "category": "Sverige",
       "source": "SVT Nyheter",
       "url": "https://www.svt.se/nyheter/lokalt/smaland/man-hittad-dod-efter-brand-i-fritidshus",
@@ -237,109 +217,29 @@
       "date": "2026-11-04"
     },
     {
-      "title": "Påkört lodjur upptäckt vid motorväg i Södertälje",
-      "summary": "Ett dödat **lodjur** som blivit påkört har påträffats intill E20 vid Södertälje och har omhändertagits av polisen för vidare transport till Naturhistoriska riksmuseet.",
-      "why_it_matters": "Ett ovanligt inslag i trafikmiljön som uppmärksammar viltolyckor med stora rovdjur.",
-      "category": "Sverige",
+      "title": "David Druid hoppar av Musikhjälpen 2026",
+      "summary": "Programledaren **David Druid** lämnar uppdraget i Musikhjälpen, även om Sveriges Radio vill ha kvar honom i andra program som Morgonpasset.",
+      "why_it_matters": "Kända profilbyten i omtyckta public service-program brukar väcka stort intresse hos publiken.",
+      "category": "Kultur",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/pakort-lodjur-pa-e20-sodertalje",
+      "url": "https://www.svt.se/kultur/david-druid-hoppas-av-musikhjalpen",
       "image_url": "",
       "date": "2026-11-04"
     },
     {
-      "title": "Kommun döms till företagsbot efter våld mot feriearbetare",
-      "summary": "Östersunds kommun accepterar en företagsbot på 125 000 kronor efter att en minderårig **feriearbetare** utsatts för ett strypgrepp av en vårdtagare på ett demensboende.",
-      "why_it_matters": "Ställer krav på säkrare arbetsmiljö för unga som sommar- och feriejobbar inom vården.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/vardtagare-tog-strypgrepp-pa-minderarig-feriejobbare-i-ostersund",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Manchester United vänder underläge till seger i Champions League",
-      "summary": "Efter en svag inledning med burop från hemmapubliken vände **Manchester United** 0–2 till seger mot Roma i **Champions League** efter mål av Matheus Cunha.",
-      "why_it_matters": "Ger såväl tränare som lag en välbehövlig andhämtning i den europeiska turneringen.",
+      "title": "Här är Sveriges Nations League-trupp – Dejan Kulusevski med igen",
+      "summary": "Förbundskapten Graham Potter har presenterat den svenska truppen där stjärnan **Dejan Kulusevski** gör efterlängtad comeback i landslaget.",
+      "why_it_matters": "Viktigt tillskott för det svenska fotbollslandslaget inför de kommande matcherna i Nations League.",
       "category": "Sport",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/fotboll/man-united-pa-vag-mot-nytt-fiasko-publiken-i-uppror",
+      "url": "https://www.svt.se/sport/fotboll/har-ar-sveriges-nations-league-trupp-dejan-kulusevski-med-igen",
       "image_url": "",
       "date": "2026-11-04"
     },
     {
-      "title": "Flyktingstrid i USA: USA skickar afghaner till osäker framtid",
-      "summary": "Trump-administrationen har genomfört en **deportationsflygning** med dussintals afghanska migranter tillbaka till Afghanistan trots risker för förföljelse av talibanerna.",
-      "why_it_matters": "Visar på en stenhård linje i den amerikanska migrationspolitiken.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
-      "image_url": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-afghan-deport-folo01-photo-pqcf/02int-afghan-deport-folo01-photo-pqcf-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Bombalarm mot flera europeiska flygplan",
-      "summary": "Flera **bombhot** riktades mot europeiska flygplan under tisdagen. Samtliga plan kunde dock landa säkert och inga sprängämnen påträffades vid efterföljande kontroller.",
-      "why_it_matters": "Skapar oro inom civilflyget och kräver omfattande säkerhetsinsatser.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Donald Trump hotar med veto efter kongressbakslag",
-      "summary": "Efter Demokraternas framgångar i kongressvalet svär **Donald Trump** att bli ”Mr. Veto”, men öppnar samtidigt för att söka kompromisser i vissa frågor.",
-      "why_it_matters": "Bebådar en blockerad politisk period i Washington med hårda maktkamper.",
-      "category": "Världen",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/donald-trump-blir-mr-veto",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Winnipeg Jets stod för osannolik vändning i ishockeyn",
-      "summary": "Låg under med 0–4 men vände matchen på mindre än tre minuter i slutminuterna av perioden – en historisk urladdning för **Winnipeg Jets** i Nordamerika.",
-      "why_it_matters": "En av de mest dramatiska slutspurterna i ishockeyhistorien på länge.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/ishockey/galen-vandning-av-winnipeg-jets-hamtade-up-0-4-pa-mindre-an-tre-minuter",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "J-O Waldner briljerar i SVT:s silhuettest",
-      "summary": "Pingislegendaren **Jan-Ove Waldner** visade prov på sitt enastående öga när han galant klarade SVT:s expert-test med att känna igen spelare enbart på deras siluetter.",
-      "why_it_matters": "Ett uppskattat nostalgiskt inslag för alla bordtennisfans.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/bordtennis/klarar-j-o-waldner-testet-mixed-pingisspelarnas-siluett",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Byggprojekt vid Ullån vidtar miljöåtgärder för att skydda vattnet",
-      "summary": "Vid byggnationen av Nya Ullådalsstugan läggs stort fokus på att **skydda Ullån** från föroreningar efter att privatpersoner larmat om grumligt vatten.",
-      "why_it_matters": "Belyser vikten av hård miljökontroll vid fjällnära byggen.",
-      "category": "Klimat",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/byggentreprenoren-sa-ska-ullan-skyddas-vi-tanker-pa-ullan",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "USA bistod Venezuela i dödlig drönarattack mot misstänkta smugglare",
-      "summary": "Amerikanska styrkor uppges ha bistått **Venezuela** i en militär drönarattack riktad mot en grupp misstänkta narkotikasmugglare, vilket dödade ett dussintal personer.",
-      "why_it_matters": "Markerar en upptrappad militariserad kamp mot narkotikahandel i Latinamerika.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-venezuela-us-bombing01-photo-vwmt/03int-venezuela-us-bombing01-photo-vwmt-mediumSquareAt3X.jpg",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Dödsfall i Norrköping – man anhållen för misstänkt mord",
-      "summary": "En man har hittats död i centrala **Norrköping**, och en annan person har anhållits av åklagare på sannolika skäl misstänkt för brottet.",
-      "why_it_matters": "Ännu ett misstänkt våldsbrott som kräver omfattande polisiära resurser.",
+      "title": "Man hittades död i Norrköping – en anhållen",
+      "summary": "En man har hittats död i centrala Norrköping under tisdagen. En annan **man har anhållits** misstänkt för delaktighet i dödsfallet.",
+      "why_it_matters": "Starten på en mordutredning som kräver snabba polisiära åtgärder.",
       "category": "Sverige",
       "source": "SVT Nyheter",
       "url": "https://www.svt.se/nyheter/lokalt/ost/man-hittades-dod-i-norrkoping-en-anhallen",
@@ -347,62 +247,172 @@
       "date": "2026-11-04"
     },
     {
-      "title": "Föräldrarna hyllar Andreas Almgrens maratonsuccé",
-      "summary": "Löparstjärnan **Andreas Almgren** togs emot av stolta föräldrar på Arlanda efter sin historiska succé på maratondistansen i New York.",
-      "why_it_matters": "Uppmärksammar en av svensk friidrotts största prestationer på senare år.",
+      "title": "Donald Trump: Blir Mr. Veto",
+      "summary": "Efter att ha förlorat majoriteten i kongressen planerar **Donald Trump** att använda sin vetorätt flitigt, samtidigt som han öppnar för begränsat samarbete med demokraterna.",
+      "why_it_matters": "Visar hur den politiska dynamiken i USA skiftar mot blocköverskridande låsningar och maktkamp.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/donald-trump-blir-mr-veto",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "Nya videofilmer från **Ukraina** visar spåren efter ett dödligt ryskt dubbelanfall mot en by som krävt dussintals dödsoffer.",
+      "why_it_matters": "Dokumenterar intensifierade attacker mot civilbefruktningen i krigsdrabbade områden.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "summary": "Israels president **Isaac Herzog** har inlett politiska överläggningar för att försöka lösa dödläget och bilda en regeringskoalition.",
+      "why_it_matters": "Avgörande för landets politiska stabilitet efter ett splittrat valresultat.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "summary": "Luftkvaliteten i New Delhi har försämrats kraftigt till 'mycket dåliga' nivåer inför **Diwali-firandet**, trots att nya begränsningar för fyrverkerier har införts.",
+      "why_it_matters": "Belyser de ständigt återkommande miljö- och hälsoutmaningarna med extrem luftförorening i stora städer.",
+      "category": "Klimat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "summary": "Hemliga **polisarkiv** från kommunisttiden har offentliggjorts i Ungern, nästan fyra årtionden efter regimskiftet, vilket väcker både historiskt intresse och debatt.",
+      "why_it_matters": "Kasta ljus över historiska maktstrukturer men riskerar samtidigt att riva upp gamla konflikter.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Nadal set to join Real Madrid board of directors",
+      "summary": "Tennislegenden **Rafael Nadal** uppges ta plats i styrelsen för den spanska storklubben Real Madrid.",
+      "why_it_matters": "Kopplar samman två av världens största idrottsvärldar på ledningsnivå.",
       "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/friidrott/andreas-almgrens-foraldrar-efter-succen-jattenervos",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo",
       "image_url": "",
       "date": "2026-11-04"
     },
     {
-      "title": "Misstänkt för grovt sexuellt ofredande på badhus i Södertälje",
-      "summary": "En man i 35-årsåldern har begärts häktad misstänkt för grovt sexuellt ofredande mot barn på badhuset **Sydpoolen** i **Södertälje**.",
-      "why_it_matters": "Ett mycket allvarligt brottsmisstanke som berör en publik familjemiljö.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.sv.se/nyheter/lokalt/sodertalje/man-misstanks-ha-ofredat-barn-sexuellt-pa-badhus",
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "summary": "Polisen i flera europeiska länder utreder fall där **vassa föremål** upptäckts gömda i godis som delats ut under halloweenfirandet.",
+      "why_it_matters": "Ett skrämmande fenomen som väcker stor oro bland föräldrar och ökar säkerhetsmedvetandet.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo",
       "image_url": "",
       "date": "2026-11-04"
     },
     {
-      "title": "Sydafrika röstar i lokala val med ANC under stark press",
-      "summary": "Väljare i **Sydafrika** går till urnorna i lokala val där det styrande partiet **ANC** pressas hårt på grund av missnöje med undermålig samhällsservice och ekonomisk stagnation.",
-      "why_it_matters": "Kan innebära ett historiskt politiskt maktskifte i flera av landets största städer.",
+      "title": "Why Doctors in Thailand Fear KFC",
+      "summary": "Thailändska läkare varnar för en märklig lokal **skrockfull vidskepelse** kring snabbmatskedjan KFC som sägs medföra otur och påverka medicinsk personal.",
+      "why_it_matters": "Ett intressant exempel på hur kulturella myter möter moderna fenomen.",
+      "category": "Kultur",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-thailand-kfc-01-zbgh/04int-thailand-kfc-01-zbgh-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "summary": "Efter konflikten med USA höjs röster bland iranska bedömare om att landet bör överge sitt löfte att inte utveckla **kärnvapen** för att säkra sin avskräckningsförmåga.",
+      "why_it_matters": "Ökar spänningarna kring internationell icke-spridning och Mellanösterns säkerhet.",
       "category": "Världen",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-safrica-elections-pwfq/04int-safrica-elections-pwfq-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
       "date": "2026-11-04"
     },
     {
-      "title": "Domare förklarar regelmiss i allsvensk match",
-      "summary": "Experten **Jonas Eriksson** sågar domslutet i matchen där Mjällbys målvakt tog bollen med handen utan att straff utdelades till Kalmar.",
-      "why_it_matters": "Sätter domarinsatser och regelstrikthet i fokus i dam- och herrfotbollen.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/fotboll/jonas-eriksson-darfor-fick-kalmar-inte-straff-mot-mjallby",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Kim Kardashian fortsätter kampen för att bli advokat",
-      "summary": "Medieprofilen **Kim Kardashian** meddelar att hon inte ger upp sina drömmar om att klara juristexamen trots motgångar, men lovar att hålla en lägre profil framöver.",
-      "why_it_matters": "Ett kändisporträtt som engagerar miljontals följare globalt.",
-      "category": "Kultur",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo",
-      "image_url": "",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Arabiska väljare i Israel drevs till valurnorna av ilska",
-      "summary": "Det israeliska valet den 27 oktober kännetecknades av ett rekordhögt valdeltagande, inte minst bland den **arabisraeliska befolkningen**, där rädsla och ilska fungerade som starka drivkrafter.",
-      "why_it_matters": "Förändrar den parlamentariska dynamiken och ger minoritetsgrupper ökad röststyrka.",
+      "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
+      "summary": "Under ett toppmöte uttryckte **kung Charles** djup ånger över Storbritanniens historiska roll i den transatlantiska slavhandeln.",
+      "why_it_matters": "Ett historiskt erkännande från den brittiska monarken som påverkar relationerna inom Samväldet.",
       "category": "Världen",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/hon-tankte-bojkotta-valet-i-israel-men-rostade-anda",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-king-commonwealth-meeting-01-fzvc/03int-king-commonwealth-meeting-01-fzvc-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Bob Dylan Meets With Pope Leo",
+      "summary": "Musiklegendaren **Bob Dylan** har gjort ett oväntat besök i Vatikanen för att träffa påve Leo i en otvungen sammankomst.",
+      "why_it_matters": "Ett udda kulturmöte som uppmärksammats globalt i media.",
+      "category": "Kultur",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Anthrax Outgrade in Africa’s Oldest National Park Is Killing Hippos",
+      "summary": "Ett utbrott av **mjältbrand** i Virungaparkens ekosystem i Demokratiska republiken Kongo har lett till att dussintals flodhästar dött.",
+      "why_it_matters": "Hotar både den biologiska mångfalden och sällsynta djurarter i Afrikas äldsta nationalpark.",
+      "category": "Klimat",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-drc-hippo-anthrax-kmtf/03int-drc-hippo-anthrax-kmtf-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others",
+      "summary": "Två helikoptrar har kolliderat i det populära turistområdet vid Mount Everest, vilket lett till dödsfall och svåra skador under högsäsongen för vandring.",
+      "why_it_matters": "Belyser säkerhetsriskerna med den ökande flygtrafiken i de känsliga Himalayas-områdena.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
+      "summary": "Spaniens transportminister **Óscar Puente** har lämnat sin post till följd av den svåra höghastighetstågolyckan som krävde tiotals människoliv.",
+      "why_it_matters": "Politiskt ansvarsutkrävande efter en av landets värsta transportkatastrofer på senare år.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-spain-train-crash-photo-gvlj/03int-spain-train-crash-photo-gvlj-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+      "summary": "Misstänkt sabotage mot en **undervattenskabel** i Östersjön har lett till att Nato för första gången sjösatt en samordnad svarsinsats för att skydda kritisk infrastruktur.",
+      "why_it_matters": "Markerar en upptrappning av Natos skydd av undervattensresurser i Östersjöregionen.",
+      "category": "Världen",
+      "source": "WSJ.com: World News",
+      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+      "summary": "Tysklands traditionella **exportdrivna ekonomiska modell** vacklar i takt med att Kina minskar sin import och hoten om amerikanska tullar ökar.",
+      "why_it_matters": "Hotar tillväxten i hela EU med tanke på Tysklands centrala roll i den europeiska ekonomin.",
+      "category": "Ekonomi",
+      "source": "WSJ.com: World News",
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "image_url": "",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+      "summary": "Utredningen kring flygolyckan med **Jeju Air** riktar in sig på motorskador orsakade av en fågelkollision i ett tidigt skede av flygningen.",
+      "why_it_matters": "Viktiga slutsatser för flygsäkerheten kring startprocedurer efter fågelkollisioner.",
+      "category": "Världen",
+      "source": "WSJ.com: World News",
+      "url": "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff",
       "image_url": "",
       "date": "2026-11-04"
     }
