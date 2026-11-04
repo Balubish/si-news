@@ -1,205 +1,206 @@
 {
-  "updated_at": "2026-11-03 23:06 UTC",
+  "updated_at": "2026-11-04 05:51 UTC",
   "articles": [
     {
-      "title": "Anthropic arbetar på ett system för att verifiera AI-modellers identitet",
-      "summary": "Systemet, som kallas FlashProve, gör det möjligt för vem som helst att kontrollera att ett **AI-svar** verkligen kommer från den specifika **modell** som påstås ha genererat det.",
-      "why_it_matters": "Kryptografisk verifiering av modellidentitet är avgörande för att förhindra spoofing och säkerställa tillförlitlighet i företagsapplikationer.",
+      "title": "Anthropic arbetar på ett system för att bevisa AI-modellernas identitet",
+      "summary": "Systemet, som kallas FlashProve, gör det möjligt för vem som helst att kontrollera att ett **AI-svar** verkligen kommer från den **modell** som det påstår sig komma ifrån.",
+      "why_it_matters": "Kryptografisk verifiering av AI-utdata är avgörande för att motverka missbruk och verifiera autenticitet i automatiserade system.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Datorhallar vänder sig till gamla jetmotorer i takt med att strömkön växer",
-      "summary": "Den långa väntetiden på elnätet och nya turbiner tvingar fram ovanliga och mindre miljövänliga lösningar, som att använda kasserade **jetmotorer** för att driva **datorhallar**.",
-      "why_it_matters": "Belyser den kritiska bristen på grön och stabil energiförsörjning som hotar den fortsatta storskaliga utbyggnaden av AI-infrastruktur.",
+      "title": "Datorhallar vänder sig till gamla jetmotorer i takt med att energibristen växer",
+      "summary": "Den utdragna väntetiden på elnätet får byggare av **datorhallar** att använda uttjänta och mindre effektiva **jetmotorer** för att täcka det enorma energibehovet.",
+      "why_it_matters": "Illustrerar den kritiska flaskhalsen av elförsörjning som AI-infrastrukturen står inför, vilket driver fram okonventionella och mindre miljövänliga lösningar.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "AI-inferencesstartups Fal dubblar värderingen till 16 miljarder dollar när efterfrågan ökar",
-      "summary": "Det fem år gamla företaget har säkrat en finansieringsrunda på 1,3 miljarder dollar ledd av Bessemer, vilket understryker den enorma boomen för **AI-inferences**.",
-      "why_it_matters": "Visar att marknadens fokus flyttas mot exekvering och driftsättning av färdiga modeller i realtid snarare än enbart träning.",
+      "title": "AI-inferencesstartupsen Fal dubblar värderingen till 16 miljarder dollar när efterfrågan ökar",
+      "summary": "Det fem år gamla företaget har tagit in en jätterunda på 1,3 miljarder dollar ledd av Bessemer i skuggan av den massiva efterfrågan på **AI-inferences**.",
+      "why_it_matters": "Visar på det enorma kapitalflödet till infrastruktur för exekvering av AI-modeller, snarare än bara träning.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Anthropic kämpar fortfarande med ekonomin kring beräkningskraft",
-      "summary": "Trots att marginalerna för **beräkningskraft** borde förbättras för **Anthropic**, rör de sig i motsatt riktning på grund av de höga kostnaderna.",
-      "why_it_matters": "Understryker de extrema ekonomiska utmaningarna med att skala upp moderna LLM-arkitekturer.",
+      "title": "Anthropic kämpar fortfarande med beräkningsekonomin",
+      "summary": "Trots att **Anthropics** marginaler för beräkningskraft borde förbättras i takt med skalningen, rör de sig åt fel håll.",
+      "why_it_matters": "Belyser de stenhårda ekonomiska realiteterna och marginalpressen som tynger även de ledande aktörerna inom foundationmodeller.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Google låter skolor inaktivera AI-verktyg, men till priset av söktjänsten",
-      "summary": "Skolor som väljer att blockera **Google**s nya **AI-verktyg** helt och hållet förlorar samtidigt tillgången till själva sökmotorn eftersom funktionerna är djupt integrerade.",
-      "why_it_matters": "Ett tydligt exempel på hur techjättar bakar in generativ AI i grundläggande infrastruktur utan enkla avstängningsmekanismer.",
+      "title": "Apple begränsar dejtingappar och AI-kompisar till användare över 18 år",
+      "summary": "App Stores nya regler kräver 18-årsgräns för dejtingappar och **AI-kompisar** som erbjuder sexuellt eller romantiskt innehåll.",
+      "why_it_matters": "Ett viktigt regulatoriskt steg från Apple för att hantera riskerna med psykologiskt bindande och generativa **AI-följeslagare**.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-up/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Apple begränsar dejtingappar och AI-följeslagare till användare över 18 år",
-      "summary": "Nya App Store-regler kräver 18-årsgräns för dejtingappar och **AI-följeslagare** som erbjuder sexuellt eller **romantiskt innehåll**.",
-      "why_it_matters": "Visar på ökad regulatorisk och plattformsrelaterad granskning av emotionella och virtuella relationer med AI.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "image_url": "",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "Apple Watch testar AI-funktioner för att spola tillbaka och sammanfatta konversationer",
-      "summary": "De nya **Audio Intelligence**-funktionerna för **Apple Watch** befinner sig nu i betafas och hjälper användare att komma ihåg samtal.",
-      "why_it_matters": "Edge-baserad röst- och samtalsanal direkt på bärbar hårdvara markerar nästa steg för personliga kontextuella assistenter.",
+      "title": "Apple Watch testar nya AI-funktioner för att spola tillbaka och sammanfatta samtal",
+      "summary": "Apples nya funktioner inom **Audio Intelligence** rullar ut i betaversion för att hjälpa användare att minnas konversationer och anteckna automatiskt.",
+      "why_it_matters": "Demonstrerar hur on-device AI integreras djupare i wearables för kontextuell minnesförstärkning.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-conversations-begin-beta-testing/",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Y Combinators Garry Tan spenderar upp till 200 000 dollar om året på AI-agenters tokens",
-      "summary": "Garry Tan har öppet berättat om sin omfattande användning av autonoma **AI-agenter** och de enorma kostnaderna för **LLM-tokens** som krävs.",
-      "why_it_matters": "Illustrerar hur tidiga tech-profiler redan använder autonoma agenter i stor skala för dagligt arbete och utveckling.",
-      "category": "LLM & Modeller",
+      "title": "Y Combinators Garry Tan lägger upp till 200 000 dollar om året på tokens till AI-agenter",
+      "summary": "Garry Tan har öppet berättat om sin intensiva användning av autonoma **AI-agenter** i det dagliga arbetet och de enorma kostnaderna för **tokens**.",
+      "why_it_matters": "Visar hur tidiga tech-profiler börjar använda agensbaserade system i stor skala för daglig produktivitetsförstärkning.",
+      "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Trajectory tar in 45 miljoner dollar för att göra AI-modellträning tillgänglig för icke-tekniska expertroller",
-      "summary": "Startupsatsningen värderas till 300 miljoner dollar och fokuserar på att förenkla **modellträning** så att **domänexperter** kan bygga egna modeller.",
-      "why_it_matters": "Demokratiseringen av finjustering (fine-tuning) gör att domänspecifik AI kan utvecklas utan tunga maskininlärningsteam.",
+      "title": "Trajectory tar in 45 miljoner dollar för att göra AI-modellträning tillgänglig för icke-tekniska experter",
+      "summary": "Startupbolaget värderas till 300 miljoner dollar efter sin senaste runda för verktyg som förenklar finjustering av **AI-modeller**.",
+      "why_it_matters": "Demokratiseringen av modellträning gör att domänexperter utan djup programmeringsbakgrund kan anpassa AI för specifika nischer.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Anthropic varnar för att de är mycket nära RSI-kapacitet, det vill säga självbyggande AI",
-      "summary": "**RSI** (Recursive Self-Improvement) inträffar när en **AI** blir så skicklig på att träna sig själv att det leder till en exponentiell acceleration av kapaciteten.",
-      "why_it_matters": "Självförbättrande system utgör en central milstolpe på vägen mot AGI, vilket väcker intensiva säkerhetsdebatter.",
+      "title": "Anthropic varnar för att de är mycket nära RSI-kapacitet, det vill säga själubyggande AI",
+      "summary": "**RSI** (rekursiv självförbättring) innebär att en AI blir så bra på att träna sig själv att det leder till en dramatisk och okontrollerbar acceleration av **AI-kapacitet**.",
+      "why_it_matters": "En milstolpe mot AGI där mänsklig inblandning i modellutvecklingen riskerar att bli överflödig, vilket väcker djupa etiska och säkerhetsmässiga frågor.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "New York Times och andra stämmer webbläsaren Brave för påstådd scraping av innehåll",
-      "summary": "Stämningen riktar sig mot **Brave** för olaglig insamling och distribution av **upphovsrättsskyddat innehåll** till aktörer som Anthropic och Perplexity.",
-      "why_it_matters": "Konflikten kring webbläsarmedierad datainsamling för AI-träning drar nu in nya aktörer i de rättsliga tvisterna.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-for-alleged-content-scraping/",
-      "image_url": "",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "42AI lanserar världsledande modell med 62,5 miljoner dollar för att förutsäga mänskligt beteende",
-      "summary": "Företaget kliver ur hemlighållandet med en **världsmodell** som kan **förutsäga mänskliga handlingar** i helt nya situationer.",
-      "why_it_matters": "Avancerade världsmodeller är fundamentala för att ge AI en djupare förståelse för fysikaliska och sociala kontexter.",
+      "title": "42AI lanserar världsledande modell som kan förutsäga mänskligt beteende",
+      "summary": "Bolaget kliver ur hemligheten med 62,5 miljoner dollar i ryggen och en avancerad **världsmodell** som kan förutse mänskliga handlingar i nya situationer.",
+      "why_it_matters": "Flyttar gränserna för vad prediktiva system kan åstadkomma genom att simulera och förutse komplexa mänskliga beteendemönster.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
       "image_url": "",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Binance uppger att hackare planerade kryptostöld på 6,3 miljarder dollar via AI-verktyg",
-      "summary": "En månader lång kampanj med falska anställningsintervjuer utnyttjade en ingenjörs **arbetsdator** och ett internt **AI-verktyg** för att genomföra kuppen.",
-      "why_it_matters": "Visar hur sofistikerade hotaktörer använder AI och social ingenjörskonst för att tränga igenom företags it-miljöer.",
+      "title": "Binance beskriver månadslång kupp där hackare utnyttjade interna AI-verktyg",
+      "summary": "Enligt en rapport från kryptobörsen Binance utnyttjades fiktiva jobbintervjuer för att äventyra en ingenjörs arbetsdator och ett internt **AI-verktyg** vid en attack värd miljarder.",
+      "why_it_matters": "Visar hur sofistikerade hotaktörer integrerar AI och social ingenjörskonst för att tränga igenom företagens interna skydd.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
       "image_url": "https://static01.nyt.com/images/2026/11/03/business/03biz-binance-sub/03biz-binance-sub-mediumSquareAt3X.jpg",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "OpenAI och Anthropic inrättar 'lägesrum' för att bekämpa desinformation inför valen",
-      "summary": "Ledande **AI-företag** har inrättat gemensamma **war rooms** för att skydda demokratiska processer från desinformation och manipulerat innehåll.",
-      "why_it_matters": "Branschens samordnade försvar mot valpåverkan visar på ett ökat ansvarstagande kring generativ AI:s samhällspåverkan.",
+      "title": "Google stänger av sökfunktionen för skolor som blockerar AI",
+      "summary": "Skolor som väljer att helt förbjuda **Google**s AI-verktyg förlorar samtidigt tillgången till sökmotorn eftersom AI-funktionerna nu är djupt integrerade.",
+      "why_it_matters": "Ett aggressivt drag som visar hur Big Tech tvingar institutioner att acceptera AI-integration genom att bunta ihop kärntjänster.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04-nat-google-schools-print/03nat-google-schools-cfkb-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "OpenAI och Anthropic inrättar 'krigsrum' för att bekämpa desinformation inför valen",
+      "summary": "Ledande **AI-företag** har etablerat samordnade insatser för att skydda demokratiska val mot syntetisk manipulation och falska narrativ.",
+      "why_it_matters": "Speglar den akuta nödvändigheten av proaktiv övervakning och branschsamarbete för att skydda demokratiska processer från generativ AI-missbruk.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
       "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
       "title": "Marvell och Lumentum tillkännager jätteaffär på 115 miljarder dollar driven av AI-boomen",
-      "summary": "Sammanslagningen är en storskalig satsning på **optisk nätverksteknik** som blir allt viktigare i moderna **AI-datorhallar**.",
-      "why_it_matters": "Optiska nätverk är avgörande för att hantera den enorma datatrafiken mellan tusentals GPU:er i datacenter.",
+      "summary": "Företagen går samman i en storskalig satsning på **optisk nätverksteknik**, som blir allt viktigare för att binda samman moderna **AI-datahallar**.",
+      "why_it_matters": "Efterfrågan på snabbare datatransport mellan chip driver historiska konsolideringar och jätteaffärer inom hårdvarusektorn.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
       "image_url": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-marvell-zmhv/02biz-marvell-zmhv-mediumSquareAt3X.jpg",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Husdemokrater kritiserar justitiedepartementets stöd för OpenAI i upphovsrättstvist",
-      "summary": "Toppdemokrater i rättsväsendets utskott har i ett **domstolsinlag** uttryckt sitt stöd för **förlagen** i den pågående upphovsrättsprocessen.",
-      "why_it_matters": "Politisk inblandning i AI-relaterade upphovsrättsfrågor kan få stor betydelse för hur träningsdata regleras framöver.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-openai-filing-bkvf/30biz-openai-filing-bkvf-mediumSquareAt3X.jpg",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "Den kinesiska uppstarten utvecklar enhet med AI och lasrar för att eliminera myggor",
-      "summary": "En ny **enhet** använder **artificiell intelligens** och riktade lasrar för att döda skadedjur med säkerhetsspärrar för omgivningen.",
-      "why_it_matters": "Visar på bredden av edge-AI i fysiska hårdvaruenheter för autonoma miljö- och säkerhetsapplikationer.",
-      "category": "AI-Hårdvara",
+      "title": "Kinesisk startup lanserar enhet som använder AI och lasrar för att döda myggor",
+      "summary": "En ny autonom **AI-enhet** spårar och eliminerar skadedjur med laserprecision, även om säkerhetsfrågor kring närliggande organismer kvarstår.",
+      "why_it_matters": "Ett fascinerande exempel på edge-AI och datorseende som tillämpas på fysiska konsumentprodukter utanför skärmen.",
+      "category": "Humanoid Robotik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
       "image_url": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Intels aktie rasar efter att AI-boomen påverkat delar av pc-marknaden negativt",
-      "summary": "**Chiptillverkaren** rapporterar att AI-omställningen skapat störningar i efterfrågan från traditionella **pc-tillverkare**.",
-      "why_it_matters": "Belyser de ojämnheter och omställningsproblem som traditionella hårdvarutillverkare möter i skuggan av AI-investeringarna.",
+      "title": "Intels aktie rasar med 20 % då AI-boomen förändrar efterfrågan på PC-marknaden",
+      "summary": "Chiptillverkaren rapporterar att strukturella förändringar till följd av **AI-skiftet** har hämmat försäljningen till traditionella PC-tillverkare.",
+      "previous_summary": "Visa på hur de traditionella halvledarjättarna kämpar med att ställa om sina affärsmodeller i takt med att marknadens fokus skiftar mot acceleratorkretsar.",
+      "why_it_matters": "Visar på hur hårdvarumarknaden skakas om när kapitalet omfördelas från traditionella processorer till dedikerad AI-hårdvara.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
       "image_url": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-intel-earnings-1-vcjt/29biz-intel-earnings-1-vcjt-mediumSquareAt3X.jpg",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Google och Apple uppdaterar karttjänsterna med integrerad AI-navigering",
-      "summary": "De nya uppdateringarna i **Google Maps** och **Apple Maps** använder avancerad artificiell intelligens för att optimera ruttplanering och reseguider.",
-      "why_it_matters": "AI-drivna kartor integrerar realtidsdata och generativa rekommendationer för att förbättra vardaglig navigation.",
+      "title": "Big Techs datacenter-offensiv bränner miljarder och skrämmer Wall Street",
+      "summary": "Teknikjättarna fortsätter att pumpa in enorma summor i **infrastruktur** för generativ AI, vilket oroar investerare kring avkastningen.",
+      "why_it_matters": "Kapitalinvesteringarna i AI-beräkningskraft når historiska nivåer, vilket sätter press på att affärsmodellerna ska leverera finansiella resultat.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Karttjänster uppdateras med avancerad AI för bättre ruttplanering",
+      "summary": "Både Google Maps och Apple Maps integrerar nu mer sofistikerad **artificifik intelligens** för att förbättra navigation och reseguider.",
+      "why_it_matters": "Visar hur konsumentinriktad mjukvara kontinuerligt uppgraderas med LLM- och agent-liknande funktioner för att förstå naturligt språk i navigering.",
       "category": "LLM & Modeller",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/10/29/technology/personaltech/apple-google-maps-features.html",
       "image_url": "https://static01.nyt.com/images/2026/10/28/technology/personaltech/28BIZ-TECHTIP-TOP/28BIZ-TECHTIP-TOP-mediumSquareAt3X.jpg",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
-      "title": "Netflix lanserar AI Discover-flik för att matcha filmval efter humör",
-      "summary": "Den nya experimentella funktionen i **Netflix** låter användare få skräddarsydda rekommendationer baserat på deras nuvarande **sinnesstämning**.",
-      "why_it_matters": "Ett tydligt exempel på hur generativa rekommendationsmotorer skapar mer intuitiva och dynamiska användargränssnitt.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "image_url": "",
-      "date": "2026-11-03"
+      "title": "Anthropic jagar beräkningskraft genom aggressiva avtal",
+      "summary": "Företaget har ingått en rad avtal med datacenteroperatörer och före detta kryptomining-bolag för att säkra tillgången på **beräkningskapacitet**.",
+      "why_it_matters": "Bristen på tillgänglig energi och GPU-resurser tvingar AI-labb att tänka helt banbrytande kring hur de bygger upp sin fysiska infrastruktur.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/29/business/00anthropic-compute/00anthropic-compute-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "San Franciscos AI-boom gör första dejten till en anställningsintervju",
+      "summary": "Inom **techscenen** i San Francisco har det hektiska tempot i AI-industrin börjat prägla det sociala livet, där effektivitet prioriteras framför traditionell romans.",
+      "why_it_matters": "Ger en kulturell inblick i hur den hyperintensiva utvecklingen av AGI och startups skapar nya samhällsnormer i tech-hubbarna.",
+      "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/31/multimedia/31BIZ-SF-DATING-1-04-mwjv/31BIZ-SF-DATING-1-04-mwjv-mediumSquareAt3X.jpg",
+      "date": "2026-11-04"
     }
   ]
 }
