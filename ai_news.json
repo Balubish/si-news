@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 05:38 UTC",
+  "updated_at": "2026-11-08 13:07 UTC",
   "articles": [
     {
-      "title": "OpenAI sägs ta in ytterligare 11 miljarder dollar till värdering på 1,25 biljoner dollar",
-      "summary": "AI-jätten **OpenAI** uppges ha säkrat ytterligare 11 miljarder dollar i nytt kapital inför slutförandet av sin senaste finansieringsrunda. Investeringen värderar bolaget till svindlande 1,25 biljoner dollar, vilket understryker marknadens tro på fortsatt exponentiell tillväxt.",
-      "why_it_matters": "En värdering i biljonklassen ger OpenAI enorma finansiella muskler att fortsätta finansiera kapitalkrävande träningskluster och säkra beräkningskapacitet för nästa generations gränsmodeller.",
+      "title": "OpenAI säkrar ytterligare 11 miljarder dollar till rekordvärdering på 1,25 biljoner",
+      "summary": "AI-jätten **OpenAI** har enligt uppgifter tagit in ytterligare 11 miljarder dollar i en pågående finansieringsrunda. Investeringen värderar bolaget till svindlande 1,25 biljoner dollar och väntas stänga inom de kommande veckorna.",
+      "why_it_matters": "Kapitalinjektionen cementerar OpenAI:s ledarposition i kapplöpningen mot AGI och ger de finansiella muskler som krävs för nästa generations träningskluster.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
@@ -12,9 +12,9 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Marvell och Lumentum går samman i megaaffär värd 115 miljarder dollar driven av AI-boomen",
-      "summary": "Halvledar- och optikbolagen **Marvell** och **Lumentum** slås samman i en affär värd 115 miljarder dollar för att skala upp optisk nätverksteknik. Sammanslagningen adresserar de akuta flaskhalsar inom bandbredd och energiförbrukning som uppstår när hyperskaliga datacenter tränar storskaliga modeller.",
-      "why_it_matters": "Optiska sammankopplingar (co-packaged optics och optical interconnects) blir helt avgörande för att skala kluster till miljontals acceleratorer utan att energinätet havererar.",
+      "title": "Marvell och Lumentum går samman i jätteaffär värd 115 miljarder dollar",
+      "summary": "Halvledarbolaget **Marvell** och optikspecialisten **Lumentum** slås samman i en affär värd 115 miljarder dollar för att skala upp optiska nätverk. Transaktionen drivs helt av det massiva behovet av snabbare dataöverföring i storskaliga datacenter för artificiell intelligens.",
+      "why_it_matters": "När AI-kluster växer blir dataöverföring mellan beräkningsnoder den primära flaskhalsen, vilket gör optisk sammankoppling till kritisk infrastruktur.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
@@ -22,19 +22,9 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Physicl tar in 10 miljoner dollar för att lösa sim-to-real-klyftan för robotik",
-      "summary": "Startupbolaget **Physicl** har tagit in 10 miljoner dollar för att utveckla syntetiska träningsmiljöer med fotorealistisk och fysiskt korrekt simulation. Målet är att bryta det så kallade sim-to-real-gapet, där **humanoida robotar** ofta misslyckas med att överföra färdigheter från digitala miljöer till verkligheten.",
-      "why_it_matters": "Att kunna träna grundmodeller för robotik i högpresterande simulationer minskar behovet av långsam och dyr teleoperation i den fysiska världen.",
-      "category": "Humanoid Robotik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "image_url": "",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "Bakom kulisserna: Anthropics intensiva jakt på beräkningskraft",
-      "summary": "AI-labbet **Anthropic** har slutit en rad aggressiva avtal med molnjättar och tidigare kryptogrävare för att lägga beslag på datacenterkapacitet. Jakten på elektricitet och GPU-kluster drivs av kapplöpningen att träna nästa generations **Claude**-modeller.",
-      "why_it_matters": "Tillgång till dedikerad energi och infrastruktur i gigawatt-skala har blivit den enskilt mest avgörande barriären för vem som når AGI först.",
+      "title": "Insyn i Anthropics aggressiva jakt på beräkningskapacitet",
+      "summary": "AI-labbet bakom Claude, **Anthropic**, har genomfört en rad offensiva avtal med molnjättar och tidigare kryptoutvinnare för att säkra massiv beräkningskraft. Jakten på hårdvara sker parallellt med att bolaget positionerar sig inför en potentiell börsnotering.",
+      "why_it_matters": "Tillgång till garanterad beräkningskraft och energi är idag den enskilt mest avgörande faktorn för att kunna träna ledande frontier-modeller.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
@@ -42,9 +32,19 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Axiom Math bekämpar AI-hallucinationer med formell verifiering i matematik",
-      "summary": "Startupen **Axiom Math** utvecklar autonoma AI-agenter som framgångsrikt har formellt verifierat Stacks Project, ett av matematikens mest komplexa bibliotek. Genom att integrera **formella bevisverktyg** med LLM:er minimeras risken för matematiska hallucinationer och felaktiga beviskedjor.",
-      "why_it_matters": "Formell verifiering är nyckeln till att göra neurala nätverk pålitliga inom strikt vetenskap och hårdvarudesign, där hallucinerade slutsatser inte tolereras.",
+      "title": "Physicl tar in 10 miljoner dollar för att lösa sim-to-real-gapet inom robotik",
+      "summary": "Startupbolaget **Physicl** har säkrat 10 miljoner dollar för att bygga mer realistiska virtuella miljöer för träning av fysiska agenter. Plattformen överbryggar det så kallade **sim-to-real**-gapet så att robotar snabbare kan omsätta digital träning till fysiska miljöer.",
+      "why_it_matters": "Syntetisk data och fysiksimulering i realtid är avgörande för att skala upp grundmodeller för humanoida robotar utan riskfylld och långsam fysisk datainsamling.",
+      "category": "Humanoid Robotik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "image_url": "",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Axiom Math verifierar formella matematiska bevis med AI-agenter",
+      "summary": "Startupen **Axiom Math** utvecklar specialiserade AI-agenter för att eliminera hallucinationer och felaktiga bevis inom avancerad matematik. Systemet har nyligen genomfört en formell verifiering av **Stacks Project**, ett av matematikvärldens mest omfattande referensverk.",
+      "why_it_matters": "Formell bevisverifiering banar väg för deterministiska resonemangsförmågor i frontier-modeller, vilket är ett kritiskt steg mot tillförlitlig AGI.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
@@ -52,69 +52,9 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Underrättelserapporter pekar ut spionageförsök mot Nvidias vd Jensen Huang",
-      "summary": "Ett amerikanskt underrättelsememo avslöjar att Kinas ministerium för statssäkerhet försökt rekrytera en högt uppsatt branschchef för att spionera på **Nvidia** och vd Jensen Huang. Händelsen belyser det geopolitiska kriget kring avancerade **AI-halvledare** och immateriella rättigheter.",
-      "why_it_matters": "Den strategiska dominansen hos ledande AI-chiparkitekturer gör bolagsledningar och hårdvaruspecifikationer till primära måltavlor för statligt industrispionage.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "image_url": "",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "OpenAI släpper specialiserad cybersäkerhetsmodell för att skydda infrastruktur",
-      "summary": "**OpenAI** har lanserat en ny modell optimerad för defensiv cybersäkerhet och kodgranskning av kritisk digital infrastruktur. Lanseringen sker samtidigt som ledande labb möter hårdare krav på att säkerställa att modeller inte kan användas för autonoma cyberattacker.",
-      "why_it_matters": "När LLM-baserade angreppsverktyg blir mer sofistikerade måste försvarsmodeller ligga steget före med automatiserad upptäckt och isolering av nolldagssårbarheter.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "image_url": "",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "Data från Ramp visar avstannande AI-utgifter samtidigt som Anthropic närmar sig börsnotering",
-      "summary": "Företagsdata visar att användningen av språkmodeller ökar markant, men att de faktiska utgifterna stagnerar på grund av prissänkningar och effektivare slutledning. Denna marginalpress uppstår samtidigt som **Anthropic** förbereder sig för en potentiell börsintroduktion.",
-      "why_it_matters": "Aggressiva prissänkningar på API-tokens och lokala modeller sätter press på intäktsmultiplarna för modellbyggare trots att den reella adoptionen slår rekord.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "image_url": "",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "Claude introducerar verktyg för privatekonomi med direkt bankkoppling",
-      "summary": "Användare av **Claude** kan nu integrera sina bankkonton via Plaid för att låta modellen analysera transaktionsdata och ge privatekonomisk rådgivning. Verktyget från **Anthropic** demonstrerar avancerad strukturerad dataanalys och resonemangsförmåga i realtid.",
-      "why_it_matters": "Visar hur LLM:er rör sig från isolerade chattgränssnitt mot djupt integrerade agenter med tillgång till känsliga personuppgifter och externa API-anrop.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "image_url": "",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "Palo Alto Networks i samtal om att förvärva säkerhetsbolaget Clutch för 500 miljoner dollar",
-      "summary": "Cybersäkerhetsjätten **Palo Alto Networks** förhandlar om att köpa uppstartsföretaget Clutch, som utvecklar skyddsmekanismer för autonoma **AI-agenter**. Bolaget värderades tidigare till 85 miljoner dollar och affären markerar en våg av konsolidering inom agentsäkerhet.",
-      "why_it_matters": "När agenter får mandat att utföra åtgärder via externa verktyg uppstår helt nya attackytor i form av indirekt 'prompt injection' och privilegieeskalering.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "image_url": "",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "Meta lanserar Spaces: Nytt samarbetsläge för autonoma Muse-agenter",
-      "summary": "**Meta** bygger ut sitt ekosystem med plattformen Spaces, där användare kan interagera med sin **Muse**-agent i realtid. Tjänsten fungerar som en persistent samarbetsyta designad för att hantera komplexa flerdelade projekt och kontinuerliga arbetsflöden.",
-      "why_it_matters": "Skiftet från tillfälliga chattfönster till permanenta samarbetsytor är ett grundkrav för att autonoma AI-agenter ska bli effektiva i produktion.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "image_url": "",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "Underdog visar upp ultrakompakt röstmodell på endast 32 megabyte",
-      "summary": "Teknikbolaget Underdog har demonstrerat en ny multimodal modell på bara 32 MB som kan generera både tal och musik med minimal fördröjning. Den minimala vikten gör att modellen kan köras helt lokalt på **edge-enheter** utan behov av molnbaserad **inferens**.",
-      "why_it_matters": "Extrem komprimering och destillering av röstmodeller möjliggör omedelbar, privat ljudsyntes på mikrokontrollers och wearables utan nätverkslatens.",
+      "title": "Underdog demonstrerar ultrakompakt röst- och musikmodell på endast 32 MB",
+      "summary": "AI-bolaget **Underdog** har presenterat en banbrytande multimodal modell som ryms på blott 32 megabyte. Trots den extrema komprimeringen klarar modellen av att syntetisera både högkvalitativt tal och komplex musik lokalt.",
+      "why_it_matters": "Visar att drastisk modellkomprimering och effektiv arkitektur gör det möjligt att köra avancerad generativ AI på strömsnåla edge-enheter och mikrokontrollers.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
@@ -122,9 +62,59 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Google tar över krisdrabbat datacenterprojekt i Wyoming från Crusoe",
-      "summary": "**Google** har förvärvat ett massivt datacenterbygge från Crusoe i Wyoming, ett projekt som drabbats av infrastrukturella och finansiella hinder. Affären illustrerar de massiva utmaningarna och kapitalkraven för att färdigställa nästa generations anläggningar för **AI-infrastruktur**.",
-      "why_it_matters": "Hyperskalarna tvingas ta över direkta bygg- och energiprojekt för att säkerställa att tidsplanerna för gigawatt-anläggningar inte försenas.",
+      "title": "OpenAI lanserar ny specialmodell för cybersäkerhet",
+      "summary": "**OpenAI** har rullat ut en dedikerad **cybersäkerhetsmodell** utformad för att identifiera sårbarheter och skydda kritisk digital infrastruktur. Lanseringen möts dock av diskussioner kring huruvida defensiva modeller hinner hålla jämna steg med automatiserade cyberhot.",
+      "why_it_matters": "Specialiserade resonemangsmodeller inom cybersäkerhet blir nödvändiga för att automatisera intrångsdetektering i takt med att autonoma attackskript sprids.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "image_url": "",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Claude introducerar privatekonomisk analys via Plaid-integration",
+      "summary": "Anthropic har lanserat funktionen Personal Finance i **Claude**, vilket låter användare koppla sina bankkonton och betalkort via **Plaid**. Modellen kan därefter köra djupgående analyser av utgiftsmönster och besvara komplexa privatekonomiska frågor.",
+      "why_it_matters": "Ett tydligt kliv mot vertikala, agentbaserade konsumentverktyg där LLM-system ges direkt behörighet till känslig finansiell telemetri.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "image_url": "",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Data från Ramp visar avstannande AI-utgifter trots ökad användning",
+      "summary": "Statistik från finanstjänsten Ramp visar att företags utgifter för artificiell intelligens har planat ut, trots att den faktiska användningen fortsätter öka. Prissänkningar på inferens och effektivare modellval utmanar tillväxtantagandena samtidigt som **Anthropic** förbereder sin börsintroduktion.",
+      "why_it_matters": "Inferenskostnader sjunker snabbt tack vare optimeringar, vilket sätter press på modellutvecklarnas marginaler och intäktsmodeller.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "image_url": "",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Palo Alto Networks i samtal om att förvärva agentsäkerhetsbolaget Clutch för 500 miljoner dollar",
+      "summary": "Cybersäkerhetsjätten förhandlar om ett förvärv av startupen **Clutch**, som specialiserat sig på säkerhetslager för autonoma **AI-agenter**. Bolaget värderades senast till 85 miljoner dollar men kan nu köpas för en halv miljard.",
+      "why_it_matters": "När autonoma agenter integreras djupt i företags IT-miljöer uppstår helt nya attackytor som kräver dedikerade säkerhets- och behörighetslösningar.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "image_url": "",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Underrättelserapport: Kinesisk spionrekrytering riktad mot Nvidias vd",
+      "summary": "Enligt ett amerikanskt underrättelsememo ska Kinas ministerium för statssäkerhet ha försökt rekrytera en chef vid bolaget Megaspeed för att spionera på **Nvidia** och dess vd **Jensen Huang**. Målet uppges ha varit känslig teknisk och strategisk information kring nästa generations AI-hårdvara.",
+      "why_it_matters": "Understryker hur avancerade grafikprocessorer och AI-arkitekturer nu utgör själva kärnan i geopolitiska och statliga spionagekonflikter.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "image_url": "",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Crusoe säljer problemtyngt datacenterprojekt till Google",
+      "summary": "Infrastrukturbolaget Crusoe har sålt sitt stora datacenterprojekt i Wyoming till **Google** efter omfattande lokala och tekniska utmaningar. Affären belyser de eskalerande svårigheterna med att driftsätta massiv energi- och nätverkskapacitet för träningskluster.",
+      "why_it_matters": "Elförsörjning och nätanslutning har blivit den största fysiska flaskhalsen för vidare skalning av framtida AI-modeller.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -132,9 +122,29 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Greg Brockman: OpenAI kan vara redo för börsintroduktion redan 2027",
-      "summary": "Vid en teknikkonferens deklarerade **OpenAI**:s medgrundare Greg Brockman att bolaget siktar på att vara redo för en börsnotering år 2027. Företaget ökar sitt fokus på företagsmarknaden för att möta konkurrensen från rivalen **Anthropic**.",
-      "why_it_matters": "En börsnotering tvingar OpenAI att öppna böckerna och redovisa de faktiska tränings- och beräkningskostnaderna bakom frontier-modellerna.",
+      "title": "Meta introducerar Spaces för samarbete med Muse-agenter",
+      "summary": "**Meta** har avtäckt Spaces, en ny samarbetsmiljö utvecklad för deras autonoma assistent **Muse**. Funktionen ska göra det möjligt för flera användare och agenter att samskapa och hantera komplexa arbetsflöden i ett enhetligt gränssnitt.",
+      "why_it_matters": "Markerar övergången från traditionella en-till-en-chattar till distribuerade multiagent-miljöer för företags- och teamarbete.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "image_url": "",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Meta lanserar videosamtal med animerade AI-avatarer i USA",
+      "summary": "Användare i USA kan nu ringa interaktiva videosamtal direkt till **Metas** AI-assistent **Muse**, som representeras av en anpassningsbar animerad avatar. Lanseringen sker inför introduktionen av en dedikerad bärbar hårdvaruenhet utformad för personlig AI-interaktion.",
+      "why_it_matters": "Realistisk realtidsgenerering av mimik och tal i dubbelriktade samtal är ett stort steg mot heltäckande multimodala personliga assistenter.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "image_url": "",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "OpenAI:s ordförande Greg Brockman: Företaget kan vara redo för börsen 2027",
+      "summary": "Under en teknikkonferens uppgav **OpenAI**:s medgrundare **Greg Brockman** att bolaget siktar på att vara redo för en börsnotering kring 2027. Han lyfte samtidigt fram hur organisationen snabbt vinner mark inom enterpriseresursplanering gentemot konkurrenten Anthropic.",
+      "why_it_matters": "En börsnotering i denna skala skulle radikalt förändra kraven på transparens, företagsstyrning och säkerhetsrapportering för ledande AGI-forskning.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
@@ -142,9 +152,9 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Hundratals servrar med AI-intrångsverktyget Artex exponerade på det öppna nätet",
-      "summary": "Säkerhetsforskare har upptäckt hundratals oskyddade servrar som kör det autonoma penetrationsverktyget **Artex**. Den öppna exponeringen innebär att obehöriga aktörer haft fri tillgång till automatiserade verktyg kapabla att utföra **AI-drivna cyberattacker**.",
-      "why_it_matters": "När sofistikerade offensiva AI-verktyg läcker ut raderas tröskeln för att genomföra storskaliga, intelligenta nätverksintrång.",
+      "title": "Hundratals autonoma AI-penetrationstestverktyg exponerade på öppna webben",
+      "summary": "Säkerhetsforskare har upptäckt hundratals servrar med AI-verktyget **Artex** helt oskyddade mot internet. Verktyget, som är designat för automatiserade intrångstester, ger vem som helst tillgång till avancerade attackmekanismer.",
+      "why_it_matters": "Läckor av autonoma offensiva AI-verktyg sänker tröskeln drastiskt för sofistikerade och storskaliga cyberattacker mot känslig infrastruktur.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
@@ -152,19 +162,19 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Politiskt motstånd mot datacenter hotar utbyggnaden av AI-infrastruktur",
-      "summary": "**Meta** och flera andra aktörer varnar för att växande lokalt och politiskt motstånd efter mellanårsvalen i USA riskerar att bromsa nya gigawatt-projekt. Väljare röstade igenom restriktioner i 40 av 41 lokala folkomröstningar, vilket skapar akuta flaskhalsar för **AI-beräkningskraft**.",
-      "why_it_matters": "Det primära hindret för skalning av AI-modeller förflyttas från kisel- och GPU-brist till lokalt folkligt motstånd mot el- och vattenförbrukning.",
+      "title": "Kongressledamöter kallar Jensen Huang till slutet säkerhetsförhör",
+      "summary": "Ledare i USA:s representanthus har kallat **Nvidias** vd **Jensen Huang** till ett slutet möte rörande nationell säkerhet. Utfrågningen följer rapporter om potentiellt läckage av kritisk halvledarteknik till kinesiska aktörer.",
+      "why_it_matters": "Politisk press och exportrestriktioner kring ledande AI-acceleratorer riskerar att rita om hela den globala leverantörskedjan för avancerad hårdvara.",
       "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "image_url": "",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-jensen-congress-gwjh/05biz-jensen-congress-gwjh-mediumSquareAt3X.jpg",
       "date": "2026-11-08"
     },
     {
-      "title": "Föräldrar stämmer Google efter AI-säkerhetsbrister på Chromebooks i skolor",
-      "summary": "En stämningsansökan mot **Google** hävdar att en elev planerade att ta sitt liv efter konversationer med en integrerad **AI-assistent** på en skoldator. Fallet ökar pressen på teknikjättarna kring hur säkerhetsfilter och skyddsbarriärer hanteras för unga användare.",
-      "why_it_matters": "Regulatorer och domstolar granskar nu AI-modellernas empatiska och manipulativa effekter, vilket kan leda till strikta krav på 'safety fine-tuning' i konsumentprodukter.",
+      "title": "Google stäms efter allvarliga säkerhetsbrister i skolornas AI-system",
+      "summary": "Föräldrar har stämt **Google** efter att en elev planerade självskada efter interaktioner med bolagets generativa **AI-modeller** på en skoldator. Stämningen pekar på akuta brister i skyddsbarriärer och säkerhetsfilter när AI implementeras i utbildningsmiljöer.",
+      "why_it_matters": "Aktualiserar nödvändigheten av robust alignerande och striktare säkerhetsutvärderingar innan LLM-gränssnitt görs tillgängliga för minderåriga.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
@@ -172,33 +182,23 @@
       "date": "2026-11-08"
     },
     {
-      "title": "Microsoft erbjuder avgångsvederlag till 60 000 anställda i strategisk AI-omställning",
-      "summary": "I takt med att **Microsoft** investerar tiotals miljarder dollar i generativ AI har bolaget erbjudit frivilliga avgångspaket till runt 60 000 anställda. Beslutet återspeglar en drastisk omallokering av humankapital mot **autonom mjukvaruutveckling** och beräkningsinfrastruktur.",
-      "why_it_matters": "Big Tech omstrukturerar hela organisationer för att frigöra marginaler till massiva GPU-investeringar och AI-styrd automatisering av traditionell programmering.",
-      "category": "AGI & Forskning",
+      "title": "Valresultat i USA bromsar AI-expansion: Folkomröstningar stoppar datacenter",
+      "summary": "I samband med det amerikanska mellanårsvalet röstade väljare i 40 av 41 lokala folkomröstningar för hårdare restriktioner mot utbyggnaden av storskaliga **datacenter**. Den växande oron för elnätets stabilitet och vattenförbrukning skapar nu en politisk motvind för AI-kluster.",
+      "why_it_matters": "Lokalt motstånd mot kraftkrävande infrastruktur kan tvinga teknikbolagen att ompröva geografisk lokalisering och energieffektivitet för framtida beräkningsanläggningar.",
+      "category": "AI-Hårdvara",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/07/business/06biz-microsoft-employees-SUB/06biz-microsoft-employees-SUB-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ai-bluewave-sign-jgwf/04biz-ai-bluewave-sign-jgwf-mediumSquareAt3X.jpg",
       "date": "2026-11-08"
     },
     {
-      "title": "Dario Amodeis filosofi: Balansen mellan AGI-optimism och existentiell säkerhet",
-      "summary": "En djupdykning i **Anthropic**-vd:n Dario Amodeis syn på säker skalning av gränsmodeller belyser konflikten mellan teknisk acceleration och existentiella risker. Amodei betonar behovet av mekanistisk tolkningsbarhet (interpretability) innan **superintelligens** uppnås.",
-      "why_it_matters": "Förståelsen för neurala nätverks inre representationer är central för att undvika bedräglig anpassning ('deceptive alignment') i framtida AGI-system.",
-      "category": "AGI & Forskning",
+      "title": "Binance avslöjar intrångsförsök på 6,3 miljarder dollar via internt AI-verktyg",
+      "summary": "Kryptobörsen **Binance** har offentliggjort detaljer kring en månadslång attackkampanj där hackare utnyttjade en ingenjörs dator och ett internt **AI-system** för att förbereda en stöld värd 6,3 miljarder dollar. Angriparna använde avancerad social manipulation i kombination med automatiserad kodgenerering.",
+      "why_it_matters": "Demonstrerar hur interna AI-verktyg med systemaccess kan manipuleras av angripare för att eskalera privilegier och kompromettera kritisk finansiell infrastruktur.",
+      "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "Meta rullar ut videosamtal med animerade AI-avatarer för Muse",
-      "summary": "**Meta** har aktiverat videosamtal i realtid där användare interagerar med anpassningsbara 3D-avatarer drivna av **Muse**-modellen. Funktionen lägger grunden för företagets planerade hårdvarulansering av kroppsburna AI-följeslagare.",
-      "why_it_matters": "Multimodal interaktion i realtid via läppsynkade avatarer minskar den kognitiva friktionen i människa-dator-interaktion och förbereder ekosystemet för nästa generations AI-glasögon.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "image_url": "",
+      "url": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/03/business/03biz-binance-sub/03biz-binance-sub-mediumSquareAt3X.jpg",
       "date": "2026-11-08"
     }
   ]
