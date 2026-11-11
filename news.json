@@ -1,411 +1,410 @@
 {
-  "updated_at": "2026-11-10 01:23 UTC",
+  "updated_at": "2026-11-11 05:43 UTC",
   "executive_briefing": [
-    "Teknikjätten Nvidia skakas av en internationell skandal efter misstankar om spioneri kopplat till vd:n Jensen Huang.",
-    "Frankrike pekar ut Iran som ansvarigt för en omfattande cyberattack mot kylsystem i hundratals matbutiker.",
-    "Nya fredssamtal om Ukraina planeras att återupptas i Abu Dhabi under veckan med amerikansk medling."
+    "Säkerhetsläget i Europa tillspetsas efter drönarlarm i Baltikum, Natos stridsflygsinsatser och gripandet av en amerikansk soldat i Storbritannien misstänkt för spionage åt Ryssland.",
+    "Den svenska inrikespolitiken går på högvarv inför en stundande statsministeromröstning, samtidigt som ett avslöjande från Uppdrag granskning om imamer och månggifte väcker stark debatt.",
+    "I USA har representanthuset avvärjt ett försök att ställa försvarsminister Pete Hegseth inför riksrätt, samtidigt som Nvidia skakas av en internutredning kring misstänkt spionage mot vd:n."
   ],
   "articles": [
     {
-      "title": "Bookerpriset tilldelas M John Harrison",
-      "summary": "Den engelskspråkiga världens mest prestigefulla litterära utmärkelse, **Bookerpriset**, går till den brittiske författaren M John Harrison för hans postapokalyptiska roman ”The end of everything”.",
-      "why_it_matters": "Priset uppmärksammar årets främsta skönlitterära verk och sätter ljuset på samtida science fiction.",
-      "category": "Kultur",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/kultur/bookerpriset-till-m-john-harrison",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Ida Gabrielsson pressad om Vänsterpartiets ministerkrav",
-      "summary": "I en intervju i Aktuellt pressas **Ida Gabrielsson** (V) om partiets tidigare krav på ministerposter, vilket väckt debatt kring om partiet är redo att förhandla om regeringsfrågan.",
-      "why_it_matters": "Ger insyn i det parlamentariska spelet och eventuella politiska omprövningar inför framtida regeringsbildningar.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/ida-gabrielsson-pressas-om-ministerkravet-har-diskuterats",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Nvidia och vd:n skakas av spionskandal",
-      "summary": "En otrohetsaffär med misstänkta spionkopplingar har placerat teknikjätten **Nvidia** och vd:n **Jensen Huang** i centrum för en internationell kris som fått aktien att rasa.",
-      "why_it_matters": "Hotar en av den globala AI-industrins absolut viktigaste aktörer och kan få långtgående marknadskonsekvenser.",
-      "category": "Teknik",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/de-stora-fragorna-efter-skandalen-kring-nvidia",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Iran utpekas för hackerattack mot franska kylar",
-      "summary": "Frankrikes utrikesminister uppger att **Iran** låg bakom en omfattande cyberattack som slog ut kylar och frysar i matbutiker i landet och förstörde stora mängder mat.",
-      "why_it_matters": "Visar på sårbarheten i kritisk infrastruktur och eskalerar de geopolitiska spänningarna mellan länderna.",
+      "title": "Drönarlarm i Baltikum – Nato skickade upp stridsflyg",
+      "summary": "Flera drönarlarm utlöstes under tisdagskvällen och natten i Litauen och Lettland, vilket ledde till att invånare uppmanades söka skydd. **Nato** svarade genom att skicka upp stridsflygplan och aktivera luftförsvaret längs gränsen.",
+      "why_it_matters": "Händelsen visar hur säkerhetsläget i Östersjöregionen förblir extremt spänt och hur snabbt incidenter vid gränsen kan eskalera.",
       "category": "Världen",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/iran-pekas-ut-efter-hackerattack-mot-kylar-i-franken",
+      "url": "https://www.svt.se/nyheter/utrikes/flyglarm-vid-belarusgransen-invanare-i-lettland-uppmanas-soka-skydd",
       "image_url": "",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     },
     {
-      "title": "Vindkraftshaveri utanför Norberg – blad förstört",
-      "summary": "Ett propellerblad har skadats på ett **vindkraftverk** norr om Hökmora utanför Norberg, och orsaken till olyckan är för närvarande oklar.",
-      "why_it_matters": "Lyfter frågor kring driftsäkerhet och underhåll inom den växande vindkraftssektorn.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/vindkraftshaveri-utanfor-norberg-propellerblad-sonder",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Statsvetare: Vänsterpartiet kan överge regeringskrav",
-      "summary": "Trots att **Vänsterpartiet** hävdat att regeringskravet är fastslaget av en kongress, menar statsvetare som Jenny Madestam att partiet troligen kan komma att ompröva ståndpunkten.",
-      "why_it_matters": "Belyser dynamiken i svensk inrikespolitik och hur partier kan tvingas kompromissa i regeringsfrågan.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/statsvetare-da-kan-v-overge-regeringsregeringskravet",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Misstanke om djurplågeri i gällivarehärva",
-      "summary": "Den omfattande **tjuvjaktshärvan** söder om Gällivare utökas nu med misstankar om djurplågeri efter att skadade djur lämnats utan avlivning.",
-      "why_it_matters": "Skärper brottsrubriceringen i ett redan uppmärksammat fall av grov illegal jakt.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/misstanke-om-djurplageri-i-tjuvjaktsharvan-i-gallivare",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Kärnkraften utanför det nya styret i Valdemarsvik",
-      "summary": "Det nya minoritetsstyret bestående av M, C och KD i **Valdemarsvik** har presenterat sitt samarbete där den lokala kärnkraftsfrågan har lämnats utanför.",
-      "why_it_matters": "Visar hur lokala politiska koalitioner väljer att hantera kontroversiella energifrågor för att nå en överenskommelse.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/karnkraften-ingen-fraga-for-det-nya-minoritetsstyret-i-valdemarsvik",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Nytt pensionsavtal på plats för svensk arbetsmarknad",
-      "summary": "Svenskt Näringsliv, LO och PTK har nått en överenskommelse om avtalspension, försäkringar och omställning, vilket fackförbunden beskriver som en stor framgång.",
-      "why_it_matters": "Avtalet berör miljontals löntagare och sätter spelreglerna för trygghetssystemen på arbetsmarknaden.",
-      "category": "Ekonomi",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/nytt-pensionsavtal-klart",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Trump ifrågasätter resultatet i amerikanska mellanårsvalet",
-      "summary": "USA:s president **Donald Trump** riktar nya tvivel på sociala medier kring hur ärligt det egentligen gick till i Demokraternas stora valseger i mellanårsvalet.",
-      "why_it_matters": "Fortsätter att så misstro mot demokratiska institutioner och valresultat i USA.",
+      "title": "Amerikansk elitsoldat gripen i Storbritannien för ryskt spionage",
+      "summary": "En 41-årig amerikansk soldat har gripits i London efter en gemensam utredning av brittisk polis, FBI och amerikanska försvaret. Han misstänks för allvarliga brott mot den nationella säkerheten genom att ha spionerat för **Ryssland**.",
+      "why_it_matters": "Ett misstänkt ryskt spionnätverk inom Natos egna styrkor utgör ett allvarligt hot mot västliga underrättelser och militära hemligheter.",
       "category": "Världen",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/utrikes/trump-ifragasatter-resultatet-i-mellanarsvalet",
-      "image_url": "",
-      "date": "2026-11-10"
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
     },
     {
-      "title": "Hotellbedragare greps efter turné i Norrland",
-      "summary": "Ett par som misstänks ha levt lyxliv på hotell runt om i Norrland utan att betala för sig har gripits av polisen i **Sundsvall** efter att ha lämnat omfattande springnotor.",
-      "why_it_matters": "Sätter stopp för en utbredd serie bedrägerier mot besöksnäringen i norra Sverige.",
+      "title": "Avslöjande: Svenska imamer erbjuder hjälp med olagligt månggifte",
+      "summary": "Ett gräv från SVT:s Uppdrag granskning avslöjar att imamer vid flera stora moskéer i Sverige erbjuder sig att hjälpa män att ingå **månggifte** eller förmedlar kontakter för att genomföra vigslarna. Detta sker trots att flergifte är förbjudet i svensk lag.",
+      "why_it_matters": "Granskningen sätter ljuset på parallella rättsstrukturer och väntas få stora politiska efterspel kring trossamfundens roll och tillsyn.",
       "category": "Sverige",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/par-misstanks-ha-blast-hotell-i-hela-norrland-greps-i-sundsvall",
+      "url": "https://www.svt.se/nyheter/granskning/ug/avslojar-har-erbjuder-imamerna-hjalp-med-manggifte",
       "image_url": "",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     },
     {
-      "title": "Man åtalad för stöld av trafikljus i Södertälje",
-      "summary": "Med hjälp av en gps-sändare kunde polisen spåra ett stulet **trafikljus** till ett lägenhetsförråd i Södertälje där det skulle användas som heminredning.",
-      "why_it_matters": "Ett ovanligt stöldärende som illustrerar hur modern spårningsteknik hjälper polisen att lösa brott.",
+      "title": "Regeringsbildningen går på högvarv – omröstning kan ske nästa vecka",
+      "summary": "Efter flera veckors stiltje går processen kring den svenska regeringsbildningen nu in i ett avgörande skede. M-ledaren **Ulf Kristersson** ska rapportera sitt sonderingsuppdrag till talmannen på tisdag, vilket öppnar för en statsministeromröstning i slutet av nästa vecka.",
+      "why_it_matters": "Avgörandet avgör Sveriges politiska ledning och stabilitet under den kommande mandatperioden.",
       "category": "Sverige",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/stal-trafikljus-for-att-ha-som-dekoration-i-hemmet",
+      "url": "https://www.svt.se/nyheter/inrikes/regeringsfragan-kan-avgoras-redan-nasta-vecka",
       "image_url": "",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     },
     {
-      "title": "Misstänkt dataläcka hos SAS – över 350 000 drabbade",
-      "summary": "En omfattande **dataläcka** hos **SAS** har anmälts till Integritetsskyddsmyndigheten där över 350 000 resenärers bokningsuppgifter kan ha röjts.",
-      "why_it_matters": "Belyser de fortsatta cyberhoten mot flygbranschen och risken för att känsliga kunduppgifter hamnar på villovägar.",
+      "title": "Representanthuset blockerar riksrättsförsök mot Pete Hegseth",
+      "summary": "USA:s representanthus har röstat ner ett försök att ställa försvarsminister **Pete Hegseth** inför riksrätt. Hegseth själv kallade anklagelserna för en politisk fars och sabotage mot administrationen.",
+      "why_it_matters": "Försöket belyser de djupa sprickorna i Washington och det intensiva motståndet mot Trumps kontroversiella regeringsutnämningar.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Nvidia anlitar toppadvokater efter misstänkt kinesisk spionaffär",
+      "summary": "Halvledarjätten Nvidia har anlitat en ledande amerikansk advokatbyrå för att utreda uppgifter om att vd **Jensen Huang** haft en affär med en kvinna misstänkt för att arbeta för kinesisk underrättelsetjänst. Även FBI har inlett en granskning.",
+      "why_it_matters": "Nvidia tillverkar världens mest eftertraktade AI-chip, och en potentiell spionläcka hotar USA:s teknologiska övertag mot Kina.",
       "category": "Teknik",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/misstankt-datalacka-hos-sas-over-350-000-bokningsuppgifter-kan-ha-rojts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     },
     {
-      "title": "Therese Johaug siktar på extrem maratondebut",
-      "summary": "Den norska skidstjärnan **Therese Johaug** har satt upp en minst sagt extraordinär målsättning inför sin kommande elitsatsning i maraton.",
-      "why_it_matters_text": "Visar på elitidrottares drivkrafter att söka nya utmaningar efter avslutade karriärer inom sina paradgrenar.",
-      "why_it_matters": "Visar på elitidrottares drivkrafter att söka nya utmaningar efter avslutade karriärer inom sina paradgrenar.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/friidrott/svt-sport-avslojar-det-har-ar-therese-johaugs-galna-malsattning-i-maratondebuten",
-      "image_url": "",
-      "date": "2026-11-10"
+      "title": "Ryska tidningen Novaja Gazeta läggs ner permanent",
+      "summary": "Efter över 30 års oberoende journalistik tvingas den nobelprisbelönade tidningen **Novaja Gazeta** stänga för gott i Ryssland. Redaktionen konstaterar att den ryska regimens systematiska censur och förföljelse gjort fortsatt drift omöjlig.",
+      "why_it_matters": "Nedläggningen markerar slutet på en era och innebär att en av de sista oberoende rösterna inifrån Ryssland nu tystats helt.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/10/world/europe/10vid-russia-newspaper-cover-image/10vid-russia-newspaper-cover-image-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
     },
     {
-      "title": "Obemannade undervattensdrönare testas vid Gotland",
-      "summary": "Försvarets materielverk testar nya obemannade farkoster med mikrofoner utanför **Gotland** för att förbättra undervattensövervakningen.",
-      "why_it_matters": "Förstärker Sveriges marina försvarsförmåga i Östersjön med avancerad teknik.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/obemannade-undervattensdronare-testas-vid-gotland",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Kallare luft drar in – risk för snö i veckan",
-      "summary": "Meteorologerna varnar för att säsongens första **snö** nu står för dörren när markant kallare luft rör sig ner över stora delar av Sverige.",
-      "why_it_matters": "Markerar en tydlig väderomställning som påverkar trafik och vardag för många svenskar.",
-      "category": "Klimat",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/kallare-luft-over-sverige-sno-kan-komma-i-veckan",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Svensk regering vill inkludera Esrange i EU:s satellitsystem",
-      "summary": "Regeringen vill att rymdbasen **Esrange** utanför Kiruna blir en del av EU:s nya gemensamma satellitkommunikationssystem som alternativ till kommersiella aktörer.",
-      "why_it_matters": "Lyfter svensk rymdfartsstrategi och dess roll för EU:s säkerhet och oberoende infrastruktur.",
-      "category": "Teknik",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-kan-esrange-bli-en-del-eus-framtida-satellitsystem",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Haveriutredning av vårdens journalsystem presenterad",
-      "summary": "Regeringens utredning kring de kostsamma och misslyckade införandena av nya **journalsystem** har nu överlämnats av E-hälsomyndigheten.",
-      "why_it_matters": "Kastar ljus över systemkrisen inom svensk sjukvård och pekar på brister i offentlig it-upphandling.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/inrikes/haveriutredning-av-journalsystemen-klar",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Spelinspektionen reagerar efter SVT:s granskning",
-      "summary": "Efter upprepade tips om olicensierad marknadsföring reagerar nu **Spelinspektionen** på SVT:s granskning av det omtalade reklamimperiet i Kristianstad.",
-      "why_it_matters": "Kan leda till skärpta kontroller och ingripanden mot misstänkt olaglig spelreklam.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/skane/spelinspektionen-reagerar-pa-svts-granskning-valdigt-intressant",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Svenska landslaget i intern skyttetävling",
-      "summary": "SVT Sport har samlat skidskyttestjärnorna för att kora landets snabbaste skytt i en prestigefylld intern kamp på vallen.",
-      "why_it_matters": "Ger publiken en underhållande försmak av formen hos de svenska stjärnorna inför vinterns tävlingar.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/skidskytte/har-gor-svenska-landslaget-upp-i-skyttetavling",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Fler våldtäktsanmälningar mot tidigare dömd läkare",
-      "summary": "Den läkaresom tidigare dömts till fängelse för flera våldtäkter mot patienter i Uppsala och Stockholm möts nu av ytterligare två brottsanklagelser.",
-      "why_it_matters": "Utökar omfattningen av ett av de mest uppmärksammade övergreppsfallen inom svensk sjukvård.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/uppsala/nya-valdtaktsanmalningar-mot-den-domde-lakaren",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Fiskvirus tvingar fram personalnedskärningar i Vilhelmina",
-      "summary": "Efter ett utbrott av det smittsamma viruset **IPN** i en fiskodling tvingas Umlax i Vilhelmina säga upp personal inom fiskförädlingen.",
-      "why_it_matters": "Ett dråpslag mot lokal industri och arbetstillfällen på glesbygden till följd av djursjukdomar.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/anstallda-pa-umlax-tvingas-sluta-efter-utbrottet-av-fiskvirus-katastrof",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Två häktade efter dödsfall i Norrköping",
-      "summary": "Två personer har begärts och häktats på sannolika skäl misstänkta för det **mord** som inträffade i centrala Norrköping för en vecka sedan.",
-      "why_it_matters": "Ett viktigt steg i polisens utredningsarbete för att klara upp grov våldsbrottslighet.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/tva-haktas-misstankta-for-mord-i-norrkoping",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Professor tonar ned reaktionerna kring skogsköp i Härjedalen",
-      "summary": "Kritiken mot Palantir-vd:n Alex Karps stora markköp i Härjedalen är överdriven, menar skogsprofessorn Vilis Brukas, som jämför med svenska bolags innehav i Baltikum.",
-      "why_it_matters": "Nyanserar debatten om utländska investeringar och ägande av svensk skog.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/professorn-om-karps-markkop-i-harjedalen-en-droppe-i-havet-jamfort-med-svenskt-skogsagande-i-baltikum",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Ukraine peace talks resume with 'some flexibility'",
-      "summary": "Delegations from **Kyiv**, Washington and Moscow are meeting in the United Arab Emirates for trilateral talks aimed at finding a diplomatic path forward.",
-      "why_it_matters": "Represents a rare diplomatic milestone in ongoing efforts to resolve the conflict.",
+      "title": "Första dagen av fredssamtal om Ukraina i UAE kallas konstruktiv",
+      "summary": "Delegationer från Kyjiv, Washington och Moskva har mötts i Förenade arabemiraten för de första trilaterala fredssamtalen sedan i februari. President **Volodymyr Zelenskyj** beskrev den inledande förhandlingsdagen som konstruktiv.",
+      "why_it_matters": "Mötet är det mest konkreta försöket på flera månader att hitta en diplomatisk väg ut ur det utdragna kriget.",
       "category": "Världen",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     },
     {
-      "title": "Epstein associate under fire from abuse survivor",
-      "summary": "An abuse survivor has come forward accusing a model agency boss tied to **Jeffrey Epstein** of sending vulnerable women into dangerous situations.",
-      "why_it_matters": "Håller uppmärksamheten levande kring nätverken som underlättade övergreppen.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Republican congressman pushes to impeach Defense Secretary Hegseth",
-      "summary": "In an effort to preempt Democrats, a Republican representative is forcing an impeachment vote against Defense Secretary **Pete Hegseth**.",
-      "why_it_matters": "Indikerar interna slitningar och politiskt taktiskt spel inom den amerikanska kongressen.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "summary": "En av Rysslands sista oberoende tidningar tvingas stänga ner efter att ha vräkts från sina lokaler och blockerats från att ta emot donationer.",
-      "why_it_matters": "Ett tungt slag mot yttrandefriheten och den fria journalistiken i Ryssland.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Turkey steel factory explosion kills 17",
-      "summary": "At least 17 people have been killed following a massive blast at a **steel factory** in western Turkey, causing panic in surrounding areas.",
-      "why_it_matters": "En tragisk industriolycka som krävt många människoliv och väcker frågor om säkerheten.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Dozens dead in migrant boat tragedy off Senegal",
-      "summary": "At least 39 migrants have died after a Europe-bound boat capsized off the coast of **Senegal** along the perilous Atlantic route.",
-      "why_it_matters": "Understryker den pågående humanitära krisen för migranter som försöker nå Kanarieöarna.",
+      "title": "Israels nya parlament svärs in – oppositionen utmanar Netanyahu",
+      "summary": "Dussintals nya ledamöter har svurits in i Knesset där oppositionen, ledd av **Gadi Eisenkot**, nu har en majoritet. Oppositionen driver omedelbart på för en oberoende haverikommission kring attackerna den 7 oktober.",
+      "why_it_matters": "Maktskiftet i det israeliska parlamentet kan innebära slutet för Benjamin Netanyahus regering och förändra krigsstrategin i Mellanöstern.",
       "category": "Världen",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-senegal-migrants-02-tvqp/09int-senegal-migrants-02-tvqp-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
+      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
     },
     {
-      "title": "Mass killing in Poland fuels political polarization",
-      "summary": "A horrific mass shooting in Krakow has sparked an intense political blame game between the Polish government and the **opposition**.",
-      "why_it_matters": "Visar hur tragiska våldsdåd snabbt utnyttjas i det politiska debattklimatet.",
+      "title": "Jämställdhetsminister Nina Larsson opererad för bröstcancer",
+      "summary": "Jämställdhetsminister **Nina Larsson** (L) har opererats efter att ha drabbats av bröstcancer. Tumören upptäcktes kort efter valet och ministern har nu valt att berätta öppet om ingreppet.",
+      "why_it_matters": "Beskedet berör regeringens interna arbetsfördelning och väcker uppmärksamhet kring tidig cancerdiagnostik.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/ministern-har-opererats-for-brostcancer",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "NCSC slår larm: Sverige har flest sårbara iot-enheter i Norden",
+      "summary": "Nationellt cybersäkerhetscenter varnar för att tusentals svenska uppkopplade enheter ligger helt öppna och oskyddade mot internet. Enligt chefen **John Billow** sticker Sverige ut negativt i Norden när det gäller risker för cyberangrepp.",
+      "why_it_matters": "Bristfällig it-säkerhet i samhällskritiska eller privata nätverk öppnar dörren för storskaliga hackerattacker och sabotage.",
+      "category": "Teknik",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/ncsc-chefen-sverige-har-flest-sarbara-uppkopplade-enheter-i-norden",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Ryska attacker mot Kyjivs elnät tvingar familjer på flykt",
+      "summary": "Intensiva ryska attacker mot Ukrainas energiinfrastruktur hotar att utlösa en humanitär katastrof inför vintern. Allvarlig brist på el och vatten driver nu många invånare från **Kyjiv** ut på landsbygden i jakt på värme och skydd.",
+      "why_it_matters": "Rysslands systematiska bombningar av energiförsörjningen är ett försök att knäcka den ukrainska civilbefolkningens motståndskraft.",
+      "category": "Världen",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/de-lamnade-kyjiv-for-sakerhet-pa-landet-da-skakar-fonsterrutorna",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Pentagon utvärderar minskad amerikansk truppnärvaro i Europa",
+      "summary": "Det amerikanska försvarsdepartementet genomför en omfattande översyn av sina styrkor i Europa, vilket skapar osäkerhet bland arméförband stationerade i bland annat **Tyskland**. Diskussioner förs om betydande truppneddragningar.",
+      "why_it_matters": "En minskad amerikansk närvaro kan tvinga de europeiska Nato-länderna att snabbt ta ett mycket större ansvar för sitt eget försvar.",
       "category": "Världen",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-new2-pqvj/09int-poland-new2-pqvj-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
     },
     {
-      "title": "Germans look back at Merkel's era with mixed feelings",
-      "summary": "While citizens grapple with challenges to her political legacy, crowds continue to flock to see official portraits of former Chancellor **Angela Merkel**.",
-      "why_it_matters": "Speglar tyskarnas nostalgi och osäkerhet inför landets nuvarande politiska riktning.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X-v2.jpg",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Paraguayan president implicated in major bank collapse",
-      "summary": "Prosecutors accuse Paraguay's President **Santiago Peña** of funneling government funds into a bank that subsequently collapsed amid reckless insider loans.",
-      "why_it_matters": "En allvarlig korruptionshärva som hotar landets högsta ledning och finansiella stabilitet.",
+      "title": "FDA kräver varningstext för blindhet på Ozempic och Wegovy",
+      "summary": "Amerikanska läkemedelsverket FDA beordrar tillverkare av populära GLP-1-preparat som **Ozempic** och Wegovy att förse förpackningarna med varningar. Bakgrunden är risker för en sällsynt ögonsjukdom som kan leda till blindhet.",
+      "why_it_matters": "Det är ett hårt regulatoriskt bakslag för de globalt storsäljande diabetes- och viktminskningsläkemedlen.",
       "category": "Ekonomi",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
     },
     {
-      "title": "Pope Leo urges social justice during Argentina visit",
-      "summary": "During his visit to Buenos Aires, **Pope Leo XIV** delivered a clear message to libertarian President Milei that the economy must serve the needy.",
-      "why_it_matters": "Markerar en ideologisk spänning mellan kyrkans sociala doktrin och landets ekonomiska politik.",
+      "title": "Tre Iran-stödda män åtalas för attentatsplaner mot brittisk flygbas",
+      "summary": "USA:s justitiedepartement uppger att tre män med kopplingar till **Iran** har planerat en rad attacker, bland annat mot flygbasen RAF Fairford i Storbritannien som används av amerikanska styrkor.",
+      "why_it_matters": "Avslöjandet visar att Irans asymmetriska hotbild sträcker sig djupt in på europeisk mark och riktas mot västerländska militärbaser.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Intern splittring i Vita huset kring kriget mot Iran",
+      "summary": "Inom Trumps administration råder djup oenighet om hur kriget mot **Iran** ska avslutas. Samtidigt som utrikesminister Marco Rubio menar att storskaliga stridsinsatser inte längre krävs, väger Vita huset fortsatta flygräder mot diplomatiska öppningar.",
+      "why_it_matters": "Osäkerheten kring USA:s strategi riskerar att förlänga konflikten och destabilisera hela Mellanöstern.",
       "category": "Världen",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
+      "url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/02/multimedia/11int-theworld-iran-options-01-promo/11int-theworld-iran-options-01-promo-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
     },
     {
-      "title": "Armed group strikes back against US-backed forces in Colombia",
-      "summary": "The ELN rebel group launched a drone attack against a Colombian military base following joint counter-narcotics operations.",
-      "why_it_matters": "Visar på väpnade gruppers fortsatta förmåga att utföra attacker trots militära påtryckningar.",
+      "title": "Jimmie Åkesson: SD vill vara ett oppositionsparti i mitten",
+      "summary": "Sverigedemokraternas partiledare **Jimmie Åkesson** slår fast att partiet är berett att förhandla om sakpolitik med både höger och vänster utan att ingå budgetsamarbete i förväg.",
+      "why_it_matters": "SD:s förändrade strategi skakar om de traditionella blocken och kan helt rita om kartan för svensk regeringsbildning.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-vill-vara-oppositionsparti-i-mitten",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Stort underskott i Tingsryd – ledningen avgår i protest",
+      "summary": "En omstridd fastighetsaffär i Tingsryd skapar ett underskott på tio miljoner kronor för det kommunala bolaget Tufab. Affären har lett till att både bolagets vd och dess **styrelseordförande** har valt att lämna sina poster i protest.",
+      "why_it_matters": "Händelsen innebär en kännbar ekonomisk smäll för lokala skattebetalare och blottlägger allvarliga styrningsproblem i kommunen.",
+      "category": "Ekonomi",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/tingsryds-fastighetsaffar-small-for-skattebetalare-ordforande-och-vd-lamnade-i-protest",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Rapport varnar för enorm renoveringsskuld i äldre småhus",
+      "summary": "Ett omfattande generationsskifte pågår på villamarknaden i Sverige. En ny rapport visar att hundratusentals småhus har mycket stora eftersatta underhållsbehov, vilket innebär en tung ekonomisk **renoveringsskuld** för unga köpare.",
+      "why_it_matters": "Den finansiella belastningen riskerar att pressa hushållens ekonomi och påverka bostadspriserna negativt framöver.",
+      "category": "Ekonomi",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/generationsskiftet-hundratusentals-smahus-har-stora-renoveringsbehov",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Tre till sjukhus efter misstänkt grov mordbrand i Norrköping",
+      "summary": "En kraftig brand bröt ut i ett flerfamiljshus i Norrköping under natten och tre personer har förts till sjukhus. Polisen har spärrat av platsen och utreder händelsen som misstänkt **grov mordbrand**.",
+      "why_it_matters": "Allvarliga bostadsbränder i flerfamiljshus väcker stor lokal otrygghet och kräver omfattande polisiära insatser.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/brand-i-flerfamiljshus-i-norrkoping-boende-vittnar-om-smallar",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Palantir-vd:n förklarar sitt uppmärksammade skogsköp i Härjedalen",
+      "summary": "Techmiljardären **Alex Karp**, vd för dataanalysbolaget Palantir, har haft möte med Bergs kommun om sina omfattande markförvärv. Mötet gav lokala politiker svar på varför den amerikanske miljardären valt att investera i just Härjedalens skogar.",
+      "why_it_matters": "Utländska techprofilers uppköp av strategiska markområden i Sverige väcker säkerhetspolitiska och regionala frågor.",
+      "category": "Ekonomi",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Rättegången om BDX-härvan inledd – misstankar om 90 miljoner",
+      "summary": "Under tisdagen startade rättegången mot fem personer som anklagas för att ha svindlat transport- och anläggningsbolaget BDX på närmare 90 miljoner kronor. Åklagarsidan hävdar att det rör sig om ett mycket sofistikerat **bedrägeri**.",
+      "why_it_matters": "Målet är ett av de mest omfattande ekonomiska brottmålen i norra Sverige under senare år.",
+      "category": "Ekonomi",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/nsds-reporter-om-bdx-harvan-da-kommer-det-branna-till-ordentligt",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Tillslag mot Örnsköldsviks kommunhus – två anhållna för korruption",
+      "summary": "Polisen genomförde en razzia mot kommunhuset i Örnsköldsvik kopplat till en misstänkt mut- och bilhärva. Två personer har frihetsberövats och delgivits misstanke om **korruptionsbrott** av riksenheten mot korruption.",
+      "why_it_matters": "Tillslaget visar hur misstankar om oegentligheter i kommunal förvaltning tas på största allvar av rättsväsendet.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/bilharvan-i-ornskoldsvik-tva-anhallna",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "S kräver utfrågning av Spelinspektionen efter Casinodaddy-avslöjande",
+      "summary": "Efter SVT:s granskning om att nätprofiler tjänar miljoner på att göra reklam för illegala spelsajter kräver Socialdemokraterna svar. Partiet vill kalla **Spelinspektionen** till riksdagens kulturutskott för att förklara varför anmälningar lagts på hög.",
+      "why_it_matters": "Frågan belyser kryphål i spellagstiftningen och brister i myndigheternas tillsyn över olicensierade nätkasinon.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/efter-svts-granskning-s-vill-kalla-spelinspektionen-till-kulturutskottet",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Skarp kritik mot bristande katastrofhjälp efter översvämningar i Gaza",
+      "summary": "Svåra stormar och översvämningar har förstört flyktingläger i Gaza och krävt flera människoliv. Det internationella fredsrådet 'Board of Peace' riktar nu ovanligt skarp kritik mot **Israel** för att inte släppa fram tillräckligt med nödhjälp.",
+      "why_it_matters": "Den humanitära situationen i det hårt drabbade området förvärras kraftigt av vinterns inträde.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-gaza-floods-01-tgqc/10int-gaza-floods-01-tgqc-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Malaysias dömde ex-ledare Najib Razak släpps till husarrest",
+      "summary": "Den tidigare premiärministern **Najib Razak**, som dömdes till fängelse för sin roll i den gigantiska 1MDB-skandalen där miljarder förskingrades, får nu avtjäna resten av sitt straff i sin lyxvilla under husarrest.",
+      "why_it_matters": "Beslutet väcker stark vrede bland antikorruptionsaktivister och ifrågasätter rättssäkerheten i Malaysia.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-malaysia-najib-01-vpcq/10int-malaysia-najib-01-vpcq-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Franska motståndshjälten Solange Alexandre är död",
+      "summary": "Den franska motståndskämpen **Solange Alexandre** har avlidit vid 104 års ålder. Under andra världskriget ledde hon 30 män i sabotageoperationer och skyddade allierade flygare mot den tyska ockupationsmakten.",
+      "why_it_matters": "En av de sista levande hjältarna från den franska motståndsrörelsen har gått ur tiden.",
+      "category": "Kultur",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Tolv döda i masskrock i tät dimma på bulgarisk motorväg",
+      "summary": "Minst tolv personer har omkommit och ett 50-tal skadats i en serie omfattande seriekrockar på Trakia-motorvägen i Bulgarien. Olyckan orsakades av extremt tät **dimma** som kraftigt begränsade sikten.",
+      "why_it_matters": "Olyckan är en av de dödligaste trafikkatastroferna i Europa i år och sätter fokus på trafiksäkerhet vid extrema väderförhållanden.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Kongressrapport: Federala myndigheter kunde ha stoppat Epstein",
+      "summary": "En 15 månader lång utredning ledd av en kongresskommitté slår fast att amerikanska myndigheter hade flera chanser att ingripa och förhindra finansmannen **Jeffrey Epsteins** sexualbrott mot unga flickor, men misslyckades.",
+      "why_it_matters": "Rapporten belyser grova systemfel och institutionell passivitet inom det amerikanska rättsväsendet.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Komikern David Walliams anklagas för allvarliga sexuella övergrepp",
+      "summary": "Flera kvinnor träder fram i brittiska medier och anklagar underhållaren och barnboksförfattaren **David Walliams** för sexuella övergrepp och trakasserier. Walliams, känd från 'Little Britain', förnekar alla anklagelser via sina advokater.",
+      "why_it_matters": "Skandalen skakar den brittiska nöjes- och förlagsvärlden där Walliams varit en av de största stjärnorna.",
+      "category": "Kultur",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-uk-celebrity-1-mlbj/00int-uk-celebrity-1-mlbj-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Polisrazzia på lyxhotellet Ritz i Paris efter anmälningar mot Al Fayed",
+      "summary": "Fransk polis har slagit till mot det anrika lyxhotellet Ritz i Paris och genomfört flera gripanden. Razzian är en del av den växande brottsutredningen kring den avlidne miljardären **Mohamed Al Fayed** och misstänkta sexualbrott.",
+      "why_it_matters": "Utredningen växer internationellt och kan avslöja ett decennielångt system av övergrepp som tystats ned av inflytelserika kretsar.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Polis död i explosion från misstänkt ryggsäck i Spanien",
+      "summary": "En spansk polis har omkommit och ytterligare en skadats svårt efter att en **ryggsäck** exploderat under ett insatsuppdrag vid ett bostadshus i norra Spanien. Myndigheterna utreder omständigheterna kring detonationen.",
+      "why_it_matters": "Dödliga sprängdåd mot polisstyrkor är mycket ovanliga i Spanien och har höjt beredskapen i landet.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Kongo dömer 66 soldater till döden för feghet vid fronten",
+      "summary": "En militärdomstol i Demokratiska republiken Kongo har dömt 66 egna soldater till döden för ordervägran och **feghet**. Landets armé kämpar mot svåra motgångar i striderna mot rebellgrupper i de östra provinserna.",
+      "why_it_matters": "De extrema domarna speglar paniken och den djupa krisen inom Kongos väpnade styrkor i kampen mot rebellerna.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "El Salvadors armé slår ut gänghögkvarter i Haiti",
+      "summary": "Militära styrkor från El Salvador, som satts in för att bistå mot gängvåldet i Haiti, har förstört högkvarteret för det fruktade **400 Mawozo**-gänget. Det meddelar El Salvadors president.",
+      "why_it_matters": "Insatsen visar en alltmer hårdhänt internationell strategi för att återta kontrollen över det anarkidrabbade Haiti.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Trinidad och Tobago river upp gamla lagar mot homosexualitet",
+      "summary": "Efter en elva år lång rättslig kamp har domstolen slutgiltigt upphävt de historiska lagar som kriminaliserat samkönat sex i **Trinidad och Tobago**. Beslutet ses som en historisk seger för mänskliga rättigheter i Karibien.",
+      "why_it_matters": "Domen sätter prejudikat för andra samväldsländer som fortfarande tillämpar gamla brittiska koloniallagar mot hbtq-personer.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Kennedy-släkten stämmer Trump för att stoppa planerad triumfbåge",
+      "summary": "Nio medlemmar av den politiska Kennedy-dynastin har lämnat in en stämningsansökan för att stoppa bygget av Donald Trumps planerade 75 meter höga triumfbåge. Familjen hävdar att monumentet kastar en oacceptabel skugga över **JFK:s grav**.",
+      "why_it_matters": "Konflikten är en personlig och symbolisk prestigestrid mellan USA:s mest kända politiska familj och Trump.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Australien skapar ny AI-tillsynsmyndighet efter dataintrång hos OpenAI",
+      "summary": "Australiens regering inrättar en ny tillsynsmyndighet för artificiell intelligens och överväger straffrättsliga påföljder för utvecklare. Beslutet fattas efter ett uppmärksammat säkerhetsintrång hos **OpenAI** som exponerade känslig data.",
+      "why_it_matters": "Det är ett av de mest långtgående stegen hittills av en västerländsk regering för att kriminalisera skadliga AI-modeller.",
+      "category": "Teknik",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-oz-ai-kcbj/10int-oz-ai-kcbj-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Syrien överväger att skicka trupp till Jemen för att stötta Saudiarabien",
+      "summary": "Syriska rekognoseringsstyrkor har besökt Saudiarabien och Jemen för att förbereda en möjlig truppinsats till stöd för den saudiska koalitionen mot **houthierna**. Ett slutgiltigt beslut väntas inom kort.",
+      "why_it_matters": "Ett syriskt deltagande markerar en dramatisk alliansförskjutning i Mellanöstern och stärker banden mellan Damaskus och Riyadh.",
       "category": "Världen",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
+      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
     },
     {
-      "title": "Train collision near Cairo results in casualties",
-      "summary": "A crash between passenger trains in Egypt has caused deaths and injuries, renewing scrutiny over rail safety despite modernization efforts.",
-      "why_it_matters": "Belyser kvarstående säkerhetsproblem inom landets omfattande järnvägsnät.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-egypt-traincrash-qztf/08int-egypt-traincrash-qztf-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Houthis hit Riyadh financial district with drone attack",
-      "summary": "Falling shrapnel damaged a Saudi Aramco tower in **Riyadh** after an attack claimed by Yemen's Houthi movement.",
-      "why_it_matters": "Visar att regionala konflikter fortsätter att hota viktiga ekonomiska mål i Gulfstaterna.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/08/world/08int-saudi-attack-fna/08int-saudi-attack-fna-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Over 3,000 tarantulas intercepted in Peru airport smuggling attempt",
-      "summary": "Peruvian authorities stopped three individuals attempting to smuggle thousands of live spiders, including threatened species, hidden in socks bound for Germany.",
-      "why_it_matters": "Ett extremt exempel på illegal djurhandel och bristen på skydd för hotade arter.",
-      "category": "Världen",
-      "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-spiders-04-wvlf/08xp-spiders-04-wvlf-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Delhi introduces 'green' fireworks to combat severe smog",
-      "summary": "Authorities in India's capital attempted to curb dangerous **air pollution** during Diwali by mandating environmentally friendlier pyrotechnics.",
-      "why_it_matters": "Belyser de desperata åtgärder som krävs för att hantera de extrema miljöproblemen i storstadsregionen.",
+      "title": "Skogsbränder och kvävande rök sänker stödet för Indonesiens president",
+      "summary": "Förtroendet för president Prabowo Subianto har rasat kraftigt i Indonesien efter regeringens oförmåga att kontrollera omfattande **skogsbränder**. Den giftiga röken har gjort ren luft till en bristvara i flera storstäder.",
+      "why_it_matters": "Klimatkrisen och miljöförstöringen i Sydostasien håller på att utvecklas till en akut politisk överlevnadsfråga för landets ledning.",
       "category": "Klimat",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
-      "image_url": "https://static01.nyt.com/images/2026/12/08/multimedia/08int-india-diwali-pollution-khqw/08int-india-diwali-pollution-khqw-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
+      "url": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-indonesia-discontent-01-mklq/00int-indonesia-discontent-01-mklq-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
     },
     {
-      "title": "ANC suffers historic defeat in South African local elections",
-      "summary": "The once-dominant **ANC** party has suffered major losses in local elections, fundamentally altering South Africa's political landscape.",
-      "why_it_matters": "Markerar slutet på en era för befrielseorganisationen och öppnar upp för en ny politisk verklighet.",
-      "category": "Världen",
+      "title": "Dakar välkomnar Ungdoms-OS 2026 – historisk milstolpe för Afrika",
+      "summary": "Gator och stränder i Senegal sjuder av idrottsglädje när landet står värd för **Ungdoms-OS 2026** i Dakar. Det är det allra första olympiska evenemanget som arrangeras på den afrikanska kontinenten.",
+      "why_it_matters": "Mästerskapet ses som ett historiskt genombrott för afrikansk idrott och stärker kontinentens förmåga att arrangera globala mega-evenemang.",
+      "category": "Sport",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-safrica-election-analysis-chqf/08int-safrica-election-analysis-chqf-mediumSquareAt3X.jpg",
-      "date": "2026-11-10"
+      "url": "https://www.nytimes.com/2026/11/11/world/africa/on-dakars-packed-beaches-africa-welcomes-its-first-youth-olympics.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-senegal-sports-6-wpvh/00int-senegal-sports-6-wpvh-mediumSquareAt3X.jpg",
+      "date": "2026-11-11"
     }
   ]
 }
