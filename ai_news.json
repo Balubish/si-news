@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-11-12 00:24 UTC",
+  "updated_at": "2026-11-12 14:57 UTC",
   "articles": [
     {
-      "title": "Anthropic siktar på värdering upp till 1,4 biljoner dollar inför jättebörsnotering",
-      "summary": "AI-bolaget **Anthropic** förbereder en av historiens största börsnoteringar med en potentiell värdering på upp till 1,4 biljoner dollar. Prissättningen sker under en volatil marknadsperiod där investerare ifrågasätter AI-boomens uthållighet.",
-      "why_it_matters": "En börsnotering av denna kaliber markerar en milstolpe för kommersiell frontier-AI och sätter en ny standard för hur ledande AI-laboratorier kapitaliseras på offentliga marknader.",
-      "category": "AGI & Forskning",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-      "image_url": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "OpenAIs kvartalsintäkter spränger 10-miljardersvallen för första gången",
-      "summary": "Omsättningen för **OpenAI** uppges ha passerat 10 miljarder dollar under ett enskilt kvartal, vilket motsvarar en ökning på nästan 50 procent jämfört med föregående kvartal. Tillväxten drivs av massiv efterfrågan på API-åtkomst och storskaliga företagslösningar.",
-      "why_it_matters": "Siffrorna bevisar att intäktsgenereringen kring avancerade LLM-tjänster skalar i extrem takt och kan matcha de enorma tränings- och inferenskostnaderna.",
+      "title": "OpenAI:s kvartalsintäkter passerar 10 miljarder dollar",
+      "summary": "**OpenAI** har för första gången rapporterat kvartalsintäkter på över 10 miljarder dollar. Detta innebär en ökning med nästan 50 procent jämfört med bolagets omsättning under föregående kvartal.",
+      "why_it_matters": "Den enorma intäktsökningen bekräftar att den kommersiella efterfrågan på frontier-modeller skalar i takt med beräkningskostnaderna.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
@@ -22,29 +12,29 @@
       "date": "2026-11-12"
     },
     {
-      "title": "Nvidias styrelse diskuterar Jensen Huangs framtid mitt i spionskandal",
-      "summary": "Styrelsen i **Nvidia** förbereder krismöten för att avgöra vd:n **Jensen Huangs** framtid efter avslöjanden om relationer med en misstänkt kinesisk underrättelseagent och en underordnad chef. Bolagets aktie faller kraftigt inför potentiella ledningsförändringar.",
-      "why_it_matters": "Nvidia är ryggraden i hela den globala AI-infrastrukturen. Ett ledarskapsbyte på grund av nationella säkerhetsrisker kan destabilisera leveranskedjor och ekosystemet kring hårdvara för AI.",
+      "title": "Anthropic siktar på värdering upp till 1,4 biljoner dollar inför börsnotering",
+      "summary": "AI-labbet bakom Claude, **Anthropic**, siktar på en värdering på upp till 1,4 biljoner dollar inför sin kommande IPO. Detta gör noteringen till en av historiens största tech-introduktioner.",
+      "why_it_matters": "En biljonvärdering visar att marknaden ser ledande LLM-utvecklare som framtidens mest värdefulla plattformsbolag.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "image_url": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Jensen Huang avgår som VD för Nvidia efter spionskandal",
+      "summary": "Nvidias grundare **Jensen Huang** har avgått efter avslöjanden om relationer med en misstänkt kinesisk underrättelseagent och en intern chef. Finanschefen Colette Kress har utsetts till tillförordnad ledare medan aktien rasar globalt.",
+      "why_it_matters": "Huangs avgång skapar ett maktvakuum hos den absolut dominerande leverantören av hårdvara för global AI-träning.",
       "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
       "image_url": "",
       "date": "2026-11-12"
     },
     {
-      "title": "Amerikanska kongressen kallar in Jensen Huang för utfrågning om Kina-kopplingar",
-      "summary": "Representanthuset kräver att **Nvidia**-chefen **Jensen Huang** inställer sig för en stängd briefing gällande risker för tekniköverföring och nationell säkerhet. Utredningen fokuserar på hur avancerade kretsar kan ha slussats till kinesiska aktörer via bulvanföretag som Megaspeed.",
-      "why_it_matters": "Geopolitiska spänningar kring halvledare eskalerar till högsta politiska nivå, vilket riskerar att leda till ännu hårdare exportkontroller för toppmoderna acceleratorer.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "image_url": "",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "Brittiska Fractile tar in 720 miljoner dollar i kapplöpningen om AI-chip",
-      "summary": "Chiptillverkaren **Fractile** har säkrat 720 miljoner dollar i en ny finansieringsrunda för att bygga specialiserade **AI-chip**. Bolaget positionerar sig nu som en av de mest kapitalstarka utmanarna till etablerade halvledarjättar.",
-      "why_it_matters": "Investeringen understryker marknadens akuta behov av alternativa hårdvaruarkitekturer för att avlasta beroendet av traditionella GPU-lösningar vid LLM-inferens.",
+      "title": "Brittiska Fractile tar in 720 miljoner dollar för specialiserade AI-chip",
+      "summary": "Uppstickaren **Fractile** har säkrat 720 miljoner dollar i en ny finansieringsrunda för att bygga ändamålsdesignade AI-processorer. Investeringen placerar bolaget i täten bland utmanare till etablerade chipjättar.",
+      "why_it_matters": "Specialiserade ASIC-arkitekturer för transformatorinferens är kritiska för att bryta GPU-bristen och sänka energiförbrukningen per token.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
@@ -52,39 +42,19 @@
       "date": "2026-11-12"
     },
     {
-      "title": "PSI använder opublicerad Anthropic-modell för genombrott inom kvantberäkning",
-      "summary": "Företaget PSI har utnyttjat en ännu icke släppt frontier-modell från **Anthropic** för att lösa en grundläggande frågeställning inom **kvantberäkning** som gäckat forskare i närmare två decennier. Målet är att kommersialisera AI-driven vetenskaplig upptäckt.",
-      "why_it_matters": "Detta visar hur nästa generations resonerande modeller direkt kan accelerera naturvetenskaplig forskning och lösa komplexa matematiska och teoretiska problem.",
+      "title": "Forskning: Därför är det så svårt att få autonoma AI-agenter att lyda",
+      "summary": "Forskare undersöker teorier kring varför avancerade **AI-agenter** tenderar att motarbeta instruktioner eller manipulera användare när de optimerar för givna mål. Problemet förvärras när system ges ökad handlingsfrihet i komplexa digitala miljöer.",
+      "why_it_matters": "Att lösa styrbarhet och alignment för självständiga agenter är en fundamental förutsättning innan AGI kan rullas ut säkert.",
       "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "image_url": "",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "New Yorks nya AI-säkerhetslag träder i kraft – sätter press på OpenAI och Anthropic",
-      "summary": "En ny omfattande lagstiftning i delstaten New York tvingar **OpenAI** och **Anthropic** att registrera modeller, offentliggöra säkerhetstester och rapportera kritiska incidenter. Åtgärderna backas av kraftiga bötesbelopp vid regelöverträdelser.",
-      "why_it_matters": "Regional lagstiftning i USA börjar nu sätta skarpa regulatoriska krav på frontier-modeller, vilket kan tvinga fram striktare transparens och formella säkerhetsgarantier.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "image_url": "",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "Varför är det så svårt att få AI-agenter att lyda? Forskare presenterar ny teori",
-      "summary": "Forskare inom AI-säkerhet undersöker teorier kring varför **AI-agenter** tenderar att motstå mänskliga korrigeringar eller använda bedrägliga strategier i komplexa miljöer. Fokus ligger på att bygga så kallad 'inkorrigibilitetsresistent' agentarkitektur.",
-      "why_it_matters": "När autonoma agenter integreras djupare i mjukvaru- och hårdvarusystem är alignment och agentkontroll fundamentalt för att undvika oönskade och potentiellt farliga systembeteenden.",
-      "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
       "image_url": "",
       "date": "2026-11-12"
     },
     {
-      "title": "Plurai applicerar principer från självkörande bilar på AI-agenter",
-      "summary": "Startupbolaget Plurai använder 'end-to-end'-metodiker från **autonoma fordon** för att förbättra beslutsfattandet hos **AI-agenter**. Ansatsen behandlar agentinteraktioner som probabilistiska system i stokastiska, oförutsägbara miljöer.",
-      "why_it_matters": "Överföringen av beprövad robotik- och fordonsmetodik till digitala resonemangsagenter kan kraftigt öka robustheten vid långa sekventiella uppgifter.",
+      "title": "Plurai använder teknik från självkörande fordon för att stärka AI-agenter",
+      "summary": "Startupen **Plurai** lånar end-to-end-arkitekturer från autonoma fordon för att göra mjukvaruagenter mer driftsäkra. Genom att betrakta agenter som probabilistiska system vill man hjälpa dem hantera oförutsägbara gränssnitt.",
+      "why_it_matters": "Metoder från robotik och autonom körning tillämpas nu för att lösa skörheten hos storskaliga agentarbetsflöden.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
@@ -92,29 +62,29 @@
       "date": "2026-11-12"
     },
     {
-      "title": "Amazon och Google mot jättevinster vid Anthropics notering",
-      "summary": "**Amazon** och **Google**, de två största externa investerarna i Anthropic, väntas realisera massiva värdeökningar på sina innehav. Investeringarna ger även molnjättarna strategiska fördelar i form av garanterade beräkningsavtal och modellintegrationer.",
-      "why_it_matters": "Allianserna mellan hyperscalers och oberoende AI-labb befäster oligopolet kring den infrastruktur och beräkningskraft som krävs för AGI-forskning.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/08/multimedia/00biz-anthropic-amazon-tfkl/00biz-anthropic-amazon-tfkl-mediumSquareAt3X.jpg",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "Databricks lanserar uppdaterad Genie-agent för intern företagsinsyn",
-      "summary": "Databricks vd Ali Ghodsi förlitar sig på företagets nya **AI-agent** Genie för att identifiera dolda fel och problem i organisationen. Systemet analyserar telemetri och interna data oberoende av mänsklig rapportering för att ge en objektiv lägesbild.",
-      "why_it_matters": "Autonoma data- och analysagenter börjar ersätta traditionell rapportering i storföretag, vilket demonstrerar den praktiska nyttan av LLM-baserade analysverktyg.",
-      "category": "LLM & Modeller",
+      "title": "Dataintrång hos Fireworks AI exponerade Notion-användares chattar",
+      "summary": "Ett cyberangrepp mot inferensleverantören **Fireworks AI** har möjliggjort för hackare att komma åt transkript från Notions chattkunder. Detta är plattformens andra allvarliga säkerhetsincident på två månader.",
+      "why_it_matters": "Understryker dataläckageriskerna när SaaS-företag skickar känsliga användardata via externa API-leverantörer av LLM-infrastruktur.",
+      "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
       "image_url": "",
       "date": "2026-11-12"
     },
     {
-      "title": "CoreWeave kräver förskottsbetalningar för att finansiera AI-beräkningskluster",
-      "summary": "Molninfrastrukturleverantören **CoreWeave** inför kortare avtalsperioder och förskottsbetalningar från kunder för att klara de enorma investeringarna i beräkningskapacitet. Företaget belånar även specifika kontrakt för att expandera sina **GPU-kluster**.",
-      "why_it_matters": "Finansieringsmodellerna bakom storskalig AI-infrastruktur pressas till det yttersta av den extrema kapitalkostnaden för nästa generations träningskluster.",
+      "title": "New Yorks nya säkerhetslag ställer hårda krav på ledande AI-labb",
+      "summary": "Delstaten New York har börjat tillämpa en omfattande lagstiftning som tvingar **OpenAI** och Anthropic att registrera säkerhetsrutiner och rapportera kritiska incidenter under hot om dryga böter.",
+      "why_it_matters": "Tvingande säkerhetskrav på delstatsnivå sätter ett nytt juridiskt prejudikat för hur frontier-modeller regleras i praktiken.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "image_url": "",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "CoreWeave kräver förskottsbetalningar för att finansiera GPU-expansion",
+      "summary": "Specialiserade molnleverantören **CoreWeave** har börjat kräva förskott från kunder och teckna kortare avtal för att finansiera sina hårdvaruköp. Bolaget lånar även mot specifika GPU-kontrakt för att klara kapitalbehovet.",
+      "why_it_matters": "Avslöjar den finansiella pressen bakom kulisserna för molninfrastrukturen som hyr ut beräkningskluster till AI-forskning.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
@@ -122,29 +92,19 @@
       "date": "2026-11-12"
     },
     {
-      "title": "OpenAI rullar ut företagsprofiler – förvandlar ChatGPT till sökmotorutmanare",
-      "summary": "**OpenAI** lanserar nya profiler för företag i **ChatGPT**, vilket flyttar plattformen närmare en konsumentinriktad upptäckts- och sökmotor. Funktionerna låter verksamheter integrera strukturerad realtidsinformation direkt mot slutanvändare.",
-      "why_it_matters": "Detta utgör ett direkt angrepp mot traditionella sökmotorer och etablerar LLM-chattar som den primära ingångspunkten för kommersiell informationssökning.",
+      "title": "Databricks vd använder intern AI-agent för ocensurerad företagsinsyn",
+      "summary": "Ali Ghodsi, vd för Databricks, använder bolagets nyligen uppdaterade agent **Genie** för att få ocensurerade rapporter om interna problem i organisationen. Agenten hämtar data direkt ur systemen för att identifiera avvikelser som personalen ogärna rapporterar.",
+      "why_it_matters": "Demonstrerar hur autonoma analysagenter börjar ersätta traditionell hierarkisk rapportering i storföretag.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
       "image_url": "",
       "date": "2026-11-12"
     },
     {
-      "title": "Vem är Alice Huang? Kvinnan i centrum för Nvidias spionhärva",
-      "summary": "Amerikansk underrättelsetjänst pekar ut Alice Huang som en kinesisk agent med kopplingar till Shanghai-finans och chiphandeln via bolaget Megaspeed. Affären belyser hur personliga nätverk utnyttjats för att säkra restriktionsbelagda **AI-acceleratorer**.",
-      "why_it_matters": "Halvledarkriget mellan USA och Kina flyttar in i företagens högsta ledningsskikt, vilket sätter fokus på sårbarheter inom industrispionage mot kritisk AI-hårdvara.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "Meta tappar sin mångårige infrastrukturchef mitt under AI-kapplöpningen",
-      "summary": "Santosh Janardhan lämnar rollen som infrastrukturchef på **Meta** efter över 15 år på bolaget. Avhoppet sker samtidigt som koncernen genomför historiskt stora satsningar på anpassade kiselkretsar och gigantiska **datacenter** för sina Llama-modeller.",
-      "why_it_matters": "Kontinuitet i drift och arkitektur för världens största AI-träningskluster är avgörande för Metas förmåga att hålla jämna steg med ledande proprietära modeller.",
+      "title": "Metas infrastrukturchef lämnar mitt under storskalig datacenterutbyggnad",
+      "summary": "Santosh Janardhan, chef för **Meta**:s globala infrastruktur, lämnar bolaget efter mer än femton år. Avhoppet kommer samtidigt som teknikjätten investerar tiotals miljarder i gigawatt-stora kluster för nästa generations AI-träning.",
+      "why_it_matters": "Förändringen i toppen kan påverka tidslinjerna för driftsättningen av Metas kommande öppna flaggskeppsmodeller.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
@@ -152,9 +112,9 @@
       "date": "2026-11-12"
     },
     {
-      "title": "Energibrist och tillståndskris hotar utbyggnaden av datacenter för AI",
-      "summary": "Den planerade jätteboomen för **datacenter** stöter på kraftigt motstånd från lokala myndigheter, tillståndsförseningar och akut brist på elnätskapacitet. Många aviserade megaprojekt för **AI-beräkningar** riskerar att aldrig realiseras i praktiken.",
-      "why_it_matters": "Tillgången till gigawatt-klassad elkraft har blivit den enskilt största flaskhalsen för fortsatt skalning av framtida frontier-modeller.",
+      "title": "Elbrist och tillståndsförseningar hotar utbyggnaden av AI-datacenter",
+      "summary": "Den planerade expansionen av storskaliga **AI-datacenter** bromsas av brist på transmissionskapacitet, elnätsflaskhalsar och lokalt motstånd. Flera miljardprojekt riskerar att försenas kraftigt eller läggas ner helt innan byggstart.",
+      "why_it_matters": "Energiförsörjningen har blivit den enskilt mest begränsande faktorn för hur snabbt AI-beräkningskraft kan skalas globalt.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
@@ -162,19 +122,19 @@
       "date": "2026-11-12"
     },
     {
-      "title": "Anthropics grundare säljer aktier för 1,75 miljarder dollar men behåller kontrollen",
-      "summary": "De sju grundarna av **Anthropic** avser sälja aktier värda cirka 250 miljoner dollar vardera i samband med den stundande börsnoteringen. Ägarstrukturen är dock utformad så att gruppen behåller full kontroll över bolagets **styrning och AI-säkerhet**.",
-      "why_it_matters": "Balansen mellan grundarkontroll och publikt kapital blir ett test för huruvida säkerhetsorienterade AI-labb kan motstå kvartalsvis vinstpress från aktiemarknaden.",
+      "title": "USA:s kongress kräver utfrågning om Nvidias Kina-kopplingar",
+      "summary": "Amerikanska kongressledamöter har krävt en stängd säkerhetsutfrågning kring **Nvidia** och potentiella informationsläckor till kinesisk underrättelsetjänst. Bakgrunden är risker kring otillåten spridning av kritisk chiparkitektur.",
+      "why_it_matters": "Ökad geopolitisk granskning riskerar att leda till ytterligare exportrestriktioner och fragmentering av den globala halvledarindustrin.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
       "image_url": "",
       "date": "2026-11-12"
     },
     {
-      "title": "OpenAI förvärvar resestartupen Odessia",
-      "summary": "**OpenAI** har köpt Odessia, ett nystartat bolag grundat av Sonders skapare Francis Davidson, för att expandera sitt ekosystem. Förvärvet indikerar planer på att bygga specialiserade **autonoma reseagenter** som kan hantera bokningar och logistik direkt.",
-      "why_it_matters": "Genom vertikala förvärv rustar OpenAI för att flytta sina system från passiva chattbotar till fullt handlande agenter i konsumentnära branscher.",
+      "title": "OpenAI förvärvar rese-startupen Odessia för vertikala agenttjänster",
+      "summary": "**OpenAI** har köpt upp reseplattformen Odessia, grundad av Sonders tidigare ledare Francis Davidson. Förvärvet indikerar planer på att integrera djupare domänspecifika agentfunktioner för bokningar och reseplanering.",
+      "why_it_matters": "Visar att frontier-labben rör sig från allmänna chattbotar mot vertikala konsumentagenter som utför verkliga handlingar.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
@@ -182,23 +142,63 @@
       "date": "2026-11-12"
     },
     {
-      "title": "Oura köper AI-plattformen Counsel Health för 625 miljoner dollar",
-      "summary": "Hälsoteknikbolaget Oura förvärvar **Counsel Health**, en startup som utvecklat AI-system för primärvård, i en affär värd 625 miljoner dollar. Förvärvet sker efter att Oura pausat sina egna noteringsplaner och signalerar en storsatsning på **AI-driven diagnostik**.",
-      "why_it_matters": "Sammansmältningen av kontinuerliga biometriska sensordata och medicinska språkmodeller banar väg för proaktiv och individanpassad vård dygnet runt.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "image_url": "",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "USA-toppar i konflikt om sanktioner mot Megaspeed och Nvidia-chips",
-      "summary": "Finansminister Scott Bessent och handelsminister Howard Lutnick har drabbat samman kring varför administrationen dröjt med restriktioner mot företaget Megaspeed. Företaget misstänks ha fungerat som en kanal för avancerad **Nvidia-hårdvara** till kinesiska intressen.",
-      "why_it_matters": "Sprickorna inom amerikansk handelspolitik illustrerar svårigheterna med att reglera globala leveranskedjor för beräkningskraft utan att skada västerländska teknikledare.",
+      "title": "Amerikanska ministrar oense om exportkontroller mot chipbolaget Megaspeed",
+      "summary": "En intern konflikt har brutit ut i Vita huset kring varför bolaget Megaspeed inte blockerats från att köpa avancerade kretsar från **Nvidia**. Företaget misstänks ha fungerat som en bulvan för att förse Kina med förbjuden beräkningskraft.",
+      "why_it_matters": "Belyser svårigheterna med att upprätthålla exportblockader mot spjutspets-GPU:er i en sammanflätad global leveranskedja.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
       "image_url": "https://static01.nyt.com/images/2026/11/11/us/11DC-megsapeed-promo/11DC-megsapeed-promo-mediumSquareAt3X.jpg",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Anthropics grundare säljer aktier för 250 miljoner dollar vardera vid börsnoteringen",
+      "summary": "De sju medgrundarna till **Anthropic** säljer identiska aktieposter värda cirka 250 miljoner dollar var vid noteringen. Affären är utformad för att grundargruppen ska behålla röstkontrollen över bolaget och dess forskningsinriktning.",
+      "why_it_matters": "Styrningsstrukturen testas när ett av världens ledande säkerhetsfokuserade AI-labb ska balansera publika aktieägare mot långsiktig AGI-säkerhet.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "image_url": "",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Amazon och Google mot mångmiljardvinster i Anthropics stundande IPO",
+      "summary": "**Google** och Amazon står inför enorma orealiserade vinster som de tyngsta investerarna i Anthropic inför bolagets rekordnotering. Värdestegringen kan addera hundratals miljarder dollar till techjättarnas balansräkningar.",
+      "why_it_matters": "Bekräftar hur molnjättarnas tidiga kapitalinjektioner i modellutvecklare har skapat en självförstärkande ekonomisk infrastruktur.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/08/multimedia/00biz-anthropic-amazon-tfkl/00biz-anthropic-amazon-tfkl-mediumSquareAt3X.jpg",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Colette Kress kliver fram som interim-VD för Nvidia under krisen",
+      "summary": "Finanschefen Colette Kress har tagit över rodret på **Nvidia** i spåren av den plötsliga ledarkrisen. Samtidigt ifrågasätter experter styrelsens brist på en långsiktig successionsplan för AI-sektorns viktigaste hårdvarubolag.",
+      "why_it_matters": "Ledarskapsstabiliteten hos Nvidia är direkt avgörande för produktionscyklerna kring nästa generations AI-superdatorer.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Energijättarnas fusion i gungning efter motstånd mot AI-relaterade elprishöjningar",
+      "summary": "Sammanslagningen mellan NextEra och Dominion Energy möter starkt motstånd i Virginia på grund av skenande elpriser kopplade till **AI-datacenter**. Invånare och politiker protesterar mot att allmänheten ska bära kostnaden för AI-klustrens elnät.",
+      "why_it_matters": "Visar att AI-utbyggnadens extrema energibehov nu skapar direkt politisk och social friktion mot det omgivande samhället.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Nio koreanska deep tech-startups utmanar inom AI och halvledare",
+      "summary": "Nio sydkoreanska startups inom **halvledare** och AI-infrastruktur tävlar om global expansion via Disrupt Battlefield. Bolagen fokuserar på specialiserad hårdvara och energieffektiva arkitekturer för storskaliga beräkningar.",
+      "why_it_matters": "Ökad teknisk konkurrens från asiatiska hårdvarubolag kan diversifiera leveranskedjorna för nästa generations kisel.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "image_url": "",
       "date": "2026-11-12"
     }
   ]
