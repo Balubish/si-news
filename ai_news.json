@@ -1,60 +1,10 @@
 {
-  "updated_at": "2026-11-15 05:55 UTC",
+  "updated_at": "2026-11-15 13:49 UTC",
   "articles": [
     {
-      "title": "Exportbannlysta Nvidia-chip ligger bakom Kinas mest kraftfulla AI-modeller",
-      "summary": "Ny forskning visar att Kinas mest avancerade AI-modeller har tränats på **Nvidia-chip** som omfattas av exportrestriktioner. Upptäckten sätter förnyat ljus på hur hårdvara smugglas förbi sanktioner och fördjupar den geopolitiska konflikten kring **avancerade beräkningsresurser**.",
-      "why_it_matters": "Belyser svårigheterna med att kontrollera globala hårdvaruflöden och understryker hur avgörande GPU-kluster är i den teknologiska kapplöpningen.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "image_url": "",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "ChatGPT lanserar Wallet – låter autonoma AI-agenter handla åt användare",
-      "summary": "OpenAI rullar ut **ChatGPT Wallet**, en ny funktion som ger **AI-agenter** befogenhet att självständigt handla och checka ut varor på nätet. Tjänsten lanseras inledningsvis i begränsad skala för amerikanska Pro-prenumeranter.",
-      "why_it_matters": "Ett avgörande steg från passiva textassistenter till autonoma agenter med finansiell handlingskraft (agentic commerce).",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "image_url": "",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Agentplattformen LangChain når värdering på 3 miljarder dollar",
-      "summary": "Startupsatsningen **LangChain** når en värdering på 3 miljarder dollar efter kraftig tillväxt för sin plattform **LangSmith**, som nu har över 7 000 företagskunder. Verktyget möjliggör modelloberoende orkestrering, spårning och utvärdering av autonoma agenter.",
-      "why_it_matters": "Bekräftar att verktyg och infrastruktur för agenthantering är en av de snabbast växande och mest kritiska delarna i den moderna AI-stacken.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "image_url": "",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Google uppgraderar sökmotorn med Gemini 4 Hydrogen för komplexa frågor",
-      "summary": "Googles AI-läge i sökfunktionen uppgraderas med **Gemini 4 Hydrogen** för att bättre hantera avancerade frågeställningar. Modellen förbättrar förståelsen för djupa flerstegsfrågor, länkar till relevanta källor och genererar mer visuellt rika **multimodala svar**.",
-      "why_it_matters": "Ett paradigmskifte för sökmotorer där traditionell indexering alltmer ersätts av djupgående syntetisering och resonemang i realtid.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "image_url": "",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "United Airlines blockerar AI-agenter från att boka flygresor",
-      "summary": "Flygbolaget United Airlines spärrar **AI-assistenter** från att logga in på konton och administrera bokningar. Bolaget uppger att åtgärden krävs för att skydda användardata och förhindra obehörig **automatiserad systemåtkomst**.",
-      "why_it_matters": "Markerar en tidig konflikt mellan autonoma konsumentagenter och företags befintliga gränssnitt, vilket tvingar fram nya standarder för agentautentisering.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-ai-united-mpzg/11xp-ai-united-mpzg-mediumSquareAt3X.jpg",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Jensen Huang lämnar Nvidia efter skandaler – Colette Kress tar över",
-      "summary": "Nvidias grundare **Jensen Huang** har avgått efter avslöjanden kring personliga relationer och potentiella säkerhetsrisker. Bolagets finanschef **Colette Kress** kliver in som interimschef för halvledarjätten under en kritisk fas.",
-      "why_it_matters": "Huang har varit den enskilt mest tongivande visionären för AI-hårdvara; ledarbytet skapar osäkerhet i hela det globala ekosystemet.",
+      "title": "Jensen Huang avgår som vd för Nvidia efter skandaler",
+      "summary": "Nvidias medgrundare och vd Jensen Huang har avgått efter avslöjanden om relationer med en misstänkt kinesisk spion och en underordnad medarbetare. Bolagets finanschef **Colette Kress** har utsetts till interim-vd för **Nvidia** mitt under det globala AI-racet.",
+      "why_it_matters": "Huang har varit den enskilt mest inflytelserika ledaren bakom den globala AI-infrastrukturen; hans avgång skapar osäkerhet kring strategin för nästa generations acceleratorchip.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
@@ -62,19 +12,79 @@
       "date": "2026-11-15"
     },
     {
-      "title": "Hugging Face lovar att försvara öppen källkod efter Huangs avgång",
-      "summary": "Vd:n för **Hugging Face** försäkrar att kampen för **öppen källkods-AI** fortsätter oförtrutet trots ledarkrisen hos Nvidia. Skiftet i Nvidias toppskikt väcker frågor kring bolagets miljardinvesteringar i öppna modeller och samarbetsplattformar.",
-      "why_it_matters": "Utvecklingen av öppna vikter och tillgänglig forskning är starkt beroende av hårdvarustöd från dominerande aktörer.",
-      "category": "AGI & Forskning",
+      "title": "ChatGPT Wallet låter autonoma agenter genomföra inköp",
+      "summary": "OpenAI rullar ut **ChatGPT Wallet**, vilket möjliggör för autonoma agenter att söka upp produkter och slutföra betalningar för användarens räkning. Tjänsten lanseras initialt för amerikanska prenumeranter på **ChatGPT Pro**.",
+      "why_it_matters": "Flyttar AI-agenter från ren informationsinhämtning till operativ och ekonomisk autonomi med direkt tillgång till transaktionssystem.",
+      "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "image_url": "",
       "date": "2026-11-15"
     },
     {
-      "title": "Wall Street rustar för Anthropics skenande beräkningskostnader",
-      "summary": "AI-laboratoriet **Anthropic** möter hårdare granskning gällande sina enorma kapitalbehov för träning och aktiekompensation. De eskalerande kostnaderna belyser hur kapitalkrävande racet mot **frontiermodeller** har blivit.",
-      "why_it_matters": "Sätter fokus på den ekonomiska hållbarheten hos frontier-labb när träningskostnaderna fortsätter att växa exponentiellt.",
+      "title": "Kinas mest kraftfulla AI-modeller tränades på sanktionerade Nvidia-chip",
+      "summary": "Ny forskning avslöjar att Kinas ledande frontier-modeller har tränats på exportbannlysta **Nvidia-GPU:er**. Detta sätter förnyat ljus på grå marknader och otillåten vidarebefordran av **avancerad hårdvara**.",
+      "why_it_matters": "Understryker svårigheterna att verkställa exportrestriktioner kring hårdvara och bevisar att kinesisk LLM-forskning fortsätter hålla jämna steg trots sanktioner.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "image_url": "",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Agentramverket LangChain når värdering på 3 miljarder dollar",
+      "summary": "Startupbolaget bakom det modellagnostiska agentramverket **LangChain** når en värdering på 3 miljarder dollar efter kraftig tillväxt. Över 7 000 företagskunder använder nu plattformens verktyg **LangSmith** för att hantera och utvärdera produktionsagenter.",
+      "why_it_matters": "Bekräftar att verktygskedjan kring agentorkestrering och LLM-observability är en av mjukvaruindustrins snabbast växande vertikaler.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "image_url": "",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Google uppgraderar AI-sök med Gemini 4 Hydrogen",
+      "summary": "Googles AI-läge för sök integrerar nu **Gemini 4 Hydrogen**, vilket drastiskt förbättrar hanteringen av flerstegsfrågor och komplexa sökningar. Systemet levererar bättre syntetiserade källhänvisningar och rikare **multimodala svar**.",
+      "why_it_matters": "Markerar övergången från traditionell webblänksökning till dynamisk realtidsinferens driven av nästa generations frontier-modeller.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "image_url": "",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "United Airlines spärrar autonoma AI-agenter från biljettbokning",
+      "summary": "United Airlines förbjuder **autonoma AI-agenter** från att logga in på kundkonton och administrera bokningar. Flygbolaget uppger att åtgärden krävs för att följa regelverk och skydda kunddata mot obehöriga **digitala assistenter**.",
+      "why_it_matters": "En tidig konfliktlinje mellan agentdriven automation och traditionella konsumentgränssnitt som saknar protokoll för maskin-till-maskin-tillit.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-ai-united-mpzg/11xp-ai-united-mpzg-mediumSquareAt3X.jpg",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Frågetecken kring Nvidias stöd för öppen AI efter Huangs avgång",
+      "summary": "Jensen Huangs avhopp väcker farhågor kring Nvidias engagemang för **öppen källkod**, däribland förvärvet av **Hugging Face** och distribution av öppna modellvikter. Hugging Faces ledning understryker dock att kampen för öppna AI-ekosystem fortsätter oförtrutet.",
+      "why_it_matters": "Om Nvidia minskar sina investeringar i öppna modeller riskerar fältet att i högre grad monopoliseras av helt proprietära frontier-labb.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "image_url": "",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Tomrum i riskkapitalet för AI-startups när Nvidia byter kurs",
+      "summary": "Nvidia har under Huang plöjt ner tiotals miljarder i ekosystemet, med innehav värda 48 miljarder dollar i bolag som **OpenAI** och **Anthropic**. Utan Huang fruktar riskkapitalister och grundare strypta investeringsrundor och pressade värderingar inom **generativ AI**.",
+      "why_it_matters": "Nvidias strategiska kapital har fungerat som en ryggrad för hela AI-sektorn; minskad riskvilja kan dämpa takten i kapitalintensiv frontier-forskning.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "image_url": "",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Wall Street oroas över Anthropics eskalerande träningskostnader",
+      "summary": "Inför en potentiell börsnotering granskas **Anthropic** för sina skenande drifts- och beräkningskostnader kopplade till träning av nästa generations modeller. Bolagets marginaler pressas hårt av enorma utgifter för **beräkningskluster**.",
+      "why_it_matters": "Visar på de ekonomiska realiteterna när träningskostnaderna för frontier-modeller skalar uppåt mot tiotals miljarder dollar per generation.",
       "category": "AGI & Forskning",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
@@ -82,9 +92,9 @@
       "date": "2026-11-15"
     },
     {
-      "title": "Dario Amodeis säkerhetsvarningar skapar sprickor i AI-eliten",
-      "summary": "Anthropics vd **Dario Amodei** möter motstånd från konkurrenter som OpenAI för sina öppna varningar om existentiella hot från **avancerad AI**. Oenigheten blottar en djup ideologisk klyfta kring hur hårt teknikutvecklingen bör regleras.",
-      "why_it_matters": "Polariseringen påverkar hur lagstiftare globalt utformar regler och säkerhetsstandarder för kommande AGI-system.",
+      "title": "Dario Amodeis säkerhetsvarningar skapar sprickor i branschen",
+      "summary": "Anthropics vd **Dario Amodei** har väckt irritation hos konkurrenter som OpenAI genom sina upprepade offentliga larm om katastrofala risker med **AGI**. Rivaler menar att hans ståndpunkter gynnar protektionistiska regelverk på bekostnad av öppen utveckling.",
+      "why_it_matters": "Synliggör den ideologiska klyftan mellan säkerhetsfokuserade labbmiljöer och de aktörer som prioriterar snabb kommersiell distribution.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
@@ -92,19 +102,9 @@
       "date": "2026-11-15"
     },
     {
-      "title": "Huangs sorti hotar riskkapitalflödet till nystartade AI-bolag",
-      "summary": "Under Huang investerade Nvidia tiotals miljarder dollar i hundratals privata AI-bolag, inklusive **OpenAI** och andra spjutspetsaktörer. Nu varnar grundare och riskkapitalister för lägre **värderingar** och stramare kapitaltillgång.",
-      "why_it_matters": "Nvidia har varit en central finansiell motor för AI-startups, och en nedtrappning kan dämpa innovationstakten i hela sektorn.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "image_url": "",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Nebius satsar 40 miljarder dollar på ny AI-molninfrastruktur",
-      "summary": "Infrastrukturutmanaren **Nebius** lanserar en massiv expansionsplan värd 40 miljarder dollar för att bygga specialiserade beräkningskluster. Bolaget förlitar sig på kundförskott och lån för att utmana traditionella leverantörer av **GPU-moln**.",
-      "why_it_matters": "Ökad konkurrens inom dedikerad beräkningsinfrastruktur är avgörande för att pressa tränings- och inferenskostnader för storskaliga modeller.",
+      "title": "Nebius storsatsar 40 miljarder dollar på neocloud-infrastruktur",
+      "summary": "Infrastrukturbolaget **Nebius** planerar en utbyggnad för 40 miljarder dollar inriktad på kundanpassad **GPU-beräkning**. Satsningen finansieras genom förskottsbetalningar trots växande oro kring förseningar i storskaliga datacenter.",
+      "why_it_matters": "Utmanar de traditionella hyperscalers genom att etablera specialiserade beräkningsmoln optimerade uteslutande för storskalig AI-träning och inferens.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
@@ -112,9 +112,9 @@
       "date": "2026-11-15"
     },
     {
-      "title": "ElevenLabs lanserar ElevenAI för mötesanteckningar och diktering",
-      "summary": "Röstspecialisten **ElevenLabs** utökar sitt utbud med **ElevenAI**, en ny applikation anpassad för företag och team. Tjänsten kombinerar avancerad transkribering, intelligent sammanfattning och realtidsdiktering.",
-      "why_it_matters": "Visar hur nischade röst- och ljudmodeller mognar till fullfjädrade produktivitetssviter som integreras direkt i arbetsflöden.",
+      "title": "ElevenLabs lanserar ElevenAI för mötesanalys och diktering",
+      "summary": "Röstspecialisten **ElevenLabs** breddar sin portfölj med ElevenAI, en företagsapp för automatiserad mötesanteckning och flerspråkig diktering. Plattformen bygger på bolagets senaste **tal-till-text-modeller** optimerade för团队samarbete.",
+      "why_it_matters": "Visar hur nischade generativa röstbolag rör sig uppåt i värdekedjan för att erbjuda heltäckande multimodala arbetsflöden för storföretag.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
@@ -122,39 +122,9 @@
       "date": "2026-11-15"
     },
     {
-      "title": "Säkerhetsfrågor lyfts kring Nvidias hantering av chipflöden till Kina",
-      "summary": "Avslöjanden kring Nvidias interna säkerhetsarbete visar att bolaget kan ha varit dåligt rustat mot informella läckor och bulvanupplägg. Diskussionen fokuserar på hur **spjutspetschip** nått sanktionerade bolag via bristfälliga **säkerhetskontroller**.",
-      "why_it_matters": "AI-hårdvara behandlas nu på samma nivå som försvarsmateriel, vilket ställer helt nya krav på fysisk och operativ säkerhet hos teknikföretag.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "image_url": "",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "AI-kyrkogården växer: Projekten som föll på målsnöret",
-      "summary": "En ny kartläggning summerar de högprofilerade satsningar som havererat, från försenade satsningar på **Siri AI** till problemtyngda superappar. Genomgången visar hur svårt det är att översätta **forskningsprototyper** till driftsäkra kommersiella produkter.",
-      "why_it_matters": "En påminnelse om att algoritmisk kapacitet inte automatiskt leder till fungerande produkt-marknadspassning i praktiken.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "image_url": "",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Elon Musk och tech-toppar kräver att Jensen Huang återinsätts",
-      "summary": "Över 115 000 personer, däribland **Elon Musk**, har undertecknat ett upprop till Nvidias styrelse för att få tillbaka Huang. Branschföreträdare argumenterar för att hans tekniska ledarskap är oersättligt för Nvidias fortsatta **hårdvaruutveckling**.",
-      "why_it_matters": "Demonstrerar hur hårt koncentrerat ledarskapet i AI-sektorn är och vilken oro ett plötsligt maktskifte skapar bland stora kunder och partners.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "image_url": "",
-      "date": "2026-11-15"
-    },
-    {
       "title": "Kongressutredning inledd mot Nvidia gällande Kina-affärer",
-      "summary": "Amerikanska politiker inleder en granskning av Nvidias försäljningsvägar och eventuella kryphål runt gällande **exportrestriktioner**. Fokus ligger på huruvida avancerade **beräkningskretsar** medvetet kanaliserats till känsliga marknader.",
-      "why_it_matters": "Ökad politisk reglering kan leda till striktare licenskrav och fördröjningar i den globala kiselkedjan.",
+      "summary": "Demokrater i USA:s kongress kräver granskning av **Nvidias** exportförfaranden och misstänkta upplägg för att kringgå chipembargon. Fokus ligger på hur avancerade **acceleratorer** hamnat i kinesiska system trots gällande handelssanktioner.",
+      "why_it_matters": "Kan tvinga fram hårdare restriktioner för halvledarexport och intensifierad statlig övervakning av internationella leverantörskedjor.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -162,9 +132,9 @@
       "date": "2026-11-15"
     },
     {
-      "title": "Asiatiska stater säkrar chipavtal i kölvattnet av Nvidias ledarkris",
-      "summary": "Flera asiatiska regeringar agerar för att bekräfta sina leveransavtal för **AI-processorer** efter turbulensen i USA. Samtidigt skärps övervakningen av lokala projekt för att förhindra överträdelser av internationella **halvledarsanktioner**.",
-      "why_it_matters": "Nationella AI-strategier är direkt beroende av garanterad kiseltillgång, vilket gör hårdvarukontrakt till en fråga om statlig suveränitet.",
+      "title": "Asiatiska stater mobiliserar för att säkra chipportföljer",
+      "summary": "Regeringar över hela Asien agerar snabbt för att säkerställa sina leveransavtal på **Nvidia-chip** efter ledarskapsskiftet. Flera länder ser över hur deras nationella satsningar på **suverän AI** påverkas av oron kring chiptillverkaren.",
+      "why_it_matters": "Nationell AI-suveränitet är direkt beroende av tillförlitlig tillgång till beräkningshårdvara, vilket gör teknikledningsbyten till en geopolitisk fråga.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
@@ -172,19 +142,39 @@
       "date": "2026-11-15"
     },
     {
-      "title": "Israeliska riskkapitalister ser öppning för nya chiputmanare",
-      "summary": "Turbulensen kring Nvidias dominans öppnar dörren för utmanare som utvecklar specialiserade **ASIC-processorer** och alternativa arkitekturer. Det israeliska ekosystemet ser en chans att bryta Nvidias de facto-monopol inom **accelererad beräkning**.",
-      "why_it_matters": "Marknaden efterfrågar diversifiering för att minska beroendet av en enskild GPU-leverantör och dess proprietära mjukvarustack.",
+      "title": "Elon Musk och tech-toppar kräver Huangs återinsättande",
+      "summary": "Över 115 000 personer, inklusive **Elon Musk** och andra inflytelserika företagsledare, har undertecknat ett upprop för att återinsätta Jensen Huang som vd. Branschen argumenterar för att Huangs unika tekniska ledarskap är oersättligt för **Nvidias ekosystem**.",
+      "why_it_matters": "Belyser hur starkt personbunden utvecklingen av AI-hårdvara har varit och hur beroende branschen känner sig av ett fåtal nyckelvisionärer.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
       "image_url": "",
       "date": "2026-11-15"
     },
     {
-      "title": "Datacenterbyggen fortsätter trots växande politiska protester",
-      "summary": "Trots motstånd från lokala väljare och debatt kring elförbrukning fortsätter tech-jättarna utbyggnaden av gigantiska **datacenter**. Investeringarna ses som helt nödvändiga för att möta framtida beräkningskrav för **nästa generations AGI-forskning**.",
-      "why_it_matters": "Understryker att infrastrukturens främsta flaskhals inte längre är mjukvara utan tillgång till elnät och storskalig fysisk markyta.",
+      "title": "AI-kyrkogården listar havererade projekt och startups",
+      "summary": "En ny sammanställning belyser bakslag i industrin, från Apples försenade **Siri AI** till problematiska lanseringar av superappar. Kartläggningen visar hur klyftan mellan **marknadsföringshajp** och faktisk driftsäkerhet fäller omogna projekt.",
+      "why_it_matters": "Ett tecken på en nykter marknadskorrigering där teoretisk modellkapacitet måste bevisa verklig affärsnytta för att överleva.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "image_url": "",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Konflikt i Vita huset kring Megaspeed och halvledarläckor",
+      "summary": "Tjänstemän i den amerikanska administrationen har hamnat i konflikt rörande uteblivna restriktioner mot företaget Megaspeed. Firman misstänks ha fungerat som en mellanhand för att förse kinesiska intressen med **Nvidias AI-processorer**.",
+      "why_it_matters": "Avslöjar svagheterna i internationell tillsyn och hur svårt det är att stoppa spridning av kritisk hårdvara via globala distributionsnätverk.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/11/us/11DC-megsapeed-promo/11DC-megsapeed-promo-mediumSquareAt3X.jpg",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Utbyggnaden av AI-datacenter accelererar trots lokala hinder",
+      "summary": "Trots skepsis hos allmänheten och oro för överbelastade elnät fortsätter techjättarna att storskaligt bygga ut **AI-datacenter**. Företagen säkrar egen energiinfrastruktur för att kunna driva framtidens massiva **beräkningskluster**.",
+      "why_it_matters": "Tillgång till grön och stabil elförsörjning har blivit den definitiva fysiska flaskhalsen för träning av nästa generations frontier-modeller.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
@@ -192,9 +182,19 @@
       "date": "2026-11-15"
     },
     {
-      "title": "Muse rullar ut funktion för utgående AI-telefonsamtal till företag",
-      "summary": "AI-verktyget **Muse** kan nu genomföra utgående röstsamtal till företag och självständigt hantera ärenden via telefon. Funktionen bygger på **konversationell AI** som kan interagera naturligt med mänskliga operatörer.",
-      "why_it_matters": "Visar hur röstassistenter rör sig mot full agens i röstdomänen och bryter barriären mellan mjukvara och traditionell telefoni.",
+      "title": "Kritik mot Nvidias interna säkerhetsarbete efter spionageskandalen",
+      "summary": "Tidigare underrättelseexperter ifrågasätter varför Nvidias säkerhetsorganisation misslyckades med att fånga upp Huangs läckor till utländska aktörer. Bolaget saknade tillräckliga skyddsåtgärder för att förhindra att strategisk information om **halvledardesign** komprometterades på **ledningsnivå**.",
+      "why_it_matters": "Hårdvaruarkitektur för AI är numera en central del av nationell säkerhet, vilket tvingar techbolag att anamma militärklassade säkerhetsrutiner.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "image_url": "",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Muse AI lanserar betaltjänst för autonoma telefonsamtal",
+      "summary": "Startupbolaget Muse introducerar funktionalitet som låter **autonoma röstsystem** ringa upp företag för att genomföra ärenden. Tjänsten bygger på avancerade **konversationsmodeller** som kan hantera förhandling och komplexa svarssekvenser i realtid.",
+      "why_it_matters": "Ett stort steg mot att integrera autonoma agenter i befintlig telekominfrastruktur, vilket öppnar för storskalig automatisering av kundtjänstinteraktioner.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
