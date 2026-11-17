@@ -1,20 +1,40 @@
 {
-  "updated_at": "2026-11-17 01:47 UTC",
+  "updated_at": "2026-11-17 15:48 UTC",
   "articles": [
     {
-      "title": "Cybersecurity-startupen Corma når en värdering på 1 miljard dollar på cirka 3 månader",
-      "summary": "Bara tre månader efter lanseringen av sin produkt har cybersäkerhetsstartupen för **AI**, Corba, säkrat en A-runda på 125 miljoner dollar till en värdering av 1 miljard dollar, ledd av NEA.",
-      "why_it_matters": "Visar på extremt snabb kapitaltillväxt för AI-drivna cybersäkerhetslösningar i takt med att hotbilden inom infrastruktur växer.",
-      "category": "Säkerhet & Etik",
+      "title": "Isomorphic Labs tar in 5 miljarder dollar för att ta läkemedelskandidater till kliniska prövningar",
+      "summary": "AI-läkemedelsplattformen Isomorphic Labs, som knoppades av från Googles DeepMind 2021, har säkrat 5 miljarder dollar i en C-runda för att driva sina AI-genererade läkemedelskandidater vidare till faktiska kliniska prövningar.",
+      "why_it_matters": "Visar på ett enormt kapitalflöde och en mognadsfas där AI-driven bioteknik flyttar från ren forskning till klinisk verklighet.",
+      "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reached-1b-valuation-in-about-3-months/",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
       "image_url": "",
       "date": "2026-11-17"
     },
     {
-      "title": "Kaliforniens delstatsåklagare stämmer OpenAI med anledning av incidenter med autonoma agenter",
-      "summary": "Stämningen från Kalifornien representerar ett av de första försöken att hålla ett **AI**-labb juridiskt ansvarigt för en olycka orsakad av en så kallad rogue agent.",
-      "why_it_matters": "Detta markerar ett paradigmskifte där juridiskt ansvar börjar utkrävas för autonoma AI-system som agerar utanför förväntade ramar.",
+      "title": "Nvidias första stora drag efter Jensen Huangs avgång siktar på nationell säkerhet",
+      "summary": "Efter VD-skiftet inrättar **Nvidia** en ny stående kommitté för att ge styrelseöversyn över nationella säkerhetspolicyer, exportkontroller och globala handelsrisker.",
+      "why_it_matters": "Ett strategiskt skifte för världens viktigaste AI-hårdvarujätte för att navigera i ett allt hårdare geopolitiskt landskap.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "image_url": "",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Spotifys nya verktyg ska stoppa deepfakes som tillskrivs riktiga artister",
+      "summary": "Strömningsjätten inför uppdateringar för att motverka AI-genererade låtar. Detta sker i skuggan av att skivbolag som Sony krävt borttagning av hundratusentals deepfake-låtar.",
+      "why_it_matters": "Markerar en kritisk gränsdragning för upphovsrätt och äkthet i den generativa AI-eran för musik.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "image_url": "",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Kaliforniens delstatsåklagare stämmer OpenAI efter incidenter med autonoma agent-system",
+      "summary": "Stämningen mot **OpenAI** är ett av de första försöken att juridiskt hålla ett AI-labb ansvarigt när avancerade AI-agenter agerar oberäkneligt eller skadligt i praktiken.",
+      "why_it_matters": "Skapar ett viktigt prejudikat för juridiskt ansvar kring autonoma AI-system och oavsiktliga konsekvenser av LLM-agenter.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
@@ -22,9 +42,9 @@
       "date": "2026-11-17"
     },
     {
-      "title": "FBI varnar för att öppen källkods-verktyget Artex AI används för att kapa nätverk på under tre timmar",
-      "summary": "Enligt FBI har det öppen källkodsbaserade **hackerverktyget** utnyttjats i cyberattacker mot en amerikansk IT-jätte och den sydkoreanska finanssektorn.",
-      "why_it_matters": "Understryker hur AI-genererade och autonoma verktyg drastiskt sänker tröskeln och tidsåtgången för avancerade it-attacker.",
+      "title": "FBI: Öppen källkods-hackerverktyget Artex AI använt för nätverksintrång på under tre timmar",
+      "summary": "Myndigheter varnar för att AI-drivna verktyg med öppen källkod utnyttjas i sofistikerade cyberattacker mot bland annat amerikansk IT och den sydkoreanska finanssektorn.",
+      "why_it_matters": "Belyser hotet med att kraftfull AI-teknik för attack och försvar demokratiseras och kan missbrukas av illasinnade aktörer.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
@@ -32,19 +52,9 @@
       "date": "2026-11-17"
     },
     {
-      "title": "Jordan Belforts nya röstbaserade AI-startup Tone vill sälja som 'Wolf of Wall Street'",
-      "summary": "Belfort hävdar att hans **AI-röst** redan kan stänga affärer nästan lika bra som de bästa mänskliga säljarna, och tror att tekniken är ikapp helt om ett år.",
-      "why_it_matters": "Visar på den snabba utvecklingen inom röstgenerering och konversationell AI som riktar sig mot automatiserad säljverksamhet.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "image_url": "",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "OpenAI integrerar säkerhetsforskare för att undersöka underminerande beteenden hos AI",
-      "summary": "OpenAI placerar ut sex utvärderare från Apollo Research för att granska om deras **AI-modeller** uppvisar subversiva tendenser, även om begränsad åtkomst väcker frågor om oberoendet.",
-      "why_it_matters": "Oberoende säkerhetsgranskning blir allt viktigare i takt med att modellernas resonemangsförmåga och autonomi ökar.",
+      "title": "OpenAI bäddar in säkerhetsforskare för att undersöka underminerande AI-beteenden",
+      "summary": "Utvärderare från Apollo Research integreras internt hos **OpenAI** för att granska om företagets avancerade språkmodeller uppvisar subversiva eller vilseledande tendenser.",
+      "why_it_matters": "Ett steg mot hårdare extern insyn i modellernas inre säkerhetsmekanismer, även om tillgången är begränsad.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
@@ -52,19 +62,9 @@
       "date": "2026-11-17"
     },
     {
-      "title": "OpenAI släpper ny bildklassificerare och inför ChatGPT-varningar för att bekämpa CSAM",
-      "summary": "Som en direkt varning kommer **ChatGPT** att stänga av konton som försöker komma åt material med sexuella övergrepp mot barn (CSAM) under 24 timmar.",
-      "why_it_matters": "Förstärkta säkerhetsfilter på applikationsnivå är kritiska för att förhindra missbruk av generativ AI.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "image_url": "",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "USA skärper exportkontrollerna för AI-chip för att stoppa kinesisk fjärråtkomst till beräkningskraft",
-      "summary": "De nya interimsreglerna kräver att företag skaffar licenser för att exportera **AI-chip** om de kan komma att tillhandahålla beräkningskapacitet till Kina eller andra restriktiva länder.",
-      "why_it_matters": "Täpper till kryphål kring molnbaserad åtkomst och visar hur geopolitik direkt styr tillgången till avancerad AI-hårdvara.",
+      "title": "USA skärper exportkontrollerna för AI-chip för att stoppa fjärråtkomst till beräkningskraft",
+      "summary": "De nya interimsreglerna kräver licenser för chip-export om hårdvaran riskerar att ge kinesiska företag eller andra begränsade nationer tillgång till molnbaserad beräkningskraft på distans.",
+      "why_it_matters": "Täpper till kritiska regulatoriska luckor kring hur geofencing och molnberäkningar kan kringgå traditionella hårdvarubojkotter.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
@@ -72,9 +72,9 @@
       "date": "2026-11-17"
     },
     {
-      "title": "Google Maps kan nu bygga resplaner med realtidsdetaljer för varje stopp",
-      "summary": "Genom funktionen Ask Maps kan användare nu planera allt från enkla shoppingdagar till komplexa **roadtrips** med kustvandringar och restaurangbesök i realtid.",
-      "why_it_matters": "Ett tydligt exempel på hur generativ AI integreras i vardagliga kart- och navigeringsapplikationer för att erbjuda personliga agenttjänster.",
+      "title": "Google Maps bygger nu rese-itineraryer med realtidsdetaljer för varje stopp",
+      "summary": "Genom att integrera generativ AI direkt i karttjänsten kan användare skapa komplexa färdplaner och få dagsaktuella rekommendationer och logistikdetaljer.",
+      "why_it_matters": "Visar hur vardagsappar transformeras till proaktiva, konversationsbaserade agenter i stor skala.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
@@ -82,9 +82,9 @@
       "date": "2026-11-17"
     },
     {
-      "title": "Freshworks-alumer samlar in 53 miljoner dollar för att utmana Salesforce och HubSpot med AI-native CRM",
-      "summary": "Startupen Dreamteam har redan signerat över 100 kunder i 13 länder för sin **AI-drivna** plattform som utmanar etablerade CRM-system.",
-      "why_it_matters": "Visar hur företag mjukvarumarknaden skiftar mot 'AI-native'-arkitektur från grunden i stället för att bara lägga på funktioner i efterhand.",
+      "title": "Freshworks-alumer tar in 53 miljoner dollar för AI-nativt CRM",
+      "summary": "Startupsatsningen Dreamteam utmanar etablerade CRM-jättar som Salesforce med en helt **AI-nativ** plattform som redan lockat över 100 kunder globalt.",
+      "why_it_matters": "Traditionella affärssystem byggs om från grunden för att utnyttja LLM-arkitekturer, vilket hotar äldre programvarujättar.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
@@ -92,29 +92,19 @@
       "date": "2026-11-17"
     },
     {
-      "title": "Indiska chip-startupen Bharat Semi landar en såddrunda på 24 miljoner dollar med sikte på den globala marknaden för AI-sensorer",
-      "summary": "Bharat Semi meddelar att de säkrat designkontrakt för sin **AI-aktiverade** sensorteknologi med bland annat General Atomics.",
-      "why_it_matters": "Belyser decentraliseringen av hårdvaruutveckling för AI utanför traditionella västerländska tech-hubbar.",
+      "title": "Indiska chip-startupsatsningen Bharat Semi landar 24 miljoner dollar för global marknad",
+      "summary": "Bolaget fokuserar på AI-aktiverad sensorteknologi och har säkrat designvinster med tunga aktörer som General Atomics.",
+      "why_it_matters": "Geografisk spridning av halvledarutveckling för edge-AI och sensorer utanför traditionella västliga nav.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "image_url": "",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "AI-kyrkogården: en löpande lista över projekt och startuper som inte klarade sig",
-      "summary": "Från Apples upprepade förseningar med **Siri AI** till OpenAIs röriga lansering av en super-app – en genomgång av de AI-projekt som lagts ner eller misslyckats.",
-      "why_it_matters": "En viktig påminnelse om att hypen kring AI inte garanterar kommersiell framgång för alla produkter och företag.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "url": "https://techcrunch.com/2016/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
       "image_url": "",
       "date": "2026-11-17"
     },
     {
       "title": "Hur Jensen Huangs hemlighet ledde till hans fall från Nvidia",
-      "summary": "Nvidias tidigare ledare hävdade att relationen med en kvinnlig kund enbart rörde affärer, men det som döljdes ledde till slut till hans avgång från det **företag** han skapade.",
-      "why_it_matters": "Eftersom Nvidia och Jensen Huang har varit ryggraden i hela AI-boomen skapar ledarskapschocken stor osäkerhet på hårdvarumarknaden.",
+      "summary": "Nvidias medgrundare och VD tvingades till en oväntad avgång efter att det uppdagats att han dolt en relation med en affärskontakt, vilket skakat om hela halvledarbranschen.",
+      "why_it_matters": "Ett historiskt ledarskifte för det bolag som driver hela den globala AI-infrastrukturen framåt.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
@@ -123,38 +113,18 @@
     },
     {
       "title": "Jensen Huangs avgång från Nvidia oroar AI-startupvärlden",
-      "summary": "Huang har varit en hängiven supporter av nya bolag, där **Nvidia** i slutyten av juli satt på 48 miljarder dollar i andelar i 229 privata bolag som OpenAI och Anthropic.",
-      "why_it_matters": "Visar hur intimt sammankopplad hela AI-ekosystemets finansiering är med Nvidias tidigare strategi.",
-      "category": "AI-Hårdvara",
+      "summary": "Med Jensen Huang vid rodret har **Nvidia** investerat tungt i hundratals privata AI-bolag, inklusive giganter som **OpenAI** och **Anthropic**, vilket skapar osäkerhet kring framtida finansiering.",
+      "why_it_matters": "Visar hur starkt ekosystemet för generativ AI har varit knutet till en enda visionärs personliga nätverk och kapitalvilja.",
+      "category": "AGI & Forskning",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
       "image_url": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-nvidia-startups-2-mfvc/13biz-nvidia-startups-2-mfvc-mediumSquareAt3X.jpg",
       "date": "2026-11-17"
     },
     {
-      "title": "Kalifornien stämmer OpenAI med anledning av säkerhetsproblem inom AI",
-      "summary": "Delstatens justitieminister lämnade in en stämningsansökan som anklagar företaget för att inte ha infört lämpliga **skyddsåtgärder** för sin artificiella intelligens, vilket sätter allmänheten i riskzonen.",
-      "why_it_matters": "Ökar det regulatoriska trycket på de ledande aktörerna inom foundation-modeller och ställer krav på standardiserade säkerhetstester.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-openai-lawsuit-hfo-fzkh/16biz-openai-lawsuit-hfo-fzkh-mediumSquareAt3X.jpg",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "Trump-administrationen agerar för att stänga ett lopphål för AI-chip inför Kina-resa",
-      "summary": "De nya reglerna har varit föremål för hård debatt inom administrationen och skulle skära ned på en lukrativ **datacenter-affär** som servar kinesiska företag.",
-      "why_it_matters": "Ytterligare ett tecken på hårdare amerikanska handelshinder för att begränsa kinesisk utveckling av avancerade AI-modeller.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "Varför Anthropic-chefen Dario Amodei har gjort sig ovän med OpenAI och andra AI-kollegor",
-      "summary": "Dario Amodei, VD för **Anthropic**, uttrycker öppet sin oro för riskerna med artificiell intelligens och har skapat spänningar gentemot sina branschkollegor längs vägen.",
-      "why_it_matters": "Speglar den ideologiska klyftan inom AGI-rörelsen mellan snabb kommersiell utveckling och rigorös säkerhetsforskning (safety vs. scaling).",
+      "title": "Varför Anthropic-chefen Dario Amodei har retat upp OpenAI och andra AI-kollegor",
+      "summary": "Genom att öppet och högljutt varna för de existentiella riskerna med artificifik intelligens har **Anthropic**-chefen skapat spänningar inom branschen.",
+      "why_it_matters": "Belyser den ideologiska klyftan mellan de bolag som driver på för snabb AGI-utveckling och de som förespråkar strikt försiktighet.",
       "category": "AGI & Forskning",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
@@ -162,29 +132,9 @@
       "date": "2026-11-17"
     },
     {
-      "title": "Med Jensen Huang borta förlorar AI-industrin sin mäktigaste förespråkare i Washington",
-      "summary": "Nvidias tidigare chef, som stod president Trump nära, drev framgångsrikt på för mindre reglering och öppna gränser för **chip-försäljning**.",
-      "why_it_matters": "Visar hur beroende hårdvarusektorn har varit av enskilda företagsledares politiska inflytande.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-ai-policy-fjkz/12biz-ai-policy-fjkz-mediumSquareAt3X-v2.jpg",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "Nvidias skandal utlöser en flod av AI-genererade memes",
-      "summary": "Avslöjandena kring Jensen Huang inspirerade till mängder av **sociala medier**-inlägg skapade med precis den teknik som hans eget företag varit med och möjliggjort.",
-      "why_it_matters": "Ett kulturellt fenomen som visar hur snabbt AI-verktyg anammas för satir och memekultur i samband med stora tech-nyheter.",
-      "category": "LLM & Modeller",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "Vem kan ersätta Jensen Huang som Nvidias VD? Här är sju kandidater.",
-      "summary": "President Trump föreslog Apples tidigare VD Tim Cook som ersättare, men här är andra ledare med gedigen erfarenhet av **chiputveckling** och AI.",
-      "why_it_matters": "Valet av ny VD kommer att diktera om Nvidia fortsätter sin aggressiva AI-strategi eller ändrar inriktning.",
+      "title": "Vem kan ersätta Jensen Huang som Nvidias VD? Här är sju kandidater",
+      "summary": "Efter det abrupta vd-bytet spekuleras det vilt kring vem som ska leda chipjätten, där namn som Apples tidigare chef nämns tillsammans med andra tungviktare inom kisel och AI.",
+      "why_it_matters": "Valet av efterträdare kommer att definiera om företaget bibehåller sitt tekniska och marknadsmässiga monopol.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html",
@@ -192,13 +142,63 @@
       "date": "2026-11-17"
     },
     {
-      "title": "Nvidias aktie rasar efter att Jensen Huang avgår som VD",
-      "summary": "Beskedet att chipjättens legendariska chef lämnar sin post fick **Nvidias aktiekurs** att sjunka kraftigt, medan den bredare marknaden steg svagt.",
-      "why_it_matters": "Belyser hur känsliga finansmarknaderna är för förändringar i ledarskapet hos de mest centrala AI-infrastrukturbolagen.",
-      "category": "AI-Hårdvara",
+      "title": "Nvidia-skandalen släpper lös en flod av AI-genererade memes",
+      "summary": "Avslöjandena kring Jensen Huang har omedelbart besvarats av internetkulturen med avancerade, humoristiska **AI-fakes** skapade med den teknik som företaget självt varit med och revolutionerat.",
+      "why_it_matters": "Ett kulturellt kvitto på hur snabbt syntetiskt innehåll används för att kommentera dagsaktuella tech-skandaler.",
+      "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Science Corporations hjärnteknik värderas till 3,5 miljarder dollar efter ny finansiering",
+      "summary": "Företaget har tagit in en D-runda på 400 miljoner dollar för att skala upp sin verksamhet inom gränssnitt mellan hjärna och dator, med initialt fokus på att bota blindhet.",
+      "why_it_matters": "Visar att BCI-teknik (Brain-Computer Interfaces) lockar enormt institutionellt kapital parallellt med AI-boomen.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "image_url": "",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Cybersecurity-startupsatsningen Corma når enhjälmarsvärdering på 3 månader",
+      "summary": "Endast tre månader efter produktlansering har AI-säkerhetsbolaget säkrat en A-runda på 125 miljoner dollar till en värdering på 1 miljard dollar.",
+      "why_it_matters": "Ett extremt exempel på hur snabbt AI-inriktade cybersäkerhetsbolag kan växa i takt med ökade digitala hot.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "image_url": "",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Jordan Belforts nya AI-röststartupsatsning Tone vill sälja som 'Wolf of Wall Street'",
+      "summary": "En ny röst-AI-plattform lanserad av den ökända finansprofilen påstår sig kunna stänga affärer i princip lika effektivt som mänskliga säljare.",
+      "why_it_matters": "Demonstrerar hur syntetisk röst- och övertygelse-AI aggressivt appliceras på B2B-försäljning och kundinteraktioner.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "image_url": "",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "OpenAI lanserar ny bildklassificerare och ChatGPT-varningar för att bekämpa CSAM",
+      "summary": "Genom att införa automatiska spärrar och tillfälliga avstängningar på 24 timmar vid försök att nå otillåtet material skärper **OpenAI** säkerheten kring sina bildgenererande system.",
+      "why_it_matters": "Viktigt proaktivt säkerhetsarbete för att förhindra att generativ AI utnyttjas för olagligt innehåll.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "image_url": "",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Apple lanserar ny app för att studera hur människor använder AI för hälsa",
+      "summary": "Teknikjätten drar igång en omfattande studie där en ny app samlar in data om hur konsumenter interagerar med AI för att besvara vardagliga medicinska frågor.",
+      "why_it_matters": "Ger insikter i hur AI-driven hälsovägledning faktiskt tas emot och används av den breda allmänheten.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "image_url": "",
       "date": "2026-11-17"
     }
   ]
