@@ -1,260 +1,410 @@
 {
-  "updated_at": "2026-11-19 15:34 UTC",
+  "updated_at": "2026-11-20 00:31 UTC",
   "executive_briefing": [
-    "Historiskt toppmöte i Kina: Donald Trump, Xi Jinping och Vladimir Putin har mötts och utfärdat en gemensam uttalande om kärnvapen och fred.",
-    "Milstolpe i FN-domstolen (ICJ): Domstolen slår fast att Myanmar är skyldigt till folkmord på den muslimska minoriteten rohingyer.",
-    "Rekordsläppet av GTA 6: Det efterlängtade tv-spelet släpptes vid midnatt och väntas slå försäljningsrekord världen över."
+    "FN:s högsta domstol har slagit fast att Myanmar gjort sig skyldigt till folkmord mot rohingyaminoriteten, vilket är första gången en stat fälls under folkmordskonventionen.",
+    "Ledarna för USA, Kina och Ryssland har mötts i ett historiskt trepartstoppmöte i Kina och presenterat en gemensam fredsdeklaration, samtidigt som kriget i Ukraina fortsätter att trappas upp.",
+    "Spelvärlden lamslås av lanseringen av Grand Theft Auto 6, samtidigt som AI-bolaget Anthropic genomför en historisk börsdebut som ett av världens högst värderade publika företag."
   ],
   "articles": [
     {
-      "title": "Historiskt toppmöte: Trump, Xi och Putin utfärdar fredsdeklaration",
-      "summary": "För första gången har de tre stormaktsledarna **Donald Trump**, Xi Jinping och Vladimir Putin hållit ett trepartsmöte i kinesiska Shenzhen. Ledarna uttalade sig gemensamt om att ett **kärnvapenkrig** aldrig kan vinnas och aldrig får utkämpas.",
-      "why_it_matters": "Mötet markerar en betydande och ovanlig diplomatisk händelse med potential att påverka den globala säkerhetspolitiken och kriget i Ukraina.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "FN-domstolen slår fast: Myanmar begick folkmord mot rohingyer",
-      "summary": "Internationella domstolen i Haag (ICJ) har för första gången hållit en stat direkt ansvarig för överträdelser av **FN:s folkmordskonvention**. Rättsfallet rör de storskaliga övergreppen och fördrivningen av **rohingyer** år 2017.",
-      "why_it_matters": "Domen sätter ett starkt rättsligt prejudikat för internationell utkrävbarhet vid statliga massövergrepp och folkmord.",
+      "title": "FN-domstol: Myanmar skyldigt till folkmord på rohingyer",
+      "summary": "Internationella domstolen i Haag (**ICJ**) slår i en historisk dom fast att staten Myanmar begick folkmord mot den muslimska minoritetsgruppen rohingya under militäroffensiven 2017. Domen utgör första gången någonsin som en stat fälls för brott mot **FN:s folkmordskonvention** från 1948.",
+      "why_it_matters": "Domen sätter ett globalt prejudikat för statsansvar vid folkmord och kan få direkt betydelse för andra pågående folkrättsliga processer.",
       "category": "Världen",
       "source": "NYT > World News",
       "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
       "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-hkzc/19myanmar-icj-hkzc-mediumSquareAt3X-v2.jpg",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Grand Theft Auto VI släppt efter 13 års väntan",
-      "summary": "Under natten mot torsdagen lanserades tv-spelet **GTA 6**, vilket beskrivs som den största spellanseringen i historien. Spelkritiker hyllar redan titeln, samtidigt som det farhågas att lanseringen leder till storskalig **skolfrånvaro** och skolk från arbetsplatser.",
-      "why_it_matters": "Spelet förväntas slå alla tidigare finansiella rekord inom underhållningsbranschen och påverka populärkulturen under lång tid framöver.",
-      "category": "Teknik",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/varmland/nu-slapps-spelet-efter-flera-ars-vantan-gta-ar-viktigare-an-skolan",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Volvo döms betala 23 miljoner kronor efter allvarlig fabriksolycka",
-      "summary": "Biljätten **Volvo Personvagnar** döms till en företagsbot på 23,2 miljoner kronor efter en olycka i Olofström där en anställd nästan klämdes till döds. Utredningen visade på stora brister i **arbetssäkerheten**.",
-      "why_it_matters": "Det är en av de högsta företagsböter som utdömts i Sverige för brister i arbetsmiljön.",
-      "category": "Ekonomi",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/blekinge/volvo-doms-att-betala-23-miljoner-kronor-efter-allvarlig-olycka",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Misstänkt kabelsabotage i Östersjön utlöser första NATO-insatsen",
-      "summary": "Efter att ännu en underhavskabel skadats i **Östersjön** har NATO inlett sitt första koordinerade svar på misstänkt sabotage mot kritisk **infrastruktur**.",
-      "why_it_matters": "Händelsen visar på den ökande sårbarheten och spänningen kring undervattensinfrastruktur i Sveriges närområde.",
+      "title": "Trump, Putin och Xi presenterar fredsdeklaration efter historiskt toppmöte",
+      "summary": "USA:s president **Donald Trump**, Rysslands **Vladimir Putin** och Kinas **Xi Jinping** har hållit ett första gemensamt toppmöte i Shenzhen. Ledarna enades bland annat om att kärnvapenkrig aldrig kan vinnas, men mötet resulterade inte i några konkreta genombrott kring kriget i Ukraina.",
+      "why_it_matters": "Ett direkt trepartssamtal mellan världens tre mäktigaste kärnvapennationer markerar en ny fas i den globala säkerhetsordningen.",
       "category": "Världen",
-      "source": "WSJ.com: World News",
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Sex elever åtalas för grova våldsbrott på Sigtunaskolan",
-      "summary": "Efter en tids utredning om kränkningar på **Sigtunaskolans humanistiska läroverk** åtalas nu sex elever. Två av dem står åtalade för bland annat grovt **sexuellt ofredande** och grov misshandel.",
-      "why_it_matters": "Åtalet sätter på nytt sökarljuset på elitinternatskolors kultur och elevers trygghet.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Ytterligare fördröjning för återstarten av reaktor 3 på Ringhals",
-      "summary": "Energibolaget meddelar att återstarten av **Ringhals 3** skjuts upp ännu en gång. Nytt beräknat datum för driftstart är nu den **20 december**.",
-      "why_it_matters": "Förseningar i kärnkraftsproduktionen kan påverka den svenska elförsörjningen och elpriserna under vinterperioden.",
-      "category": "Ekonomi",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/halland/ytterligare-forsening-av-reaktorstart-pa-ringhals",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Norska skidstjärnan Skistad talar ut om sexuella trakasserier",
-      "summary": "Längdstjärnan **Kristine Stavås Skistad** har för första gången kommenterat anklagelserna om sexuella trakasserier mot sin tidigare tränare. Hon beskriver den senaste tiden som en **mardröm**.",
-      "why_it_matters": "Fallet har skakat norsk längdskidåkning och väckt debatt om maktstrukturer inom elitidrotten.",
-      "category": "Sport",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/sport/langdskidor/kristine-stavas-skistad-talar-ut-varit-som-en-mardrom",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "DO riktar kritik mot tystnadskultur på Lundsbergs skola",
-      "summary": "Diskrimineringsombudsmannen (DO) har granskat **Lundsbergs skola** i Värmland. Skolan får hård kritik för brister i arbetet mot **tystnadskultur** och kränkningar.",
-      "why_it_matters": "Visar på fortsatta tillsynsproblem vid svenska internatskolor gällande elevsäkerhet och likbehandling.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/varmland/do-riktar-kritik-mot-tystnadskulturen-pa-lundsbergs-skola",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Van Gogh-målning såld för rekordbeloppet 1,9 miljarder kronor",
-      "summary": "Vincent van Goghs verk **\"Châtaigniers en fleurs\"** har sålts på auktion för motsvarande 1,9 miljarder kronor. Försäljningen skedde efter en långvarig tvist om målningens **nazistrelaterade proveniens**.",
-      "why_it_matters": "Det är en av de högsta auktionssummorna någonsin för ett konstverk och belyser restitutionstvister kring nazi-rövat konstgods.",
-      "category": "Kultur",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-19"
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
     },
     {
-      "title": "Fågelinfluensa hotar svensk äggproduktion",
-      "summary": "Utbrott av **fågelinfluensa** utgör ett växande hot mot svenska hönserier och kan leda till brist på ägg i butikerna. **Svenska Ägg** betonar dock att det inte finns någon risk med att äta ägg.",
-      "why_it_matters": "Smittan kan leda till utslagning av besättningar och högre livsmedelspriser för konsumenter.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/fagelinfluensan-kan-paverka-aggproduktion-det-har-behover-du-veta",
-      "image_url": "",
-      "date": "2026-11-19"
+      "title": "Putin utesluter vapenvila och varnar för hämnd efter attack mot Krimbron",
+      "summary": "Rysslands president **Vladimir Putin** har avvisat alla förhandlingar om vapenvila med Ukraina efter en omfattande ukrainsk attack mot **Krimbron**. Putin varnade för att det ryska svaret kommer att bli betydligt mer kännbart för Ukraina.",
+      "why_it_matters": "Attacken mot den strategiskt och symboliskt viktiga bron eskalerar konflikten och stänger dörren för diplomatiska samtal på kort sikt.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
     },
     {
-      "title": "Naturskyddsföreningen överklagar 2027 års licensjakt på varg",
-      "summary": "**Naturskyddsföreningen** har valt att överklaga beslutet om nästa års vargjakt. Föreningen anser att **vargstammen** behöver ett starkare skydd för att bevara sin genetiska status.",
-      "why_it_matters": "Vargjakten är en ständigt infekterad fråga i svensk miljö- och landsbygdspolitik.",
-      "category": "Klimat",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/dalarna/naturskyddsforeningen-overklagar-vargjakten-hor-hemma-i-svensk-natur",
+      "title": "Anthropic blir ett av världens mest värdefulla bolag i historisk börsnotering",
+      "summary": "AI-företaget **Anthropic** har genomfört sin börsdebut och etablerat sig som ett av världens mest värdefulla publika bolag. Noteringen är den första renodlade för ett **generativ AI-bolag** och ses som ett eldprov för hela sektorns framtida värdering.",
+      "why_it_matters": "Börsintroduktionen är en viktig värdemätare på om de astronomiska investeringarna i artificiell intelligens är hållbara på aktiemarknaden.",
+      "category": "Ekonomi",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Arkeologer använder ny teknik vid forntida Anundshög",
-      "summary": "Vid fornlämningen **Anundshög** utanför Västerås har arkeologer börjat flytta tunga stenar med modern teknik. Målet är att lösa mysteriet om när monumentet **raserades**.",
-      "why_it_matters": "Resultaten kan komma att skriva om historien kring en av Sveriges viktigaste maktplatser under järnåldern.",
+      "title": "Global spelfest: Grand Theft Auto 6 släppt efter 13 års väntan",
+      "summary": "Efter mer än ett decennium av väntan har **GTA 6** släppts globalt, vilket har utlöst en våg av ledighetsansökningar och skolk världen över. Fans och entusiaster har bunkrat proviant och tagit semester för att kasta sig in i **Rockstars** nya storspel.",
+      "why_it_matters": "Spelsläppet beskrivs som ett av underhållningshistoriens största kulturella och kommersiella fenomen med enorm ekonomisk omsättning.",
       "category": "Kultur",
       "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/har-hamtar-arkeologen-ledtradar-om-forntida-mysterium-med-ny-teknik",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/nya-gta-6-ar-har-rimligt-att-skippa-skola-och-jobb",
       "image_url": "",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Venezuela ingår militäravtal med USA efter Maduros avgång",
-      "summary": "Mindre än ett år efter att Nicolás Maduro avsattes har Venezuela undertecknat ett omfattande **militärt samarbetsavtal** med USA. Den amerikanska försvarsledningen beskriver landet nu som en **säkerhetspartner**.",
-      "why_it_matters": "Det geopolitiska läget i Latinamerika förändras i grunden när USA återfår inflytande i det oljerika landet.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Israels militär genomför räddningsinsats och markräd i Gaza",
-      "summary": "Israels armé har klistrat sig bortom den så kallade **gula linjen** i Gaza för att förstöra en tunnel. **Hamas** fördömer insatsen och kallar den ett uppenbart brott mot vapenvilan.",
-      "why_it_matters": "Militära rörelser över vapenvilelinjen ökar risken för att det sköra eldupphöret spricker.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "USA tar över jättegruva i Kenya framför kinesiska konkurrenter",
-      "summary": "Ett amerikanskt konsortium har vunnit rättigheterna till **Mrima Hill-gruvan** i Kenya, värderad till över 60 miljarder dollar. Fyndigheten innehåller stora mängder **kritiska mineraler**.",
-      "why_it_matters": "Affären är en viktig seger för USA i den globala kapplöpningen mot Kina om sällsynta metaller.",
+      "title": "Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång",
+      "summary": "Omkring 5 000 resenärer hos flygbolaget **Norwegian** uppmanas att omedelbart spärra sina bankkort. Orsaken är ett allvarligt **dataintrång** hos en av flygbolagets externa IT-leverantörer.",
+      "why_it_matters": "Händelsen visar sårbarheten i företags underleverantörsled och riskerar att leda till omfattande kortbedrägerier för konsumenter.",
       "category": "Ekonomi",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
       "image_url": "",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Hakeem Jeffries nomineras till talman i USA:s representanthus",
-      "summary": "Demokraterna har valt **Hakeem Jeffries** som sin kandidat till talmansposten. Han blir därmed den första **mörkhyade ledamoten** att leda kammaren när partiet tar över i januari.",
-      "why_it_matters": "Markerar ett historiskt skifte i den amerikanska kongressens ledarskap.",
-      "category": "Världen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Grönland ändrar tidszon – flyttar närmare USA",
-      "summary": "Politiker på Grönland har röstat för att ändra öns **tidszon** med en timme. Beslutet tas för att minska avståndet till tidigare kolonialmakten Danmark och komma närmare **Nordamerika**.",
-      "why_it_matters": "En symbolisk och praktisk förändring i Grönlands strävan efter ökat oberoende från Europa.",
+      "title": "Europeiska ambassader skadade vid massivt rysk drönaranfall mot Kiev",
+      "summary": "Både Nederländernas och Österrikes ambassadkomplex i Kiev skadades när Ryssland genomförde en omfattande svärmattack med **drönare**. Inga diplomater skadades, men **EU-sändebudet** rapporterar att en explosion skedde alldeles intill hennes hotell.",
+      "why_it_matters": "Att diplomatiska representationer träffas ökar spänningen mellan europeiska stater och Ryssland samt understryker det akuta hotet mot civil infrastruktur i Ukraina.",
       "category": "Världen",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/00INT-Greenland-Time-Zone-jqlw/00INT-Greenland-Time-Zone-jqlw-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
     },
     {
-      "title": "Houthirobotar skadar skyskrapa i Saudiarabiens huvudstad",
-      "summary": "Fönster krossades på den skyskrapa i Riyadh som huserar Saudiarabiens statliga **investeringsfond (PIF)** efter att jemenitiska **Houthirörelsen** avfyrat robotar mot staden.",
-      "why_it_matters": "Attacker direkt mot finansiella hjärtan i Saudiarabien förvärrar osäkerheten i Mellanöstern.",
+      "title": "Europeiska ledare redo för förhandlingar med Ryssland om fred",
+      "summary": "Ukrainas europeiska allierade har vid ett toppmöte i Berlin meddelat att de har en enad position och står redo för **fredssamtal** med Ryssland. Målet är att hitta en väg mot att avsluta **kriget i Ukraina** på villkor som garanterar europeisk säkerhet.",
+      "why_it_matters": "Ett samlat europeiskt förhandlingsinitiativ visar på en diplomatisk offensiv för att förhindra att fredsprocessen enbart styrs av stormakterna USA, Kina och Ryssland.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Houthi-attack mot Riyadh skadar saudiska statsfondens skyskrapa",
+      "summary": "Jemenitiska Houthi-rebeller har genomfört ett luftangrepp mot Saudiarabiens huvudstad Riyadh där flera våningar i **Public Investment Funds** skyskrapa skadades. Inga dödsfall eller personskador har rapporterats, men attacken visar rebellernas förmåga till **långdistansangrepp**.",
+      "why_it_matters": "Angreppet hotar stabiliteten på den arabiska halvön och kan leda till förnyad eskalering i Mellanösternkonflikten samt påverka oljemarknaden.",
       "category": "Världen",
       "source": "NYT > World News",
       "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
       "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-saudi-pif-attack-wpcj/19int-saudi-pif-attack-wpcj-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Waymo drar tillbaka alla förarlösa taxibilar från amerikanska motorvägar",
-      "summary": "Teknikbolaget **Waymo** stoppar sina självkörande fordon på alla motorvägar i USA. Beslutet följer på ett förbud i delstaten **Kalifornien** efter flera tillbud i trafiken.",
-      "why_it_matters": "Ett bakslag för kommersialiseringen av helautomatiska och förarlösa fordon.",
-      "category": "Teknik",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Bisan Edwan har tvingats lämna Sverige",
-      "summary": "Den debatterade palestinska författaren **Bisan Edwan** har lämnat Sverige efter att hennes **uppehållstillstånd** löpt ut utan att ha förnyats.",
-      "why_it_matters": "Sätter fokus på svensk migrationspolitik och regelverket kring utländska kulturarbetares tillstånd.",
-      "category": "Kultur",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/kultur/kontroversiell-forfattare-har-lamnat-sverige",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Tåg utrymdes i Katrineholm efter larm – bombskyddet inkallat",
-      "summary": "Ett tåg på väg mellan Stockholm och Göteborg utrymdes i Katrineholm sedan en misstänkt säkerhetsrisk uppstått. **Nationella bombskyddet** sökte igenom tåget utan att hitta några **farliga föremål**.",
-      "why_it_matters": "Skapade stora störningar i den svenska stambanetrafiken och påminde om det förhöjda hotläget.",
-      "category": "Sverige",
-      "source": "SVT Nyheter",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/uppgifter-tag-har-utrymts-i-katrineholm-bombskyddet-inkallat",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Julio Iglesias utreds för sexbrott mot tidigare anställda",
-      "summary": "Den 83-årige spanske sångaren **Julio Iglesias** står inför en rättslig utredning i Karibien. Två tidigare anställda anklagar stjärnan för **övergrepp** i hans bostad under 2021.",
-      "why_it_matters": "Anklagelserna är de senaste i en rad uppmärksammade fall mot äldre kulturpersonligheter.",
-      "category": "Kultur",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Kinesisk fastighetsjätte redovisar jätteförlust",
-      "summary": "Fastighetsbolaget **Vanke**, som länge ansågs vara ett av Kinas mest stabila, rapporterar enorma förluster. Krisen i den kinesiska **fastighetssektorn** fördjupas därmed ytterligare.",
-      "why_it_matters": "Fastighetskrisen utgör ett allvarligt hot mot Kinas ekonomiska tillväxt och den globala marknaden.",
-      "category": "Ekonomi",
-      "source": "WSJ.com: World News",
-      "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Naturskydd och handelsmässa möts på klimatmötet COP31 i Turkiet",
-      "summary": "Deltagarantalet sätter rekord under FN:s klimatmöte **COP31** i Turkiet. Evenemanget beskrivs som en blandning av kommersiell **handelsmässa** och politiskt toppmöte.",
-      "why_it_matters": "Mötet är avgörande för om världens länder kan enas om konkreta finansieringsmål i klimatfrågan.",
+      "title": "USA auktionerar ut havsbotten i Stilla havet för djuphavsutvinning",
+      "summary": "USA har för första gången sålt rättigheter att kartlägga och förbereda **djuphavsutvinning** över 31,5 miljoner tunnland havsbotten. Bolaget **Wetstone U.S. Ventures** betalade sex miljoner dollar trots starka invändningar från miljögrupper och en federal domare.",
+      "why_it_matters": "Beslutet banar väg för en kontroversiell brytning av kritiska mineraler på djuphavsbottnen som kan få oöverskådliga konsekvenser för marina ekosystem.",
       "category": "Klimat",
       "source": "NYT > World News",
-      "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
+      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Grönland byter tidszon för att närma sig USA",
+      "summary": "Grönlands parlament har röstat för att ändra öns **tidszon** med en timme för att minska avståndet till USA och avlägsna sig från Danmark. Beslutet är ett tydligt geopolitiskt drag av **Grönland** att stärka banden med den nordamerikanska kontinenten.",
+      "why_it_matters": "Tidszonsbytet speglar Arktis ökande strategiska betydelse och Grönlands strävan efter självständighet från Köpenhamn till förmån för närmare relationer med Washington.",
+      "category": "Världen",
+      "source": "NYT > World News",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/00INT-Greenland-Time-Zone-jqlw/00INT-Greenland-Time-Zone-jqlw-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Kalifornien granskar Nvidia för AI-chipsexport till Kina",
+      "summary": "Myndigheter i Kalifornien har inlett en utredning mot chiptillverkaren **Nvidia** gällande påstådda leveranser av **avancerade AI-processorer** till Kina. Granskningen följer i spåren av tidigare vd:n Jensen Huangs avgång.",
+      "why_it_matters": "Utredningen adresserar kärnan i det teknologiska handelskriget mellan USA och Kina och kan påverka hela den globala halvledarindustrin.",
+      "category": "Teknik",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Venezuela sluter försvarsavtal med USA efter Maduros fall",
+      "summary": "Mindre än ett år efter Nicolas Maduros avgång har **Venezuela** undertecknat ett omfattande militärt samarbetsavtal med USA. Landet har gått från ett säkerhetshot till en aktiv **säkerhetspartner**, enligt USA:s försvarsminister.",
+      "why_it_matters": "Avtalet innebär en dramatisk förändring av maktbalansen i Sydamerika och stärker USA:s inflytande i regionen.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "USA slår Kina i strid om jättefyndighet av mineraler i Kenya",
+      "summary": "Ett amerikanskt konsortium har säkrat ett gruvkontrakt för Mrima Hill i Kenya som uppskattas rymma **kritiska mineraler** värda över 60 miljarder dollar. Avtalet ses som en stor seger mot konkurrerande **kinesiska intressen** i regionen.",
+      "why_it_matters": "Kontrollen över sällsynta jordartsmetaller och strategiska mineraler är avgörande för den gröna omställningen och global försvarsindustri.",
+      "category": "Ekonomi",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "SVT-granskningen ”Hatet” tilldelas Stora journalistpriset",
+      "summary": "SVT:s uppmärksammade dokumentärgranskning ”Hatet” om influeraren Joakim Lundell har belönats med **Stora journalistpriset** i kategorin ”Årets förnyare”. Priset togs emot av journalisten **Bo-Göran Bodin** för ett arbete som väckt intensiv debatt.",
+      "why_it_matters": "Granskningen sätter ljus på influerarvärldens makt och nätets drevkultur samt belönar nyskapande undersökande journalistik.",
+      "category": "Kultur",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/svt-granskningen-hatet-far-stora-journalistpriset-i-kategorin-arets-fornyare",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Casinodaddy stängs ner från Youtube efter SVT-avslöjande",
+      "summary": "Efter en granskning från SVT har Youtube släckt ner den stora kanalen **Casinodaddy** för svenska tittare. Kanalen har marknadsfört **olicensierade nätcasinon** och lockat hundratusentals tittare med oreglerat spel.",
+      "why_it_matters": "Nedstängningen markerar en skärpning mot illegal spelreklam på sociala plattformar riktad mot svenska konsumenter och unga.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/efter-svts-granskning-casinodaddy-ar-borta-fran-youtube",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Färjestad tangerar 51 år gammalt rekord efter 15:e raka segern",
+      "summary": "**Färjestad BK** fortsätter sin dominans i SHL och tog sin femtonde raka seger efter vinst mot Frölunda. Därmed tangerar Karlstadslaget ett **historiskt rekord** från 1970-talet efter ett modigt drag i förlängningen.",
+      "why_it_matters": "Prestationen är en av de mest imponerande sviterna i svensk hockeyhistoria och befäster klubbens favoritskap inför slutspelet.",
+      "category": "Sport",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/sport/ishockey/farjestad-tog-15e-raka-segern-efter-kaxiga-draget",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Frida Karlsson slipar på ny detalj inför skidsäsongen",
+      "summary": "Efter förra säsongens framgångar siktar längdstjärnan **Frida Karlsson** på att nå en ny nivå genom att justera en specifik teknisk detalj. Hon berättar för SVT Sport att förändringen varit en **stor utmaning** i förberedelserna.",
+      "why_it_matters": "Sveriges främsta längdskidåkare finjusterar formen inför världscupen och mästerskap, där marginalerna i toppen är minimala.",
+      "category": "Sport",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/sport/langdskidor/har-ar-detaljen-som-frida-karlsson-slipat-pa-varit-en-utmaning",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Kristine Stavås Skistad bryter tystnaden om sexuella trakasserier",
+      "summary": "Norska skidstjärnan **Kristine Stavås Skistad** har för första gången på månader uttalat sig efter anklagelser mot sin tidigare tränare för **sexuella trakasserier**. Hon beskriver det senaste året som en mardröm och en extrem prövning.",
+      "why_it_matters": "Hennes berättelse sätter fokus på idrottsrörelsens problem med maktmissbruk och trakasserier på absolut elitnivå.",
+      "category": "Sport",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/sport/langdskidor/kristine-stavas-skistad-talar-ut-varit-som-en-mardrom",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Fågelinfluensan hotar svensk äggproduktion",
+      "summary": "Utbrott av **fågelinfluensa** hotar att minska tillgången på svenska ägg, varnar branschorganisationen **Svenska Ägg**. Konsumenter försäkras dock om att det inte föreligger någon hälsorisk med att äta ägg.",
+      "why_it_matters": "Smittan kan leda till produktionsbortfall och höjda livsmedelspriser för svenska hushåll under vintern.",
+      "category": "Ekonomi",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/fagelinfluensan-kan-paverka-aggproduktion-det-har-behover-du-veta",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Över 2 000 elkunder strömlösa i Jämtland",
+      "summary": "Ett omfattande elavbrott drabbade drygt 2 000 hushåll hos bolaget **Jämtkraft** under torsdagskvällen. Som mest var över 2 700 kunder utan **elström** i kylan.",
+      "why_it_matters": "Avbrottet belyser sårbarheten i det norrländska elnätet under inträdet i den kalla vintersäsongen.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "KD-ministern varnar Centerpartiet i infekterad skogsstrid",
+      "summary": "Landsbygdsminister **Peter Kullgren** (KD) anklagar Socialdemokraterna för utpressning mot Centerpartiet gällande **äganderätten till skogen**. Ministern kallar regeringens agerande i förhandlingarna för ett rent hot.",
+      "why_it_matters": "Skogsfrågan är en central politisk stridspunkt som kan avgöra framtida regeringsunderlag och svensk näringspolitik.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "DO riktar skarp kritik mot tystnadskultur på Lundsberg",
+      "summary": "Diskrimineringsombudsmannen (**DO**) riktar hård kritik mot den anrika internatskolan **Lundsbergs skola** efter en omfattande utredning. Skolan bedöms ha brustit i att hantera kränkningar och en rådande tystnadskultur bland eleverna.",
+      "why_it_matters": "Beslutet sätter nytt juridiskt och etiskt tryck på internatskolors ansvar för elevers trygghet och likabehandling.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/do-riktar-kritik-mot-tystnadskulturen-pa-lundsbergs-skola",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Man död i arbetsplatsolycka i Överum",
+      "summary": "En man i 35-årsåldern har avlidit efter en svår **arbetsplatsolycka** på ett företag i Västerviks kommun. Händelsen utreds av polisen och **Arbetsmiljöverket**.",
+      "why_it_matters": "Dödsolyckan belyser fortsatta brister i industrins säkerhetsrutiner och krav på skärpt arbetsmiljöansvar.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/man-i-35-arsaldern-dod-efter-olycka-pa-arbetsplats",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Äldre man omkom i brand i Gnosjö kommun",
+      "summary": "En äldre man har omkommit efter en fullt utvecklad **brand i ett bostadshus** i Hillerstorp. Trots snabba räddningsinsatser gick mannens liv inte att rädda, meddelar **sjukvården**.",
+      "why_it_matters": "Händelsen understryker brandriskerna i äldre bostäder när uppvärmningssäsongen drar igång.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/en-person-dod-efter-brand-i-gnosjo",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Fyra till sjukhus efter trafikolycka på E4 utanför Norrköping",
+      "summary": "Flera bilar var inblandade i en allvarlig krock på **E4** som ledde till totalstopp i trafiken. Fyra personer har förts med ambulans till sjukhus med **oklara skador**.",
+      "why_it_matters": "Olyckan orsakade omfattande trafikstörningar längs en av landets viktigaste transportleder och belyser halkrisker på vägarna.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/totalstopp-efter-krock-pa-e4-tva-bilar-inblandade",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Villa övertänd i Piteå – två förda till sjukhus",
+      "summary": "En suterrängvilla i Piteå drabbades av en kraftig brand där övervåningen slogs ut av öppna lågor. Två boende fick evakueras och föras till sjukhus med **rökskador** enligt **räddningstjänsten**.",
+      "why_it_matters": "Snabb brandspridning i trähus utgör en ständig utmaning för räddningsstyrkor i vinterväder.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/hel-overvaning-i-brand-i-pitea-en-person-till-sjukhus",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "IVO godkänner åtgärder efter skandalen med barnhjärtläkaren",
+      "summary": "Inspektionen för vård och omsorg (**IVO**) avslutar sin granskning efter anmälan mot en barnhjärtläkare i Jönköping. Myndigheten bedömer att **Region Jönköpings län** har vidtagit tillräckliga åtgärder för att förhindra upprepning.",
+      "why_it_matters": "Beslutet sätter punkt för en långdragen patientsäkerhetsskandal som skakat den svenska barnsjukvården.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/ivo-beslut-efter-skandalen-med-barnhjartlakaren",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Intensiv polisutredning efter brutalt kryptorån i Tenhult",
+      "summary": "Polisen arbetar intensivt med utredningen kring ett grovt rån i Tenhult där offer tvingats föra över **kryptovalutor**. Inga misstänkta har ännu gripits av **polisen**.",
+      "why_it_matters": "Riktade rån i hemmen mot ägare av digitala tillgångar är en växande form av grov organiserad brottslighet.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/intensivt-lage-i-utredningen-om-kryptoranet",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "EPA-kortege i Mjölby manifesterar mot mäns våld mot kvinnor",
+      "summary": "Ungdomar i Mjölby har samlats i en stor **EPA-kortege** för att uppmärksamma den internationella kampanjen Orange week. Manifestationen syftar till att ta tydlig ställning mot **mäns våld mot kvinnor**.",
+      "why_it_matters": "Engagemanget visar hur ungas motorkultur kan kanaliseras till viktiga samhällsfrågor och opinionsbildning.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/epa-kortege-i-mjolby-mans-vald-mot-kvinnor-ska-inte-finnas",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Ny teknik ska lösa mysteriet vid Anundshög",
+      "summary": "Arkeologer lyfter tonstora stenblock vid fornlämningen **Anundshög** i Västerås med hjälp av modern analysteknik. Målet är att datera när de monumentala **fornlämningarna** raserades och skriva om platsens historia.",
+      "why_it_matters": "Undersökningarna kan kasta nytt ljus över maktstrukturer och samhällsförändringar i det förkristna Sverige.",
+      "category": "Kultur",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/har-hamtar-arkeologen-ledtradar-om-forntida-mysterium-med-ny-teknik",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Expertpanel reder ut lagligheten bakom VPN och geoblockering",
+      "summary": "Var fjärde svensk använder nu **VPN-tjänster** för att kringgå geografiska spärrar på streamingtjänster och TV-program. Jurister och **internetexperter** förklarar var gränsen går mellan användaravtal och lagstiftning.",
+      "why_it_matters": "Frågan berör upphovsrätt och digital frihet för miljontals användare i en allt mer uppdelad global mediemarknad.",
+      "category": "Teknik",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/uutiset/svenska/experterna-svarar-far-man-anvanda-vpn-for-att-se-geoblockerade-program",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Kalle i Kiruna nekas bygga badrum på statligt arrende",
+      "summary": "En boende utanför Kiruna nekas av **länsstyrelsen** att bygga dusch och tvättstuga på sitt statliga arrende utan motivering. Beslutet kan inte överklagas, vilket tvingar honom att pendla till barnen för att **sköta hygienen**.",
+      "why_it_matters": "Fallet belyser enskildas rättsosäkerhet och myndighetsbyråkrati vid statliga markarrenden i glesbygd.",
+      "category": "Sverige",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Dussintals saknas efter att migrantbåt förlist utanför Senegal",
+      "summary": "Minst fyra personer har bekräftats döda och tiotals saknas efter att en båt med upp till 100 **migranter** sjunkit utanför Senegals kust. Räddningsinsatser pågår i **Atlanten** för att hitta överlevande.",
+      "why_it_matters": "Katastrofen är ytterligare en påminnelse om de livsfarliga flyktvägarna mot Europa som tusentals tvingas ta varje år.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Pastor döms i USA för inblandning i mordet på Haitis president",
+      "summary": "En federal domstol i Florida har funnit pastorn **Christian Emmanuel Sanon** skyldig till delaktighet i attentatet mot Haitis president **Jovenel Moïse** 2021. Sanon planerade att ta makten i landet efter mordet.",
+      "why_it_matters": "Domen klargör delar av den internationella konspiration som kastade Haiti in i totalt politiskt kaos och gängvälde.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Van Gogh-tavla såld för rekordbeloppet 190 miljoner dollar",
+      "summary": "Ett mästerverk av **Vincent van Gogh**, målat under konstnärens sista månader i livet, har sålts på auktion för rekordbeloppet **190,4 miljoner dollar**. Försäljningen genomfördes efter att en långdragen tvist om verkets nazistiska plundringshistoria lösts.",
+      "why_it_matters": "Priset gör tavlan till en av de dyraste någonsin och sätter punkt för ett komplicerat fall av återbördande av krigsbyte.",
+      "category": "Kultur",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Elon Musk: Mina miljonbidrag till mellanårsvalet var ganska dumma",
+      "summary": "Miljardären **Elon Musk** har uttalat att hans rekorddonationer på 446 miljoner dollar inför USA:s mellanårsval var ganska dåraktiga. Samtidigt distanserar han sig från **Maga-rörelsen** och understryker sitt politiska oberoende.",
+      "why_it_matters": "Musks reträtt visar på spänningar mellan den inflytelserika tekniksektorn och den politiska högern i USA.",
+      "category": "Ekonomi",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Ryss gripen för spionage mot amerikanska försvarsbolaget Palantir",
+      "summary": "En rysk medborgare har gripits i USA misstänkt för att ha spionerat på anställda vid försvars- och dataanalysbolaget **Palantir**. Bolaget bistår **Ukrainas militär** med avancerade system för underrättelser.",
+      "why_it_matters": "Gripandet understryker det intensifierade underrättelsekriget som pågår direkt mot privata västerländska försvarsföretag.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Kuwait avvärjer iranskt angrepp efter amerikanska precisionsanfall",
+      "summary": "Kuwait och Bahrain rapporterar att de utsatts för **iranska luftangrepp** efter att USA bombat mål på den iranska ön Qeshm. Kuwaitiska styrkor uppger att de framgångsrikt **avvärjt attackerna**.",
+      "why_it_matters": "Direkta attacker mot Gulfstaterna riskerar att dra in hela regionen i en öppen militär konflikt med globala konsekvenser för energiförsörjningen.",
+      "category": "Världen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Internetfavoriten flodhästen Fiona har dött på Cincinnati Zoo",
+      "summary": "Den världsberömda flodhästen **Fiona** har avlidit vid nio års ålder efter att ha svalt en besökares hatt. Fiona blev en global **viralsuccé** efter att ha överlevt sin dramatiska födsel som extremprematur 2017.",
+      "why_it_matters": "Fionas död har väckt stark sorg världen över och reser frågor om säkerheten för djurparksdjur mot främmande föremål.",
+      "category": "Kultur",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "date": "2026-11-20"
     }
   ]
 }

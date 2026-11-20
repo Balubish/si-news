@@ -1,205 +1,205 @@
 {
-  "updated_at": "2026-11-19 15:34 UTC",
+  "updated_at": "2026-11-20 00:31 UTC",
   "articles": [
     {
-      "title": "Anthropics historiska börsnotering värderar bolaget till 1,5 biljoner dollar",
-      "summary": "**Anthropic**, skaparen bakom AI-modellen Claude, har officiellt prissatt sin börsintroduktion till 83 dollar per aktie och rest 81,3 miljarder dollar. Noteringen ger bolaget en värdering på drygt 1,5 biljoner dollar på fullt utspädd basis, vilket markerar en historisk milstolpe för **frontier-modeller** på den publika marknaden.",
-      "why_it_matters": "Finansieringsskalan visar på enorma marknadsförväntningar kring ledande AI-laboratorier, samtidigt som kapitalkraven för nästa generations beräkningsinfrastruktur exploderar.",
+      "title": "Google ger Gemini förmågan att styra din Mac",
+      "summary": "Googles senaste uppdatering introducerar en autonom agent via **Gemini** som kan navigera i macOS för att organisera filer, fylla i formulär och hantera flerstegsarbetsflöden. Detta flyttar **multimodala modeller** från passiv rådgivning till aktiv datorstyrning.",
+      "why_it_matters": "Markerar ett viktigt kliv mot praktiska 'Computer-Using Agents' (CUA) i konsumentoperativsystem, vilket i grunden förändrar interaktionen mellan människa och dator.",
       "category": "LLM & Modeller",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Humyn Labs tar in 47 miljoner dollar för att förse robotiksektorn med träningsdata",
-      "summary": "Det indiska bolaget **Humyn Labs** har säkrat 47 miljoner dollar i riskkapital för att möta den akuta databristen inom embodied AI. Bolaget levererar specialiserade dataset med sensormotorisk data till amerikanska utvecklare av **humanoid robotik** och autonoma system.",
-      "why_it_matters": "Skalning av fysisk AI och generella robotmodeller begränsas idag kraftigt av bristen på träningsdata från den fysiska världen jämfört med text- och bilddata på webben.",
-      "category": "Humanoid Robotik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
       "image_url": "",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Kalifornien stämmer OpenAI över bristande säkerhetsåtgärder",
-      "summary": "Delstaten Kaliforniens justitieminister har lämnat in en stämningsansökan mot **OpenAI** för underlåtenhet att implementera adekvata skyddsåtgärder kring sina mest avancerade modeller. Myndigheterna hävdar att bristen på formell granskning och riskmitigering sätter allmänhetens säkerhet på spel vid distributionen av ny **artificiell intelligens**.",
-      "why_it_matters": "Detta skapar ett juridiskt prejudikat för hur delstatliga myndigheter kan tvinga fram transparens och formella säkerhetsrutiner hos ledande frontier-bolag.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-openai-lawsuit-hfo-fzkh/16biz-openai-lawsuit-hfo-fzkh-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Nvidias AI-kretsar nådde Kinas militär via Alibaba-kluster",
-      "summary": "En undersökning avslöjar att **Alibaba** tillgängliggjort avancerad beräkningsinfrastruktur baserad på **Nvidia**-kretsar till forskningslabb med nära kopplingar till Kinas militär. Avslöjandet kastar ljus över hur svårt det är att kontrollera hårdvaruresurser när de väl driftsatts i molnet.",
-      "why_it_matters": "Detta sätter ytterligare geopolitisk press på leverantörer av AI-hårdvara och kan tvinga fram hårdare kryptografiska lås på kisel- och firmwarenivå för att förhindra otillåten fjärrkörning.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "USA täpper till kryphål för fjärråtkomst till AI-chip före Kina-möte",
-      "summary": "Den amerikanska administrationen skärper reglerna för att stänga det kryphål som låtit kinesiska företag hyra **avancerade AI-acceleratorer** i tredjelandscenter. Åtgärden syftar till att helt strypa utländsk tillgång till **beräkningskluster** optimerade för träning av frontier-modeller.",
-      "why_it_matters": "Att stänga fjärråtkomsten via datacenter skär av den sista stora kanalen för aktörer under exportembargo att träna spjutspetsmodeller på modern hårdvara.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Jensen Huang öppen för återkomst som vd för Nvidia",
-      "summary": "Efter sin plötsliga avgång mitt under interna utredningar meddelar **Jensen Huang** att han är beredd att återvända till **Nvidia** om styrelsen önskar det. Avhoppet har skapat osäkerhet kring halvledarjättens framtida produktkarta och strategiska allianser.",
-      "why_it_matters": "Nvidias CUDA-ekosystem och roadmap har varit intimt knutna till Huangs ledarskap, vilket gör ledarfrågan kritisk för hela branschens hårdvaruplanering.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-jensen-statement-vhjm/17biz-jensen-statement-vhjm-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Anthropics börsnotering testar AI-boomens cirkulära finansiering",
-      "summary": "**Anthropic** står inför massiva kapitalkrav för beräkningskapacitet när bolaget nu noteras, samtidigt som hyperscalers som **Amazon** och Google gör stora vinster på att sälja infrastrukturen tillbaka till bolaget. Noteringen blir ett stresstest för hur hållbar denna cirkulära affärsmodell är på den publika marknaden.",
-      "why_it_matters": "Modellen där teknikjättar investerar miljarder som omedelbart återvänder som molnintäkter sätts under lupp när bolagen ska redovisa faktiska marginaler för publika aktieägare.",
+      "title": "Anthropic debuterar på Wall Street som ett 2-biljonersbolag",
+      "summary": "AI-forskningslabbet **Anthropic** har genomfört sin historiska börsintroduktion och nådde under första handelsdagen en marknadsvärdering på över 1 700 miljarder dollar. Noteringen ses som en enorm milstolpe för kommersialiseringen av spetsmodeller som **Claude**.",
+      "why_it_matters": "Börsnoteringen visar investerarnas enorma förtroende och tillgodoser det extrema kapitalbehov som krävs för att bygga och träna nästa generations AGI-kluster.",
       "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-opentrades-sub-1-cvzt/19biz-anthropic-opentrades-sub-1-cvzt-mediumSquareAt3X-v2.jpg",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Anthropics vd lovar att hålla fast vid ett ansvarsfullt AI-tempo",
+      "summary": "Vid Nasdaqs öppningsklocka upprepade **Dario Amodei** sitt engagemang för att reglera och anpassa utvecklingstakten för bolagets AI-system. Han underströk att **Anthropic** inte kommer att kompromissa med säkerhetsmarginaler trots marknadens vinstförväntningar.",
+      "why_it_matters": "Sätter fokus på hur publika bolag ska balansera aktieägarkrav på snabb tillväxt mot existentiella säkerhetsrisker inom gränsöverskridande AI-forskning.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Anthropics IPO sätter AI-sektorns cirkulära finansiering på prov",
+      "summary": "Trots den framgångsrika noteringen står **Anthropic** inför enorma beräkningsåtaganden gentemot molnpartners som **Amazon** och Google. Analytiker pekar på att infrastrukturjättarna fortsätter tjäna miljarder på beräkningskraft oavsett vilken modell som leder loppet.",
+      "why_it_matters": "Belyser den cirkulära finansiella strukturen bakom storskalig AI, där kapitalflöden i praktiken slussas direkt tillbaka till datacenter och molnleverantörer.",
+      "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
       "image_url": "",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Satya Nadella: AI-agenter kommer rita om webbens ekonomiska grundvalar",
-      "summary": "Microsofts koncernchef Satya Nadella förutspår att autonoma **AI-agenter** kommer att underminera dagens annonsbaserade affärsmodeller på nätet. När personliga assistenter filtrerar information och genomför köp direkt tvingas e-handelsjättar och plattformar omdefiniera hur de attraherar **slutanvändare**.",
-      "why_it_matters": "Övergången från webbläsande människor till maskin-till-maskin-transaktioner förändrar fundamentalt sökmotoroptimering, distributionsmodeller och monetarisering av digitalt innehåll.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Nadella förklarar varför 60 000 anställda erbjöds avgångsvederlag i AI-skifte",
-      "summary": "Microsofts vd Satya Nadella motiverar beslutet att erbjuda 60 000 anställda frivilliga uppsägningspaket med behovet av en snabb strukturell omställning mot **autonoma agenter**. Målet är att frigöra kapital och resurser för ren **AI-infrastruktur** snarare än att bibehålla traditionella roller.",
-      "why_it_matters": "Detta utgör det tydligaste exemplet hittills på hur etablerade mjukvarujättar omstrukturerar hela organisationer för att anpassa sig till en agentdriven framtid.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Sam Altman varnar för en framtid där AI fattar de avgörande besluten",
-      "summary": "**OpenAI**-grundarna Sam Altman och Greg Brockman adresserar den växande oron för autonom kontrollförlust och betonar vikten av att hålla framtida system under mänsklig styrning. De understryker de tekniska utmaningarna med att bibehålla **alignment** i takt med att modellernas resonemangsförmåga överträffar mänsklig intuition.",
-      "why_it_matters": "När ledarna för frontier-laboratorierna varnar för kontrollförlust flyttas säkerhetsdebatten från teoretiska AGI-risker till omedelbara systemdesignproblem.",
-      "category": "AGI & Forskning",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Palmer Luckey varnar: AI-drivna cyberattacker springer ifrån försvaret",
-      "summary": "Andurils grundare Palmer Luckey menar att äldre IT-infrastruktur är försvarslös mot en ny våg av autonoma, **AI-drivna cyberattacker**. Enligt Luckey rör sig angreppsmetoderna så snabbt att enbart helautomatiska **maskininlärningssystem** har en chans att parera hoten i realtid.",
-      "why_it_matters": "Asymmetrin mellan AI-assisterade angreppsverktyg och manuella säkerhetsoperationer gör traditionella brandväggar och patchcykler föråldrade.",
+      "title": "Anthropics unika bolagsstruktur tvingar fram balans mellan säkerhet och vinst",
+      "summary": "Som ett Public Benefit Corporation är **Anthropic** juridiskt förpliktigat att prioritera säker utveckling av **artificiell intelligens** framför ren vinstmaximering. Strukturen syftar till att skydda organisationens säkerhetsprinciper även efter börsnoteringen.",
+      "why_it_matters": "Ett banbrytande bolagsrättsligt experiment för hur säkerhetskritiska AGI-labb kan skyddas från kortsiktigt kvartalstänk på offentliga aktiemarknader.",
       "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Nadella varnar för att stora delar av kritisk infrastruktur är omöjlig att skydda",
-      "summary": "Satya Nadella konstaterar att automatiserade **AI-verktyg** upptäcker sårbarheter i en takt som gör att utvecklare måste rulla ut uppdateringar ögonblickligen. Samtidigt är stora delar av världens äldre digitala infrastruktur tekniskt sett omöjlig att patcha mot avancerad **cyberkrigföring**.",
-      "why_it_matters": "Kombinationen av automatiserad sårbarhetsgenerering och icke-uppdateringsbar hårdvara utgör ett allvarligt systemhot mot samhällsviktiga funktioner.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Snapchat låter utvecklare bygga AR-upplevelser med Claude Code och Cursor",
-      "summary": "Snap lanserar stöd för att skapa AR-linser direkt via naturligt språk med hjälp av kodningsagenter som **Claude Code** och **Cursor**. Utvecklare beskriver önskad funktionalitet i text och systemet genererar komplett logik och 3D-tillgångar utan manuell kodning.",
-      "why_it_matters": "Detta visar hur specialiserade LLM-kodverktyg snabbt sänker tröskeln för spatial computing och komplex 3D-programmering.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Googles AI-översikter sätter sökannonsmodellen under hård press",
-      "summary": "Tillväxten för Googles traditionella sökannonser dämpas i takt med att användare får direkta syntetiska svar genererade av **Gemini**. Övergången till generativa svar minskar klickfrekvensen på sponsrade länkar och hotar moderbolaget **Alphabets** mest centrala intäktsmotor.",
-      "why_it_matters": "Detta tvingar fram en snabb omställning mot agentisk reklam och nya betalningsmodeller för informationssökning på nätet.",
-      "category": "LLM & Modeller",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
+      "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit",
+      "image_url": "https://static01.nyt.com/images/2026/11/15/multimedia/19anthropic-ipo-public-benefit-version/19anthropic-ipo-public-benefit-version-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
     },
     {
-      "title": "Nvidias interims-vd Colette Kress manar till lugn efter ledarskiftet",
-      "summary": "Under ett all-hands-möte med anställda försökte Nvidias tillförordnade vd **Colette Kress** tona ner dramatiken efter grundaren Jensen Huangs avgång. Hon framhöll att fokus ligger kvar på att säkra leveranser av nästa generations **GPU-arkitekturer** till globala hyperscalers.",
-      "why_it_matters": "Att säkerställa operationell kontinuitet hos den dominerande chiptillverkaren är helt avgörande för att undvika flaskhalsar i globala datacenterbyggen.",
-      "category": "AI-Hårdvara",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Banker friskriver sig från ansvar för kunder som använder autonoma agenter",
-      "summary": "Flera storbanker, däribland Citi, klargör att kunder som låter **AI-agenter** hantera privatekonomi och utföra bankärenden bär hela ansvaret själva vid eventuella intrång eller feltransaktioner. Initiativet sätter stopp för oreglerade tredjepartsagenter med fullmakt på kunders **finansiella konton**.",
-      "why_it_matters": "Tydliggör den juridiska friktionen när autonoma mjukvaruagenter interagerar med hårt reglerade finansiella transaktionslager.",
-      "category": "Säkerhet & Etik",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Nvidia stramar åt reglerna för finansiering av specialiserade AI-moln",
-      "summary": "Nvidias ledning specificerar villkoren för när bolaget garanterar lån till datacenteroperatörer inom så kallade **neoclouds**. Garantier ges hädanefter enbart om anläggningen har extern grundfinansiering och fullt ut rullar ut verifierad **Nvidia-hårdvara**.",
-      "why_it_matters": "Detta signalerar en mognare och mer återhållsam fas i utbyggnaden av AI-beräkningscenter efter en period av okontrollerad skuldsättning.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "OpenAI: Balansen mellan säkerhetskrav och utvecklingstakt blir allt svårare",
-      "summary": "Under DealBook Summit konstaterade ledningen för **OpenAI** att det är omöjligt att göra alla parter nöjda i avvägningen mellan riskmitigering och distributionshastighet. Företaget argumenterar för att bred empirisk testning av nya **resonemangsmodeller** är den enda realistiska vägen till robust säkerhet.",
-      "why_it_matters": "Belyser den djupa klyftan mellan formell teoretisk säkerhetsforskning och branschens behov av snabb kommersiell iteration.",
+      "title": "OpenAI-ledningen: Vi måste balansera AI-säkerhet och framsteg",
+      "summary": "Under DealBook Summit förklarade **Sam Altman** och Greg Brockman att **OpenAI** kontinuerligt måste navigera svåra avvägningar mellan snabb teknisk innovation och rigorös säkerhetstesting. De konstaterade att det är omöjligt att göra alla parter nöjda under kapplöpningen mot avancerad AI.",
+      "why_it_matters": "Belyser den pågående interna och externa dragkampen kring utrullningstakt, säkerhetsspärrar och transparens hos världens ledande AI-aktörer.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
       "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-altman-brockman-promo/18dealbook-summit-altman-brockman-promo-mediumSquareAt3X.png",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Superhuman bygger ut sin Go-assistent till en generell arbetsagent",
-      "summary": "Produktivitetsbolaget Superhuman gör sin AI-assistent **Go** till kärnan i hela sitt ekosystem genom djup integration i både Docs och Mail. Lösningen fungerar som en autonom **arbetsflödesagent** som kan korsreferera dokument, utforma svar och automatisera komplexa kontorsuppgifter.",
-      "why_it_matters": "Markerar steget från passiva skrivverktyg till autonoma kontorsassistenter som agerar proaktivt på tvärs över flera applikationer.",
+      "title": "Tidslinjen kring Jensen Huangs avgång och spionskandalen på Nvidia",
+      "summary": "Efter avslöjanden om en relation med kopplingar till utländsk underrättelsetjänst har **Jensen Huang** tvingats lämna vd-posten på **Nvidia**. Händelsen skakar halvledarindustrin mitt under den intensiva geopolitiska kampen om AI-infrastruktur.",
+      "why_it_matters": "Ett plötsligt ledarskapsbyte hos dominanta Nvidia kan få djupgående effekter på bolagets roadmap för GPU-arkitekturer och strategiska leveranskedjor.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Så hamnade Nvidias AI-kretsar inom räckhåll för Kinas militär",
+      "summary": "Granskningar visar hur avancerade beräkningskluster med **Nvidia**-hårdvara har kunnat nyttjas av laboratorier kopplade till Kinas försvarsmakt via molnbolag som Alibaba. Detta belyser de stora svårigheterna att upprätthålla exportkontroller av **AI-hårdvara**.",
+      "why_it_matters": "Understryker utmaningen med att begränsa tillgången till avancerad beräkningskraft för vapenutveckling och militär AI enbart via hårdvarurestriktioner.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Nvidias interim-vd Colette Kress talar till anställda efter krisen",
+      "summary": "Under ett krismöte försökte tillförordnade vd:n Colette Kress skapa arbetsro inom **Nvidia** och säkerställa att utvecklingen av nästa generations **acceleratorer** fortlöper utan avbrott. Samtidigt uttrycker storkunder som Microsoft fortsatt förtroende för bolagets tekniska leveransförmåga.",
+      "why_it_matters": "Att hålla Nvidias utvecklingstempo stabilt är kritiskt för hela tekniksektorn, som är helt beroende av bolagets tränings- och inferenschip.",
+      "category": "AI-Hårdvara",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Metas nya AI-enhet Muse Charm kan kosta 300 dollar",
+      "summary": "Uppgifter gör gällande att **Meta** förbereder en dedikerad hårdvaruenhet, Muse Charm, för omkring 300 dollar. Prylen ska fungera som en bärbar länk till bolagets **konversations-AI** och agera personlig assistent i realtid.",
+      "why_it_matters": "Visar hur teknikjättar försöker flytta AI-interaktionen från smartphones till specialiserade bärbara sensorplattformar (wearables).",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Metas AI-agent Muse blandar ihop data och kan läcka privat information",
+      "summary": "Anställda och testare larmar om att **Meta Muse** har visat bankkontosaldo, privata meddelanden och ordrar för obehöriga användare. Den autonoma **AI-agenten** har uppvisat allvarliga problem med att isolera olika sessioner och användarkonton.",
+      "why_it_matters": "Exponerar den kritiska säkerhetsrisken med tillståndskänsliga AI-agenter när backend-system misslyckas med att upprätthålla strikta datagränser.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Palmer Luckey varnar: AI-drivna cyberattacker springer ifrån försvaret",
+      "summary": "Anduril-grundaren hävdar att föråldrad infrastruktur gör organisationer försvarslösa mot en ny våg av **AI-automatiserade cyberangrepp**. Han menar att traditionella skyddsrutiner inte hinner med när **maskininlärning** används för att hitta sårbarheter i realtid.",
+      "why_it_matters": "Belyser övergången till maskinell krigföring i cyberrymden, där mänskliga säkerhetsteam måste ersättas av autonoma AI-försvarssystem för att överleva.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "AI gör teknikavbrott mer sannolika, varnar Microsofts vd",
+      "summary": "Enligt Satya Nadella innebär avancerade **AI-system** att kodsårbarheter upptäcks i ett extremt tempo, vilket tvingar bolag att rulla ut patchar omedelbart. Denna hysteriska uppdateringstakt ökar risken för att ofullständigt testad kod orsakar globala driftstopp.",
+      "why_it_matters": "Demonstrerar hur ökad automatisering i mjukvarusäkerhet skapar en instabil miljö där systemkollapser blir en bieffekt av själva skyddsåtgärderna.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-nadella-lllw/18dealbook-summit-nadella-lllw-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Satya Nadella: AI-agenter kommer att rita om webbens ekonomi",
+      "summary": "Microsofts vd förutspår att introduktionen av autonoma **AI-agenter** kommer att underminera dagens annonsdrivna affärsmodeller. När intelligenta agenter fattar köpbeslut och filtrerar information direkt ställs e-handelsjättar inför helt nya spelregler.",
+      "why_it_matters": "Omställningen från användarklick till agentmedierade transaktioner innebär ett fundamentalt paradigmskifte för sökmotoroptimering, marknadsföring och digital handel.",
+      "category": "LLM & Modeller",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Microsoft-chefen: Mycket av världens kritiska infrastruktur går inte att patcha",
+      "summary": "Vid en genomgång av moderna cyberhot konstaterade Satya Nadella att äldre nätverk och system saknar stöd för dynamisk uppdatering. Detta gör dem extremt sårbara i en era där **generativ AI** och intelligenta verktyg snabbt kan kartlägga och utnyttja säkerhetshål.",
+      "why_it_matters": "Visar på klyftan mellan hypermoderna AI-angrepp och äldre samhällsviktiga styrsystem inom energi, vatten och logistik.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Microsofts avgångspaket till 60 000 anställda kopplas till AI-omställningen",
+      "summary": "Satya Nadella förklarade att beslutet att erbjuda tiotusentals anställda utköp är ett led i att anpassa organisationen för **AI-driven automatisering**. Bolaget prioriterar om resurser från traditionella roller till teknisk utveckling och storskalig drift av **LLM-arkitektur**.",
+      "why_it_matters": "Ett av de tydligaste exemplen hittills på hur teknikjättar minskar traditionella personalkostnader för att omallokera kapital till beräkningskapacitet och AI-forskning.",
+      "category": "AGI & Forskning",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Teknikavbrott med AI-agens: En modern Y2K-kris",
+      "summary": "Flera omfattande avbrott inom flygbokningar, banksystem och molntjänster misstänks orsakas av felande **autonoma agenter** som agerar okontrollerat. Säkerhetsexperter varnar för att samspelet mellan olika **AI-system** saknar de skyddsbarriärer som krävs för att undvika kaskadfel.",
+      "why_it_matters": "Illustrerar riskerna med systemisk instabilitet när autonoma mjukvaruagenter ges mandat att manipulera produktionsdatabaser utan strikt mänsklig översyn.",
+      "category": "Säkerhet & Etik",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "image_url": "",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Google omformar sökannonseringen under trycket från AI",
+      "summary": "I takt med att användare i högre grad förlitar sig på direkta AI-svar minskar tillväxten för klassiska sökannonser hos **Google**. Bolaget tvingas nu integrera nya kommersiella format direkt i de generativa sammanfattningarna från **Gemini**.",
+      "why_it_matters": "En existentiell transformation för internets mest lukrativa affärsmodell när användarbeteendet skiftar från länklistor till direkta modellsvar.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Skoldistrikt överväger bojkott av Google Sök efter tvingande AI-funktioner",
+      "summary": "Stora skoldistrikt i New York, Los Angeles och Chicago protesterar mot att Googles sökmotor tvingar på elever AI-genererade resultat via **Gemini**. Skolorna menar att funktionerna underminerar källkritik och söker nu efter rena, **AI-fria sökalternativ**.",
+      "why_it_matters": "Belyser det pedagogiska och institutionella bakslaget mot automatisk AI-integration där användare aktivt kräver rådata framför syntetiska svar.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Superhuman bygger ut sin Go-assistent till en central agent",
+      "summary": "Produktivitetsbolaget Superhuman gör sin AI-assistent **Go** till kärnan i sitt ekosystem genom att expandera den till både dokument och e-post. Den intelligenta **agenten** kan självständigt utföra uppgifter och korsa applikationsgränser.",
+      "why_it_matters": "Ett tydligt steg mot kontextmedvetna arbetsassistenter som binder samman isolerade företagsapplikationer till ett enda agerande gränssnitt.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
       "image_url": "",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "USA:s största skoldistrikt överväger bojkotta Google Sök på grund av AI",
-      "summary": "Skoldistrikten i New York, Los Angeles och Chicago utvärderar att överge Google efter att bolaget vägrat erbjuda ett sökalternativ utan **generativa AI-svar**. Pedagoger larmar om att hallucinationer och automatiserade textsammanfattningar hämmar elevernas förmåga till självständigt och **kritiskt tänkande**.",
-      "why_it_matters": "Understryker det växande institutionella motståndet mot påtvingad integration av LLM-funktioner i miljöer där faktakontroll och inlärningsprocesser är prioriterade.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     }
   ]
 }
