@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 06:12 UTC",
+  "updated_at": "2026-11-22 19:21 UTC",
   "articles": [
     {
-      "title": "Signal begränsar mobila skärmdumpar i kampen mot AI-övervakning",
-      "summary": "Meddelandeappen **Signal** inför begränsningar för användares möjligheter att ta skärmdumpar i både Android- och iOS-apparna. Detta görs som en direkt åtgärd för att möta det existentiella hotet från **AI-övervakning**.",
-      "why_it_matters": "Markerar en viktig skiftning inom integritetsskydd där traditionella appar tvingas utveckla nya spärrar för att skydda användardata mot avancerade AI-analysverktyg.",
+      "title": "Signal begränsar skärmdumpar på mobilen i kampen mot AI-övervakning",
+      "summary": "Signal begränsar användarnas möjligheter att ta skärmdumpar i både Android- och iOS-appar. Åtgärden vidtas för att möta det växande **existentiella hotet** från **AI-övervakning**.",
+      "why_it_matters": "Visar hur krypterade meddelandetjänster tvingas anpassa sin säkerhetsarkitektur för att skydda användarnas integritet mot autonoma AI-skrapare och sofistikerad dataanalys.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-confronts-existential-threat-of-ai-surveillance/",
@@ -12,19 +12,19 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Här är de främsta AI-agenterna som integreras i dina textmeddelanden",
-      "summary": "En ny genomgång listar de mest uppmärksammade **AI-agenterna** som kan bo direkt i dina textmeddelanden. Utbudet sträcker sig från generella assistenter till specialiserade agenter för familjer, resor och arbete.",
-      "why_it_matters": "Visar hur AI-agenter flyttar från externa gränssnitt till de mest använda kommunikationskanalerna, vilket förändrar hur vi interagerar med teknik i vardagen.",
+      "title": "Här är de främsta AI-agenterna som kan bo i dina textmeddelanden",
+      "summary": "En genomgång av de mest framstående **AI-agenterna** som integreras direkt i meddelandeappar. Listan omfattar allt från generella assistenter till specialiserade agenter för familjer, resor och arbete.",
+      "why_it_matters": "Flytten av AI-agenter till meddelandegränssnitt markerar ett skifte mot mer konversationsdrivna och ständigt närvarande digitala assistenter i vardagen.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-live-in-your-text-messages/",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "image_url": "",
       "date": "2026-11-22"
     },
     {
-      "title": "Är försäljning av en AI-kopia av ditt ansikte framtidens Hollywood?",
-      "summary": "En skådespelare har licensierat sitt ansikte till en mikrodramastartup, en trend som redan är stor i Kina. Experter ifrågasätter de långsiktiga konsekvenserna om detta blir standard även i **Hollywood**.",
-      "why_it_matters": "Belyser de etiska och upphovsrättsliga utmaningarna när generativ AI börjar ersätta eller replikera mänskliga skådespelare i den kommersiella underhållningsindustrin.",
+      "title": "Är att sälja en AI-version av ditt ansikte till denna mikrodramastartup framtiden för Hollywood?",
+      "summary": "En skådespelare har licensierat sitt ansikte till en startup för mikrodramer, en trend som redan är stor i Kina. Experter frågar sig om detta blir en långsiktig trend även inom **Hollywood** och **generativ video**.",
+      "why_it_matters": "Reviderar upphovsrättsliga gränser och visar hur syntetiska digitala tvillingar av skådespelare börjar kommersialiseras i stor skala.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
@@ -32,9 +32,9 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Daniel Ek backar AI-forskares startup inom fusionsenergi",
-      "summary": "Spotify-grundaren Daniel Ek investerar i **Europa Fusion**, en fusionsenergistartup grundad av en AI-forskare. Företaget utvecklar nästa generations teknik för ren energiförsörjning.",
-      "why_it_matters": "Ett kvitto på hur AI-expertis allt oftare korsbefruktas med tung fysik för att lösa de enorma energibehov som framtida AI-datacenter kräver.",
+      "title": "Daniel Ek backar AI-forskarens startup för fusionsenergi",
+      "summary": "Spotify-grundaren Daniel Ek investerar i Europa Fusion, en startup för **fusionsenergi** som grundats av en **AI-forskare**. Bolaget utvecklar ny teknik för framtida energiförsörjning.",
+      "why_it_matters": "Energiomställningen är kritisk för AI-industrins enorma kraftbehov, vilket gör investeringar i avancerad fysik och fusionskraft allt vanligare bland tech-profiler.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
@@ -42,9 +42,9 @@
       "date": "2026-11-22"
     },
     {
-      "title": "AI påstår sig ha löst den 167-åriga Riemannhypotesen",
-      "summary": "Matematiker chockas av ett nytt **AI-drivet resultat** som hävdar en lösning på det anrika matematiska problemet. Parallellt har även en mänsklig lösning presenterats.",
-      "why_it_matters": "Demonstrerar LLM:ers och avancerade modellers ökade kapacitet att lösa komplexa, teoretiska problem som gäckat mänskligheten i århundraden.",
+      "title": "AI påstod sig ha löst den 167-åriga Riemannhypotesen – och en människa gjorde det också",
+      "summary": "Matematiker chockas av ett nytt **AI-drivet resultat** som hävdar en lösning på det klassiska problemkomplexet, samtidigt som en oberoende **mänsklig lösning** har presenterats parallellt.",
+      "why_it_matters": "Markerar en milstolpe för LLM:ers och avancerade resonerande modellers förmåga att bidra till banbrytande ren matematisk forskning.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
@@ -52,9 +52,9 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Chip kan överleva rymden – men kan deras finansiering göra det?",
-      "summary": "Långivare tvekar inför att finansiera **rymdbaserade datacenter** när säkerheten skjuts upp i omloppsbana av SpaceX. Situationen sätter ljus på ekonomiska utmaningar kring rymdinfrastruktur för AI.",
-      "why_it_matters": "Visar att flaskhalsarna för framtida beräkningskraft inte bara är tekniska eller energimässiga, utan även finansiella och legala.",
+      "title": "Kretsar kan överleva rymdmiljön – kan deras finansiering göra det?",
+      "summary": "Långivare tvekar inför att finansiera **rymddatahallar** där dyrbar hårdvara och AI-kretsar skjuts upp i omloppsbana. Detta ställer nya krav på **riskkapital** inom rymd- och hårdvarusektorn.",
+      "why_it_matters": "Visar på de ekonomiska och logistiska utmaningarna när AI-infrastruktur expanderar utanför jordens atmosfär för att kyla ner och driva servrar.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
@@ -62,29 +62,19 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Konsekvenserna av Nvidia-skandalen fortsätter att rulla vidare",
-      "summary": "Mitt i turbulensen kring avsättningen av vd:n Jensen Huang levererar **Nvidia** en stark kvartalsrapport men stoppar samtidigt försäljningen av H200-chip till Kina.",
-      "why_it_matters": "Understryker den geopolitiska sårbarheten och ledarskapskriserna som kan skaka jättar inom AI-hårdvara och avancerade halvledare.",
+      "title": "Efterspelet till Jensens Huang-skandalen på Nvidia fortsätter",
+      "summary": "Mitt uppe i avskedandet av VD:n **Jensen Huang** levererar **Nvidia** starka kvartalsrapporter men meddelar samtidigt att försäljningen av H200-kretsar till Kina stoppas.",
       "category": "AI-Hårdvara",
+      "why_it_matters": "Geopolitiska restriktioner och interna ledarskapsförändringar hos världens ledande tillverkare av AI-chip skapar skakningar i hela halvledarmarknaden.",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
       "image_url": "",
       "date": "2026-11-22"
     },
     {
-      "title": "Sex AI-drivna prylar som kan göra hemmakontoret smartare",
-      "summary": "En översikt över sex nya **AI-drivna enheter**, från avancerade mötesantecknare till smarta webbkameror, som är designade för att uppgradera den moderna arbetsplatsen.",
-      "why_it_matters": "Visar hur hårdvarumarknaden integreraredge-AI direkt i konsumentprodukter för att automatisera produktivitetsskapande rutiner.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "image_url": "",
-      "date": "2026-11-22"
-    },
-    {
-      "title": "Apple utvecklar möjligen en egen AI-agent som styr din Mac",
-      "summary": "Uppgifter gör gällande att **Apple** bygger autonoma agenter för att konkurrera med aktörer som Meta, Anthropic och OpenAI, med syfte att helt sköta Mac-datorer åt användaren.",
-      "why_it_matters": "Ett avgörande steg mot operativsystem som styrs helt genom naturligt språk och agentbaserade arbetsflöden direkt på hårdvaran.",
+      "title": "Apple kan utveckla en egen AI-agent som styr din Mac",
+      "summary": "Iphone-tillverkaren uppges bygga autonoma **AI-agenter** som kan konkurrera direkt med system som Meta Muse, Claude och **OpenAI Dots** genom att köra och kontrollera operativsystemet.",
+      "why_it_matters": "Operativsystemsnivån blir nästa stora slagfält för AI-assistenter, där systemen går från att svara på frågor till att utföra komplexa uppgifter direkt i datorns filsystem.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -92,29 +82,19 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Antropics sju grundare cashade ut närmare 2 miljarder dollar i rekordbörsnotering",
-      "summary": "I samband med **Antropics** historiska börsnotering till ett uppgraderat pris fick grundarna dela på enorma summor, medan företaget tog in över 100 miljarder dollar i nytt kapital.",
-      "why_it_matters": "Ett historiskt milstolpe för frontlinje-AI-labb som visar Wall Streets enorma finansiella aptit på storskalig språkmodellsteknologi.",
-      "category": "LLM & Modeller",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "image_url": "",
-      "date": "2026-11-22"
-    },
-    {
       "title": "Metas nya bärbara enhet Muse Charm kan kosta 300 dollar",
-      "summary": "Metas kommande bärbara **AI-pryl** uppges få en prislapp runt 300 dollar. Företaget meddelar att mer information kommer att delas inom kort kring enheten.",
-      "why_it_matters": "Prissättningen indikerar att techjättarna satsar på massmarknadsspridning av bärbar AI-hårdvara för att komplettera smartphones.",
+      "summary": "Meta planerar lanseringen av den bärbara AI-pryl **Muse Charm** till ett uppskattat pris av 300 dollar, vilket markerar en storsatsning på **bärbar AI-hårdvara**.",
       "category": "AI-Hårdvara",
+      "why_it_matters": "Konsumentmarknaden för AI-wearables växer snabbt, och lägre prispunkter är avgörande för att driva bred adoption utanför smartphones.",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "image_url": "",
+      "image_url": "https://static01.nyt.com/images/2026/11/21/multimedia/22DC-OUTAGE-topart-sub-wghl/22DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
       "date": "2026-11-22"
     },
     {
-      "title": "Dessa tech-avbrott ger Y2K-vibbar, på ett AI-agent-sätt",
-      "summary": "Cybersecurity-experter menar att de senaste tidens breda avbrott inom flyg, bank och produktivitet inte är en slump, utan snarare en konsekvens av att **AI-agenter** blottlägger sårbar kod.",
-      "why_it_matters": "Belyser hur implementeringen av autonoma agenter i äldre digitala system kan trigga oväntade systemkollapser.",
+      "title": "Dessa tech-avbrott ger Y2K-vibbar – fast på AI-agenternas bekostnad",
+      "summary": "Cybersecurity-experter varnar för att de senaste dagarnas utbredda avbrott inom flyg, banker och produktivitetsplattformar inte är en slump, utan kopplas till **dolda sårbarheter** i kod som blottläggas av **AI-agenter**.",
+      "why_it_matters": "När AI börjar analysera och interagera med äldre legacy-kod upptäcks systemkritiska buggar i rasande takt, vilket leder till oväntade digitala driftstörningar.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
@@ -122,9 +102,9 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Google ger Gemini förmågan att använda din Mac åt dig",
-      "summary": "Google uppdaterar **Gemini** med en integrerad AI-agent för Mac som kan organisera filer, fylla i formulär och hantera flerstegsflöden helt på egen hand.",
-      "why_it_matters": "Visar hur AI-assistenter utvecklas från enkla textbots till handlingskraftiga agenter som tar över datorns gränssnitt.",
+      "title": "Google ger Gemini förmågan att styra din Mac åt dig",
+      "summary": "En ny uppdatering av **Google Gemini** introducerar en kapabel **AI-agent** för macOS som kan organisera filer, fylla i formulär och köra flerstegsarbetsflöden autonomt.",
+      "why_it_matters": "Visar hur AI-jättarna rör sig mot djupt integrerade skrivbordsagenter som kan ta över den operativa kontrollen över användarens dator.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
@@ -132,9 +112,9 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Metas AI-agent Muse blandar ihop konversationer och läcker privat data",
-      "summary": "Rapporter visar att Metas **AI-agent Muse** vid flera tillfällen har läckt känslig information, såsom felaktiga bankkontosaldon och privata konversationer, mellan olika användare.",
-      "why_it_matters": "Ett varnande exempel på de integritets- och säkerhetsrisker som uppstår när AI-modeller hanterar personlig kontext och företagsdata.",
+      "title": "Metas AI-agent Muse blandar ihop konversationer och kan läcka privat data",
+      "summary": "Rapporter visar att Metas agent **Muse** har uppvisat allvarliga buggar där den exponerar privata meddelanden, bankkontosaldon och felaktiga personliga uppgifter mellan olika användare.",
+      "why_it_matters": "Belyser de kritiska integritetsrisker och säkerhetsluckor som uppstår när LLM-baserade agenter kopplas samman med känslig personlig och finansiell information.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
@@ -142,9 +122,39 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Trump hotar att förbjuda amerikanska teknikföretag från att bygga datacenter utomlands",
-      "summary": "USA:s president har lanserat ett förslag om att beskatta eller förbjuda amerikanska jättar från att uppföra **AI-datacenter** utanför landets gränser.",
-      "why_it_matters": "Politisk inblandning i infrastrukturen för AI kan drastiskt förändra den globala marknaden för beräkningskraft och energiförsörjning.",
+      "title": "Tekniska avbrott är bara början – AI kommer att medföra fler störningar",
+      "summary": "Cybersäkerhet har länge varit en eftertanke. Nu blottlägger **AI** decennier av sårbar kod, vilket tvingar fram en **kostsam nota** för tidigare tiders bristfälliga mjukvaruutveckling.",
+      "why_it_matters": "Det ökande antalet systemkrascher visar hur AI fungerar som ett tveeggat svärd som både kan upptäcka och trigga kritiska sårbarheter i global infrastruktur.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Anthropic debuterar i en tid av diskrepans mellan Wall Street och Silicon Valley",
+      "summary": "AI-jätten **Anthropic** genomförde en rekordstor börsintroduktion men möttes av svajig handel då finansmarknaderna oroar sig för de enorma **AI-investeringarna**.",
+      "why_it_matters": "Illustrerar spänningen mellan teknikbolagens enorma kapitalbehov för att nå AGI och Wall Streets krav på direkt avkastning på investerat kapital.",
+      "category": "LLM & Modeller",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Formeln för att stoppa en apokalyps: Jakten på matematiska spärrar för AI",
+      "summary": "Forskare som Mike Winer kämpar mot klockan för att ta fram **matematiska skyddsräcken** och säkerhetsmekanismer som kan hålla framtida **avancerad AI** under mänsklig kontroll.",
+      "why_it_matters": "Säkerhetsforskning fokuserar allt mer på formella bevis och matematiska gränser för att förhindra att superintelligent AI utvecklar oförutsedda och skadliga beteenden.",
+      "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Trump hotar att förbjuda amerikanska teknikföretag från att bygga datahallar utomlands",
+      "summary": "Presidenten lanserade ett förslag om att beskatta och eventuellt förbjuda amerikanska tech-jättar från att uppföra **energitunga datahallar** i andra länder för **AI-infrastruktur**.",
+      "why_it_matters": "Politiska ingrepp i utbyggnaden av datacenter kan tvinga fram nya geografiska strategier för hårdvaruanskaffning och energiförsörjning inom AI-sektorn.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
@@ -152,29 +162,29 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Alice Huang, anklagad för spioneri mot Nvidias vd, kopplad till kinesiska militärbolag",
-      "summary": "Kopplingar har uppdagats mellan kvinnan i kärnan av **Nvidia-skandalen** och ett nätverk av kinesiska techfirmor och försvarsentreprenörer i behov av avancerad beräkningskraft.",
-      "why_it_matters": "Understryker hur geopolitiska spänningar kring AI-chip och exportkontroller har blivit en fråga om nationell säkerhet.",
-      "category": "Säkerhet & Etik",
+      "title": "Hur Nvidias avancerade chip hamnade inom räckhåll för Kinas militär",
+      "summary": "Kopplingar mellan nätverk kring **Nvidia-affären** och kinesiska teknikbolag som Alibaba visar hur **avancerad datorkraft** och hårdvara har kunnat kanaliseras till försvarsinriktad forskning.",
+      "why_it_matters": "Understryker svårigheten i att upprätthålla exportkontroller av högpresterande AI-chip i en globaliserad högteknologisk försörjningskedja.",
+      "category": "AI-Hårdvara",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/19/technology/nvidia-alibaba-china-military.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
       "date": "2026-11-22"
     },
     {
-      "title": "Antropic gör en biljarddebut som blir en vattendelare för AI:s risker och belöningar",
-      "summary": "**Anthropic** genomför sin historiska börsnotering och värderas till flera biljoner dollar, vilket sätter ljuset på spänningen mellan kommersiell tillväxt och regulatorisk säkerhet.",
-      "why_it_matters": "Visar hur marknaden prissätter AI-säkerhetsfokuserade labb och markerar en ny fas för finansiering av artificiell intelligens på Wall Street.",
+      "title": "Anthropics börsintroduktion gör AI-forskare till miljonärer över natten",
+      "summary": "Många anställda vid **Anthropic** som tidigt anslöt sig till **AI-labbet** sitter nu på aktieposter värda tiotals miljoner dollar efter den historiska börsnoteringen.",
+      "why_it_matters": "Sätter tonen för hur extremt lönsamt tidigt deltagande i frontlinjen inom AI-forskning har blivit, vilket accelererar talangjakten inom branschen.",
       "category": "LLM & Modeller",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-anthropic-policy-01-vzgq/19dc-anthropic-policy-01-vzgq-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
       "date": "2026-11-22"
     },
     {
-      "title": "Google omformar sin sökannonsering genom sin satsning på AI",
-      "summary": "Sökjätten möter långsammare tillväxt i de traditionella sökannonserna i takt med att **AI-genererade sökresultat** blir mer framträdande i ekosystemet.",
-      "why_it_matters": "Illustrerar hur AI-transformationen tvingar fram helt nya affärsmodeller för historiskt lönsamma digitala annonsmarknader.",
+      "title": "Google förändrar sin sökannonsering i grunden genom sin satsning på AI",
+      "summary": "Sökjättens traditionella **sökannonsering**, som länge varit företagets finansiella motor, ställs om när **generativ AI** tar över mer av sökupplevelsen och saktar ner tillväxten.",
+      "why_it_matters": "Visar hur affärsmodeller inom sök- och annonsmarknaden tvingas genomgå strukturella förändringar i takt med att AI-svar ersätter traditionella länklistor.",
       "category": "LLM & Modeller",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
@@ -182,23 +192,13 @@
       "date": "2026-11-22"
     },
     {
-      "title": "Hur Nvidia-chip hamnade inom räckhåll för Kinas militär",
-      "summary": "Utredningar visar hur Alibaba och andra techjättar har slussat **Nvidia-beräkningskraft** vidare till forskningslabb med direkta kopplingar till den kinesiska militären.",
-      "why_it_matters": "Belyser svårigheterna med att upprätthålla effektiva exportrestriktioner på högteknologiska AI-komponenter i en globaliserad värld.",
-      "category": "AI-Hårdvara",
+      "title": "Anthropic gör en triljonardebut på Wall Street som en milstolpe för AI:s risker och belöningar",
+      "summary": "San Francisco-baserade **Anthropic** blev det första stora **AI-labbet** att börsnoteras, vilket sätter ljuset på de regulatoriska och ekonomiska utmaningarna för beslutsfattare.",
+      "why_it_matters": "Markerar en historisk milstolpe där ledande frontier-laboratorier integreras i det publika finansiella systemet med enorma värderingar.",
+      "category": "LLM & Modeller",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-      "date": "2026-11-22"
-    },
-    {
-      "title": "Tech-avbrott kan bli rutin – experter uppmanar till beredskap istället för panik",
-      "summary": "En våg av digitala systemkollatser har drabbat samhället. Experter menar att komplexa **AI-integrationer** och sårbar kod innebär att vi måste förbereda oss på återkommande it-störningar.",
-      "why_it_matters": "Speglar hur ökad digitalisering och automatisering gör kritisk infrastruktur mer sårbar för kaskadfel.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-prep-outage-hvjq/18xp-prep-outage-hvjq-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-anthropic-policy-01-vzgq/19dc-anthropic-policy-01-vzgq-mediumSquareAt3X.jpg",
       "date": "2026-11-22"
     }
   ]
