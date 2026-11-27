@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-27 07:52 UTC",
+  "updated_at": "2026-11-27 20:58 UTC",
   "articles": [
     {
-      "title": "Nvidia pausar chipleveranser till Sydostasien",
-      "summary": "**Nvidia** har instruerat tillverkningspartner att pausa serverleveranser till Malaysia, Singapore, Thailand och Indonesia i takt med att USA skärper sin kontroll för att förhindra att avancerade chip når Kina.",
-      "why_it_matters": "Detta visar hur geopolitiska spänningar och exportrestriktioner fortsätter att omforma den globala försörjningskedjan för AI-hårdvara.",
+      "title": "Nvidia pausar datacenterleveranser till Sydostasien efter skärpta exportregler",
+      "summary": "**Nvidia** har instruerat sina tillverkningspartners att pausa leveranser av AI-servrar till Malaysia, Singapore, Thailand och Indonesien. Åtgärden sker i takt med att USA skärper kontrollen för att förhindra att avancerade halvledare når **Kina** via mellanhänder.",
+      "why_it_matters": "Visar hur geopolitiska handelsrestriktioner fortsätter att fragmentera den globala beräkningsinfrastrukturen och begränsa datacenterutbyggnader i Asien.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -12,19 +12,9 @@
       "date": "2026-11-27"
     },
     {
-      "title": "S&P överväger kreditnedgradering av Nvidia på grund av styrningsrisker",
-      "summary": "Kreditvärderingsinstitutet kan sänka **Nvidias** kreditbetyg till AA-, det fjärde högsta betyget, till följd av bolagsstyrningsproblem och så kallade 'key man'-risker kring ledningen.",
-      "why_it_matters": "Finansiell oro kring marknadsledaren inom AI-chip kan påverka hela branschens investeringsvilja och infrastrukturutbyggnad.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risker/",
-      "image_url": "",
-      "date": "2026-11-27"
-    },
-    {
-      "title": "OpenAI meddelar att flitiga ChatGPT-användare kan nå sina gränser snabbare",
-      "summary": "**OpenAI** kommer att introducera en gemensam användningsmätare i **ChatGPT** i takt med att chatt- och arbetsupplevelserna slås samman till ett.",
-      "why_it_matters": "Sammanslagningen och de nya gränserna återspeglar den enorma beräknings- och resursåtgången när AI-agenter integreras djupare i professionella arbetsflöden.",
+      "title": "OpenAI slår samman chatt och arbete – tyngre användare når taket snabbare",
+      "summary": "**OpenAI** introducerar en gemensam användningsmätare för **ChatGPT** när konsument- och företagsfunktionerna slås samman. Förändringen innebär att flitiga användare kan nå kapacitetsbegränsningarna snabbare än tidigare.",
+      "why_it_matters": "Beräkningskostnader för inferens tvingar fram stramare resursallokering även hos marknadsledaren när allt tyngre resonemangsmodeller driftsätts.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
@@ -32,19 +22,9 @@
       "date": "2026-11-27"
     },
     {
-      "title": "Jensen Huang ber om ursäkt till Nvidia-anställda och bekräftar att han går i terapi",
-      "summary": "Nvidias VD erkände under ett möte att han brutit mot uppförandekoden och gjort misstag, men uttryckte tacksamhet för att få leda företaget vidare efter Vita husets ingripande.",
-      "why_it_matters": "Interna turerna i ett av världens mest tongivande AI-bolag kastar ljus över den extrema maktkoncentrationen och personberoendet inom techsektorn.",
-      "category": "AI-Hårdvara",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "image_url": "",
-      "date": "2026-11-27"
-    },
-    {
-      "title": "Anthropic-chefen Dario Amodei avfärdar anklagelser om att överge mänsklig kontroll",
-      "summary": "**Anthropic**-vd:n tillbakavisar kritiken om att gynna AI-system som minskar mänsklig agens, trots att ledande AI-företag i ökad utsträckning automatiserar sin egen forskning.",
-      "why_it_matters": "Debatten om autonomi och mänsklig övervakning är central när modeller blir tillräckligt avancerade för att optimera sin egen utveckling.",
+      "title": "Dario Amodei avfärdar anklagelser om att lämna över mänsklig kontroll till AI",
+      "summary": "Anthropics vd **Dario Amodei** avfärdar rivalers kritik om att bolaget vill överlämna mänskligt självbestämmande till autonoma system. Uttalandet sker samtidigt som **Anthropic** och andra ledande labb i allt högre grad automatiserar sin egen modellutveckling.",
+      "why_it_matters": "Berör den kritiska frågan om rekursiv självförbättring hos AGI-system och balansen mellan AI-driven forskning och bibehållen mänsklig styrning.",
       "category": "AGI & Forskning",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
@@ -52,9 +32,9 @@
       "date": "2026-11-27"
     },
     {
-      "title": "New York förbjuder AI-leksaker till barn efter säkerhetsbrister",
-      "summary": "New York har infört ett femårigt förbud mot **AI-chattbotar** i leksaker efter att granskningar upptäckt oroande säkerhetsbrister, inklusive exponering för olämpligt innehåll.",
-      "why_it_matters": "Detta markerar en hårdnande lagstiftande linje mot konsumentinriktad AI för minderåriga och sätter tonen för framtida reglering av AI-produkter.",
+      "title": "New York förbjuder AI-drivna chatbot-leksaker under fem år",
+      "summary": "Delstaten New York har infört ett femårigt förbud mot leksaker utrustade med **AI-chatbotar**. Beslutet grundas i larmrapporter om bristande säkerhetsbarriärer och risker för barns emotionella utveckling.",
+      "why_it_matters": "Ett banbrytande lagstiftningsbeslut som sätter tydliga gränser för hur generativ AI och autonoma personligheter får exponeras mot unga användare.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
@@ -62,9 +42,9 @@
       "date": "2026-11-27"
     },
     {
-      "title": "Statsåklagare stoppar Character.AI:s försäljning av privata chattar",
-      "summary": "Planerna på att auktionera ut känslig personlig data från miljontals **Character.AI**-konton i samband med en konkurs möter hårt motstånd från delstatsåklagare.",
-      "why_it_matters": "Frågor kring ägande och sekretess för användardata tränad på eller genererad av konversationella AI-modeller blir allt mer juridiskt akuta.",
+      "title": "Delstatsåklagare stoppar Character.AI:s plan att auktionera ut privata användarchattar",
+      "summary": "Flera delstatsåklagare i USA har överklagat en konkursförsäljning där **Character.ai** avsåg att sälja känslig data från över 21 miljoner konton. Bland dessa finns konfidentiella konversationer från över två miljoner minderåriga.",
+      "why_it_matters": "Understryker de extrema integritetsriskerna som uppstår när LLM-företag som samlar personliga och intima användardata går i konkurs.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
@@ -72,9 +52,9 @@
       "date": "2026-11-27"
     },
     {
-      "title": "AI-datacenter blir svårare att bygga och neoclouds drabbas",
-      "summary": "Stigande byggnadskostnader och hårdare krav från **Nvidia** gällande färdiga anläggningar innan chipallokering gör det svårare för mindre molnaktörer att etablera ny infrastruktur.",
-      "why_it_matters": "Bristen på fysisk infrastruktur, mark och energi utgör nu den största flaskhalsen för uppskalningen av nästa generations AI-träning.",
+      "title": "Hårdare krav från Nvidia pressar utbyggnaden av AI-datacenter",
+      "summary": "**Nvidia** kräver numera att datacenteranläggningar är nästintill driftklara innan beräkningshårdvara garanteras, vilket slår hårt mot mindre molnutmanare. Flaskhalsar kring elförsörjning och dyrare finansiering gör att färdiga anläggningar värderas långt högre än presentationsmaterial.",
+      "why_it_matters": "Fysiska infrastrukturbegränsningar som nätkapacitet och transformatortillgång utgör nu ett större hot mot skalningstakten än själva algoritmutvecklingen.",
       "category": "AI-Hårdvara",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
@@ -82,9 +62,9 @@
       "date": "2026-11-27"
     },
     {
-      "title": "Amazon och Meta i samtal om att lyfta blockad mot AI-agenten Muse",
-      "summary": "Amazon och Meta förhandlar om ett potentiellt avtal som skulle avsluta den två månader långa blockaden av **Meta Muse**.",
-      "why_it_matters": "Ett upplöst dödläge banar väg för mer integrerade ekosystem där AI-agenter kommunicerar över plattformsgränserna.",
+      "title": "Amazon och Meta i samtal om att häva blockaden mot AI-agenten Muse",
+      "summary": "**Amazon** och **Meta** diskuterar ett avtal för att avsluta en två månader lång blockad mot Metas autonoma **AI-agent Muse**. Målet är att integrera agenten för transaktioner och shopping direkt i Amazons ekosystem.",
+      "why_it_matters": "Belyser friktionen som uppstår när plattformsjättar tvingas välja mellan att blockera tredjeparts AI-agenter eller integrera dem i sina intäktsmodeller.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
@@ -92,19 +72,19 @@
       "date": "2026-11-27"
     },
     {
-      "title": "Även de bästa AI-agenterna kämpar med vardagslivet",
-      "summary": "Ett nytt mätetal visar att marknadens mest avancerade **AI-modeller** fortfarande har svårt att utföra vardagliga uppgifter pålitligt och säkert utan att skapa nya problem.",
-      "why_it_matters": "Skillnaden mellan teoretiska prestanda i benchmarktester och praktisk nytta i verkliga miljöer förblir ett stort hinder för autonoma agenter.",
-      "category": "AGI & Forskning",
+      "title": "Ledande AI-agenter brister fortfarande vid vardagliga flerstegsuppgifter",
+      "summary": "Trots det snabba genomslaget för autonoma assistenter visar nya prestandatester att även toppmoderna **AI-agenter** har svårt att genomföra rutinmässiga uppgifter tillförlitligt. Modellerna tenderar ofta att skapa nya problem under exekveringens gång.",
+      "why_it_matters": "Visar att gapet mellan imponerande språklig förståelse och feltolerant agentautonomi i komplexa digitala miljöer förblir ett olöst problem.",
+      "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "image_url": "",
       "date": "2026-11-27"
     },
     {
-      "title": "Walmart integrerar Meta Muse för att erbjuda shopping via AI-agent",
-      "summary": "Kunder kan nu handla reor direkt genom **Meta Muse**, vilket visar på ett ökat fokus på transaktionsdrivna AI-assistenter.",
-      "why_it_matters": "Konvergensen mellan e-handel och konversationell AI förändrar hur konsumenter interagerar med digitala marknadsplatser.",
+      "title": "Walmart integrerar Metas AI-agent Muse för e-handel",
+      "summary": "Handelsjätten Walmart lanserar stöd för att handla och hitta kampanjer direkt via Metas **AI-agent Muse**. Initiativet markerar ett av de första storskaliga konsumenttesterna där agenter sköter hela köpresan.",
+      "why_it_matters": "Markerar ett paradigmskifte från traditionell sökmotordriven e-handel till dialogbaserad agentinteraktion med direkta API-anrop till handlare.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
@@ -112,9 +92,9 @@
       "date": "2026-11-27"
     },
     {
-      "title": "Maple säkrar finansiering för krypterad AI-arkitektur",
-      "summary": "Startupbolaget har tagit in 5,3 miljoner dollar för att bygga **AI-produkter** vars krypterade system förhindrar att ens företaget självt kan läsa användarnas privata data.",
-      "why_it_matters": "Integritetsskyddande AI-arkitekturer blir avgörande för företag som vill utnyttja LLM-er utan att kompromissa med affärshemligheter.",
+      "title": "Maple tar in 5,3 miljoner dollar för helkrypterade AI-system",
+      "summary": "Startupen Maple har säkrat såddfinansiering för att bygga en krypterad beräkningsarkitektur för AI-inferens. Designen är konstruerad för att förhindra att ens **Maple** själva kan avläsa användardata under modellbearbetning.",
+      "why_it_matters": "Konfidentiella beräkningar och nollkunskapsarkitekturer är ett krav för att företag ska våga driftsätta toppmodeller med känsliga affärsdata.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
@@ -122,19 +102,19 @@
       "date": "2026-11-27"
     },
     {
-      "title": "Anthropic-aktien faller under IPO-priset – orosmoln för AI-sektorn",
-      "summary": "En svag post-IPO-utveckling för **Anthropic** sätter press på värderingarna för yngre AI-startupbolag i Silicon Valley.",
-      "why_it_matters": "Marknadens svalnande intresse för börsintroducerade AI-bolag kan bromsa riskkapitalflödena till ny hårdvaru- och mjukvaruforskning.",
+      "title": "Anthropics aktiekurs faller under noteringskurs – oro sprider sig i AI-sektorn",
+      "summary": "Aktien i **Anthropic** har backat under introduktionskursen kort efter noteringen, vilket ökar pressen på värderingarna av onoterade AI-startups. Marknaden omvärderar nu kapitalkraven för att träna och driva storskaliga basmodeller.",
+      "why_it_matters": "En avkylning på den publika marknaden kan bromsa tillgången på riskkapital för tidiga forskningsbolag och tvinga fram snabbare intäktsfokus.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/anthropics-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "image_url": "",
       "date": "2026-11-27"
     },
     {
-      "title": "Storbritannien varnar för att AI-drivna cyberattacker exponerar svag säkerhet",
-      "summary": "Brittiska cybersäkerhetsmyndigheter påpekar att **AI-baserade hackingverktyg** utnyttjar grundläggande och eftersatta säkerhetsbrister i äldre system.",
-      "why_it_matters": "När hotskådespelare automatiserar attacker med AI tvingas organisationer att snabba upp grundläggande IT-säkerhetsåtgärder.",
+      "title": "Storbritannien varnar: AI-drivna cyberattacker exponerar systemsvagheter",
+      "summary": "Den brittiska cybersäkerhetsmyndigheten varnar för att automatiserade **AI-verktyg** i allt högre grad utnyttjar grundläggande säkerhetsluckor i IT-system. Myndigheten betonar att storskaliga autonoma intrångsverktyg gör grundläggande säkerhetshygin absolut kritisk.",
+      "why_it_matters": "Automatiseringen av rekognosering och exploatering gör att sofistikerade intrång kan skalas upp till en bråkdel av tidigare tids- och personalkostnader.",
       "category": "Säkerhet & Etik",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
@@ -142,9 +122,9 @@
       "date": "2026-11-27"
     },
     {
-      "title": "Meta integrerar Muse direkt i Instagrams direktmeddelanden",
-      "summary": "Genom att baka in **AI-assistenten** direkt i Instagram DMs slipper användare växla mellan olika appar för att nyttja agenten.",
-      "why_it_matters": "Inbäddning av avancerade AI-agenter i sociala plattformar ökar användarbasen explosionsartat och driver massadoption.",
+      "title": "Meta lanserar AI-assistenten Muse direkt i Instagrams direktmeddelanden",
+      "summary": "**Meta** har byggt in sin multimodala assistent **Muse** direkt i chattflödet på Instagram. Integrationen eliminerar behovet av fristående applikationer och låter användare samverka med agenten i realtid.",
+      "why_it_matters": "Sätter multimodala LLM-gränssnitt rakt in i primära kommunikationskanaler för hundratals miljoner användare, vilket accelererar normaliseringen av AI-assistenter.",
       "category": "LLM & Modeller",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
@@ -152,29 +132,29 @@
       "date": "2026-11-27"
     },
     {
-      "title": "SpaceX stäms av delstater efter AI-genererade sexualiserade bilder från Grok",
-      "summary": "Oregon och Virginia stämmer **Elon Musk**s företag för brott mot konsumentskyddslagar till följd av att verktyget **Grok Imagine** skapat otillåtna bilder.",
-      "why_it_matters": "Rättsliga efterspel mot generativ bild- och textteknik sätter press på utvecklare att införa striktare skyddsspärrar.",
-      "category": "Säkerhet & Etik",
-      "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/23/multimedia/23BIZ-GROK-LAWSUIT-qtmp/23BIZ-GROK-LAWSUIT-qtmp-mediumSquareAt3X.jpg",
-      "date": "2026-11-27"
-    },
-    {
-      "title": "Forskare kämpar för att hitta matematiska skyddsregler för AGI",
-      "summary": "Forskare försöker febrilt utveckla **matematiska skyddsräcken** för att säkerställa att framtida superintelligenta system förblir under mänsklig kontroll.",
-      "why_it_matters": "Utvecklingen mot AGI gör formella säkerhetsbevis allt mer nödvändiga för att undvika okontrollerbara scenarios i avancerade modeller.",
+      "title": "Terence Tao om hur AI transformerar matematisk forskning",
+      "summary": "Matematikern Terence Tao beskriver hur **avancerad AI** allt oftare levererar precisa svar och formler utan att bidra med begreppsmässig förståelse. Forskare ställs inför utmaningen att verifiera och dra teoretiska slutsatser från maskinellt genererade hypoteser.",
+      "why_it_matters": "Belyser den djupa vetenskapliga gränsdragningen mellan statistisk mönsterigenkänning och genuin abstrakt förståelse i jakten på AGI.",
       "category": "AGI & Forskning",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/27/podcasts/27hardfork-terence-tao/27hardfork-terence-tao-mediumSquareAt3X.jpg",
       "date": "2026-11-27"
     },
     {
-      "title": "OpenAI-ingenjör anklagas för att i hemlighet ha spelat in dussintals möten",
-      "summary": "En anställd vid **OpenAI** har åtalats och släppts mot borgen efter att ha upptäckts med att i hemlighet ha gjort ljudupptagningar från dussintals konfidentiella möten.",
-      "why_it_matters": "Den hårda konkurrensen och hemlighetsmakeriet inom frontier AI-labb gör cybersäkerhet och insiderhot till kritiska faktorer.",
+      "title": "Silicon Valleys acceptans för existentiell risk kring framväxten av AGI",
+      "summary": "En analys av AI-rörelsens vanguard i Silicon Valley belyser varför ledande teknologer inte förskräcks av potentiella risker för mänsklig utrotning. Många betraktar utvecklingen mot **superintelligens** som ett oundvikligt och naturligt evolutionärt steg förbi biologiskt liv.",
+      "why_it_matters": "Avslöjar den ideologiska drivkraften bakom kapplöpningen mot AGI, där filosofiska övertygelser trumfar traditionell försiktighetsprincip.",
+      "category": "Säkerhet & Etik",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
+      "image_url": "https://static01.nyt.com/images/2026/12/06/magazine/06mag-context-PROMO/06mag-context-PROMO-mediumSquareAt3X.jpg",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "OpenAI-ingenjör åtalas för hemlig avlyssning av interna möten",
+      "summary": "En ingenjör vid **OpenAI** har åtalats för att i hemlighet ha spelat in dussintals interna möten rörande bolagets kärnforskning. Händelsen understryker den akuta risken för internt spionage och industristöld av **LLM-arkitekturer**.",
+      "why_it_matters": "Visar att frontlinjen för immaterialrätt och cybersäkerhet flyttats till labben som tränar spjutspetsmodeller, där stulen modellvikt eller träningsdata är värd miljarder.",
       "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
       "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
@@ -182,23 +162,43 @@
       "date": "2026-11-27"
     },
     {
-      "title": "Justitiedepartementet granskar olaglig export av Nvidia-chip till Kina",
-      "summary": "Utredare samlar in bevis för hur high-end **Nvidia-chip** har omdirigerats av tredje part för att kringgå gällande sanktioner och nå kinesiska aktörer.",
-      "why_it_matters": "Läckage i exportkontrollen undergräver sanktionerna mot Kina och sätter hård press på hårdvarutillverkarnas spårningssystem.",
-      "category": "AI-Hårdvara",
+      "title": "SpaceX och Grok stäms för AI-generering av sexualiserat material",
+      "summary": "Delstaterna Oregon och Virginia stämmer Elon Musks bolag bakom bildgeneratorn **Grok Imagine** för brott mot konsumentskyddslagar. Stämningen hävdar att bristfälliga säkerhetsfilter tillåtit storskaligt skapande av icke-samtyckande sexualiserade **AI-bilder**.",
+      "why_it_matters": "Tvingar fram hårdare legala konsekvenser för AI-bolag som prioriterar oinskränkt generering framför robusta säkerhetsbarriärer.",
+      "category": "Säkerhet & Etik",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/23/multimedia/23BIZ-GROK-LAWSUIT-qtmp/23BIZ-GROK-LAWSUIT-qtmp-mediumSquareAt3X.jpg",
       "date": "2026-11-27"
     },
     {
-      "title": "Trump hotar att förbjuda amerikanska techbolag från att bygga datacenter utomlands",
-      "summary": "Presidenten har flaggat för åtgärder mot företag som investerar i **AI-infrastruktur** utanför USA:s gränser för att skydda inhemsk kapacitet.",
-      "why_it_matters": "Politiska påtryckningar på var beräkningskraft får uppföras kan radikalt förändra den globala marknaden för molntjänster och datacenter.",
+      "title": "Jakten på en matematisk formel för att garantera mänsklig AI-kontroll",
+      "summary": "Forskare försöker utveckla formella matematiska garantier för att säkerställa att framtida **AGI-system** inte kan frångå mänsklig kontroll. Forskargrupper varnar för att empiriska alignment-metoder inte räcker till när modellernas kapacitet överskrider mänsklig nivå.",
+      "why_it_matters": "Att hitta matematiskt bevisbara ramverk för alignment ses som en av få hållbara vägar för att säkra existentiell säkerhet inför självförbättrande system.",
+      "category": "AGI & Forskning",
+      "source": "NYT > Technology",
+      "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "S&P överväger nedgradering av Nvidias kreditbetyg på grund av 'key man'-risk",
+      "summary": "Kreditvärderingsinstitutet S&P överväger att sänka kreditbetyget för **Nvidia** till följd av bristande bolagsstyrning och ett extremt personberoende av vd:n **Jensen Huang**. Turbulensen kring ledarskapet och interna utredningar hotar bolagets stabilitet.",
+      "why_it_matters": "Understryker att hela världens AI-ekosystem vilar på ett hårdvarumonopol med exceptionellt hög operativ och personbunden risk.",
+      "category": "AI-Hårdvara",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "image_url": "",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "Politisk intervention återinsatte Jensen Huang som vd för Nvidia",
+      "summary": "President Donald Trump och Vita huset grep in för att återinsätta **Jensen Huang** som chef för **Nvidia**, vilket i praktiken satte styrelsens beslut ur spel. Agreppet sätter nationella säkerhetsintressen och exportkontroller i direkt konflikt med politiska agendor.",
+      "why_it_matters": "Demonstrerar att AI-hårdvara och halvledarförsörjning har blivit så strategiskt kritiskt att staten agerar direkt för att styra ledningen i privata nyckelbolag.",
       "category": "AI-Hårdvara",
       "source": "NYT > Technology",
-      "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
-      "image_url": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
+      "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+      "image_url": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
       "date": "2026-11-27"
     }
   ]
